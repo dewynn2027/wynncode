@@ -1,0 +1,563 @@
+2015-12-09T02:10:03Z
+RequestParameter:  billNo: 20151208110903 | startTime:2015-12-09 02:10:03
+
+2015-12-09T02:10:03Z
+https://test.payu.in/_payment
+
+2015-12-09T02:10:03Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110903
+    [amount] => 0.00
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T02:10:04Z
+ResponseParameter:  billNo: 20151208110903 | endTime:2015-12-09 02:10:04
+
+2015-12-09T02:10:04Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => Invalid amount  @~@ ExceptionConstant : INVALID_AMOUNT
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => Invalid amount  @~@ ExceptionConstant : INVALID_AMOUNT
+        )
+
+)
+
+
+2015-12-09T02:16:26Z
+RequestParameter:  billNo: 20151208110904 | startTime:2015-12-09 02:16:26
+
+2015-12-09T02:16:26Z
+https://test.payu.in/_payment
+
+2015-12-09T02:16:26Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110904
+    [amount] => 7,350.41
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T02:16:30Z
+ResponseParameter:  billNo: 20151208110904 | endTime:2015-12-09 02:16:30
+
+2015-12-09T02:16:30Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1TqzAQ/SsMr44k0A/azhKntOXKVWyntqP1DSFSVAImoaX++psgveq+ZM/uztk9u4Grpng3DpSLvGSeaVvYNChLyjRnmWduN8HlyLwisNlzSuf3NKk5JRBRIeKMGnnqmacmsu9nfwsnC2bRIZhy9HlXB0/D0TbyTAKr6Zp+EOgaEMVvOYDOUDHxZB8zSSBOPvzwjvR7PcftA+ogFJSHc/IihPHDLsdY2djFgL7ywOKCktAP/aVxpM/G6iCNW5kCauOQlDWT/ER6gyGgM4Cav5O9lJWYICRaZVUmqZCW6saotJLSyhmqsmN8QlksqX7jNG1Htl5FBUgzAPrWsKq1J1THJk9JYS/Dm91Lsy3kw3K9ez76wdth4bLVfOcB0hWQKlriYHtgO3hsYHfSH04GSn0bh7jQo5K1cC2spHYQKt1l+gVcnfgZAKWDqwOexZ4R0KYqGVUVav3/fUDfI8+u9RESqdZ5nQebRb14+/P6iC6ieeSP8EUy9Tx9lrZAs+Vqh7aLBy2dBoA0BeoujrpPorxfn+cfqwjNhw==
+                    [MD] => 7027587460753430
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a201805167b1f34bf5b0696ce927ace1c243f717aeb155314b1724c1364097f2&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1TqzAQ/SsMr44k0A/azhKntOXKVWyntqP1DSFSVAImoaX++psgveq+ZM/uztk9u4Grpng3DpSLvGSeaVvYNChLyjRnmWduN8HlyLwisNlzSuf3NKk5JRBRIeKMGnnqmacmsu9nfwsnC2bRIZhy9HlXB0/D0TbyTAKr6Zp+EOgaEMVvOYDOUDHxZB8zSSBOPvzwjvR7PcftA+ogFJSHc/IihPHDLsdY2djFgL7ywOKCktAP/aVxpM/G6iCNW5kCauOQlDWT/ER6gyGgM4Cav5O9lJWYICRaZVUmqZCW6saotJLSyhmqsmN8QlksqX7jNG1Htl5FBUgzAPrWsKq1J1THJk9JYS/Dm91Lsy3kw3K9ez76wdth4bLVfOcB0hWQKlriYHtgO3hsYHfSH04GSn0bh7jQo5K1cC2spHYQKt1l+gVcnfgZAKWDqwOexZ4R0KYqGVUVav3/fUDfI8+u9RESqdZ5nQebRb14+/P6iC6ieeSP8EUy9Tx9lrZAs+Vqh7aLBy2dBoA0BeoujrpPorxfn+cfqwjNhw==
+                            [MD] => 7027587460753430
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a201805167b1f34bf5b0696ce927ace1c243f717aeb155314b1724c1364097f2&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-12-09T03:23:28Z
+RequestParameter:  billNo: 20151208110906 | startTime:2015-12-09 03:23:28
+
+2015-12-09T03:23:28Z
+https://test.payu.in/_payment
+
+2015-12-09T03:23:28Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110906
+    [amount] => 
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T03:23:28Z
+ResponseParameter:  billNo: 20151208110906 | endTime:2015-12-09 03:23:28
+
+2015-12-09T03:23:28Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-12-09T04:26:55Z
+RequestParameter:  billNo: 20151208110907 | startTime:2015-12-09 04:26:55
+
+2015-12-09T04:26:55Z
+https://test.payu.in/_payment
+
+2015-12-09T04:26:55Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110907
+    [amount] => 
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T04:26:56Z
+ResponseParameter:  billNo: 20151208110907 | endTime:2015-12-09 04:26:56
+
+2015-12-09T04:26:56Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-12-09T04:32:20Z
+RequestParameter:  billNo: 20151208110910 | startTime:2015-12-09 04:32:20
+
+2015-12-09T04:32:20Z
+https://test.payu.in/_payment
+
+2015-12-09T04:32:20Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110910
+    [amount] => 
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T04:32:21Z
+ResponseParameter:  billNo: 20151208110910 | endTime:2015-12-09 04:32:21
+
+2015-12-09T04:32:21Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-12-09T04:36:32Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 04:36:32
+
+2015-12-09T04:36:32Z
+https://test.payu.in/_payment
+
+2015-12-09T04:36:32Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110911
+    [amount] => 10
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T04:36:35Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 04:36:35
+
+2015-12-09T04:36:35Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl13ojAQ/Ssc3kuCilbPkJ761VLbrXat5+y+pSQC1QQkAen++k0obrt5ydzJ5M7c3MBNI45OzUuV5TJ0fQ+7DpdxzjKZhO7rdnl17d4Q2KYl5/OfPK5KTuCJK0UT7mTM3KDR5u4QbES6PuSrvUrnOD4GTGxOKnQJrG9f+IlA14AYfq8H6AINUxmnVGoCND5Nox9k0O/3RgNAHQTBy2hO9ko539bVGJs1HmFAn+cgqeAkmkbTZ+fM35x1rZ1HzQC1eYjzSuryg/SDIaALgKo8klTrQk0QUq2yItFcac90k1x7ce5lEhXJmX6ghGpud8pYO7L3rgpAlgHQl4Z1ZSNlOjYZI/PV71nzKhr5MNg/LAejeibq6UIUf3aLEJCtAGZoSQ/7gd/DY8fHEzycBGNAbR6osKOSF+VjDxutHYbCtrn9BD62J98zYJSUxsKL3AsC3hS55KbCGPAvBvQ19Oze2hBr86D32XK7qBaHu/cd/ZWx1XM03NXnMLTGtAWWLTOv6I9w0NJZAMhSoM5z1H0TE/33ff4CwFzPpQ==
+                    [MD] => 2169181061053430
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl13ojAQ/Ssc3kuCilbPkJ761VLbrXat5+y+pSQC1QQkAen++k0obrt5ydzJ5M7c3MBNI45OzUuV5TJ0fQ+7DpdxzjKZhO7rdnl17d4Q2KYl5/OfPK5KTuCJK0UT7mTM3KDR5u4QbES6PuSrvUrnOD4GTGxOKnQJrG9f+IlA14AYfq8H6AINUxmnVGoCND5Nox9k0O/3RgNAHQTBy2hO9ko539bVGJs1HmFAn+cgqeAkmkbTZ+fM35x1rZ1HzQC1eYjzSuryg/SDIaALgKo8klTrQk0QUq2yItFcac90k1x7ce5lEhXJmX6ghGpud8pYO7L3rgpAlgHQl4Z1ZSNlOjYZI/PV71nzKhr5MNg/LAejeibq6UIUf3aLEJCtAGZoSQ/7gd/DY8fHEzycBGNAbR6osKOSF+VjDxutHYbCtrn9BD62J98zYJSUxsKL3AsC3hS55KbCGPAvBvQ19Oze2hBr86D32XK7qBaHu/cd/ZWx1XM03NXnMLTGtAWWLTOv6I9w0NJZAMhSoM5z1H0TE/33ff4CwFzPpQ==
+                            [MD] => 2169181061053430
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-12-09T05:15:33Z
+RequestParameter:  billNo: 20151208110912 | startTime:2015-12-09 05:15:33
+
+2015-12-09T05:15:33Z
+https://test.payu.in/_payment
+
+2015-12-09T05:15:33Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110912
+    [amount] => 10
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T05:15:37Z
+ResponseParameter:  billNo: 20151208110912 | endTime:2015-12-09 05:15:37
+
+2015-12-09T05:15:37Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1TqzAQ/SsM75KEUvsxSxywreDUtnrrHea+5ZJcim0BSVD49yZIr7ov2bPZObsnJ3DTnk/Wm6hlXha+TRxsW6JIS54XmW8/71dXU/uGwv5QC7H4JdKmFhQehJQsE1bOfbuanaLVcV1lyzDY1Pfu7n578P7cRqeF59sUdsGTeKUwDKCa33EBXaBmqtMDKxQFlr6G8YZ6o5E78QANEM6ijhf0n5TWt7iaYR2zCQb0eQ8FOwsah3G4td7FX2v3pqy14oD6OqRlU6i6o6PxNaALgKY+0YNSlZwjJHtlVaaEVI6eVgjlpKWTF6jK3lmHMqaEORnn/crOi6wAGQZAXxp2jcmkntjmnEajxAtizh8JSdYomW6zfTfddMkDC3xApgO4pqUuJmPi4plF8Ny7nmOtqq8DO5tV6ZMk2DHVAUNlxgSfgGBz870CWkmtLbzIvSAQbVUWQndoA/7ngL6Wvo2MDanSDxrlq/2yWR7vXpK7x/D4u21X3TTwfWNM32DYcv2KZILHPZ0BgAwFGjxHwzfR2Y/v8wGsEs2L
+                    [MD] => 9121373451053430
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=cf7595806f1f11025c8261d4081cca1dd3283962e95c7fa6827b326aaf23a62a&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1TqzAQ/SsM75KEUvsxSxywreDUtnrrHea+5ZJcim0BSVD49yZIr7ov2bPZObsnJ3DTnk/Wm6hlXha+TRxsW6JIS54XmW8/71dXU/uGwv5QC7H4JdKmFhQehJQsE1bOfbuanaLVcV1lyzDY1Pfu7n578P7cRqeF59sUdsGTeKUwDKCa33EBXaBmqtMDKxQFlr6G8YZ6o5E78QANEM6ijhf0n5TWt7iaYR2zCQb0eQ8FOwsah3G4td7FX2v3pqy14oD6OqRlU6i6o6PxNaALgKY+0YNSlZwjJHtlVaaEVI6eVgjlpKWTF6jK3lmHMqaEORnn/crOi6wAGQZAXxp2jcmkntjmnEajxAtizh8JSdYomW6zfTfddMkDC3xApgO4pqUuJmPi4plF8Ny7nmOtqq8DO5tV6ZMk2DHVAUNlxgSfgGBz870CWkmtLbzIvSAQbVUWQndoA/7ngL6Wvo2MDanSDxrlq/2yWR7vXpK7x/D4u21X3TTwfWNM32DYcv2KZILHPZ0BgAwFGjxHwzfR2Y/v8wGsEs2L
+                            [MD] => 9121373451053430
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=cf7595806f1f11025c8261d4081cca1dd3283962e95c7fa6827b326aaf23a62a&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-12-09T05:44:14Z
+RequestParameter:  billNo: 20151208110913 | startTime:2015-12-09 05:44:14
+
+2015-12-09T05:44:14Z
+https://test.payu.in/_payment
+
+2015-12-09T05:44:14Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110913
+    [amount] => 11
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 5************346
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T05:44:31Z
+ResponseParameter:  billNo: 20151208110913 | endTime:2015-12-09 05:44:31
+
+2015-12-09T05:44:31Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [form_post_vars] => stdClass Object
+                (
+                    [transactionId] => ca561f4c109f20875eadb3985e647e2d807357a5069ffada755664ab9e4c37d1
+                    [pgId] => 8
+                    [eci] => 7
+                    [nonEnrolled] => 1
+                    [nonDomestic] => 0
+                    [bank] => CC
+                    [cccat] => creditcard
+                    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+                    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+                    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+                    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+                    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+                    [is_seamless] => 1
+                )
+
+            [post_uri] => https://test.payu.in/hdfc_not_enrolled
+            [enrolled] => 0
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [form_post_vars] => stdClass Object
+                        (
+                            [transactionId] => ca561f4c109f20875eadb3985e647e2d807357a5069ffada755664ab9e4c37d1
+                            [pgId] => 8
+                            [eci] => 7
+                            [nonEnrolled] => 1
+                            [nonDomestic] => 0
+                            [bank] => CC
+                            [cccat] => creditcard
+                            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+                            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+                            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+                            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+                            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+                            [is_seamless] => 1
+                        )
+
+                    [post_uri] => https://test.payu.in/hdfc_not_enrolled
+                    [enrolled] => 0
+                )
+
+        )
+
+)
+
+
+2015-12-09T06:36:35Z
+RequestParameter:  billNo: 20151208110915 | startTime:2015-12-09 06:36:35
+
+2015-12-09T06:36:35Z
+https://test.payu.in/_payment
+
+2015-12-09T06:36:35Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110915
+    [amount] => 12
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-09T06:36:39Z
+ResponseParameter:  billNo: 20151208110915 | endTime:2015-12-09 06:36:39
+
+2015-12-09T06:36:39Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1X4jAQ/Ss9feXYSVvZCmcaDx+y5awgR2FhH2MbS1mb1iRV8Neb1LK6ecncyeTO3Nzg9bF8dl65VEUlYtf3iOtwkVZZIfLY3axnF1fuNcX1XnI+feBpIznFBVeK5dwpstgtluPpEfpXu97tw+9MRe/NMhnk+XQjVexSXI3u+QvFrgE1/F6AcIaGSaZ7JjRFlr6M50t6GYZBdInQQSy5nE/pk1LOt3UxIGYNIoLweY6ClZzOx/PxnfPGH53Vq3ZudYbQ5jGtGqHliYb9HwhngI18pnutazUEUK2yOtdcac90E1x7aeUVAur8jZ0gZ5rbnWVZO7J3UDWCZUD40rBqbKRMx2OR0W2zW4STnlyocrap2PZE6tkh2PIc/sQItgIzQ0sD4vf9gAwcPxiSaEhChDaPrLSj0nvlBx4xWjuMtW0z+gTmojn5nkGjRBoLz3LPCPmxrgQ3FcaAfzHC19CTxNqQavOgSTFb3zQ3f38edsGklyTkl0+Wozi2xrQFlq0wr+hHpN/SWYBgKaDzHLpvYqL/vs8HB+7NqA==
+                    [MD] => 8020990071253430
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=64e22a286567e05469fa5364a56a971e4d58ef5e6cee88967651e8413d5f47d5&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1X4jAQ/Ss9feXYSVvZCmcaDx+y5awgR2FhH2MbS1mb1iRV8Neb1LK6ecncyeTO3Nzg9bF8dl65VEUlYtf3iOtwkVZZIfLY3axnF1fuNcX1XnI+feBpIznFBVeK5dwpstgtluPpEfpXu97tw+9MRe/NMhnk+XQjVexSXI3u+QvFrgE1/F6AcIaGSaZ7JjRFlr6M50t6GYZBdInQQSy5nE/pk1LOt3UxIGYNIoLweY6ClZzOx/PxnfPGH53Vq3ZudYbQ5jGtGqHliYb9HwhngI18pnutazUEUK2yOtdcac90E1x7aeUVAur8jZ0gZ5rbnWVZO7J3UDWCZUD40rBqbKRMx2OR0W2zW4STnlyocrap2PZE6tkh2PIc/sQItgIzQ0sD4vf9gAwcPxiSaEhChDaPrLSj0nvlBx4xWjuMtW0z+gTmojn5nkGjRBoLz3LPCPmxrgQ3FcaAfzHC19CTxNqQavOgSTFb3zQ3f38edsGklyTkl0+Wozi2xrQFlq0wr+hHpN/SWYBgKaDzHLpvYqL/vs8HB+7NqA==
+                            [MD] => 8020990071253430
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=64e22a286567e05469fa5364a56a971e4d58ef5e6cee88967651e8413d5f47d5&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+

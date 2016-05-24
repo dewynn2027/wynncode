@@ -1,0 +1,339 @@
+2015-12-09T04:56:20Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-12-09 04:56:20
+
+2015-12-09T04:56:20Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-12-09T04:56:20Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-12-09T04:56:24Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-12-09 04:56:24
+
+2015-12-09T04:56:24Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-12-09T04:59:09Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-12-09 04:59:09
+
+2015-12-09T04:59:09Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-12-09T04:59:09Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-12-09T04:59:14Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-12-09 04:59:14
+
+2015-12-09T04:59:14Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-12-09T05:05:41Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:05:41
+
+2015-12-09T05:05:41Z
+https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+
+2015-12-09T05:05:41Z
+Array
+(
+    [PaRes] => 
+    [MD] => 2169181061053430
+)
+
+
+2015-12-09T05:05:42Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:05:42
+
+2015-12-09T05:05:42Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513850170&mode=CC&status=failure&key=Gzv04m&txnid=20151208110911&amount=10.00&addedon=2015-12-09+10%3A06%3A56&productinfo=Binary+Trade&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=401200XXXXXX1112&field0=&field1=&field2=&field3=2169181061053430&field4=2169181061053430&field5=&field6=&field7=&field8=&field9=&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=0&unmappedstatus=failed&hash=1de6356f613d27dcacb567b38eaf1945f4e78ee3b4955231bb3799122b1e1ab7537d038230228575cc39a1eb5025955f0a878417aee0c68ec7ac2c8601f4dc8b&bank_ref_no=2169181061053430&bank_ref_num=2169181061053430&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=29318b6096731e03c7e0ad9c9aa1ea915b801eedd49fc6464533d02f2749f9a8
+)
+
+
+2015-12-09T05:13:07Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:13:07
+
+2015-12-09T05:13:07Z
+https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+
+2015-12-09T05:13:07Z
+Array
+(
+    [PaRes] => 
+    [MD] => 2169181061053430
+)
+
+
+2015-12-09T05:13:08Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:13:08
+
+2015-12-09T05:13:08Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-12-09T05:13:29Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:13:29
+
+2015-12-09T05:13:29Z
+https://dropit.3dsecure.net:9443/PIT/ACS
+
+2015-12-09T05:13:29Z
+Array
+(
+    [transactionId] => 
+    [pgId] => 0
+    [eci] => 0
+    [nonEnrolled] => 0
+    [nonDomestic] => 0
+    [bank] => 
+    [cccat] => 
+    [ccnum] => 
+    [ccname] => 
+    [ccvv] => 
+    [ccexpmon] => 
+    [ccexpyr] => 
+    [is_seamless] => 0
+)
+
+
+2015-12-09T05:13:31Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:13:31
+
+2015-12-09T05:13:31Z
+Array
+(
+    [rc] => 999
+    [message] => Transaction failed please try again.
+)
+
+
+2015-12-09T05:18:32Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:18:32
+
+2015-12-09T05:18:32Z
+https://dropit.3dsecure.net:9443/PIT/ACS
+
+2015-12-09T05:18:32Z
+Array
+(
+    [transactionId] => 
+    [pgId] => 0
+    [eci] => 0
+    [nonEnrolled] => 0
+    [nonDomestic] => 0
+    [bank] => 
+    [cccat] => 
+    [ccnum] => 
+    [ccname] => 
+    [ccvv] => 
+    [ccexpmon] => 
+    [ccexpyr] => 
+    [is_seamless] => 0
+)
+
+
+2015-12-09T05:18:34Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:18:34
+
+2015-12-09T05:18:34Z
+Array
+(
+    [rc] => 999
+    [message] => Transaction failed please try again.
+)
+
+
+2015-12-09T05:19:16Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:19:16
+
+2015-12-09T05:19:16Z
+https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+
+2015-12-09T05:19:16Z
+Array
+(
+    [PaRes] => 
+    [MD] => 2169181061053430
+)
+
+
+2015-12-09T05:19:16Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:19:16
+
+2015-12-09T05:19:16Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-12-09T05:20:39Z
+RequestParameter:  billNo: 20151208110911 | startTime:2015-12-09 05:20:39
+
+2015-12-09T05:20:39Z
+https://test.payu.in/_hdfc_response.php?txtid=22a9da1eedfdd961a921b3ede99d3abbbfb793584aa4a7dd3a97019f803f0b89&action=hdfc2_3dsresponse
+
+2015-12-09T05:20:39Z
+Array
+(
+    [PaRes] => eJzFV1nTmloW/Sup3EcrYVZJEW8dZlDm2TcEZBAEZdRf36j5ku/mprvS3dXV58XDco9nr33YUH9OVflhSK5tXp+/fkQ+wx8/JOeojvNz+vWjY/Of1h//3FB2dk0S1kqi/ppsKCVp2zBNPuTxrBFKhnAijCrTT/X22GYsHJVEXBmX9uvHDaUDM2mfgigC48gSJ7EZ/eZvM7v7jFLQ2+Ns+Bpl4bnbUGF0oSV1g2MYusIp6NsjVSVXid0c2/bDu/WJhOdFrmAKev1PQT8M6f1j185RT3m8Ybd7ZnKq6SzjR5nHVwNTDTRXNXeX+0pBDwkqDrtkg8IIgaAw+QGBv8DLLwRJQU+cah7mQFX3s21k9kpB7xFqPp/rfHy3DUYsKej7E5VMTX1OZok52+97CvoRXBOeN/C7hSDILPpAKdvfUF1evQsKxr/g8Bd8PpcnTrVd2PXtJqCgbzsqCodhAwBgQJPhnhwXmcsHuZ8F4LXmZJ8iVBLlG5iYg5p/n1qgTOtr3mXVI9S/AhT0CAV6lnRDWXl6np1dkw8zg85zsbOua75A0DiOn0fsc31NIXROBIJJaBaI2zz94+NLK4ml87H+t9SY8Fyf8ygs83vYzVRRki6r4w/fY/uVGdt8WEIgk2M+zaY+RQh+/vRAYAwhZpvQr42+y+x3vPwc7LUNP7VZiDwc/GRoQ5nJMXkwIvngmNLXj3+87wk2T5O2+09cvrl7b+HNnhuWfbKJL0vfFphgQKQ7v3ZkbBf5sE3aYvGg/XtJCvoe47cEXtV6dyovQacO7teyODhGTWu+CfVdmfHAMUzNufAE5m3VIsF2uKzVCK436/2ihvRYEekY7rbxkrCyg9IvpNh0GM5GhnqKBtNvq6Zl0gi9LZmk11BCc8Fe0ekFQuSQrS72ToHeeY5fI0s2T6ymUgtFua9ggvTvEx9dHYLriV1XlLSOTAZGE+QgVETRfn1XiW9ZbpPbKyufgEk27MLXjkmuXX6cKTG3uiJJjFEwDAhbhjGYTAn9dXY/+qkNVDo9XbJTLpAjTAPD4QELForRjowRsK5hCNwou86dMxSACwBxuFlbNFD+FnhmFt05RQH1C58U1uFKRzHWI/vSZblxP4a+0QUoN4pZpCq2MSp3gM6So2ZLk/fETg8M+Y4VDF2w3E4Bp6ddOlMY11UmzgY6naouDVKb4dThIJCPGAbFTEc+ffoTuZGUQi+uDwLf70UldSq+D9B0Ym2we+nWNs3vZQfmpt0ddC+steVy30Qol1oeAe99uQ98szmgRHZgaHt+RkNPLSWOv0coWYQeD4ce2SsmGNn0Lc941lPhSChhRRKOCoAFxroIlnTAWIN7nCuYj08FLEPnxpZODba9LQcxyIcjapyJcJtsnZ2mEOIiJTUpETWOa7o0mnLcn0QIbzFt7KA8YHXdmviBANfqvkAW/Cjs6XxhZ+Y22rvjIm7FJdbrruacRFY44...auSw4ZVhW/sitYJQw9RbDxdiKDA11rUAUx9lELjEGUBTJaQghMoAtf6BxM7tUybw54ZvMqzi5Pyz25cyoLggwX6mAsmHSeXllYx/S9L5wcCa5g+Xgqj43jHLRuHKsq6yjo5874Zauc73OrpHkKRmlmmyQDNYsEaC7L2JG/OgaFAxNzB/KLToENStd+R4/tTA828OVsL/B3xRhH5oXvuFE1LNd4R23FZkS6iRnkdkBJWKFxn7U5WGGVUS0ArLLBXUXqGZOe2Nw2b9ioF79oGRZo32kPz0lU/CnwlYllwfaN+gChZZfl9EdeD10wKcKDxjtPzX6TytZ6PPW8w+OnMMxDa7cwiaUbnu5IP9/8AX+BuNqX7ztrhEEXemskEXsmuyXrlZ+ygu73gGPqw9ZEmnpVVNWwUpHqUpdTvOs6UBNb6eqRiaYuF9ACs/BOOvXb62WxdHf2bbKIrlqJM4a5YqqFfXDZgzFmJou/SD1ftH2RtQvfn4aR7muiHV9UrnEhf+ZGP3OO2dTwaNqyEg0CzRBDUqDXGUhFRIo5S22gLUuPj/MSLYULbfqczreCSuJHRzXMM37RVq1V+F3jibG5ykOeazhpNH51hf1+PUwFrN/qIT3r4cvDAbPm65slJqfFKmlovDtQnnGZCkfb88VtiNA/bVOm82l46Ep4YTjOIAplvU4vzFgU2cjumhB1zbYM+3YrdGvcK/V8fqmKKH2ZKuhe6Te6UM+97wliZeDblK8uIWwlPAKOOhRgwEs4GSzlOimI9VmAs+uSibTDdGUWI1BMnZXKnagtCMS4FY3KkyKzOKHLw+SEzb5FXQ9Cm0hfrqrOEG9+Hhi/2aa1/WjTy4821c+8dU+CfFEe/p9tqtydSeH/2qbfsP8RLYwx3T/fuvK23kvZEKngmTOYU4PBTHV5fknTYCus4jy8skaKrJyiGuSwFXmr8DI9PpAQ2fj7wQPbPiLHy6VgsfPgLMdFL3eBxF9UfPCZRXFaJSfc5VfFcGJ5zITh41ksl6Pm9se7UfJgtTD8xrMVoT0sb7cx85XRPUTaukfwSHChaUG4yXiy06trHi77UvOlKilLdfCQYysTYm65R3Gd3EqQKjQAQpGG0jM38TFRmLBG0wHHqycMy0gDoYVjXq/6aasmaBnEiNjLigieLS2NZqMICfhXsrVjnYxiruZ/M+2Y3MiOb1NA9px2ooocYulnPo7PuLjR4JW5a8Hxb/XiX/XigJTs951vXEp6C+MhmuaVcKqhcIcG3jzsZDB+s7eLYlxpJxlyvBgg6Wqeg08EdLVlEiVWZF4T17baib676L1o6V2XEq/h4DjlxrAQPEifZ7Smx8l6nQzkzR6CsG7Xvo7fY0fDzdanR/IamL2l49qAdtp2q9eVJu/Cg0XM7CuZuj+tVjg02Y+J+2+tCv2YQ6Hvs+mPqfX5Rfv85n58hL3/Fv8HfwUcxQ==
+    [MD] => 2169181061053430
+)
+
+
+2015-12-09T05:20:39Z
+ResponseParameter:  billNo: 20151208110911 | endTime:2015-12-09 05:20:39
+
+2015-12-09T05:20:39Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-12-09T05:29:01Z
+RequestParameter:  billNo: 20151208110912 | startTime:2015-12-09 05:29:01
+
+2015-12-09T05:29:01Z
+https://test.payu.in/_hdfc_response.php?txtid=cf7595806f1f11025c8261d4081cca1dd3283962e95c7fa6827b326aaf23a62a&action=hdfc2_3dsresponse
+
+2015-12-09T05:29:01Z
+Array
+(
+    [PaRes] => eJzFV9uSoloS/ZWKOo9GNxdBpYPyxOYOyv3uGwoCCoJy2ejXH9Su6jo9PRM9MzExvAjLzNy5dq7cJPSfQ1m89MmlyavT2yv2FX19SU67Ks5P6dur6whfFq9/LmknuyQJZye77pIsaTVpmihNXvL47bWmCkk4ruuUZ4B2UXBD0TNiw0oFR7y9LmkDWEnzMMQxlMBm1JQa0e/rLcflvuI08v44Br7ssujULulod2ZkbUlMp/icoJHvj3SZXGRuuW+al0/XFwodL2qO0sjzfxr5Ecjo7nfNmPWQx0tpGhBAjmMTw4I1Eiz01LkutGugRuCNRu4WdBy1yRJHMRLDUeoFQ78Rs2/oGPqB0/U9HCirboyNoXf8M0KP+3MZt++6nJIzGvl4opOhrk7JaDGy/binkR/J1dFpiX66MAwbTe8o7QRLus3LT0mh5Dds/g2naOSB000btV2zDGnk+x29i/p+CQBggW9iFqFJGqeGoeNJ4HmNZB8mdLLLlyg5JjX+PrxAkVaXvM3Ke6p/B2jkngryKOmStvP0NC52SV5GBZ2at9esbetvCAIh/AqnX6tLiuAjEQSlkNEgbvL0j9enVxLLp331b7mx0ak65buoyG9RO0pFTdqsil8+cvtVGMe6R8IQi2e/jKG+7DDi9OWOoFOMHGMivw76idnvrPJzspcm+tJkEXZf4KdAS9pK9sldEcmLa8lvr3987gkuT5Om/U+WfF/uc4T3eF5UdMnS6uPq1kjWHqpoPdUx9qzyYoZtSiN9e/d7WtLIR47fCTyr9WlXnobn/LaKLb8XMbkXisx2cg8o5ezcrCqKSivWwowkdRZz/WTjgcroEJc6wHbKVIpDWV4YqGers+wwxBLBriB2Ujc1F7lrP2uFzZG7UXqTX9bJ4aj5ftsnoZW7EnrFtLUV+kyzRqu9Hcsyf3NkO18YxRp6YekPC1Perq0oSWHOw2SAHlzFcvj2qRLfWa6S65NVQKIUF7XR845NLm2+HyUxtroqy6x5YFkQNSxrspkaBYvstg9SB2hMejxnx1ykIMoA0xUAByaq2UDWDDnPNEUeKp57400VECLAXH70lkxcuIa+le1uvKqC6okPKufyhauaC8g9fTkebmAUmG2I81DKdprqmFC9AXy0hLojD/4DO94x7AM7sMyB49cqOD7iMpnKep468A4wmFTzGJA6LK/1W5G659CrVgqF9LGexENKjvy42opCt5HU1C2FLsTTgXPA+ulbOYywUVyUH9Y30D6xxlGKTb3D+dT2SXQTKF0YWPUWJ7MtyzjjMx75WiHzwm2HU4fIF9DIpzrVApBL33nGo5+G7sQCVWVxrwJUZO2zaMvbKWfy930F4/ZpgGOZ3Fwxqck111kvhXm/x80TGa2SlbvWVVKapJQuJ5LO83Wb7oacCAYJIZqpDlskDznDsAehJ8GlvE2wiQDFDZNPnMxa7TYenMSNNJt2hqe7R...VTbVHwWD8vhblTohppGik2hdcjFW6ZSkdKhHX2emj2kiJSuxmCoSQ+CcTWnSqdVuT1lsgcQSO42XG2odZuaSOI6SEtOg0HQ2Dm9rRluy4Qj66MlqiyPxb72nW3egthWWYtjfzcGb9sldNtbJU0TwGUR7XJCtCynYiMZYEt9attUHkwsDegPOUUOqDwnE/yWI3y4MJAyTaicFNNCNknvuahZtqe+UnaqsNKTB2z2HWLU6jKEAHn8KjKqVA7AFTjwpuGVSMmP7Cxbd4xaBx+0TIc0D9kj44kSuEYBurAcWD1Ln2AMYrH8cad190XDKp4l/Ha17LflLK9gMdOcAXiGEV5ZK8nFjnzouMN68aTPxTOCF8Fym1tQxS0kb/AEqljs2uymAcpJxpBB3i22q4srK7mh7Ls5xpWnqtiiNdtCypyJV98KtG12QSZTG2ilY/d6nKezLy1cx1ssi3n0ohNPSnVoy48bwCM2cEWznInHJrukDWTIBh6yHQV2cCnlCtCzB/cmAfnmEtNn2FsO9ERUPcxIodGlYFUwuSYt7UaWXEMvO+XZKt85DCndDwVNIrYu5ppnYizPm/sQ9DWvhRb8zwS+JqXofmrI+z362GpYPFeD/lRj0Dpt1N7PL45cnCbaSn3tX8D6iMvS+UZZzy4TQn5p23KtgGD9m2BTkzX7SWxqBbpmYWHQwa5dR3hntUUUdesxHZB+IWRB6gj4cx5KJFbaVyZg3bqAl+USpNYpUJ5jlA7ETCwN5BwCvyEV8BMqZIDuTiJaHaZsTt9O1zYCQSqZXBysZb0CYmZ10OtCZTETo74bDu4Ub1pcM9H8HpnzOZla0rXIA/N32zTyrm36flHmxonwb4lYT4ptv/PNlVv7qAKf2/T79j/SBYmTDePt66yqjZy1u808OAMRmooGKWujC9pBqzEeZxHF85Msbl7KHslaiTBPviZEW8phKqDTe+DVbej4Pl84Kan3p3BSae0oSycNaIP2MnhOE+OhCfMD/2RE6YWiu5PUjGDutftb2YhgPnEDGrfUcVmO7teYRao0Nvu9EWHETvRQ4YJ6SXw6KQXz9qeN4UeyGVSFFrvY/tGIaXc9vbSIrkWIFUZAMRDGskPbtJ9orBQnWFCXtCO02lGmRgj7vNq3g0rLcGLMMakTlEl8GhpGVq1KibgX9lWrn00D2M1/5tpx+IhB9+ngOwx7exKqh8Hup/0CB958dAU1LFrwf4f6iU868UDOdls2sA8F8wKJSI8zUvxWCHRGg/9cdjJUOLqrCYHONePCuL6McDS+cJVjiRycRQKJ+dUXpGXplxLgTfp/N3Mv8xkQSfAfsjNfiL6iDHOaHVHUNUi6amr04dR1SwCg7jFrk5YTcBA6hJanW0Qeo+3+mplVKWurKOtTY7qK9iqO87nBDI4/NsvWhX5MYciH7Ppj6n18UX7+Oa+f4R9/hb/C9oIHcQ=
+    [MD] => 9121373451053430
+)
+
+
+2015-12-09T05:29:03Z
+ResponseParameter:  billNo: 20151208110912 | endTime:2015-12-09 05:29:03
+
+2015-12-09T05:29:03Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513850313&mode=CC&status=failure&key=Gzv04m&txnid=20151208110912&amount=10.00&addedon=2015-12-09+10%3A45%3A57&productinfo=Binary+Trade&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=401200XXXXXX1112&field0=&field1=&field2=&field3=&field4=&field5=+2+Message+element+not+a+defined+message.%3A+PARes&field6=&field7=&field8=&field9=+2+Message+element+not+a+defined+message.%3A+PARes&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=0&unmappedstatus=failed&hash=8f69c93a6e1a0029fa3e7c7c22e1cce4248ddd02104bd0902693e331e9c7c6afeafba31793aadf33658ceea0a3e27bc2b92e6caa3c28c30511cb6e023f0a3028&bank_ref_no=&bank_ref_num=&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=29318b6096731e03c7e0ad9c9aa1ea915b801eedd49fc6464533d02f2749f9a8
+)
+
+
+2015-12-09T05:50:33Z
+RequestParameter:  billNo: 20151208110913 | startTime:2015-12-09 05:50:33
+
+2015-12-09T05:50:33Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-12-09T05:50:33Z
+Array
+(
+    [transactionId] => ca561f4c109f20875eadb3985e647e2d807357a5069ffada755664ab9e4c37d1
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-12-09T05:50:34Z
+ResponseParameter:  billNo: 20151208110913 | endTime:2015-12-09 05:50:34
+
+2015-12-09T05:50:34Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513850489&mode=CC&status=success&key=Gzv04m&txnid=20151208110913&amount=11.00&addedon=2015-12-09+11%3A14%3A38&productinfo=Binary+Trade&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=53433759617&field2=999999&field3=9586674201153431&field4=-1&field5=&field6=&field7=&field8=&field9=SUCCESS&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=11&unmappedstatus=captured&hash=c3357066f0aa3619b4b751b3cea9ff5cf57fee768071c50a0689180e023ec1ef5cc72434e31a34d63cb0463e24ca23e6d6da8f97209162cb909c61346446322e&bank_ref_no=9586674201153431&bank_ref_num=9586674201153431&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-12-09T06:48:54Z
+RequestParameter:  billNo: 20151208110915 | startTime:2015-12-09 06:48:54
+
+2015-12-09T06:48:54Z
+https://test.payu.in/_hdfc_response.php?txtid=64e22a286567e05469fa5364a56a971e4d58ef5e6cee88967651e8413d5f47d5&action=hdfc2_3dsresponse
+
+2015-12-09T06:48:54Z
+Array
+(
+    [PaRes] => eJzFV9uSoloS/ZWKOo9EN3eVDsoTmzsqdxDwDQUBAUHu+vUHtau6Tk/PRM9MTAwvwjIzd+bOtTYJ/edY5C99VDdpeX57Rb8iry/R+VCG6Tl+e3Vs4cvi9c8lbSd1FHFWdOjqaEkrUdMEcfSShm+vqcpwI0wuPGhjbcNmfutUiYpjzqmbt9clrQMzah6GGIoQJIks0An9vt5yWu4rRsPvj1Pg+pAE53ZJB4cLI6tLAsexOUHD3x/pIqplbnlsmpdP1xcKmS5qjtDw838a/hFI7+53zZT1mIZLt/MUnIVqpSkEpwzcK1IJJ8yNYth/o+G7BR0GbbTEEJREMYR6QbFvyPwbgtPwA6erezhQlN0UezKYlvyM0NP+1NP2XZc4OaPhjyc6GqvyHE0WU7Uf9zT8I7kqOC+RTxeKopPpHaVtb0m3afEpKWT2DZ9/wxY0/MDppg3arln6NPz9jj4Efb8EALAsr9yMOMSVNLPlk8qC5zUV+zCho0O6RMgpqen34QXyuKzTNinuqf4doOF7KvCjpUvaSuPztFgdvUwMOk/NTtq2+gbDwzB8HfCvZR3D0/4gMELBk0HYpPEfr0+vKJTPx/LfcmODc3lOD0Ge3oJ2oooStUkZvnzk9qswtnmPhMImz36ZQn05oMT5yx1BcJScYsK/Dvqpst9Z5edk6yb40iTBneXwT4GWtBkdozsjohfHlN9e//isCS6No6b9T5Z8X+5zhPd42yDvoiWOaBXkazKTnfiBMkzR0oK4OFMxLr+9+z0tafgjx+8FPLv1aVeehr53O4c7fba+5TOIr5sk8y2dt6VrS1JGluGKb0OudGzqkbxei5UGW2ILKg3cbnZ7UZyw9bgIc7ucPWrUebgW/do+ZjnaxLUWX0JZZc9aco06LCHbnjDOYy+q+6bDcHEGyeKlNgHk59nB3zeXDWFo7rGIuLbbX3FkawX9vic6+cavsbE/zO5k/yl5eh1dn1V5JEJxQRs879iobtPjRIlJ6ooss8aJZUHQsKzBJkrgLZLb0YttoDJxdkmyVKQGhAGGIwAOQIrRDKzhc1vDEPlhtXVuvKEAQgSow0/ekoEJV981k8ONVxRQPvFR4Rw+dxRjMXBPX44fdkPgGa2P8YOUHFTFNgblBrDJctBseXQfWHbH0A/sxDInjt8oIHvEZRKF3W6VkbeBzsTqlgGxzfJqvxepew69YsaDED/WkyZCyIEblntR6HaSEjuF0PlYPHI22Dx9S5sRdisH4cfNDbRPrLFX+a46YHxsuSSy81ad75nVHiOTPcvY0zMWuGou88LtgFGnwBWQwKU6xQQDF7/XGU5+KnIQc0SRxaMCEJG1LqIl73HO4O/7CqbtUwHHMqmxZmKDa66zXvLT/ogZZzJYR2tnoymkBMWUJkeSxvNVGx/GlPBGCSYaXBtaOPU5XbdGoSdBXdwgFBIGccekkJ2Y68NuO0BhI83wTt9qT...iHq4ucR/t5IcztAlFJQ49RfLhmlL9nSg0uYNY+ar7RSyuROsxgFCExyBNbB191ap5WeyKxBZXgZtlsR22cwoJhYwu3CO6PusDMLbxlu84TM0dGCmQ1qfBYOc5ea4ehKJKWhn9Wxi+lcr5NUonTGAzyxDZ5BdTkIMJTW4aW+tU2KDwY2RtYPenk2yDf2p/osZ7owfneKtmJwk0xhoF94ht+UA1ra3yitmKzElOFLHrdYxSiMITH2TyicMqgngCicv5NRcsJkx/YJJt3bNBPv5AMB7QP2iNTEYWQ+Z4ychxYv1MfoMxqy/H6va67LxgV8U7jjasmv0llazFkneAIRBYEaWBtIJOcbYPshnbTye8LF5gvvdVtYw0IaAN3gUZSx07n4WLuxZyoex3g2XK/NtGqnJ+Kop+raHEp8zHctC0oybVcu1SkqTMIhnCLaOWsW9cXaLbd2NfRIttiLk0YvpViLej8yw4MITtawkXuhFPTnZIG8ryxH5iuJJvhSeWSENNHbcyj5pCLDZdhLCvSYFD1ISz7epmAWELlkLfUCl5zzHDfL8lS+MBmzvF0KqgUcXRUwzwTF23eWCevrVwpNOdpIPAVLw/Gr46w3++HqYDFez/kRz+8Vb/Hren45sjRafBC7iv3BpRHXqbCM/Z0cBsS/E9lyrYeg/RtjkCG4/SSmJeL+MIOp1MycJsqwLZmkwddsxbbBeHmeuohtoQxl7GAb4V+ZU7qufNcUSoMYh0LxSVArEhAwVGHfRy4Eb8Cs1UZncjFWUSSesYetP1Ys9AAFFPn5HwjaRCJGtdTpQqUxEIZNtuPTlDtGmzrwlh10GfzojWkq5f6xm/KtLTvMr38kKl+Fqxb5KdQvv9/ylS5OaMi/F2m37H/ES2MId493rqrdbmTk/6ggkfNYCoNARPVV9NLmgFrcR6mQc0ZMTp3TkW/ChpJsE5uood7CqYqb9e7YN0dqOFyOXH4uXdmA9StWl8WLirReyx0yuZRRmyF+anPOAE3EeR4lvLZoG27483IBTCHDK9ybUVs9rPrdUg8ZdjuD9qiQ4mDuIVHiNxGQ2bH9dbcX3a55slFlOdq76LHZkVKqbU9SovomoNYYQAQT3EgP2qT7hOFiWgM4/OCmuF4QhkoIx7Tct6NazXCcj9EpW6lSOAhaXkwK0WMwL+yLR0rM05TN/+bacfkB254nwKSx7RzKKg+lH/m4/DIix8MQZlUC47/0C/h2S8eyNFu13rGJWfWCBFgcVqIWQkHG8x3p2EnQYirvYZOw1zLVrDjhgCN5wtnlZFwba8ojJxTaUnWTbGRvC3UuYeZW89kQSPAcUyNHhJdWJ9mtKojqHIR9dTV7v2gbBaeTtxCRyPMxmMGqvbNztIJrcdabb3Wy0JbbYK9RU7sy9myy+ZzAh5t/u0XUoV/zKHwx2z6Y2p9fNE+vrnvH2Gfv8X/AvH0ILY=
+    [MD] => 8020990071253430
+)
+
+
+2015-12-09T06:48:57Z
+ResponseParameter:  billNo: 20151208110915 | endTime:2015-12-09 06:48:57
+
+2015-12-09T06:48:57Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513850912&mode=CC&status=failure&key=Gzv04m&txnid=20151208110915&amount=12.00&addedon=2015-12-09+12%3A06%3A59&productinfo=Binary+Trade&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=401200XXXXXX1112&field0=&field1=&field2=&field3=&field4=&field5=+2+Message+element+not+a+defined+message.%3A+PARes&field6=&field7=&field8=&field9=+2+Message+element+not+a+defined+message.%3A+PARes&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=0&unmappedstatus=failed&hash=9e9dba9fdd0dd740e5c78f38adb209da670d3790c897f022e62a9e99c047e95a826ecc4cbdbddd8c0a59b301f7a2a20cb0fd83881147886943e17c99101e287b&bank_ref_no=&bank_ref_num=&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=29318b6096731e03c7e0ad9c9aa1ea915b801eedd49fc6464533d02f2749f9a8
+)
+
+

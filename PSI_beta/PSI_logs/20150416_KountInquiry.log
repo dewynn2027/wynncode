@@ -1,0 +1,196 @@
+2015-04-16T07:41:40Z
+RequestParameter:  billNo: 81ce0c82f1a64f9c99d9c0698e9e2167 | startTime:2015-04-16 07:41:40
+
+2015-04-16T07:41:40Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 127.0.0.1
+    [SESS] => 9c162e9120d2421a92d197247bde5dc6
+    [ORDR] => 81ce0c82f1a64f9c99d9c0698e9e2167
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 127.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANT-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANTY
+    [NAME] => test test
+    [B2A1] => test
+    [B2CC] => AM
+    [B2CI] => test
+    [B2PC] => 12345
+    [B2PN] => +1123456
+    [B2ST] => AM
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 0001-01-01
+    [GENDER] => M
+    [EMAL] => test@test.com
+)
+
+
+2015-04-16T07:41:41Z
+ResponseParameter:  billNo: 81ce0c82f1a64f9c99d9c0698e9e2167 | endTime:2015-04-16 07:41:41
+
+2015-04-16T07:41:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3HXP0JG0SHQ3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>9c162e9120d2421a92d197247bde5dc6</SESS>
+  <ORDR>81ce0c82f1a64f9c99d9c0698e9e2167</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>33</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>A</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>....</DEVICE_LAYERS>
+  <FINGERPRINT></FINGERPRINT>
+  <TIMEZONE></TIMEZONE>
+  <LOCALTIME> </LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY></COUNTRY>
+  <PROXY></PROXY>
+  <JAVASCRIPT></JAVASCRIPT>
+  <FLASH></FLASH>
+  <COOKIES></COOKIES>
+  <HTTP_COUNTRY></HTTP_COUNTRY>
+  <LANGUAGE></LANGUAGE>
+  <MOBILE_DEVICE></MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER></MOBILE_FORWARDER>
+  <VOICE_DEVICE></VOICE_DEVICE>
+  <PC_REMOTE></PC_REMOTE>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>773012</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Non-Normal Network Type (10pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>20</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [0001-01-01] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [0001-01-01]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-16T12:55:06Z
+RequestParameter:  billNo: bgjaiagdai | startTime:2015-04-16 12:55:06
+
+2015-04-16T12:55:06Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => ugp1d5ksixjvptodcrg4i05xb24szxtn
+    [ORDR] => bgjaiagdai
+    [CURR] => $EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 88.208.39.134
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV1
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => GB
+    [B2CI] => London
+    [B2PC] => 4566667
+    [B2PN] => 0526417722
+    [B2ST] => LO
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1997-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+)
+
+
+2015-04-16T12:55:08Z
+ResponseParameter:  billNo: bgjaiagdai | endTime:2015-04-16 12:55:08
+
+2015-04-16T12:55:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>311</ERRO>
+  <ERROR_0>311 BAD_CURR Field: [CURR], Value: [$EUR]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

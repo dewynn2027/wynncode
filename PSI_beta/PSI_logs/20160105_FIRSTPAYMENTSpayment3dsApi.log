@@ -1,0 +1,125 @@
+2016-01-05T02:15:07Z
+RequestParameter:  billNo: TEST2016010503
+
+2016-01-05T02:15:07Z
+Array
+(
+    [f_extended] => 5
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [request_type] => transaction_status
+    [init_transaction_id] => 
+)
+
+
+2016-01-05T02:15:09Z
+RequestParameter:  billNo: TEST2016010503
+
+2016-01-05T02:15:09Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1451960118:Status request failed: 1451960118: (TransactionWrapper) 'Wrong init transaction ID' : '' <br>; :
+)
+
+
+2016-01-05T02:31:40Z
+RequestParameter:  billNo: TEST2016010503
+
+2016-01-05T02:31:40Z
+Array
+(
+    [f_extended] => 5
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [request_type] => transaction_status
+    [init_transaction_id] => 8b38bc0af27cc96003a88bf86dc8a943840a2023
+)
+
+
+2016-01-05T02:31:42Z
+RequestParameter:  billNo: TEST2016010503
+
+2016-01-05T02:31:42Z
+Array
+(
+    [rc] => 0
+    [result] => ID:8b38bc0af27cc96003a88bf86dc8a943840a2023~Status:Success~MerchantID:TEST2016010503~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:139181~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-05T02:39:20Z
+RequestParameter:  billNo: TEST2016010504
+
+2016-01-05T02:39:20Z
+Array
+(
+    [f_extended] => 5
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [request_type] => transaction_status
+    [init_transaction_id] => edc61d5d64032dd324fe5437b386cbb56d0234c9
+)
+
+
+2016-01-05T02:39:22Z
+RequestParameter:  billNo: TEST2016010504
+
+2016-01-05T02:39:22Z
+Array
+(
+    [rc] => 0
+    [result] => ID:edc61d5d64032dd324fe5437b386cbb56d0234c9~Status:Success~MerchantID:TEST2016010504~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:662300~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-05T08:45:37Z
+RequestParameter:  billNo: TEST2016010507
+
+2016-01-05T08:45:37Z
+Array
+(
+    [f_extended] => 5
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [request_type] => transaction_status
+    [init_transaction_id] => 4d525b1749558bd5d200d0adb23764ab17352b1b
+)
+
+
+2016-01-05T08:45:39Z
+RequestParameter:  billNo: TEST2016010507
+
+2016-01-05T08:45:39Z
+Array
+(
+    [rc] => 0
+    [result] => ID:4d525b1749558bd5d200d0adb23764ab17352b1b~Status:Success~MerchantID:TEST2016010507~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:863118~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-05T09:02:37Z
+RequestParameter:  billNo: TEST2016010508
+
+2016-01-05T09:02:37Z
+Array
+(
+    [f_extended] => 5
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [request_type] => transaction_status
+    [init_transaction_id] => 650e9d3ced447357c0f91e4a016faf68fcd0916e
+)
+
+
+2016-01-05T09:02:39Z
+RequestParameter:  billNo: TEST2016010508
+
+2016-01-05T09:02:39Z
+Array
+(
+    [rc] => 0
+    [result] => ID:650e9d3ced447357c0f91e4a016faf68fcd0916e~Status:Success~MerchantID:TEST2016010508~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+

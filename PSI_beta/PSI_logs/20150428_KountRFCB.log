@@ -1,0 +1,36 @@
+2015-04-28T13:28:11Z
+RequestParameter:  billNo: hbkkgjkjef | startTime:2015-04-28 13:28:11
+
+2015-04-28T13:28:11Z
+Array
+(
+    [rfcb[3HZG0CMM9X3C]] => R
+)
+
+
+2015-04-28T13:28:13Z
+ResponseParameter:  billNo: hbkkgjkjef | endTime:2015-04-28 13:28:13
+
+2015-04-28T13:28:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HZG0CMM9X3C</scope></error></errors><result/></response>
+
+
+2015-04-28T13:39:40Z
+RequestParameter:  billNo: iabeggjjka | startTime:2015-04-28 13:39:40
+
+2015-04-28T13:39:40Z
+Array
+(
+    [rfcb[3HZG0R7XTQPC]] => R
+)
+
+
+2015-04-28T13:39:42Z
+ResponseParameter:  billNo: iabeggjjka | endTime:2015-04-28 13:39:42
+
+2015-04-28T13:39:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HZG0R7XTQPC</scope></error></errors><result/></response>
+
+

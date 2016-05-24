@@ -1,0 +1,1110 @@
+2015-06-02T05:48:21Z
+RequestParameter:  billNo: HduBC1433224100 | startTime:2015-06-02 05:48:21
+
+2015-06-02T05:48:21Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => HduBC1433224100
+    [referenceId] => HduBC1433224100
+    [dateTime] => 20150602134820
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 456
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => EUR
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T05:48:21Z
+ResponseParameter:  billNo: HduBC1433224100 | endTime:2015-06-02 05:48:21
+
+2015-06-02T05:48:21Z
+successcode=-1&Ref=HduBC1433224100&PayRef=150602130621&Amt=10&Cur=978&prc=1&src=14&Ord=150602130621&Holder=&AuthId=0621&TxTime=15-06-02 13:06:21&errMsg=Error: invalid Security Code, Parameter currency incorrect
+
+2015-06-02T08:21:11Z
+RequestParameter:  billNo: nBSfp1433233269 | startTime:2015-06-02 08:21:11
+
+2015-06-02T08:21:11Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => nBSfp1433233269
+    [referenceId] => nBSfp1433233269
+    [dateTime] => 20150602162109
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [birthDate] => 20150416
+    [phone] => 4918914107195005
+    [zipCode] => 4918914107195005
+    [address] => Makati City
+    [city] => Makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => This is an autobot test
+    [currency] => USD
+    [productItem] => sku 11
+    [productType] => phone
+    [productDesc] => this is a test please ignore
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T08:21:11Z
+ResponseParameter:  billNo: nBSfp1433233269 | endTime:2015-06-02 08:21:11
+
+2015-06-02T08:21:11Z
+successcode=0&Ref=nBSfp1433233269&PayRef=150602160611&Amt=10&Cur=840&prc=0&src=0&Ord=150602160611&Holder=&AuthId=0611&TxTime=15-06-02 16:06:11&errMsg=Transaction Completed
+
+2015-06-02T08:52:41Z
+RequestParameter:  billNo: c42QR1433235159 | startTime:2015-06-02 08:52:41
+
+2015-06-02T08:52:41Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => c42QR1433235159
+    [referenceId] => c42QR1433235159
+    [dateTime] => 20150602165239
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 20
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => EUR
+    [productItem] => SKU-BML-BinaryTrade,1
+    [productType] => Binary Trade,TV
+    [productDesc] => Binary Trade,Test
+    [productQty] => 1,1
+    [productPrice] => 10,10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T08:52:41Z
+ResponseParameter:  billNo: c42QR1433235159 | endTime:2015-06-02 08:52:41
+
+2015-06-02T08:52:41Z
+successcode=-1&Ref=c42QR1433235159&PayRef=150602160641&Amt=20&Cur=978&prc=1&src=14&Ord=150602160641&Holder=&AuthId=0641&TxTime=15-06-02 16:06:41&errMsg=Error: Parameter currency incorrect
+
+2015-06-02T08:53:13Z
+RequestParameter:  billNo: N2zVn1433235192 | startTime:2015-06-02 08:53:13
+
+2015-06-02T08:53:13Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => N2zVn1433235192
+    [referenceId] => N2zVn1433235192
+    [dateTime] => 20150602165312
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T08:53:13Z
+ResponseParameter:  billNo: N2zVn1433235192 | endTime:2015-06-02 08:53:13
+
+2015-06-02T08:53:13Z
+successcode=0&Ref=N2zVn1433235192&PayRef=150602160613&Amt=10&Cur=840&prc=0&src=0&Ord=150602160613&Holder=&AuthId=0613&TxTime=15-06-02 16:06:13&errMsg=Transaction Completed
+
+2015-06-02T08:58:29Z
+RequestParameter:  billNo: KxODS1433235508 | startTime:2015-06-02 08:58:29
+
+2015-06-02T08:58:29Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => KxODS1433235508
+    [referenceId] => KxODS1433235508
+    [dateTime] => 20150602165828
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T08:58:29Z
+ResponseParameter:  billNo: KxODS1433235508 | endTime:2015-06-02 08:58:29
+
+2015-06-02T08:58:29Z
+successcode=0&Ref=KxODS1433235508&PayRef=150602160629&Amt=10&Cur=840&prc=0&src=0&Ord=150602160629&Holder=&AuthId=0629&TxTime=15-06-02 16:06:29&errMsg=Transaction Completed
+
+2015-06-02T09:10:39Z
+RequestParameter:  billNo: Gf3wV1433236237 | startTime:2015-06-02 09:10:39
+
+2015-06-02T09:10:39Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => Gf3wV1433236237
+    [referenceId] => Gf3wV1433236237
+    [dateTime] => 20150602171037
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T09:10:39Z
+ResponseParameter:  billNo: Gf3wV1433236237 | endTime:2015-06-02 09:10:39
+
+2015-06-02T09:10:39Z
+successcode=0&Ref=Gf3wV1433236237&PayRef=150602170639&Amt=10&Cur=840&prc=0&src=0&Ord=150602170639&Holder=&AuthId=0639&TxTime=15-06-02 17:06:39&errMsg=Transaction Completed
+
+2015-06-02T09:14:11Z
+RequestParameter:  billNo: uLciJ1433236449 | startTime:2015-06-02 09:14:11
+
+2015-06-02T09:14:11Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => uLciJ1433236449
+    [referenceId] => uLciJ1433236449
+    [dateTime] => 20150602171409
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T09:14:11Z
+ResponseParameter:  billNo: uLciJ1433236449 | endTime:2015-06-02 09:14:11
+
+2015-06-02T09:14:11Z
+successcode=0&Ref=uLciJ1433236449&PayRef=150602170611&Amt=10&Cur=840&prc=0&src=0&Ord=150602170611&Holder=&AuthId=0611&TxTime=15-06-02 17:06:11&errMsg=Transaction Completed
+
+2015-06-02T09:18:36Z
+RequestParameter:  billNo: HNMpz1433236714 | startTime:2015-06-02 09:18:36
+
+2015-06-02T09:18:36Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => HNMpz1433236714
+    [referenceId] => HNMpz1433236714
+    [dateTime] => 20150602171834
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T09:18:36Z
+ResponseParameter:  billNo: HNMpz1433236714 | endTime:2015-06-02 09:18:36
+
+2015-06-02T09:18:36Z
+successcode=0&Ref=HNMpz1433236714&PayRef=150602170636&Amt=10&Cur=840&prc=0&src=0&Ord=150602170636&Holder=&AuthId=0636&TxTime=15-06-02 17:06:36&errMsg=Transaction Completed
+
+2015-06-02T09:30:21Z
+RequestParameter:  billNo: wTe6c1433237420 | startTime:2015-06-02 09:30:21
+
+2015-06-02T09:30:21Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => wTe6c1433237420
+    [referenceId] => wTe6c1433237420
+    [dateTime] => 20150602173020
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T09:30:21Z
+ResponseParameter:  billNo: wTe6c1433237420 | endTime:2015-06-02 09:30:21
+
+2015-06-02T09:30:21Z
+successcode=0&Ref=wTe6c1433237420&PayRef=150602170621&Amt=10&Cur=840&prc=0&src=0&Ord=150602170621&Holder=&AuthId=0621&TxTime=15-06-02 17:06:21&errMsg=Transaction Completed
+
+2015-06-02T10:04:28Z
+RequestParameter:  billNo: yKR2P1433239466 | startTime:2015-06-02 10:04:28
+
+2015-06-02T10:04:28Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => yKR2P1433239466
+    [referenceId] => yKR2P1433239466
+    [dateTime] => 20150602180426
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19800305
+    [phone] => 93398277
+    [zipCode] => 1200
+    [address] => 2620E
+    [city] => Makati
+    [state] => Manila
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Test
+    [currency] => USD
+    [productItem] => 1
+    [productType] => TV
+    [productDesc] => Test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-06-02T10:04:28Z
+ResponseParameter:  billNo: yKR2P1433239466 | endTime:2015-06-02 10:04:28
+
+2015-06-02T10:04:28Z
+successcode=0&Ref=yKR2P1433239466&PayRef=150602180628&Amt=10&Cur=840&prc=0&src=0&Ord=150602180628&Holder=&AuthId=0628&TxTime=15-06-02 18:06:28&errMsg=Transaction Completed
+
+2015-06-02T12:57:10Z
+RequestParameter:  billNo: bill635688574133658200 | startTime:2015-06-02 12:57:10
+
+2015-06-02T12:57:10Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 62
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL1
+    [API_password] => s4HIM9zuy6IypJ
+    [billNo] => bill635688574133658200
+    [referenceId] => ref635688574133658200
+    [sessId] => sess635688574133658200
+    [dateTime] => 20150602035653
+    [cardHolderIp] => 109.86.219.121
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => juandc@example.com
+    [birthdate] => 20150602
+    [phone] => 456347877
+    [zipCode] => 31000
+    [address] => address
+    [city] => city
+    [state] => MH
+    [country] => IN
+    [amount] => 10
+    [language] => eng
+    [currency] => EUR
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 10
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-06-02T12:57:10Z
+ResponseParameter:  billNo: bill635688574133658200 | endTime:2015-06-02 12:57:10
+
+2015-06-02T12:57:10Z
+successcode=-1&Ref=bill635688574133658200&PayRef=150602200610&Amt=10&Cur=978&prc=1&src=14&Ord=150602200610&Holder=&AuthId=0610&TxTime=15-06-02 20:06:10&errMsg=Error: invalid expiry year
+
+2015-06-02T13:02:48Z
+RequestParameter:  billNo: bill635688577589785879 | startTime:2015-06-02 13:02:48
+
+2015-06-02T13:02:48Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 62
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL1
+    [API_password] => s4HIM9zuy6IypJ
+    [billNo] => bill635688577589785879
+    [referenceId] => ref635688577589785879
+    [sessId] => sess635688577589785879
+    [dateTime] => 20150602040238
+    [cardHolderIp] => 109.86.219.121
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => juandc@example.com
+    [birthdate] => 20150602
+    [phone] => 456347877
+    [zipCode] => 31000
+    [address] => address
+    [city] => city
+    [state] => MH
+    [country] => IN
+    [amount] => 10
+    [language] => eng
+    [currency] => EUR
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 10
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-06-02T13:02:48Z
+ResponseParameter:  billNo: bill635688577589785879 | endTime:2015-06-02 13:02:48
+
+2015-06-02T13:02:48Z
+successcode=0&Ref=bill635688577589785879&PayRef=150602210648&Amt=10&Cur=978&prc=0&src=0&Ord=150602210648&Holder=&AuthId=0648&TxTime=15-06-02 21:06:48&errMsg=Transaction Completed
+
+2015-06-02T13:08:15Z
+RequestParameter:  billNo: bill635688580869273455 | startTime:2015-06-02 13:08:15
+
+2015-06-02T13:08:15Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [billNo] => bill635688580869273455
+    [referenceId] => ref635688580869273455
+    [sessId] => sess635688580869273455
+    [dateTime] => 20150602040806
+    [cardHolderIp] => 109.86.219.121
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => juandc@example.com
+    [birthdate] => 20150602
+    [phone] => 456347877
+    [zipCode] => 31000
+    [address] => address
+    [city] => city
+    [state] => MH
+    [country] => IN
+    [amount] => 10
+    [language] => eng
+    [currency] => USD
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 10
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-06-02T13:08:15Z
+ResponseParameter:  billNo: bill635688580869273455 | endTime:2015-06-02 13:08:15
+
+2015-06-02T13:08:15Z
+successcode=0&Ref=bill635688580869273455&PayRef=150602210615&Amt=10&Cur=840&prc=0&src=0&Ord=150602210615&Holder=&AuthId=0615&TxTime=15-06-02 21:06:15&errMsg=Transaction Completed
+

@@ -1,0 +1,1162 @@
+2016-01-07T04:27:20Z
+End Point:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Init RequestParameter:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050825
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T04:27:20Z
+Init ResponseParameter:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Array
+(
+    [rc] => 0
+    [result] => OK:b2b7b99bb0f13423a1e0db3ca0965b6b59469106
+)
+
+
+2016-01-07T04:27:20Z
+End Point:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Capture RequestParameter:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => b2b7b99bb0f13423a1e0db3ca0965b6b59469106
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-01-07T04:27:20Z
+Capture ResponseParameter:  billNo: TEST201601050825
+
+2016-01-07T04:27:20Z
+Array
+(
+    [rc] => 999
+    [result] => ID:b2b7b99bb0f13423a1e0db3ca0965b6b59469106~Status:Failed~MerchantID:TEST201601050825~Terminal:Rietumu - non3D~ResultCode:101~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:03:46Z
+End Point:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Init RequestParameter:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050826
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:03:46Z
+Init ResponseParameter:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Array
+(
+    [rc] => 0
+    [result] => OK:902b051655116e0d4b1cd2f1394663e362e66df7
+)
+
+
+2016-01-07T05:03:46Z
+End Point:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Capture RequestParameter:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 902b051655116e0d4b1cd2f1394663e362e66df7
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:03:46Z
+Capture ResponseParameter:  billNo: TEST201601050826
+
+2016-01-07T05:03:46Z
+Array
+(
+    [rc] => 0
+    [result] => ID:902b051655116e0d4b1cd2f1394663e362e66df7~Status:Success~MerchantID:TEST201601050826~Terminal:Rietumu - non3D~ResultCode:0~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:07:44Z
+End Point:  billNo: TEST201601050827
+
+2016-01-07T05:07:44Z
+Init RequestParameter:  billNo: TEST201601050827
+
+2016-01-07T05:07:44Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050827
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:07:44Z
+Init ResponseParameter:  billNo: TEST201601050827
+
+2016-01-07T05:07:44Z
+Array
+(
+    [rc] => 0
+    [result] => OK:3c8825bcaf76cd42efc4f76f8e9ab8ccb0539e81
+)
+
+
+2016-01-07T05:08:29Z
+End Point:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Init RequestParameter:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050828
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:08:29Z
+Init ResponseParameter:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Array
+(
+    [rc] => 0
+    [result] => OK:15b1264a0a5898fab99ee5677c13375461c72a1f
+)
+
+
+2016-01-07T05:08:29Z
+End Point:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Capture RequestParameter:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 15b1264a0a5898fab99ee5677c13375461c72a1f
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:08:29Z
+Capture ResponseParameter:  billNo: TEST201601050828
+
+2016-01-07T05:08:29Z
+Array
+(
+    [rc] => 0
+    [result] => ID:15b1264a0a5898fab99ee5677c13375461c72a1f~Status:Success~MerchantID:TEST201601050828~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:08:44Z
+End Point:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Init RequestParameter:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050829
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:08:44Z
+Init ResponseParameter:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Array
+(
+    [rc] => 0
+    [result] => OK:15769bfe8900da167dd159237287294d54cb4f57
+)
+
+
+2016-01-07T05:08:44Z
+End Point:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Capture RequestParameter:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 15769bfe8900da167dd159237287294d54cb4f57
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:08:44Z
+Capture ResponseParameter:  billNo: TEST201601050829
+
+2016-01-07T05:08:44Z
+Array
+(
+    [rc] => 0
+    [result] => ID:15769bfe8900da167dd159237287294d54cb4f57~Status:Success~MerchantID:TEST201601050829~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:10:14Z
+End Point:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Init RequestParameter:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050830
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:10:14Z
+Init ResponseParameter:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Array
+(
+    [rc] => 0
+    [result] => OK:4d06006533f03b8af8d207ed592aa67a51d4bb01
+)
+
+
+2016-01-07T05:10:14Z
+End Point:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Capture RequestParameter:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 4d06006533f03b8af8d207ed592aa67a51d4bb01
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:10:14Z
+Capture ResponseParameter:  billNo: TEST201601050830
+
+2016-01-07T05:10:14Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=4d06006533f03b8af8d207ed592aa67a51d4bb01
+)
+
+
+2016-01-07T05:38:50Z
+End Point:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Init RequestParameter:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050831
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:38:50Z
+Init ResponseParameter:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Array
+(
+    [rc] => 0
+    [result] => OK:95aee4dfa0d47a08ca0d9c90f14d6bd56fde9e41
+)
+
+
+2016-01-07T05:38:50Z
+End Point:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Capture RequestParameter:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 95aee4dfa0d47a08ca0d9c90f14d6bd56fde9e41
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:38:50Z
+Capture ResponseParameter:  billNo: TEST201601050831
+
+2016-01-07T05:38:50Z
+Array
+(
+    [rc] => 0
+    [result] => ID:95aee4dfa0d47a08ca0d9c90f14d6bd56fde9e41~Status:Success~MerchantID:TEST201601050831~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:40:34Z
+End Point:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Init RequestParameter:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050832
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:40:34Z
+Init ResponseParameter:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Array
+(
+    [rc] => 0
+    [result] => OK:0ae979a8224ba561c698f1e77ce5c9eeeb31cda5
+)
+
+
+2016-01-07T05:40:34Z
+End Point:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Capture RequestParameter:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 0ae979a8224ba561c698f1e77ce5c9eeeb31cda5
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:40:34Z
+Capture ResponseParameter:  billNo: TEST201601050832
+
+2016-01-07T05:40:34Z
+Array
+(
+    [rc] => 999
+    [result] => ID:0ae979a8224ba561c698f1e77ce5c9eeeb31cda5~Status:Failed~MerchantID:TEST201601050832~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:45:56Z
+End Point:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Init RequestParameter:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050833
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:45:56Z
+Init ResponseParameter:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Array
+(
+    [rc] => 0
+    [result] => OK:8c78609a8c6ce212a8d7f610eb3eed284e20d590
+)
+
+
+2016-01-07T05:45:56Z
+End Point:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Capture RequestParameter:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 8c78609a8c6ce212a8d7f610eb3eed284e20d590
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:45:56Z
+Capture ResponseParameter:  billNo: TEST201601050833
+
+2016-01-07T05:45:56Z
+Array
+(
+    [rc] => 999
+    [result] => ID:8c78609a8c6ce212a8d7f610eb3eed284e20d590~Status:Failed~MerchantID:TEST201601050833~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:50:27Z
+End Point:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Init RequestParameter:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050834
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:50:27Z
+Init ResponseParameter:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Array
+(
+    [rc] => 0
+    [result] => OK:f66e2949b7e589f1a0f6320663c69fa4d9d0e930
+)
+
+
+2016-01-07T05:50:27Z
+End Point:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Capture RequestParameter:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => f66e2949b7e589f1a0f6320663c69fa4d9d0e930
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:50:27Z
+Capture ResponseParameter:  billNo: TEST201601050834
+
+2016-01-07T05:50:27Z
+Array
+(
+    [rc] => 999
+    [result] => ID:f66e2949b7e589f1a0f6320663c69fa4d9d0e930~Status:Failed~MerchantID:TEST201601050834~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:51:35Z
+End Point:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Init RequestParameter:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050835
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:51:35Z
+Init ResponseParameter:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Array
+(
+    [rc] => 0
+    [result] => OK:dfc7465e30787391779a54ee73901a34b29c9027
+)
+
+
+2016-01-07T05:51:35Z
+End Point:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Capture RequestParameter:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => dfc7465e30787391779a54ee73901a34b29c9027
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:51:35Z
+Capture ResponseParameter:  billNo: TEST201601050835
+
+2016-01-07T05:51:35Z
+Array
+(
+    [rc] => 999
+    [result] => ID:dfc7465e30787391779a54ee73901a34b29c9027~Status:Failed~MerchantID:TEST201601050835~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:52:43Z
+End Point:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Init RequestParameter:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050836
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:52:43Z
+Init ResponseParameter:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Array
+(
+    [rc] => 0
+    [result] => OK:223aa362f666c3ef64971f5d74746eb3ea5bdf43
+)
+
+
+2016-01-07T05:52:43Z
+End Point:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Capture RequestParameter:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 223aa362f666c3ef64971f5d74746eb3ea5bdf43
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:52:43Z
+Capture ResponseParameter:  billNo: TEST201601050836
+
+2016-01-07T05:52:43Z
+Array
+(
+    [rc] => 999
+    [result] => ID:223aa362f666c3ef64971f5d74746eb3ea5bdf43~Status:Failed~MerchantID:TEST201601050836~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T05:55:48Z
+End Point:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Init RequestParameter:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050838
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T05:55:48Z
+Init ResponseParameter:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Array
+(
+    [rc] => 0
+    [result] => OK:56ccd5242ee91bf8211e95f0e7bffbdb08cfe916
+)
+
+
+2016-01-07T05:55:48Z
+End Point:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Capture RequestParameter:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 56ccd5242ee91bf8211e95f0e7bffbdb08cfe916
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T05:55:48Z
+Capture ResponseParameter:  billNo: TEST201601050838
+
+2016-01-07T05:55:48Z
+Array
+(
+    [rc] => 999
+    [result] => ID:56ccd5242ee91bf8211e95f0e7bffbdb08cfe916~Status:Failed~MerchantID:TEST201601050838~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T08:21:00Z
+End Point:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Init RequestParameter:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050841
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T08:21:00Z
+Init ResponseParameter:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Array
+(
+    [rc] => 0
+    [result] => OK:2886a8828f7e28a0a6c321ccdfa9abcb7d16c6f6
+)
+
+
+2016-01-07T08:21:00Z
+End Point:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Capture RequestParameter:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 2886a8828f7e28a0a6c321ccdfa9abcb7d16c6f6
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T08:21:00Z
+Capture ResponseParameter:  billNo: TEST201601050841
+
+2016-01-07T08:21:00Z
+Array
+(
+    [rc] => 999
+    [result] => ID:2886a8828f7e28a0a6c321ccdfa9abcb7d16c6f6~Status:Failed~MerchantID:TEST201601050841~Terminal:Rietumu - non3D~ResultCode:117~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T08:25:12Z
+End Point:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Init RequestParameter:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050842
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T08:25:12Z
+Init ResponseParameter:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Array
+(
+    [rc] => 0
+    [result] => OK:400604bdbb629cbb0240844bd3f3da6e7f25354c
+)
+
+
+2016-01-07T08:25:12Z
+End Point:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Capture RequestParameter:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 400604bdbb629cbb0240844bd3f3da6e7f25354c
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T08:25:12Z
+Capture ResponseParameter:  billNo: TEST201601050842
+
+2016-01-07T08:25:12Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=400604bdbb629cbb0240844bd3f3da6e7f25354c
+)
+
+
+2016-01-07T08:37:39Z
+End Point:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Init RequestParameter:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050843
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T08:37:39Z
+Init ResponseParameter:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Array
+(
+    [rc] => 0
+    [result] => OK:0328e90e84187e4d78125431bd908172e30eb1bb
+)
+
+
+2016-01-07T08:37:39Z
+End Point:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Capture RequestParameter:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 0328e90e84187e4d78125431bd908172e30eb1bb
+    [cc] => 5************021
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T08:37:39Z
+Capture ResponseParameter:  billNo: TEST201601050843
+
+2016-01-07T08:37:39Z
+Array
+(
+    [rc] => 999
+    [result] => ID:0328e90e84187e4d78125431bd908172e30eb1bb~Status:Failed~MerchantID:TEST201601050843~Terminal:Rietumu - non3D~ResultCode:204~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-07T08:39:27Z
+End Point:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Init RequestParameter:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => TEST201601050844
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-07T08:39:27Z
+Init ResponseParameter:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Array
+(
+    [rc] => 0
+    [result] => OK:d23fe0dff54eab0ed36c381d74f702e491d6f24f
+)
+
+
+2016-01-07T08:39:27Z
+End Point:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Capture RequestParameter:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => d23fe0dff54eab0ed36c381d74f702e491d6f24f
+    [cc] => 5************020
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-07T08:39:27Z
+Capture ResponseParameter:  billNo: TEST201601050844
+
+2016-01-07T08:39:27Z
+Array
+(
+    [rc] => 0
+    [result] => ID:d23fe0dff54eab0ed36c381d74f702e491d6f24f~Status:Success~MerchantID:TEST201601050844~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+

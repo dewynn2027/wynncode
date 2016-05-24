@@ -1,0 +1,102 @@
+2015-07-07T09:02:23Z
+RequestParameter:  billNo: wNG5p1436259742 | startTime:2015-07-07 09:02:23
+
+2015-07-07T09:02:23Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 31.168.23.108
+    [SESS] => wNG5p1436259742
+    [ORDR] => wNG5p1436259742
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 40543359GTFV4VSGS0UY
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => deposit
+    [PROD_TYPE[0]] => 2
+    [PROD_ITEM[0]] => deposit
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 30000
+    [TOTL] => 30000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL
+    [NAME] => ahmed desoky
+    [B2A1] => ryad street
+    [B2CC] => SA
+    [B2CI] => Alryadh
+    [B2PC] => 00966
+    [B2PN] => 0096654103287
+    [B2ST] => Alryadh
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 300
+    [DOB] => 1973-01-25
+    [GENDER] => M
+    [EMAL] => lailadesuoky@hotmail.com
+    [ANID] => 0096654103287
+)
+
+
+2015-07-07T09:02:24Z
+ResponseParameter:  billNo: wNG5p1436259742 | endTime:2015-07-07 09:02:24
+
+2015-07-07T09:02:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3ZMC0K2RQ286</TRAN>
+  <MERC>680000</MERC>
+  <SESS>wNG5p1436259742</SESS>
+  <ORDR>wNG5p1436259742</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>19</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

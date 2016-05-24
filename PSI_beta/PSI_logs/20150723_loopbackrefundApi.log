@@ -1,0 +1,150 @@
+2015-07-23T08:19:21Z
+RequestParameter:  billNo: DjMV61437639378
+
+2015-07-23T08:19:21Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150723160725
+    [billNo] => DjMV61437639378
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Bank Refund Test|adminRemarks|_|Bank Refund Test
+    [type] => 2
+)
+
+
+2015-07-23T08:19:21Z
+ResponseParameter:  billNo: DjMV61437639378
+
+2015-07-23T08:19:21Z
+resultCode=0&orderStatus=Accepted&ref=DjMV61437639378&payRef=040721&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-07-23T08:23:14Z
+RequestParameter:  billNo: 4Ic5Z1437639757
+
+2015-07-23T08:23:14Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150723160740
+    [billNo] => 4Ic5Z1437639757
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test Refund Bank|adminRemarks|_|Test Refund Bank
+    [type] => 2
+)
+
+
+2015-07-23T08:23:14Z
+ResponseParameter:  billNo: 4Ic5Z1437639757
+
+2015-07-23T08:23:14Z
+resultCode=0&orderStatus=Accepted&ref=4Ic5Z1437639757&payRef=040714&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-07-23T08:30:00Z
+RequestParameter:  billNo: 75lgv1437640108
+
+2015-07-23T08:30:00Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNum] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150723160729
+    [billNo] => 75lgv1437640108
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test Ref Bank|adminRemarks|_|Test Ref Bank
+    [type] => 2
+)
+
+
+2015-07-23T08:30:00Z
+ResponseParameter:  billNo: 75lgv1437640108
+
+2015-07-23T08:30:00Z
+resultCode=0&orderStatus=Accepted&ref=75lgv1437640108&payRef=040700&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-07-23T08:33:18Z
+RequestParameter:  billNo: 8qQOf1437640361
+
+2015-07-23T08:33:18Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNum] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150723160743
+    [billNo] => 8qQOf1437640361
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test Ref Bank|adminRemarks|_|Test Ref Bank
+    [type] => 2
+)
+
+
+2015-07-23T08:33:18Z
+ResponseParameter:  billNo: 8qQOf1437640361
+
+2015-07-23T08:33:18Z
+resultCode=0&orderStatus=Accepted&ref=8qQOf1437640361&payRef=040718&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-07-23T08:36:19Z
+RequestParameter:  billNo: 7PT0V1437640537
+
+2015-07-23T08:36:19Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNum] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150723160739
+    [billNo] => 7PT0V1437640537
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test Ref Bank|adminRemarks|_|Test Ref Bank
+    [type] => 2
+)
+
+
+2015-07-23T08:36:19Z
+ResponseParameter:  billNo: 7PT0V1437640537
+
+2015-07-23T08:36:19Z
+resultCode=0&orderStatus=Accepted&ref=7PT0V1437640537&payRef=040719&amt=10&cur=608&errMsg=Void Successfully.
+

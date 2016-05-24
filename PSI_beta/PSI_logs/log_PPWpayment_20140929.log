@@ -1,0 +1,100 @@
+2014-09-29T00:36:22Z
+RequestParameter:  referenceId: BILL2014092901
+
+2014-09-29T00:36:22Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL2014092901&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-29T00:36:24Z
+ResponseParameter:  referenceId: BILL2014092901
+
+2014-09-29T00:36:24Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL2014092901</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929073721</ResponseTime>
+<TransactionID>20140929000017700030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T04:55:15Z
+RequestParameter:  referenceId: BILL000570
+
+2014-09-29T04:55:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL000570&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Test%20Name&ProductName=2
+
+2014-09-29T04:55:17Z
+ResponseParameter:  referenceId: BILL000570
+
+2014-09-29T04:55:17Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL000570</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929065613</ResponseTime>
+<TransactionID>2014092900001AD00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T04:55:53Z
+RequestParameter:  referenceId: BILL000571
+
+2014-09-29T04:55:53Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL000571&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Test%20Name&ProductName=2
+
+2014-09-29T04:55:54Z
+ResponseParameter:  referenceId: BILL000571
+
+2014-09-29T04:55:54Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL000571</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929135650</ResponseTime>
+<TransactionID>2014092900001AE00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T05:22:01Z
+RequestParameter:  referenceId: BILL000572
+
+2014-09-29T05:22:01Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL000572&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Test%20Name&ProductName=12
+
+2014-09-29T05:22:02Z
+ResponseParameter:  referenceId: BILL000572
+
+2014-09-29T05:22:02Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL000572</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929072259</ResponseTime>
+<TransactionID>2014092900001B800030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

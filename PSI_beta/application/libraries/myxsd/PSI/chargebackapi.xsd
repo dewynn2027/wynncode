@@ -1,0 +1,18 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Parameters">
+    <xs:complexType>
+      <xs:all>
+        <xs:element type="xs:string" name="API_username"/>
+        <xs:element type="xs:string" name="API_password"/>
+        <xs:element type="xs:string" name="API_key"/>
+        <xs:element type="xs:string" name="transactionId"/>
+        <xs:element type="xs:string" name="billNo"/>
+        <xs:element type="xs:string" name="amount"/>
+        <xs:element type="xs:string" name="refundAmount"/>
+        <xs:element type="xs:string" name="remark"/>
+        <xs:element type="xs:string" name="type"/>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+

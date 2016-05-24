@@ -1,0 +1,932 @@
+2015-02-26T13:26:50Z
+RequestParameter:  billNo: 1424957216464 | startTime:2015-02-26 13:26:50
+
+2015-02-26T13:26:50Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424957216464
+    [ORDR] => 1424957216464
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER1
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:28:55Z
+RequestParameter:  billNo: 1424957320050 | startTime:2015-02-26 13:28:55
+
+2015-02-26T13:28:55Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424957320050
+    [ORDR] => 1424957320050
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER1
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:29:44Z
+RequestParameter:  billNo: 1424957409009 | startTime:2015-02-26 13:29:44
+
+2015-02-26T13:29:44Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424957409009
+    [ORDR] => 1424957409009
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:29:46Z
+ResponseParameter:  billNo: 1424957409009 | endTime:2015-02-26 13:29:46
+
+2015-02-26T13:29:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3TTP0D9DBJGS</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1424957409009</SESS>
+  <ORDR>1424957409009</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-26T13:42:53Z
+RequestParameter:  billNo: 1424958198871 | startTime:2015-02-26 13:42:53
+
+2015-02-26T13:42:53Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424958198871
+    [ORDR] => 1424958198871
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:43:25Z
+RequestParameter:  billNo: 1424958235787 | startTime:2015-02-26 13:43:25
+
+2015-02-26T13:43:25Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424958235787
+    [ORDR] => 1424958235787
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:43:27Z
+ResponseParameter:  billNo: 1424958235787 | endTime:2015-02-26 13:43:27
+
+2015-02-26T13:43:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3TTP0NZQGKNY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1424958235787</SESS>
+  <ORDR>1424958235787</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-26T13:45:47Z
+RequestParameter:  billNo: 1424958375300 | startTime:2015-02-26 13:45:47
+
+2015-02-26T13:45:47Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424958375300
+    [ORDR] => 1424958375300
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T13:45:48Z
+ResponseParameter:  billNo: 1424958375300 | endTime:2015-02-26 13:45:48
+
+2015-02-26T13:45:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3TTP0K3X3287</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1424958375300</SESS>
+  <ORDR>1424958375300</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-26T14:17:18Z
+RequestParameter:  billNo: 1424960255702 | startTime:2015-02-26 14:17:18
+
+2015-02-26T14:17:18Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960255702
+    [ORDR] => 1424960255702
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:17:36Z
+RequestParameter:  billNo: 1424960285618 | startTime:2015-02-26 14:17:36
+
+2015-02-26T14:17:36Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960285618
+    [ORDR] => 1424960285618
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:17:50Z
+RequestParameter:  billNo: 1424960304198 | startTime:2015-02-26 14:17:50
+
+2015-02-26T14:17:50Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960304198
+    [ORDR] => 1424960304198
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:18:05Z
+RequestParameter:  billNo: 1424960323162 | startTime:2015-02-26 14:18:05
+
+2015-02-26T14:18:05Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960323162
+    [ORDR] => 1424960323162
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:18:15Z
+RequestParameter:  billNo: 1424960332725 | startTime:2015-02-26 14:18:15
+
+2015-02-26T14:18:15Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960332725
+    [ORDR] => 1424960332725
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:18:24Z
+RequestParameter:  billNo: 1424960341514 | startTime:2015-02-26 14:18:24
+
+2015-02-26T14:18:24Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960341514
+    [ORDR] => 1424960341514
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:18:38Z
+RequestParameter:  billNo: 1424960355288 | startTime:2015-02-26 14:18:38
+
+2015-02-26T14:18:38Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424960355288
+    [ORDR] => 1424960355288
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-26T14:18:40Z
+ResponseParameter:  billNo: 1424960355288 | endTime:2015-02-26 14:18:40
+
+2015-02-26T14:18:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3TT70YCVXGKH</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1424960355288</SESS>
+  <ORDR>1424960355288</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-26T16:38:13Z
+RequestParameter:  billNo: 1424968779400 | startTime:2015-02-26 16:38:13
+
+2015-02-26T16:38:13Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1424968779400
+    [ORDR] => 1424968779400
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001AGTPAYOBIN
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+

@@ -1,0 +1,50 @@
+2015-05-26T13:22:33Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-05-26T13:22:33Z
+RequestParameter:  billNo: bill635679061695555759 | startTime:2015-05-26 13:22:33
+
+2015-05-26T13:22:33Z
+Array
+(
+    [reason[30Y5091QM0JS]] => R1
+    [note[30Y5091QM0JS]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-05-26T13:22:33Z
+REFUND
+
+2015-05-26T13:22:35Z
+ResponseParameter:  billNo: bill635679061695555759 | endTime:2015-05-26 13:22:35
+
+2015-05-26T13:22:35Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+
+2015-05-26T13:24:00Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-05-26T13:24:00Z
+RequestParameter:  billNo: 497EJ1432646638 | startTime:2015-05-26 13:24:00
+
+2015-05-26T13:24:00Z
+Array
+(
+    [reason[30ZK0QWV37VS]] => D1
+    [note[30ZK0QWV37VS]] => *remarks: [this is an autobot test|bankremarks|_|error: parameter currency incorrect (rejected by payment bank,input error)|bankresponse|_|successcode=-1|prc=1|src=14] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-05-26T13:24:00Z
+DECLINED
+
+2015-05-26T13:24:02Z
+ResponseParameter:  billNo: 497EJ1432646638 | endTime:2015-05-26 13:24:02
+
+2015-05-26T13:24:02Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>30ZK0QWV37VS</scope></error></errors><result/></response>
+
+

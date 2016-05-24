@@ -1,0 +1,1229 @@
+2016-01-22T08:06:01Z
+Verify RequestParameter:  billNo: 2016012202
+
+2016-01-22T08:06:01Z
+<EPG><MESSAGE id='2016012202' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>USD</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent></httpUserAgent><httpAcceptLanguage></httpAcceptLanguage><trackid>2016012202</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T08:06:04Z
+Verify ResponseParameter:  billNo: 2016012202
+
+2016-01-22T08:06:04Z
+Array
+
+2016-01-22T08:06:04Z
+RequestParameter:  billNo: 2016012202
+
+2016-01-22T08:06:04Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012202
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T08:06:26Z
+ResponseParameter:  billNo: 2016012202
+
+2016-01-22T08:06:26Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201085748763,Identifier=2016012202,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T08:13:08Z
+Verify RequestParameter:  billNo: 2016012203
+
+2016-01-22T08:13:08Z
+<EPG><MESSAGE id='2016012203' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>USD</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent></httpUserAgent><httpAcceptLanguage></httpAcceptLanguage><trackid>2016012203</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T08:13:10Z
+Verify ResponseParameter:  billNo: 2016012203
+
+2016-01-22T08:13:10Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012203" version="1.0"><Response><result>Unable to Verify Enrollment</result><avr>U</avr><message>VERes: Cannot locate exponent for Currency: USD</message><pareq></pareq><url></url><trackid>2016012203</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T08:13:10Z
+RequestParameter:  billNo: 2016012203
+
+2016-01-22T08:13:10Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012203
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T08:13:32Z
+ResponseParameter:  billNo: 2016012203
+
+2016-01-22T08:13:32Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201090454950,Identifier=2016012203,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T08:37:26Z
+Verify RequestParameter:  billNo: 2016012206
+
+2016-01-22T08:37:26Z
+<EPG><MESSAGE id='2016012206' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>USD</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent></httpUserAgent><httpAcceptLanguage></httpAcceptLanguage><trackid>2016012206</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T08:37:28Z
+Verify ResponseParameter:  billNo: 2016012206
+
+2016-01-22T08:37:28Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012206" version="1.0"><Response><result>Unable to Verify Enrollment</result><avr>U</avr><message>VERes: Cannot locate exponent for Currency: USD</message><pareq></pareq><url></url><trackid>2016012206</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T08:37:28Z
+RequestParameter:  billNo: 2016012206
+
+2016-01-22T08:37:28Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012206
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T08:37:49Z
+ResponseParameter:  billNo: 2016012206
+
+2016-01-22T08:37:49Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201092912294,Identifier=2016012206,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T08:52:04Z
+Verify RequestParameter:  billNo: 2016012207
+
+2016-01-22T08:52:04Z
+<EPG><MESSAGE id='2016012207' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>USD</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012207</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T08:52:06Z
+Verify ResponseParameter:  billNo: 2016012207
+
+2016-01-22T08:52:06Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012207" version="1.0"><Response><result>Unable to Verify Enrollment</result><avr>U</avr><message>VERes: Cannot locate exponent for Currency: USD</message><pareq></pareq><url></url><trackid>2016012207</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T08:52:06Z
+RequestParameter:  billNo: 2016012207
+
+2016-01-22T08:52:06Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012207
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T08:52:28Z
+ResponseParameter:  billNo: 2016012207
+
+2016-01-22T08:52:28Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201094350622,Identifier=2016012207,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:15:35Z
+Verify RequestParameter:  billNo: 2016012208
+
+2016-01-22T09:15:35Z
+<EPG><MESSAGE id='2016012208' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012208</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:15:37Z
+Verify ResponseParameter:  billNo: 2016012208
+
+2016-01-22T09:15:37Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012208" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1vwjAMvSPtP0TVriNJoYCQycTYxpAG+wJNO1bBgk60hTQdsF+/pBAI6yl+frWfnw23u3RFflAVSZ71Al5nAcFM5vMkW/SC2fTxphPciqsaTJcK8f4DZalQ1AiBMRZFvECSzHtBYBGDvfbfcXN4m+hYVZii9RCoC116jEou40w7wECx3NyNJoJXH9BjeM6nqEb3IoqieLVK4uw3Ra1yoAf4RCOQxSmKPplioYlrA7RCPZbMy0yrvWixDlAXePlSrcRS63WX0u12W/d71mWeArUENw39Pw68lhYoLlrukrl4mc4aX98L/hWO9GT4xscDxibDWfT8OeoBtQzvh3msUYSMtxgPQ8JZl0fdRgtohXu8OLX6xezjmoTGb2bMOyAeZ20F9Q9wyC3HR3xjSqXMEexFp2lIp8hj4G6dZ2jrAD29fdlYSPFwM8hTsxuJxHlhhNvMmXmy779bMHi6mE9KbXbcNDYwxlmjzZvmREJ7I1XiUltiFsnbnFXikvNWgbqqpqG7Vbu66pRFDejFmV/V/gDmodgu</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012208</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:15:37Z
+RequestParameter:  billNo: 2016012208
+
+2016-01-22T09:15:37Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012208
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:15:58Z
+ResponseParameter:  billNo: 2016012208
+
+2016-01-22T09:15:58Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201101544817,Identifier=2016012208,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:17:46Z
+Verify RequestParameter:  billNo: 2016012209
+
+2016-01-22T09:17:46Z
+<EPG><MESSAGE id='2016012209' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012209</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:17:48Z
+Verify ResponseParameter:  billNo: 2016012209
+
+2016-01-22T09:17:48Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012209" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttuwjAMfUfaP0TVXkeSchUymRhsGtJg08Y0ibcqWGu1XiBNx+XrlxQCYX2Kj0/t42PD/S5LyS+qMinyYcCbLCCYy2KV5N/D4HPxdNcP7sVNAxaxQpx8oKwUigYhMMOyjL6RJKthEFjEYG+jd9wc3yY6VRWmaDME6kKXnqGScZRrBxgokpuH6Vzw+gN6Ci/5DNV0IjqdTpSmSZQfMtSqAHqEzzQCeZShGJEFlpq4NkBr1GPJosq12osu6wN1gZevVCpirdcDSrfbbdPv2ZRFBtQS3DT0/zjwVlmgvGq5S1ZiOZH75SSOl4upnh3Sn9cxY/OvWevlazoEahneD6tIowgZ7zIehoSzAe8N2l2gNe7xoszqF58ftyQ0fjNj3hHxOGsraHSEQ245PuIbUylljmAv+m1DOkceA3frIkdbB+j57cvGUorHu3GRmd1IJM4LI9xmLsyzff/dgvHz1XxSarPjtrGBMc5aPd42JxLaG6kT19oSs0je46wWl1y2CtRVNQ3drdrV1acsGkCvzvym8QetktlF</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012209</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:17:48Z
+RequestParameter:  billNo: 2016012209
+
+2016-01-22T09:17:48Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012209
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:18:09Z
+ResponseParameter:  billNo: 2016012209
+
+2016-01-22T09:18:09Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201101755864,Identifier=2016012209,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:22:51Z
+Verify RequestParameter:  billNo: 2016012210
+
+2016-01-22T09:22:51Z
+<EPG><MESSAGE id='2016012210' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012210</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:22:53Z
+Verify ResponseParameter:  billNo: 2016012210
+
+2016-01-22T09:22:53Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012210" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUstuwjAQvCPxD1bUK/hRKAgZIwp9IBWKCgiJW2RWkJYk4DgF+vW1AwZDTt7Zye7s7PLOId6gX1BZlCbtgFZJgCCR6TJKVu1gNn2tNIOOKJf4dK0A+hOQuQJRQogPIcvCFaBo2Q4Cixhs3P2C3eltonNVYYpWGccudOkhKLkOE+0AA4Vy9zwYCVp8HJ/Daz4GNeiLer0ebjZRmPzFoFXK8Qm+0BBPwhhEF00h08i14bhAPZZM80Sro3giTY5d4OVztRFrrbctjPf7fdXvWZVpzLEluGnw/Th8nFsgu2l5iJZiNB9Fi7fBfvjd1Yv54md4JORzOjt8zAdtji3D+2EZahCM0CdCGUOUtBhr1Y2ZBe7xwtjqF7PJA2LGb2LMOyEeZ2sFdU8wo5bjI74xuVLmCI6iWTOkS+Qx4LBNE7B1OL68fdmQSfFS6aWx2Y0E5Lwwwm3myrzYd+8W773fzCelNjuuGRsIoeSxQWvmRJi9kSJxqy0yi6QNSgpx0XWrHLuqpqG7Vbu64pRFieObMy+X/gHnUtlr</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012210</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:22:53Z
+RequestParameter:  billNo: 2016012210
+
+2016-01-22T09:22:53Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012210
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:23:15Z
+ResponseParameter:  billNo: 2016012210
+
+2016-01-22T09:23:15Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201102259781,Identifier=2016012210,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:27:00Z
+Verify RequestParameter:  billNo: 2016012211
+
+2016-01-22T09:27:00Z
+<EPG><MESSAGE id='2016012211' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012211</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:27:02Z
+Verify ResponseParameter:  billNo: 2016012211
+
+2016-01-22T09:27:02Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012211" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttuwjAMfUfiH6Jqr5Ckg4GQCWJjV63sAmja3qpgjUq0ZWk6YF+/pBAI9Ck+PrWPjw2DTbokv6iKJM/6AW+ygGAm83mSffeD2fSu0Q0Gol6D6UIhjiYoS4WiRghEWBTxN5Jk3g8CixjsdfiOP7u3ifZVhSnaDIG60KUjVHIRZ9oBBorlz/XjWPDqA7oPj/kU1eNItNvteLlM4uwvRa1yoDv4QCOQxSmKIZlioYlrA7RCPZbMy0yrrbhiXaAu8PKlWoqF1qsepev1uun3bMo8BWoJbhp6Pg68lhYoTlpukrl4uY9a47/P7ddI6vH0bRsljEWjp8Xzx20fqGV4P8xjjSJk/IrxMCSc9cJOjzGgFe7x4tTqF7PJBQmN34axRzzOygoa7uCQW46P+MaUSpkj2Ipuy5AOkcfAzSrP0NYBenj7srGQ4rZxk6dmNxKJ88IIt5kj82DfuVtw83Ayn5Ta7LhlbGCMs8sOb5kTCe2NVIlTbYlZJO9wVolLjlsF6qqahu5W7eqqUxY1oCdnXq/9A2bj2Rs=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012211</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:27:02Z
+RequestParameter:  billNo: 2016012211
+
+2016-01-22T09:27:02Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012211
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:27:35Z
+ResponseParameter:  billNo: 2016012211
+
+2016-01-22T09:27:35Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201102707217,Identifier=2016012211,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:30:16Z
+Verify RequestParameter:  billNo: 2016012212
+
+2016-01-22T09:30:16Z
+<EPG><MESSAGE id='2016012212' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012212</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:30:18Z
+Verify ResponseParameter:  billNo: 2016012212
+
+2016-01-22T09:30:18Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012212" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttuwjAMfUfiH6Jqr5CkwEDIBDHYNKQV7VI+oAoWVKMtpOm4fP2SskBYn+LjU/v42DA+Zlvyg6pMi3wU8DYLCOayWKX5ehQs45fWIBiLZgPijUKcfaGsFIoGIRBhWSZrJOlqFAQWMdj75BP3l7eJ/qoKU7QdAnWhS0eo5CbJtQMMlMj903wheP0B/Qtv+QzVfCZ6vV6y3aZJfs5QqwLoBb7SCORJhmJCYiw1cW2A1qjHkkWVa3USj2wA1AVevlJbsdF6N6T0cDi0/Z5tWWRALcFNQ/+PA++VBcq7lsd0JaKz5NFsflzM5jqKPzrRibHFedl7i79HQC3D+2GVaBQh44+MhyHhbNhhQ94HWuMeL8msfrH8eiCh8ZsZ8y6Ix9lZQZMLHHLL8RHfmEopcwQnMega0jXyGHjcFTnaOkCvb182llI8t6ZFZnYjkTgvjHCbuTGv9v13C6avd/NJqc2Ou8YGxjjr9HnXnEhob6RO3GtLzSJ5n7NaXHrbKlBX1TR0t2pXV5+yaAC9O/Nm4xccQNju</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012212</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:30:18Z
+RequestParameter:  billNo: 2016012212
+
+2016-01-22T09:30:18Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012212
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:30:40Z
+ResponseParameter:  billNo: 2016012212
+
+2016-01-22T09:30:40Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201103024189,Identifier=2016012212,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:50:19Z
+Verify RequestParameter:  billNo: 2016012216
+
+2016-01-22T09:50:19Z
+<EPG><MESSAGE id='2016012216' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent></httpUserAgent><httpAcceptLanguage></httpAcceptLanguage><trackid>2016012216</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:50:21Z
+Verify ResponseParameter:  billNo: 2016012216
+
+2016-01-22T09:50:21Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012216" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUlFPwjAQfifhPzSLr9B2DiXkqJmgkcQZoxAib0u5yBK2QdcJ+uttB4XCnnrffbv77ruDh32+Jj+oqqwshgHvsoBgIctlVnwPg9n0udMPHkS7BdOVQhx/oqwVihYhkGBVpd9IsuUwCCxisPf4A7eHt4mOVYUp2g2ButClE1RylRbaAQZK5fZx8iZ48wE9hud8jmoyFr1eL12vs7T4y1GrEugBPtEIFGmOIiZTrDRxbYA2qMeSZV1o9SvuWB+oC7x8rdZipfVmQOlut+v6PbuyzIFagpuGXo8D77UFqouW+2wp3sZfUTKO94v5RCd/cbQYMbbIE/46fxoCtQzvh2WqUYSM3zEehoSzQY8NQga0wT1emlv9YvZ5Q0Ljt2EcEY+zsYLiAxxyy/ER35haKXMEv6IfGdIp8hi435QF2jpAT29fNlZSPHVGZW52I5E4L4xwmzkzT/ZduwWjl4v5pNRmx5GxgTHObu95ZE4ktDfSJC61ZWaR/J6zRlx23ipQV9U0dLdqV9ecsmgBvTjzdusfcCvYgw==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012216</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:50:21Z
+RequestParameter:  billNo: 2016012216
+
+2016-01-22T09:50:21Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012216
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:50:43Z
+ResponseParameter:  billNo: 2016012216
+
+2016-01-22T09:50:43Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201105027287,Identifier=2016012216,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T09:52:00Z
+Verify RequestParameter:  billNo: 2016012217
+
+2016-01-22T09:52:00Z
+<EPG><MESSAGE id='2016012217' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent></httpUserAgent><httpAcceptLanguage></httpAcceptLanguage><trackid>2016012217</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T09:52:02Z
+Verify ResponseParameter:  billNo: 2016012217
+
+2016-01-22T09:52:02Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012217" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1PAjEQvZP4H5qNV+mHoIQMNSgYTVxiFGL0tikTqbK72O0K+uttFwrFPXXevJ1582bgapMvyTeaSpfFIOFtlhAsVDnXxfsgmU1vz3rJlTxpwXRhEEfPqGqDskUIpFhV2TsSPR8kiUcc9jh8wq/t20W7qtIVbQugIQzpFI1aZIUNgIMy9XV9P5G8+YDuwkM+R3M/kt1uN1sudVb85mhNCXQL72kEiixHOSRTrCwJbYA2aMRSZV1Y8yMvWA9oCKJ8bZZyYe2qT+l6vW7HPduqzIF6QpiG/h8HHmsPVEctN3ouJx8pm0zHm3T0aV/Fm041Y+nvjD+8jAdAPSP6YZ5ZlILxC8aFIJz1u6LPGNAGj3hZ7vXL2fMpEc5vx9ghEWflBQ23sOCeEyOxMbUx7gh+ZK/jSPsoYuBmVRbo6wDdv2PZWCk5Prspc7cbhSR44YT7zIG5t++/W3BzdzSfUtbtuONsYIyz80vecSci/I00iWNt2i2SX3LWiNOHrQINVV3DcKt+dc0pyxbQozM/af0BDDvY4w==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012217</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T09:52:02Z
+RequestParameter:  billNo: 2016012217
+
+2016-01-22T09:52:02Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012217
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T09:52:23Z
+ResponseParameter:  billNo: 2016012217
+
+2016-01-22T09:52:23Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201105208027,Identifier=2016012217,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T10:04:01Z
+Verify RequestParameter:  billNo: 2016012218
+
+2016-01-22T10:04:01Z
+<EPG><MESSAGE id='2016012218' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012218</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T10:04:03Z
+Verify ResponseParameter:  billNo: 2016012218
+
+2016-01-22T10:04:03Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012218" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUsFuwjAMvSPxD1G1KyTp6EAoBDEYG9JgaJQDxypY0Im2kKYD9vVLCimBnuLnV/v52ax/SnboF2QeZ2nPo03iIUhFto7TTc9bhuNGx+vzeo2FWwkwWoAoJPAaQmwKeR5tAMXrnucZRGPzwTccLm8dXatyXbTpM2xDm56CFNsoVRbQUCQOr5MZp+XH8DW85ROQkxEPgiDa7eIo/UtAyYzhC1zREEujBPgAhZArZNswXKIOS2RFquSZv5AOwzZw8oXc8a1S+y7Gx+Ox6fZsiixh2BDsNPhxHDYvDJDftTzFaz4brYKv98lp9jNRq3CcTM+ErPxp8BluegwbhvPDOlLAfUJfCPV9RGmXtLpEm1niDi9KjH6+XDwhX/tNtHkXxOHsjaDBBfap4biIa0whpT6CM++0NKmKHAac9lkKpg7D1duVDbngb41hlujdCEDWCy3cZG7Myr5Ht9jw424+IZTecUvbQAglz23a0ifimxspE/faYr1I2qakFBfftsqwraob2ls1qytPmdcYvjvzeu0f5f/YzA==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012218</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T10:04:03Z
+RequestParameter:  billNo: 2016012218
+
+2016-01-22T10:04:03Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012218
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T10:04:25Z
+ResponseParameter:  billNo: 2016012218
+
+2016-01-22T10:04:25Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201110409215,Identifier=2016012218,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T10:05:15Z
+Verify RequestParameter:  billNo: 2016012219
+
+2016-01-22T10:05:15Z
+<EPG><MESSAGE id='2016012219' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012219</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T10:05:17Z
+Verify ResponseParameter:  billNo: 2016012219
+
+2016-01-22T10:05:17Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012219" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUsFuwjAMvSPtH6Jq15Gkowwhk4nBpiGtaBogzlWwIBJtWZoOxtcvKQTCeoqfX+3nZ8PzId+SH9SVKotBxNssIljIcqWK9SBazN8eetGzuGvBfKMRxzOUtUbRIgRSrKpsjUStBlHkEIt9Dr/w+/S20bmqsEXbMVAf+nSKWm6ywnjAQpn8fplMBW8+oOfwms9RT8YiSZJsu1VZcczR6BLoCb7QCBRZjmJI5lgZ4tsAbdCAJcu6MPpXdFkPqA+CfK23YmPMrk/pfr9vhz3bssyBOoKfhv4fBz5rB1Q3LQ9qJdLjl5qO14d0uTDpPE3SEWPT44v6WE4GQB0j+GGVGRQx413G45hw3mdJn3eBNnjAy3KnXyxm9yS2fjNr3gkJODsnaHiCY+44IRIaU2ttj+BX9DqWdIkCBh52ZYGuDtDLO5SNlRSvD6Myt7uRSLwXVrjLXJkX+/67BaP3m/mkNHbHHWsDY5w9PvGOPZHY3UiTuNWm7CL5E2eNOHXdKlBf1Tb0t+pW15yyaAG9OfO71h9te9ke</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012219</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T10:05:17Z
+RequestParameter:  billNo: 2016012219
+
+2016-01-22T10:05:17Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012219
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T10:05:39Z
+ResponseParameter:  billNo: 2016012219
+
+2016-01-22T10:05:39Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201110523290,Identifier=2016012219,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T10:08:19Z
+Verify RequestParameter:  billNo: 2016012220
+
+2016-01-22T10:08:19Z
+<EPG><MESSAGE id='2016012220' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>2016012220</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T10:08:21Z
+Verify ResponseParameter:  billNo: 2016012220
+
+2016-01-22T10:08:21Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="2016012220" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1PwkAQvZPwHzaNV9kPQQgZ1qBoJLHEj3Lx1iwTqdIWt1tBfr27hYXFnnbevM68eTNws81X5Ad1lZXFKOIdFhEsVLnIio9RNE8eLgfRjWy3IFlqxMkbqlqjbBECMVZV+oEkW4yiyCEWex6/4vf+baNDVWmLdgRQH/p0jFot08J4wEKp+r6dziRvPqCH8JTPUU8nstfrpatVlha7HI0uge7hI41AkeYoxyTByhDfBmiDBixV1oXRv/KaDYD6IMjXeiWXxqyHlG42m07Ys6PKHKgj+Gno/3HguXZAddZymy3kTLzsZpMXPvtUJk6mu/eMsXgXd5+SrxFQxwh+WKQGpWD8mnEhCOdDNhgKBrTBA16aO/1y/nZBhPXbMg5IwFk7QeM9LLjjhEhoTK21PYJfOeha0jEKGLhdlwW6OkCP71A2VkreX96Vud2NQuK9sMJd5sQ82vffLbh7PJtPKWN33LU2MMbZVZ937YkIdyNN4lxbZhfJ+5w14rLTVoH6qrahv1W3uuaUZQvo2Zm3W39U2dkS</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>2016012220</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T10:08:21Z
+RequestParameter:  billNo: 2016012220
+
+2016-01-22T10:08:21Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 2016012220
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T10:08:43Z
+ResponseParameter:  billNo: 2016012220
+
+2016-01-22T10:08:43Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201110827306,Identifier=2016012220,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T11:09:44Z
+Verify RequestParameter:  billNo: 20160122201
+
+2016-01-22T11:09:44Z
+<EPG><MESSAGE id='20160122201' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122201</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T11:09:47Z
+Verify ResponseParameter:  billNo: 20160122201
+
+2016-01-22T11:09:47Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122201" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttOAjEQfSfhH5qNr9J2BUEy1KB4wQgaxRh925QJbEJ3sduVy9fbLhSK+9Q5c3bmzJmB67VakF/URZpnvYg3WEQwk/k0zWa96GNyf96JrkW9BpO5Rhy8oyw1ihohMMKiSGZI0mkvihxisdf+G/7s3jbaVxW2aCMG6kOfHqGW8yQzHrBQIn9uhmPBqw/oPjzmFerhQLRarWSxSJNsq9DoHOgOPtAIZIlC0ScTLAzxbYBWaMCSeZkZvRGXrAPUB0G+1AsxN2bZpXS1WjXCng2ZK6CO4Keh/8eB19IBxUnLdToVLxO5HQ+e1PfD0IzV12acMvalRqvnz2EPqGMEP0wTgyJm/JLxOCY87rKrbrMFtMIDXqKcfvHxfkZi6zez5u2QgLN0gvo7OOaOEyKhMaXW9gg2otO0pEMUMHC9zDN0dYAe3qFsLKS4O7/Nld2NROK9sMJd5sg82PffLbh9PJlPSmN33LQ2MMbZRZs37YnE7kaqxKm21C6StzmrxKXHrQL1VW1Df6tuddUpixrQkzOv1/4AJ/vZlA==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122201</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T11:09:47Z
+RequestParameter:  billNo: 20160122201
+
+2016-01-22T11:09:47Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122201
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T11:10:09Z
+ResponseParameter:  billNo: 20160122201
+
+2016-01-22T11:10:09Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201120954314,Identifier=20160122201,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T11:23:09Z
+Verify RequestParameter:  billNo: 20160122202
+
+2016-01-22T11:23:09Z
+<EPG><MESSAGE id='20160122202' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122202</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T11:23:12Z
+Verify ResponseParameter:  billNo: 20160122202
+
+2016-01-22T11:23:12Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122202" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUstuwjAQvCPxD1bUK/jBU8i4SqFVKxVUFVBFb5GzglQkoY5ToF9fO+DUkJN3drKP2eH3x3SHfkAVSZ6NA9omAYJM5nGSbcbBavnUGgb3otngy60CmC5AlgpEAyE+g6KINoCSeBwEFjHYW/gO3+e3iS5VhSnaZhy70KVnoOQ2yrQDDBTJ74eXuaDVx/El/M+noF6motfrRbtdEmW/KWiVc3yGaxriWZSCCNESCo1cG44r1GPJvMy0Ook+GXLsAi9fqp3Yar0fYXw4HNp+z7bMU44twW2Db9fhb6UFiquWxyQWs69VZ82eks/lWs+nq+7ngpDZNKSvH49jji3D+yGONAhGaJ9QxhBlI9YZUcJxhXu8KLXzi9XiDjGjt2FcEI+ztwOFZ5hRy/ERX5hSKWOCkxh2DamOPAYc93kGtg7H9dsfGwopHluTPDW3kYCcFmZwm/ln1vLdqsUnz1f7SanNjbtGBkIo6Qxo11iEWY9UievZEnNIOrA6XYK6jatqGjqv2tNVVhYNjq9s3mz8AR0d2E4=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122202</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T11:23:12Z
+RequestParameter:  billNo: 20160122202
+
+2016-01-22T11:23:12Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122202
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T11:23:33Z
+ResponseParameter:  billNo: 20160122202
+
+2016-01-22T11:23:33Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201122318126,Identifier=20160122202,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T11:24:41Z
+Verify RequestParameter:  billNo: 20160122203
+
+2016-01-22T11:24:41Z
+<EPG><MESSAGE id='20160122203' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122203</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T11:24:43Z
+Verify ResponseParameter:  billNo: 20160122203
+
+2016-01-22T11:24:43Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122203" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt9PwjAQfifxf2gWX6U/HEJIKUHRqBGCMmP0bSkXmNINu07Av952WCjsqffdt7vvvjve36gl+gFdZkXei2iTRAhyWcyyfN6LXpO7i07UF2cNniw0wHAKstIgGgjxEZRlOgeUzXpR5BCLTQYv8L172+i/qrBFm4xjH/r0CLRcpLnxgIVS+X39MBa0/jj+Dw95BfphKFqtVrpcZmn+q8DoguMdvKchnqcKxAAlUBrk23BcowFLFlVu9FZckQ7HPgjylV6KhTGrLsbr9boZ9mzKQnHsCH4afDoOn1QOKI9abrKZGCePavT5oj6G0oySL/KeETJmz+unt9sex44R/DBLDQhG6BWhjCHKuizuxtbMGg94qXL6xev0HDHrN7Hm7ZCAs3KCBjuYUccJkdCYSmt7BFvRiS1pHwUM2KyKHFwdjvfvUDaUUtxe3BTK7kYC8l5Y4S5zYO7tO3WL39wfzSelsTuOrQ2EUHLZprE9EeZupE4ca8vsImmbklpcdtgqx76qbehv1a2uPmXR4PjozM8af24K2R8=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122203</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T11:24:43Z
+RequestParameter:  billNo: 20160122203
+
+2016-01-22T11:24:43Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122203
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T11:25:05Z
+ResponseParameter:  billNo: 20160122203
+
+2016-01-22T11:25:05Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201122449695,Identifier=20160122203,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T15:00:49Z
+Verify RequestParameter:  billNo: 20160122213
+
+2016-01-22T15:00:49Z
+<EPG><MESSAGE id='20160122213' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122213</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:00:51Z
+Verify ResponseParameter:  billNo: 20160122213
+
+2016-01-22T15:00:51Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122213" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttuwjAMfUfaP0TVXiFJuYwhk4ndkdbdKJq2typYUIm2LE3H5euXlAXC+hQfn9rHx4arTbYkP6jKtMiHAW+xgGAui1maz4fBNL5v9oMrcdaAeKEQbycoK4WiQQhEWJbJHEk6GwaBRQz2OnrH7/3bRH9VhSnaCoG60KUjVHKR5NoBBkrk9/X4WfD6A/oXHvMZqvGt6Ha7yXKZJvkuQ60KoHv4QCOQJxmKEYmx1MS1AVqjHksWVa7VVvRYH6gLvHyllmKh9WpA6Xq9bvk9W7LIgFqCm4b+HwdeKwuUJy036Ux8fXx2o/it/fIw1S9xtI0mjD1n091TPB8CtQzvh1miUYSM9xgPQ8J7A8YGnUugNe7xkszqF9PJOQmN38yYt0c8zsoKGu3hkFuOj/jGVEqZI9iKfseQDpHHwM2qyNHWAXp4+7KxlOKueVNkZjcSifPCCLeZI/Ng33+34ObxZD4ptdlxx9jAGGftC94xJxLaG6kTp9pSs0h+wVktLj1uFairahq6W7Wrq09ZNICenPlZ4xdMPNkP</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122213</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:00:51Z
+RequestParameter:  billNo: 20160122213
+
+2016-01-22T15:00:51Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122213
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T15:01:15Z
+ResponseParameter:  billNo: 20160122213
+
+2016-01-22T15:01:15Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201160058372,Identifier=20160122213,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T15:02:36Z
+Verify RequestParameter:  billNo: 20160122214
+
+2016-01-22T15:02:36Z
+<EPG><MESSAGE id='20160122214' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122214</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:02:38Z
+Verify ResponseParameter:  billNo: 20160122214
+
+2016-01-22T15:02:38Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122214" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1vwjAMvSPtP0TVriNJx5eQycRg0yatDEG57FYFC6rRlqXp+Pj1S8oCgZ7i51f7+dnwtM825BdVmRb5IOBNFhDMZbFM89UgWMSvD73gSdw1IF4rxPEcZaVQNAiBCMsyWSFJl4MgsIjBpsMZ/pzeJvqvKkzRZgjUhS4doZLrJNcOMFAif57fJ4LXH9D/8JLPUL2PRbvdTjabNMmPGWpVAD3BZxqBPMlQDEmMpSauDdAa9ViyqHKtDqLDekBd4OUrtRFrrbd9Sne7XdPv2ZRFBtQS3DT0dhyYVhYor1ru06X4jNdZdJylURzpyTjinyPGvsaz7494NQBqGd4Py0SjCBnvMB6GhHf6LOw/doDWuMdLMqtfLOb3JDR+M2PeCfE4WytoeIJDbjk+4htTKWWO4CB6LUM6Rx4D99siR1sH6Pnty8ZSipeHUZGZ3Ugkzgsj3GYuzLN9t27B6O1qPim12XHL2MAYZ49d3jInEtobqRPX2lKzSN7lrBaXXrYK1FU1Dd2t2tXVpywaQK/O/K7xB1Vn2RA=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122214</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:02:38Z
+RequestParameter:  billNo: 20160122214
+
+2016-01-22T15:02:38Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122214
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T15:03:25Z
+ResponseParameter:  billNo: 20160122214
+
+2016-01-22T15:03:25Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201160244279,Identifier=20160122214,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T15:09:40Z
+Verify RequestParameter:  billNo: 20160122215
+
+2016-01-22T15:09:40Z
+<EPG><MESSAGE id='20160122215' version='1.02'><MPI><mid>allianzmetro</mid><name>JUAN TAMAN</name><pan>4012001037141112</pan><expiry>1710</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122215</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:09:42Z
+Verify ResponseParameter:  billNo: 20160122215
+
+2016-01-22T15:09:42Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122215" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt9PwjAQfifxf2gWX6XtBERSahD8gXEGBTXytnQXWUI37DoB/3rbjUJhT73vvt19992xm41col9QRZpn/YA2SYAgE3mSZt/94H12f9ENbvhZg80WCmA0BVEq4A2EWARFEX8DSpN+EFjEYJPBG/zUbxPtqnJTtBky7EKXjkCJRZxpBxgoFj+34xdOq4/hXXjIS1DjEW+32/FymcbZnwStcoZreE9DLIsl8AGaQaGRa8NwhXoskZeZVlveIV2GXeDlS7XkC61XPYzX63XT79kUuWTYEtw0+HQcNiktUBy13KQJn88G2+jhafElX/V8FP3Nh4RE4Yd8/hz3GbYM74ck1sBDQjuEhiGinR657rWMNRXu8WJp9fP36TkKjd/EmFcjHmdlBQ1qOKSW4yO+MaVS5gi2vNsypH3kMWCzyjOwdRjev33ZUAh+dzHMpdmNAOS8MMJt5sDc23fqFhs+Hs0nhDY7bhkbCKHk8oq2zImE9kaqxLG21CySXlFSiUsPW2XYVTUN3a3a1VWnzBsMH535WeMfZ/DZHA==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122215</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:09:42Z
+RequestParameter:  billNo: 20160122215
+
+2016-01-22T15:09:42Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122215
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 10
+    [DateYY] => 17
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************112
+    [Name] => JUAN TAMAN
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T15:10:12Z
+ResponseParameter:  billNo: 20160122215
+
+2016-01-22T15:10:12Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201160949079,Identifier=20160122215,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=399BCA31ED261A1C32F4F382752F8622
+)
+
+
+2016-01-22T15:41:17Z
+Verify RequestParameter:  billNo: 20160122216
+
+2016-01-22T15:41:17Z
+<EPG><MESSAGE id='20160122216' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>4918914107195005</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122216</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:41:19Z
+Verify ResponseParameter:  billNo: 20160122216
+
+2016-01-22T15:41:19Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122216" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt9PwjAQfifxf2gWX6XtwmCQowZFo4mgkRnj41IuMmEbdp38+Otth4Xinnrffbv77ruD622+Ij+oqqwshgFvs4BgIct5VnwOg7fk/ioOrsVFC5KFQhzPUNYKRYsQmGBVpZ9IsvkwCCxisJfRK34f3ib6qypM0XYI1IUuPUElF2mhHWCgVH7fPE4Fbz6gf+Epn6N6HIsoitLVKkuLfY5alUAP8JFGoEhzFCOSYKWJawO0QT2WLOtCq53oshioC7x8rVZiofV6QOlms2n7PduyzIFagpuG/h8HXmoLVGctt9lcTPfL3fP76/J5PNEfyU32MWNsOr7/ekqWQ6CW4f0wTzWKkPEu42FIeHfQ4QPeA9rgHi/NrX7xNrskofGbGfMOiMdZW0GjAxxyy/ER35haKXMEOxF3DOkYeQzcrssCbR2gx7cvGysp7q5uy9zsRiJxXhjhNnNiHu377xbcPpzNJ6U2O+70edznHc56vB8xFtkbaRLn2jKzSB6zXiMuO20VqKtqGrpbtatrTlm0gJ6d+UXrF/JF2ZE=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122216</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:41:19Z
+RequestParameter:  billNo: 20160122216
+
+2016-01-22T15:41:19Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122216
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************005
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T15:41:41Z
+ResponseParameter:  billNo: 20160122216
+
+2016-01-22T15:41:41Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201164125959,Identifier=20160122216,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=80A72652470B064CBAE768EA30B7456C
+)
+
+
+2016-01-22T15:42:28Z
+Verify RequestParameter:  billNo: 20160122217
+
+2016-01-22T15:42:28Z
+<EPG><MESSAGE id='20160122217' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122217</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:42:30Z
+Verify ResponseParameter:  billNo: 20160122217
+
+2016-01-22T15:42:30Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122217" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUl1PwjAUfSfhPzSLr9KuAbaQrgQFo0aU6IiRt6XcyOI+sOsE/PW2g85Cn3rPOb339N7Lxvs8Qz8gq7QsIs/vEQ9BIcp1WnxG3jK+uw69Me92WLyRANM3ELUE3kGIzaGqkk9A6TryPINobDF5he/jXUenrFwn7VGGbWjpOUixSQplAQ0l4vvm4Zn7zWH4FP7zOciHKQ+CIMmyNCl+c1CyZPgItzLEiiQHPkExVArZMgw3qKMSZV0oeeBDEjJsA4evZcY3Sm1HGO92u55bsyfKnGEjsL/Bl99hi9oA1VnJfbrmL/Hj15zOyOp9qVbTm+zjQMh8Ohk8xV8Rw0bhPFgnCjgl/pD4lCJ/OOrTEdV2G9zRJbnxz5dvV4jqfhPdvCPiaLbG0OQIU99oXMRtTC2lXoIDD/ta1EaOAvbbsgCTh+H27tqGSvDZ9W2Z69kIQLYX2rhh/pVt+y67xW7vz/4nhNIzHvQpDUMaEhIQfQKzIw1x7i3Vg/RDQ5+CtozNqgvaXTWja1aZdxg+W/Nu5w/IEtjR</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122217</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:42:30Z
+RequestParameter:  billNo: 20160122217
+
+2016-01-22T15:42:30Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122217
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => M
+    [Card] => 5************007
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 
+)
+
+
+2016-01-22T15:42:51Z
+ResponseParameter:  billNo: 20160122217
+
+2016-01-22T15:42:51Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162201164236553,Identifier=20160122217,AcceptReject=F,Auth=mastercard is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=6CA5F54FA9315311CB458A8A6D200730
+)
+
+
+2016-01-22T15:47:59Z
+Verify RequestParameter:  billNo: 20160122218
+
+2016-01-22T15:47:59Z
+<EPG><MESSAGE id='20160122218' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122218</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:48:00Z
+Verify ResponseParameter:  billNo: 20160122218
+
+2016-01-22T15:48:00Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122218" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt1PwjAQfyfxf2gWX6FdA2ySUoMgUSOIgjHxbSkXGO4Duk7Qv9520FHsU38fvbveHbs9pAn6BlnEedb3/BbxEGQiX8bZqu+9L8bN0LvlVw22WEuA0RxEKYE3EGITKIpoBShe9j3PMJqbDd5gd7xrdIrKddAWZdhCK09AinWUKUtoKhK7u8cp96vD8Ame9RTk44gHQRAlSRxlvykomTN8pGsbYlmUAh+gBRQK2TQMV6zjEnmZKfnDuyRk2AJHL2XC10ptexjv9/uWm7Ml8pRhY7C/wf+/w2alIYqLlId4yT83r+2X0Xg92Qg1/U2+JnNCph9P6fNi1WfYOJwHy0gBp8TvEp9S5Hd77aDXuWG44h1flJr6+fv8GlHdb6Kbd2Qcz9YUNDjS1Dcel3EbU0qpl+CHh21tqpHjgMM2z8DEYbi+u2VDIfh9c5inejYCkO2FLtwoZ2fdvv/dYsOHi/8JofSMO21Kw5CGhAREn8DsSCVc1hbrQfqhkU+gTmOj6oR2V83oqlXmDYYv1vyq8QcSQNme</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122218</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:50:03Z
+Verify RequestParameter:  billNo: 20160122219
+
+2016-01-22T15:50:03Z
+<EPG><MESSAGE id='20160122219' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122219</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:50:05Z
+Verify ResponseParameter:  billNo: 20160122219
+
+2016-01-22T15:50:05Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122219" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt1PwjAQfyfhf2gWX6VdEbaQUoLgVyJIFDT6tnQXmLINuk7Av9520FnsU38fvbveHRvs0zX6Blkkedb3/BbxEGQij5Ns2fcW89vL0BvwZoPNVxJg/AKilMAbCLEJFEW0BJTEfc8zjOZmw2fYHu8anaJyHbRFGbbQyhOQYhVlyhKaisT2+mHK/eowfIJ/egryYcyDIIjW6yTKflJQMmf4SNc2xLIoBT5EcygUsmkYrljHJfIyU/LAuyRk2AJHL+War5Ta9DDe7XYtN2dL5CnDxmB/g/9/h81KQxRnKfdJzD8+v9of49fPdzpR07t3f3og5Gkerx7fbvoMG4fzII4UcEr8LvEpRX631yE90ma44h1flJr6+eLlAlHdb6Kbd2Qcz8YUNDzS1Dcel3EbU0qpl+DAwyttqpHjgP0mz8DEYbi+u2VDIfjN5ShP9WwEINsLXbhR/px1+/53i43uz/4nhNIz7lxRGoY0JCQg+gRmRyrhvLZED9IPjXwCdRobVSe0u2pGV60ybzB8tubNxi9Eytkc</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122219</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T15:53:52Z
+Verify RequestParameter:  billNo: 20160122220
+
+2016-01-22T15:53:52Z
+<EPG><MESSAGE id='20160122220' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122220</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T15:53:54Z
+Verify ResponseParameter:  billNo: 20160122220
+
+2016-01-22T15:53:54Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122220" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1PAjEQvZP4H5qNV2m3ArshpQRBI4moEYjR26ZMoGY/sNsV8NfbLnQp9tR573Vm+mbYcJ+l6AdUKYt8EIRtEiDIRbGS+XoQLBcPN3Ew5FctttgogMkcRKWAtxBiMyjLZA1IrgZBYBGDvY7e4Pt4N9EpKzdJ25RhFzp6Bkpsklw7wECJ+L6bPvOwPgyfwjOfgZpOeBRFSZrKJP/NQKuC4SPcyBDLkwz4CC2g1MiVYbhGPZUoqlyrA++RmGEXeHylUr7RetvHeLfbtf2abVFkDFuB+w3+/x32WlmgvCi5lyv+uZjuXiZp9vm11LNJKj8kIR/0TT69TwcMW4X3YJVo4JSEPRJSisJev3vb7xoza9zTJZntny/n14gav4kx74h4mq1taHSEaWg1PuIbUyllluDA444RNZGngP22yMHmYbi5+21DKfj9zbjIzGwEIOeFadwyZ2Vj33+32Pjx4n9CaDPjbofSOKYxIRExJ7I7UhOXvUkzyDC29CloyrispqDbVTu6epV5i+GLNb9q/QETjtmb</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122220</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-22T16:01:14Z
+Verify RequestParameter:  billNo: 20160122222
+
+2016-01-22T16:01:14Z
+<EPG><MESSAGE id='20160122222' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122222</trackid></MPI></MESSAGE></EPG>
+
+2016-01-22T16:01:16Z
+Verify ResponseParameter:  billNo: 20160122222
+
+2016-01-22T16:01:16Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122222" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUt1PwjAQfyfxf2gWX6UfQbeQUoPixxKHRDHGx6VcYIZu2HUC/vW2g85in/r76N317vj1Tq3RN+i6qMpRRPskQlDKalGUy1H0Nr+/SKJrcdbj85UGmLyCbDSIHkI8g7rOl4CKxSiKHGO52fgFvg53i45RhQ3aZxx76OUMtFzlpfGEpXL5dZNOBW0Px0f4pyvQ6UTEcZyv10Ve/igwuuL4QHc2xMtcgRijOdQG+TQct2zgklVTGr0XVyTh2INAb/RarIzZDDHebrf9MGdfVopjZ/C/wf+/w2eNI+qTlLtiIaYqZc8P2e5DpSb7vP/M9oRMJ8v903s64tg5ggeL3IBghF4Ryhii8ZDQIR1w3PKBL1eufvH2eo6Y7TexzTswgWfjChofaEadJ2TCxjRa2yXYi2RgTR0KHLDbVCW4OBx397BsqKW4u7itlJ2NBOR7YQt3yp+za9//bvHbx5P/SWnsjC8HjCUJSwiJiT2x25FWOK2tsIOkiZOPoEvjo9qEflfd6NpVFj2OT9b8rPcLzKPZcQ==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122222</trackid></Response></MESSAGE></EPG>
+)
+
+

@@ -1,0 +1,1304 @@
+2015-03-27T10:28:17Z
+RequestParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:17Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076521&amount=10
+
+2015-03-27T10:28:19Z
+ResponseParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:19Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:28:29Z
+RequestParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:29Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076521&amount=10
+
+2015-03-27T10:28:30Z
+ResponseParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:30Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:28:59Z
+RequestParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:59Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076521&amount=10
+
+2015-03-27T10:28:59Z
+ResponseParameter:  billNo: P2kY5Sc111
+
+2015-03-27T10:28:59Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:29:41Z
+RequestParameter:  billNo: P2kY5Sc110
+
+2015-03-27T10:29:41Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076519&amount=10
+
+2015-03-27T10:29:41Z
+ResponseParameter:  billNo: P2kY5Sc110
+
+2015-03-27T10:29:41Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:30:59Z
+RequestParameter:  billNo: bill635629777644658152
+
+2015-03-27T10:30:59Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076897&amount=2000
+
+2015-03-27T10:30:59Z
+ResponseParameter:  billNo: bill635629777644658152
+
+2015-03-27T10:30:59Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:32:09Z
+RequestParameter:  billNo: P2kY5S263
+
+2015-03-27T10:32:09Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076884&amount=10
+
+2015-03-27T10:32:10Z
+ResponseParameter:  billNo: P2kY5S263
+
+2015-03-27T10:32:10Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:33:36Z
+RequestParameter:  billNo: P2kY5S263
+
+2015-03-27T10:33:36Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076884&amount=10
+
+2015-03-27T10:33:37Z
+ResponseParameter:  billNo: P2kY5S263
+
+2015-03-27T10:33:37Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:34:10Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T10:34:10Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T10:34:10Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T10:34:10Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:34:41Z
+RequestParameter:  billNo: P2kY5S263
+
+2015-03-27T10:34:41Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076884&amount=10
+
+2015-03-27T10:34:41Z
+ResponseParameter:  billNo: P2kY5S263
+
+2015-03-27T10:34:41Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:37:29Z
+RequestParameter:  billNo: P2kY5S263
+
+2015-03-27T10:37:29Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076884&amount=10
+
+2015-03-27T10:37:29Z
+ResponseParameter:  billNo: P2kY5S263
+
+2015-03-27T10:37:29Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:38:22Z
+RequestParameter:  billNo: EpRIc1427438568
+
+2015-03-27T10:38:22Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077140&amount=10
+
+2015-03-27T10:38:22Z
+ResponseParameter:  billNo: EpRIc1427438568
+
+2015-03-27T10:38:22Z
+resultCode=0&orderStatus=Accepted&ref=EpRIc1427438568&payRef=1210077140&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T10:39:19Z
+RequestParameter:  billNo: P2kY5Sc110
+
+2015-03-27T10:39:19Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076519&amount=10
+
+2015-03-27T10:39:20Z
+ResponseParameter:  billNo: P2kY5Sc110
+
+2015-03-27T10:39:20Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:39:49Z
+RequestParameter:  billNo: 8PX9r1427259096
+
+2015-03-27T10:39:49Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076343&amount=10
+
+2015-03-27T10:39:49Z
+ResponseParameter:  billNo: 8PX9r1427259096
+
+2015-03-27T10:39:49Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T10:55:46Z
+RequestParameter:  billNo: 7PTB81427453710
+
+2015-03-27T10:55:46Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077245&amount=10
+
+2015-03-27T10:55:47Z
+ResponseParameter:  billNo: 7PTB81427453710
+
+2015-03-27T10:55:47Z
+resultCode=0&orderStatus=Accepted&ref=7PTB81427453710&payRef=1210077245&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T10:57:12Z
+RequestParameter:  billNo: 8xeSD1427453730
+
+2015-03-27T10:57:12Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077247&amount=10
+
+2015-03-27T10:57:13Z
+ResponseParameter:  billNo: 8xeSD1427453730
+
+2015-03-27T10:57:13Z
+resultCode=0&orderStatus=Accepted&ref=8xeSD1427453730&payRef=1210077247&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T11:14:41Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:14:41Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:14:41Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:14:41Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:15:31Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:15:31Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:15:31Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:15:31Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:16:17Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:16:17Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:16:17Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:16:17Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:18:55Z
+RequestParameter:  billNo: P2kY5Sc301
+
+2015-03-27T11:18:55Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077249&amount=10
+
+2015-03-27T11:18:55Z
+ResponseParameter:  billNo: P2kY5Sc301
+
+2015-03-27T11:18:55Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc301&payRef=1210077249&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T11:19:08Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:19:08Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:19:09Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:19:09Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:19:43Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:19:43Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:19:43Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:19:43Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:20:45Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:20:45Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:20:45Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:20:45Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:22:02Z
+RequestParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:22:02Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210075666&amount=13
+
+2015-03-27T11:22:02Z
+ResponseParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:22:02Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:22:26Z
+RequestParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:22:26Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210075666&amount=13
+
+2015-03-27T11:22:26Z
+ResponseParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:22:26Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:27:46Z
+RequestParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:27:46Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210075666&amount=13
+
+2015-03-27T11:27:47Z
+ResponseParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:27:47Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:27:53Z
+RequestParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:27:53Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210075666&amount=13
+
+2015-03-27T11:27:53Z
+ResponseParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:27:53Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:28:41Z
+RequestParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:28:41Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210075666&amount=13
+
+2015-03-27T11:28:43Z
+ResponseParameter:  billNo: 4ad08f18dda4cfcc3cfd791c809b4801
+
+2015-03-27T11:28:43Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T11:38:45Z
+RequestParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:38:45Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210076898&amount=2000
+
+2015-03-27T11:38:47Z
+ResponseParameter:  billNo: bill635629779051394355
+
+2015-03-27T11:38:47Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.apache.jasper.JasperException: javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:549)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:455)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>javax.servlet.ServletException: java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:911)
+	org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:840)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:1884)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>root cause</b> <pre>java.lang.Error: Unresolved compilation problems: 
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+	B2cRefundProcessCitrusPay cannot be resolved to a type
+
+	b2c.B2cTxRefund.onlineRefundDefind(B2cTxRefund.java:310)
+	org.apache.jsp.eng.merchant.api.orderApi_jsp._jspService(orderApi_jsp.java:838)
+	org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	b2c.AuditFilter.doFilter(AuditFilter.java:131)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.23 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2015-03-27T13:01:09Z
+RequestParameter:  billNo: P2kY5Sc302
+
+2015-03-27T13:01:09Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077251&amount=10
+
+2015-03-27T13:01:11Z
+ResponseParameter:  billNo: P2kY5Sc302
+
+2015-03-27T13:01:11Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc302&payRef=1210077251&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T13:02:49Z
+RequestParameter:  billNo: P2kY5Sc302
+
+2015-03-27T13:02:49Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077251&amount=10
+
+2015-03-27T13:02:49Z
+ResponseParameter:  billNo: P2kY5Sc302
+
+2015-03-27T13:02:49Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+
+2015-03-27T13:04:42Z
+RequestParameter:  billNo: P2kY5Sc303
+
+2015-03-27T13:04:42Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077253&amount=10
+
+2015-03-27T13:04:43Z
+ResponseParameter:  billNo: P2kY5Sc303
+
+2015-03-27T13:04:43Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc303&payRef=1210077253&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-27T13:17:54Z
+RequestParameter:  billNo: P2kY5Sc304
+
+2015-03-27T13:17:54Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077255&amount=10
+
+2015-03-27T13:17:54Z
+ResponseParameter:  billNo: P2kY5Sc304
+
+2015-03-27T13:17:54Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc304&payRef=1210077255&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+

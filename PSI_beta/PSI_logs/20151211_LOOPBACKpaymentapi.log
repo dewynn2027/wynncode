@@ -1,0 +1,72 @@
+2015-12-11T03:47:09Z
+RequestParameter:  billNo: 20151211111209 | startTime:2015-12-11 03:47:09
+
+2015-12-11T03:47:09Z
+
+
+2015-12-11T03:47:09Z
+Array
+(
+)
+
+
+2015-12-11T03:47:09Z
+ResponseParameter:  billNo: 20151211111209 | endTime:2015-12-11 03:47:09
+
+2015-12-11T03:47:09Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"20151211111209","billAmount":"21","createdAt":"20141122122055","billCurrency":"USD","tid":717695001449805629,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-11T04:22:48Z
+RequestParameter:  billNo: 20151211111210 | startTime:2015-12-11 04:22:48
+
+2015-12-11T04:22:48Z
+
+
+2015-12-11T04:22:48Z
+Array
+(
+)
+
+
+2015-12-11T04:22:48Z
+ResponseParameter:  billNo: 20151211111210 | endTime:2015-12-11 04:22:48
+
+2015-12-11T04:22:48Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"20151211111210","billAmount":"21","createdAt":"20141122122055","billCurrency":"USD","tid":456039001449807768,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-11T06:29:53Z
+RequestParameter:  billNo: 201512111012484 | startTime:2015-12-11 06:29:53
+
+2015-12-11T06:29:53Z
+
+
+2015-12-11T06:29:53Z
+Array
+(
+)
+
+
+2015-12-11T06:29:53Z
+ResponseParameter:  billNo: 201512111012484 | endTime:2015-12-11 06:29:53
+
+2015-12-11T06:29:53Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"201512111012484","billAmount":"21","createdAt":"20141122122055","billCurrency":"USD","tid":502561001449815393,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

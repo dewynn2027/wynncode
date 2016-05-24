@@ -1,0 +1,54 @@
+2013-04-26T10:37:39Z
+RequestParameter:  referenceId: 20130426183257
+
+2013-04-26T10:37:44Z
+ResponseParameter:  referenceId: 20130426183257
+
+2013-04-26T10:45:15Z
+RequestParameter:  referenceId: 20130426184447
+
+2013-04-26T10:45:16Z
+ResponseParameter:  referenceId: 20130426184447
+
+2013-04-26T10:50:22Z
+RequestParameter:  referenceId: 20130426183257s
+
+2013-04-26T10:50:24Z
+ResponseParameter:  referenceId: 20130426183257s
+
+2013-04-26T10:53:50Z
+RequestParameter:  referenceId: 20130426183257ss
+
+2013-04-26T10:53:53Z
+ResponseParameter:  referenceId: 20130426183257ss
+
+2013-04-26T10:58:13Z
+RequestParameter:  referenceId: 201304261832571
+
+2013-04-26T10:58:13Z
+ResponseParameter:  referenceId: 201304261832571
+
+2013-04-26T10:59:19Z
+RequestParameter:  referenceId: 201304261832572
+
+2013-04-26T10:59:21Z
+ResponseParameter:  referenceId: 201304261832572
+
+2013-04-26T11:00:46Z
+RequestParameter:  referenceId: 201304261832573
+
+2013-04-26T11:00:46Z
+https://secure.qwipi.com/api/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=201304261832573&dateTime=20130426183257&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=3A4B630573AE1CA63553FE53B65BE7A4&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=YYYYMMDD&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=10.00&products=2&remark=remark
+
+2013-04-26T11:00:47Z
+ResponseParameter:  referenceId: 201304261832573
+
+2013-04-26T11:00:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>201304261832573</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>6BD993E9FA0BCF7A0C31C8D63F53C36C</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

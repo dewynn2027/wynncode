@@ -1,0 +1,701 @@
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456493&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=na&email=dewynn%40transcommglobal.com&phone=123456&merchant_site_url=&custom_return_url=
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 356
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 05:45:05 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456494&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=na&email=dewynn%40transcommglobal.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 437
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 05:47:37 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456495&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=na&email=dewynn%40transcommglobal.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 437
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 05:50:03 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456496&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=na&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 424
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 05:59:00 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456497&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=na&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 430
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 06:14:39 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456498&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init_p2p HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 430
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 06:22:32 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET14503456499&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 431
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 06:39:04 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET145034564911&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=init HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 432
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 06:43:20 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET145034564912&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 432
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 06:51:23 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 46
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=2h%211%28%2FQbn%243s&rs=IM01&merchant_transaction_id=aAZET145034564913&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 432
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 06:52:55 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 46
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564914&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 452
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 07:55:35 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 112
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564915&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 462
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 07:59:43 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 112
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564916&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=541333&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+Request Param: f_extended=5&init_transaction_id=5bf1984d0caf082adf3d42756a90998f16468ef0&cc=5413330000000019&cvv=589&expire=01%2F18
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=charge HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 116
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 08:03:23 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 468
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 08:03:21 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 43
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564917&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=541333&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+Request Param: f_extended=5&init_transaction_id=aAZET145034564917&cc=5413330000000019&cvv=589&expire=01%2F18
+
+* About to connect() to www2.1stpayments.net port 443 (#0)
+*   Trying 195.13.248.53... * connected
+* Connected to www2.1stpayments.net (195.13.248.53) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www2.1stpayments.net,O=SIA Transact Pro,L=Riga,ST=Riga,C=LV
+* 	start date: Jun 08 00:00:00 2015 GMT
+* 	expire date: Jun 15 23:59:59 2016 GMT
+* 	common name: www2.1stpayments.net
+* 	issuer: CN=thawte SSL CA - G2,O="thawte, Inc.",C=US
+> POST /gwprocessor2.php?a=charge HTTP/1.1
+Host: www2.1stpayments.net
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 93
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Thu, 24 Dec 2015 08:10:04 GMT
+< Content-Type: text/html
+< Transfer-Encoding: chunked
+< Connection: close
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Encoding: gzip
+< 
+* Closing connection #0
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 468
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 08:10:02 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 43
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564918&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=541333&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+Request Param: f_extended=5&init_transaction_id=b75ad15fa6e4060c9cec50fff4845b5bed9c0f91&cc=5413330000000019&cvv=589&expire=01%2F18
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2tests/gwprocessor2.php?a=charge HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 116
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 24 Dec 2015 08:22:10 GMT
+< Server: Apache
+< Content-Length: 227
+< Connection: close
+< Content-Type: text/html; charset=iso-8859-1
+< 
+* Closing connection #0
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 468
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 08:22:08 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 43
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564919&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=541333&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+Request Param: f_extended=5&init_transaction_id=fb26f20709c77513247e2fec55291ca28a38a4b3&cc=5413330000000019&cvv=589&expire=01%2F18
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=charge HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 116
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 08:28:36 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 141
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 468
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 08:28:34 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 43
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+Request Param: guid=RRSG-5628-0LB6-5EA3&pwd=9f77f9720dbc680d306f920dd6c0e14da0995b0e&rs=IM01&merchant_transaction_id=aAZET145034564920&user_ip=112.211.18.77&description=E-Commerce+Purchase&amount=1000&currency=USD&name_on_card=JUAN+DELA+CRUZ&street=12345678+qwertyu&zip=1204&city=MAKATI&country=PH&state=NA&email=juan%40mail.com&phone=123456&card_bin=541333&merchant_site_url=http%3A%2F%2Fwww.retailpremier.com%2F&custom_return_url=https%3A%2F%2F3dsecure.ecommsecure.com%2Facs%2Fdev1
+
+Request Param: f_extended=5&init_transaction_id=1de46a4eac9518ca7f4c05e39530f96d91442671&cc=5413330000000019&cvv=589&expire=01%2F18
+
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=charge HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 116
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 11:46:44 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 141
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0
+* About to connect() to gw2sandbox.tpro.lv port 8443 (#0)
+*   Trying 87.110.182.18... * connected
+* Connected to gw2sandbox.tpro.lv (87.110.182.18) port 8443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=gw2sandbox.tpro.lv
+* 	start date: Jan 05 00:00:00 2015 GMT
+* 	expire date: Jan 05 23:59:59 2016 GMT
+* 	common name: gw2sandbox.tpro.lv
+* 	issuer: CN=thawte DV SSL CA - G2,OU=Domain Validated SSL,O="thawte, Inc.",C=US
+> POST /gw2test/gwprocessor2.php?a=init HTTP/1.1
+Host: gw2sandbox.tpro.lv:8443
+Accept: */*
+Accept-Encoding: deflate, gzip
+content-type: application/x-www-form-urlencoded
+Content-Length: 468
+
+< HTTP/1.1 200 OK
+< Date: Thu, 24 Dec 2015 11:46:43 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.3.3
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expires: Mon, 26 Jul 1997 05:00:00 GMT
+< Pragma: no-cache
+< Content-Length: 43
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+* Closing connection #0

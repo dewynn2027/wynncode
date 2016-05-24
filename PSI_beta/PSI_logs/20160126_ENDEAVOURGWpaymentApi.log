@@ -1,0 +1,40 @@
+2016-01-26T02:45:39Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIVerifyEnrollmentXML
+
+2016-01-26T02:45:39Z
+Verify RequestParameter:  billNo: 20160122528
+
+2016-01-26T02:45:39Z
+<EPG><MESSAGE id='20160122528' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>4918914107195005</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122528</trackid></MPI></MESSAGE></EPG>
+
+2016-01-26T02:45:41Z
+Verify ResponseParameter:  billNo: 20160122528
+
+2016-01-26T02:45:41Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122528" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUsFu4jAQvSP1H6yo12I7TWhAgyu2tF2kwlZteqC3yIwgW5JQx1mgX792qME0J8+bl5k3bwZud8Wa/ENV51U5DHiXBQRLWS3ycjkM3tKHqyS4FRcdSFcKcfyKslEoOoTAFOs6WyLJF8MgsIjBnkcv+Hl4m+i7qjBFuyFQF7r0FJVcZaV2gIEy+flrMhO8/YB+h6d8gWoyFnEcZ+t1npVfBWpVAT3ARxqBMitQjEiKtSauDdAW9Viyakqt9qLHEqAu8PKNWouV1psBpdvttuv37MqqAGoJbhr6cxx4bixQn7Xc5QvxJ51H738n21k617PxRzzdM/b+OP96SpdDoJbh/bDINIqQ8R7jYY+w60EUD65joC3u8bLC6hdvr5ckNH4zY94B8TgbK2h0gENuOT7iG9MoZY5gL5LIkI6Rx8DdpirR1gF6fPuysZbi/uquKsxuJBLnhRFuMyfm0b6fbsHd77P5pNRmx1GfJ30ecXbD+zFjsb2RNnGuLTeL5Am7acXlp60CdVVNQ3erdnXtKYsO0LMzv+j8B8HR2Xc=</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122528</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-26T06:03:13Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIVerifyEnrollmentXML
+
+2016-01-26T06:03:13Z
+Verify RequestParameter:  billNo: 20160122529
+
+2016-01-26T06:03:13Z
+<EPG><MESSAGE id='20160122529' version='1.02'><MPI><mid>allianzmetro</mid><name>Thomas Jefferson</name><pan>4918914107195005</pan><expiry>1807</expiry><currency>840</currency><amount>2100</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage><trackid>20160122529</trackid></MPI></MESSAGE></EPG>
+
+2016-01-26T06:03:16Z
+Verify ResponseParameter:  billNo: 20160122529
+
+2016-01-26T06:03:16Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122529" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUk1v4jAQvSP1P1jRXovtlEBAg6sUWm1XC9uP9NBjZEaQVT6o4yyUX792qME0J8+bl5k3bwZu92VB/qFq8rqaBrzPAoKVrFd5tZ4Gb+nDdRzciqsepBuFOH9F2SoUPUJggU2TrZHkq2kQWMRgT8kLfhzfJvqqKkzRfgjUhS69QCU3WaUdYKBMftw9LgXvPqBf4TlfonqciyiKsqLIs+pQolY10CN8ohGoshJFQlJsNHFtgHaox5J1W2n1KYYsBuoCL9+qQmy03k4o3e12fb9nX9YlUEtw09Dv48BTa4HmouU+X4nlITksD3Lw/jfRi/mv4s+Msff0mf9O11OgluH9sMo0ipDxIePhkLDRhN1M2Bhoh3u8rLT6xdvrDxIav5kx74h4nK0VlBzhkFuOj/jGtEqZI/gU8cCQTpHHwP22rtDWAXp6+7KxkeL+elaXZjcSifPCCLeZM/Nk33e3YPbzYj4ptdnxYMzjMR9wNuLjiLHI3kiXuNSWm0XymI06cfl5q0BdVdPQ3apdXXfKogf04syvev8BfabZSQ==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>20160122529</trackid></Response></MESSAGE></EPG>
+)
+
+

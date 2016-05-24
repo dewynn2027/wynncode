@@ -1,0 +1,50 @@
+2015-05-18T14:57:32Z
+RequestParameter:  billNo: bill635675650499825413 | startTime:2015-05-18 14:57:32
+
+2015-05-18T14:57:32Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [billNo] => bill635675650499825413
+    [referenceId] => ref635675650499825413
+    [sessId] => sess635675650499825413
+    [dateTime] => 20150518045748
+    [cardHolderIp] => 109.86.219.121
+    [cardNum] => 4111111111111111
+    [cvv2] => 111
+    [month] => 1
+    [year] => 20
+    [firstName] => dfg
+    [lastName] => fdgh
+    [gender] => M
+    [email] => pa4afgsd408@gmail.com
+    [birthdate] => 19240303
+    [phone] => 380 645654
+    [zipCode] => 56756
+    [address] => fgh
+    [city] => fgh
+    [state] => MH
+    [country] => SA
+    [amount] => 10
+    [language] => eng
+    [currency] => USD
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 10
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-05-18T14:57:32Z
+ResponseParameter:  billNo: bill635675650499825413 | endTime:2015-05-18 14:57:32
+
+2015-05-18T14:57:32Z
+successcode=-1&Ref=bill635675650499825413&PayRef=150518220532&Amt=10&Cur=840&prc=1&src=14&Ord=150518220532&Holder=&AuthId=0532&TxTime=15-05-18 22:05:32&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+

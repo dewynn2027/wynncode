@@ -1,0 +1,25 @@
+2014-07-30T18:45:16Z
+RequestParameter:  referenceId: INV00000000000000018
+
+2014-07-30T18:45:16Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=INV00000000000000018&Currency=USD&Amount=12&CardNumber=4111-1111-1111-1111&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-07-30T18:45:18Z
+ResponseParameter:  referenceId: INV00000000000000018
+
+2014-07-30T18:45:18Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>INV00000000000000018</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140731034546</ResponseTime>
+<TransactionID>20140731000003D00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

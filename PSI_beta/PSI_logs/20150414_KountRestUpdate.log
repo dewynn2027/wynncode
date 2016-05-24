@@ -1,0 +1,25 @@
+2015-04-14T05:08:34Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-14T05:08:34Z
+RequestParameter:  billNo: 3a63f2bba3b34ad5a56cc209850d46d3 | startTime:2015-04-14 05:08:34
+
+2015-04-14T05:08:34Z
+Array
+(
+    [reason[3HMD0DDV5C4M]] => R1
+    [note[3HMD0DDV5C4M]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-04-14T05:08:34Z
+REFUND
+
+2015-04-14T05:08:36Z
+ResponseParameter:  billNo: 3a63f2bba3b34ad5a56cc209850d46d3 | endTime:2015-04-14 05:08:36
+
+2015-04-14T05:08:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+

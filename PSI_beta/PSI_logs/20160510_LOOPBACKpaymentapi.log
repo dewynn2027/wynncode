@@ -1,0 +1,24 @@
+2016-05-10T11:53:52Z
+RequestParameter:  billNo: 95726c253bb38d67 | startTime:2016-05-10 11:53:52
+
+2016-05-10T11:53:52Z
+
+
+2016-05-10T11:53:52Z
+Array
+(
+)
+
+
+2016-05-10T11:53:52Z
+ResponseParameter:  billNo: 95726c253bb38d67 | endTime:2016-05-10 11:53:52
+
+2016-05-10T11:53:52Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"95726c253bb38d67","billAmount":"81.99","createdAt":"20160510115402","billCurrency":"USD","tid":713063001462881232,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

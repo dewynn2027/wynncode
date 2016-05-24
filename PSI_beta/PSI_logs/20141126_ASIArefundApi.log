@@ -1,0 +1,25 @@
+2014-11-26T06:51:09Z
+RequestParameter:  billNo: 20141126151133
+
+2014-11-26T06:51:09Z
+?merchantId=18062075&loginId=allianz2014&password=allianz2014&actionType=RequestRefund&payRef=1210067185&amount=14
+
+2014-11-26T06:51:09Z
+ResponseParameter:  billNo: 20141126151133
+
+2014-11-26T06:51:09Z
+
+
+2014-11-26T06:53:23Z
+RequestParameter:  billNo: 20141126151133
+
+2014-11-26T06:53:23Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=allianz2014&password=allianz2014&actionType=RequestRefund&payRef=1210067185&amount=14
+
+2014-11-26T06:53:25Z
+ResponseParameter:  billNo: 20141126151133
+
+2014-11-26T06:53:25Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Authentication Failed
+
+

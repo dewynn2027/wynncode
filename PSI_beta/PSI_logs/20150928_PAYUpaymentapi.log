@@ -1,0 +1,2081 @@
+2015-09-28T06:49:56Z
+RequestParameter:  billNo: dd1d2f34426370952 | startTime:2015-09-28 06:49:56
+
+2015-09-28T06:49:56Z
+https://test.payu.in/_payment
+
+2015-09-28T06:49:56Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => dd1d2f34426370952
+    [amount] => 0
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T06:49:57Z
+ResponseParameter:  billNo: dd1d2f34426370952 | endTime:2015-09-28 06:49:57
+
+2015-09-28T06:49:57Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-09-28T06:53:11Z
+RequestParameter:  billNo: dds1d2f34426370952 | startTime:2015-09-28 06:53:11
+
+2015-09-28T06:53:11Z
+https://test.payu.in/_payment
+
+2015-09-28T06:53:11Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => dds1d2f34426370952
+    [amount] => 753.608385
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T06:53:16Z
+ResponseParameter:  billNo: dds1d2f34426370952 | endTime:2015-09-28 06:53:16
+
+2015-09-28T06:53:16Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUltX4jAQ/is9fd1j0wulwJnGIwLSdVcrsh71rbQxFCUtScplf/1OCqibl8w3M/nm8gUu9+sPa8ukKisR257j2hYTeVWUgsf2n/nkomdfUpgvJWOjR5Y3klH4zZTKOLPKIra7T+N64VeLpdpEPPw57Sfzyaa7yqXG9xTSqxnbUDgVoMjv+EDOEJlkvsyEppDlm2FyRztB4EcdICcIayaTEX1Tyvp2Lvounn7kAjnGQWRrRpNhMry3dmxhpVtt/dIFkNYPedUILQ80CLtAzgAa+UGXWtdqQIhqJ6u5Zko7WE0w7eSVUwpS8112IDzTzNxZUbQtOytVAzEMQL5mSBtjKay4Lws6uS7f7xo3vT1MX7h36KSPM55Ur9XD6y4GYjKgQFrqu17o9v2e5fkDPxgEOFXrh2xtWqUzFYWB0/VwKUcH1KbO1RFgzIS+uwBnkSjieeAzAravK8EwAyX4tIF8tX09NULkGlc6LSfzcTN+v1k9j/7+6G31kxo/8Dg20rQJhq3EPXqRG7Z0BgAxFOSkOjl9FLT++0D/AMy5z+w=
+                    [MD] => 19239231252710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=f80c852c9ed9c831085681164e3380d345e155f8765951f81dcc6e8639236d03&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUltX4jAQ/is9fd1j0wulwJnGIwLSdVcrsh71rbQxFCUtScplf/1OCqibl8w3M/nm8gUu9+sPa8ukKisR257j2hYTeVWUgsf2n/nkomdfUpgvJWOjR5Y3klH4zZTKOLPKIra7T+N64VeLpdpEPPw57Sfzyaa7yqXG9xTSqxnbUDgVoMjv+EDOEJlkvsyEppDlm2FyRztB4EcdICcIayaTEX1Tyvp2Lvounn7kAjnGQWRrRpNhMry3dmxhpVtt/dIFkNYPedUILQ80CLtAzgAa+UGXWtdqQIhqJ6u5Zko7WE0w7eSVUwpS8112IDzTzNxZUbQtOytVAzEMQL5mSBtjKay4Lws6uS7f7xo3vT1MX7h36KSPM55Ur9XD6y4GYjKgQFrqu17o9v2e5fkDPxgEOFXrh2xtWqUzFYWB0/VwKUcH1KbO1RFgzIS+uwBnkSjieeAzAravK8EwAyX4tIF8tX09NULkGlc6LSfzcTN+v1k9j/7+6G31kxo/8Dg20rQJhq3EPXqRG7Z0BgAxFOSkOjl9FLT++0D/AMy5z+w=
+                            [MD] => 19239231252710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=f80c852c9ed9c831085681164e3380d345e155f8765951f81dcc6e8639236d03&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T06:56:14Z
+RequestParameter:  billNo: sdds1d2f34426370952 | startTime:2015-09-28 06:56:14
+
+2015-09-28T06:56:14Z
+https://test.payu.in/_payment
+
+2015-09-28T06:56:14Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => sdds1d2f34426370952
+    [amount] => 0
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T06:56:15Z
+ResponseParameter:  billNo: sdds1d2f34426370952 | endTime:2015-09-28 06:56:15
+
+2015-09-28T06:56:15Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-09-28T06:57:13Z
+RequestParameter:  billNo: ssdds1d2f34426370952 | startTime:2015-09-28 06:57:13
+
+2015-09-28T06:57:13Z
+https://test.payu.in/_payment
+
+2015-09-28T06:57:13Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => ssdds1d2f34426370952
+    [amount] => 674.0718042
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T06:57:17Z
+ResponseParameter:  billNo: ssdds1d2f34426370952 | endTime:2015-09-28 06:57:17
+
+2015-09-28T06:57:17Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUltT6jAQ/iudvjo2vUGB2caBI0K9cBisjvIW27WUY9PSpFD/vUmBo+5L9tvd+fbyBa7a4sPYYy3ykoemY9mmgTwp05xnofkU31wOzCsK8aZGvH7EpKmRwgMKwTI08jQ0568vF+v8dkbGu4f++44tfXy246Kf2ofQpLAcr3BH4dSAKn7LBXKGiqlONoxLCizZTaIF9T3PDXwgJwgF1tE1fRfC+GGXQ1vZMLCBHPPAWYE0mkSTv8YB34zlXhr3MgXSxSEpGy7rT+r1+kDOAJr6g26krMSIENFtVmUShbRUN47SSkor56TKDuyTZEyiflmadiNbW1EB0QxAvndYNtoTqmObp/S+nq1wsGav03UbzRZV+/LWbhvuVY9RCERXQKpoqWs7PXvoDgzHHbnByHOAdHFghR6VrkQ/8C07UEc5BqDSfcZHoHI69TMEapdaiXhe+IwA26rkqCqUBP99IN9j/5lrIRKpTjrPb+JpM/032z4Ft4uL1L3z4/khDLU0XYFmy9UdncDudXQaANEU5KQ6OX0U5f36QF+Gqs7u
+                    [MD] => 1619029271252710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a70496c7c1e0f43d7bd4016a20034a23ab7cbcbcd9b8ec29027c21440efc6f7c&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUltT6jAQ/iudvjo2vUGB2caBI0K9cBisjvIW27WUY9PSpFD/vUmBo+5L9tvd+fbyBa7a4sPYYy3ykoemY9mmgTwp05xnofkU31wOzCsK8aZGvH7EpKmRwgMKwTI08jQ0568vF+v8dkbGu4f++44tfXy246Kf2ofQpLAcr3BH4dSAKn7LBXKGiqlONoxLCizZTaIF9T3PDXwgJwgF1tE1fRfC+GGXQ1vZMLCBHPPAWYE0mkSTv8YB34zlXhr3MgXSxSEpGy7rT+r1+kDOAJr6g26krMSIENFtVmUShbRUN47SSkor56TKDuyTZEyiflmadiNbW1EB0QxAvndYNtoTqmObp/S+nq1wsGav03UbzRZV+/LWbhvuVY9RCERXQKpoqWs7PXvoDgzHHbnByHOAdHFghR6VrkQ/8C07UEc5BqDSfcZHoHI69TMEapdaiXhe+IwA26rkqCqUBP99IN9j/5lrIRKpTjrPb+JpM/032z4Ft4uL1L3z4/khDLU0XYFmy9UdncDudXQaANEU5KQ6OX0U5f36QF+Gqs7u
+                            [MD] => 1619029271252710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a70496c7c1e0f43d7bd4016a20034a23ab7cbcbcd9b8ec29027c21440efc6f7c&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T07:07:25Z
+RequestParameter:  billNo: sd341d2f34426370952 | startTime:2015-09-28 07:07:25
+
+2015-09-28T07:07:25Z
+https://test.payu.in/_payment
+
+2015-09-28T07:07:25Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => sd341d2f34426370952
+    [amount] => 674.485302
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T07:07:29Z
+ResponseParameter:  billNo: sd341d2f34426370952 | endTime:2015-09-28 07:07:29
+
+2015-09-28T07:07:29Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttSo0AQ/RWKd2lukZBqxjIxbihWk41o7fo2CyMhwoDMkES/fmdIom6/TJ/urtOXM3h1qCtjxzpRNjwyHcs2DcazJi95EZmP6e3F2LwimG46xm4eWNZ3jOAdE4IWzCjzyFw9zpI4dxqX04VIaDDzn9eN+1xXTyIyCa6u1+yN4KkBUfyWi3CGiqnLNpRLgjR7m8b3xPc8N/ARThBr1sU35EUI45tdhLayMLARjnnktGYknsbTpbFnf43VTho/ZY4wxDFrei67d+KNLhHOAPuuIhspWzEBEMNmbSGZkJbqxpm0ssYqObTFnr5DQSXTL83zYWRrK1oEzYDwtcOq155QHQ9lTkKR/hLzpfOx/uMG413Q+PU0GS/iQ7qPEHQF5oqWuLYzskN3bDjuxAsmvocwxJHWelSyFpeBb/mhOsoxgK3uc30EKqdT30OodumUiOeFzwjZoW04UxVKgk8f4Wvs2UILkUl10kV5m877+euP7W9vmVTb6inZiX0UaWmGAs1Wqjs6gT0a6DRA0BRwUh1OH0V5/32gf5Ayz0s=
+                    [MD] => 8914141371252710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0a6f38c5be43737f0523cab932408dd33ba23444e25508c851727e7835397fbb&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttSo0AQ/RWKd2lukZBqxjIxbihWk41o7fo2CyMhwoDMkES/fmdIom6/TJ/urtOXM3h1qCtjxzpRNjwyHcs2DcazJi95EZmP6e3F2LwimG46xm4eWNZ3jOAdE4IWzCjzyFw9zpI4dxqX04VIaDDzn9eN+1xXTyIyCa6u1+yN4KkBUfyWi3CGiqnLNpRLgjR7m8b3xPc8N/ARThBr1sU35EUI45tdhLayMLARjnnktGYknsbTpbFnf43VTho/ZY4wxDFrei67d+KNLhHOAPuuIhspWzEBEMNmbSGZkJbqxpm0ssYqObTFnr5DQSXTL83zYWRrK1oEzYDwtcOq155QHQ9lTkKR/hLzpfOx/uMG413Q+PU0GS/iQ7qPEHQF5oqWuLYzskN3bDjuxAsmvocwxJHWelSyFpeBb/mhOsoxgK3uc30EKqdT30OodumUiOeFzwjZoW04UxVKgk8f4Wvs2UILkUl10kV5m877+euP7W9vmVTb6inZiX0UaWmGAs1Wqjs6gT0a6DRA0BRwUh1OH0V5/32gf5Ayz0s=
+                            [MD] => 8914141371252710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0a6f38c5be43737f0523cab932408dd33ba23444e25508c851727e7835397fbb&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:04:40Z
+RequestParameter:  billNo: sddss1d2f34426370952 | startTime:2015-09-28 08:04:40
+
+2015-09-28T08:04:40Z
+https://test.payu.in/_payment
+
+2015-09-28T08:04:40Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => sddss1d2f34426370952
+    [amount] => 0
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:04:41Z
+ResponseParameter:  billNo: sddss1d2f34426370952 | endTime:2015-09-28 08:04:41
+
+2015-09-28T08:04:41Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-09-28T08:05:29Z
+RequestParameter:  billNo: 431d2f34426370952 | startTime:2015-09-28 08:05:29
+
+2015-09-28T08:05:29Z
+https://test.payu.in/_payment
+
+2015-09-28T08:05:29Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 431d2f34426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:05:33Z
+ResponseParameter:  billNo: 431d2f34426370952 | endTime:2015-09-28 08:05:33
+
+2015-09-28T08:05:33Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttymzAQ/RWG104Q5mo8izLxnTZtiWNnxo8KqBjbCCIJG/99JWw36b5oz+7O2csRPHbV0ThRLsqaxebAsk2DsqzOS1bE5mY9fxiajxjWO07p9JVmLacYflIhSEGNMo/Nevlt1Q3ZNFy2weHHmPvlyyZ4CSfN+yY2MaRPK/qB4dYAK37LAXSHiolnO8IkBpJ9jJNf2HNdJ/QA3SBUlCdT/EcI44s9RLayKLQBXfPASEVxMk7Gv40zfTfSkzSeZQ6oj0NWt0zyC3b9ANAdQMuPeCdlI0YIiX6zppBUSEt1Y1RaWW2VDDXFmVxQQSTVL8nzfmRrLxpAmgHQ5w5pqz2hOnZljl2PBM73t93RybeHUzrbRomwafpK9tsYkK6AXNFixx74duQMDXswcv2RNwTUx4FUelS8EkHoWW6kjnINQKP7PF2ByunU1xCoXbgS8b7wHQHtmppRVaEk+OcD+hx7stRCZFKddFnO17N2dljs355ni4nsFtVlfo5jLU1foNlKdcdBaPs9nQaANAW6qY5uH0V5/32gv/cbzu4=
+                    [MD] => 4683956351352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=bd359b5bfbad6252dbbe4a4a4b0ca5a3589f298fce34d29e4b61099bcc4a0914&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttymzAQ/RWG104Q5mo8izLxnTZtiWNnxo8KqBjbCCIJG/99JWw36b5oz+7O2csRPHbV0ThRLsqaxebAsk2DsqzOS1bE5mY9fxiajxjWO07p9JVmLacYflIhSEGNMo/Nevlt1Q3ZNFy2weHHmPvlyyZ4CSfN+yY2MaRPK/qB4dYAK37LAXSHiolnO8IkBpJ9jJNf2HNdJ/QA3SBUlCdT/EcI44s9RLayKLQBXfPASEVxMk7Gv40zfTfSkzSeZQ6oj0NWt0zyC3b9ANAdQMuPeCdlI0YIiX6zppBUSEt1Y1RaWW2VDDXFmVxQQSTVL8nzfmRrLxpAmgHQ5w5pqz2hOnZljl2PBM73t93RybeHUzrbRomwafpK9tsYkK6AXNFixx74duQMDXswcv2RNwTUx4FUelS8EkHoWW6kjnINQKP7PF2ByunU1xCoXbgS8b7wHQHtmppRVaEk+OcD+hx7stRCZFKddFnO17N2dljs355ni4nsFtVlfo5jLU1foNlKdcdBaPs9nQaANAW6qY5uH0V5/32gv/cbzu4=
+                            [MD] => 4683956351352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=bd359b5bfbad6252dbbe4a4a4b0ca5a3589f298fce34d29e4b61099bcc4a0914&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:09:48Z
+RequestParameter:  billNo: 341d2f34426370952 | startTime:2015-09-28 08:09:48
+
+2015-09-28T08:09:48Z
+https://test.payu.in/_payment
+
+2015-09-28T08:09:48Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 341d2f34426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:09:54Z
+ResponseParameter:  billNo: 341d2f34426370952 | endTime:2015-09-28 08:09:54
+
+2015-09-28T08:09:54Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl13ojAQ/Ssc3ksC+AGeIT3V1urZbSvqerZ9S0mK2BIgCVb312+Cuu3OS+bOzLnzcQPXh/LD2XOpikokru9h1+Eiq1gh8sT9tZ5eRe41gfVWcn674lkrOYEHrhTNuVOwxN28NMeUx6Xer1EaNpGv02bysG+3DCcugcXNkjcEzg2I4fcCQBdomGS2pUIToFkznj+SXhgGwx6gM4SSy/kteVPK+WZXMTYWDzGgUx4ELTmZj+fjJ+eTvzqLvXZ+agaoi0NWtULLIwn7A0AXAK38IFutazVCSHWb1bnmSnumm+DayyqvEKjOP+kR5VRz+1LGupG9naoBWQZAXzssWusp0/FQMFJO9Gz1dGTFn9WPwXM2k9UyeJRvmymNEkC2ApihJQH2+zgOIgf7ox4e4QhQFwda2lHJUg2GPS+MzVFOAahtn5sTMDmb+h4Cs4s0Il4WviDgh7oS3FQYCf75gL7GnsysEJk2J50V0/Vde/d+v9tsJr/xfSqr3SJNEitNV2DZCnNHf4j7HZ0FgCwFOquOzh/FeP99oL9ymtAl
+                    [MD] => 5473772401352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=bc9e5b15ae72d44d77bf5cc20f13ca9c7c818db4780738a6668a2cd557b22623&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl13ojAQ/Ssc3ksC+AGeIT3V1urZbSvqerZ9S0mK2BIgCVb312+Cuu3OS+bOzLnzcQPXh/LD2XOpikokru9h1+Eiq1gh8sT9tZ5eRe41gfVWcn674lkrOYEHrhTNuVOwxN28NMeUx6Xer1EaNpGv02bysG+3DCcugcXNkjcEzg2I4fcCQBdomGS2pUIToFkznj+SXhgGwx6gM4SSy/kteVPK+WZXMTYWDzGgUx4ELTmZj+fjJ+eTvzqLvXZ+agaoi0NWtULLIwn7A0AXAK38IFutazVCSHWb1bnmSnumm+DayyqvEKjOP+kR5VRz+1LGupG9naoBWQZAXzssWusp0/FQMFJO9Gz1dGTFn9WPwXM2k9UyeJRvmymNEkC2ApihJQH2+zgOIgf7ox4e4QhQFwda2lHJUg2GPS+MzVFOAahtn5sTMDmb+h4Cs4s0Il4WviDgh7oS3FQYCf75gL7GnsysEJk2J50V0/Vde/d+v9tsJr/xfSqr3SJNEitNV2DZCnNHf4j7HZ0FgCwFOquOzh/FeP99oL9ymtAl
+                            [MD] => 5473772401352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=bc9e5b15ae72d44d77bf5cc20f13ca9c7c818db4780738a6668a2cd557b22623&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:12:38Z
+RequestParameter:  billNo: 451d2f34426370952 | startTime:2015-09-28 08:12:38
+
+2015-09-28T08:12:38Z
+https://test.payu.in/_payment
+
+2015-09-28T08:12:38Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 451d2f34426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:12:42Z
+ResponseParameter:  billNo: 451d2f34426370952 | endTime:2015-09-28 08:12:42
+
+2015-09-28T08:12:42Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1zqjAQ/SsM7yUIWsBZ0qlVCzP98CJ2+krDirQSkISK//4mqLe9+5I9uztnP07grq/2xje2oqx5aI4s2zSQszoveRGam3R545t3FNJdizhfI+tapPCMQmQFGmUemmzbRe/Rep/E9Z829k7zTRXPggrTnoUmhdV9ggcKlwZU8VsOkCtUTC3bZVxSyNhhFr/Qses63hjIBUKFbTynWyGMX3YT2MoCzwZyzgPPKqTxLJ69Gkf8MFbf0niSOZAhDqzuuGxP1J3cArkC6No93UnZiCkhYtisKSQKaaluHKXFaqvkpCmO2YkUmUT9Znk+jGx9igaIZgDys8Oq055QHfsyp0ue9IePar/acP8997aZHzuLNcPo6IdAdAXkipY69mhiB45v2KPp2JnqGYc4ZJUelSbi1htbbqCOcg5Ao/vcn4HK6dTvEKhdWiXideErAuybmqOqUBL884H8jP0QaSGYVCeNymW66BZfj59v9eI1ScluG7tFGGpphgLNVqo7jjx7MtBpAERTkIvq5PJRlPffB/oLUg/P6Q==
+                    [MD] => 710092421352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=223f7bbab137c305fdaf5ffdc9d24452602b6e171b62fa0123a4bd001a523a03&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1zqjAQ/SsM7yUIWsBZ0qlVCzP98CJ2+krDirQSkISK//4mqLe9+5I9uztnP07grq/2xje2oqx5aI4s2zSQszoveRGam3R545t3FNJdizhfI+tapPCMQmQFGmUemmzbRe/Rep/E9Z829k7zTRXPggrTnoUmhdV9ggcKlwZU8VsOkCtUTC3bZVxSyNhhFr/Qses63hjIBUKFbTynWyGMX3YT2MoCzwZyzgPPKqTxLJ69Gkf8MFbf0niSOZAhDqzuuGxP1J3cArkC6No93UnZiCkhYtisKSQKaaluHKXFaqvkpCmO2YkUmUT9Znk+jGx9igaIZgDys8Oq055QHfsyp0ue9IePar/acP8997aZHzuLNcPo6IdAdAXkipY69mhiB45v2KPp2JnqGYc4ZJUelSbi1htbbqCOcg5Ao/vcn4HK6dTvEKhdWiXideErAuybmqOqUBL884H8jP0QaSGYVCeNymW66BZfj59v9eI1ScluG7tFGGpphgLNVqo7jjx7MtBpAERTkIvq5PJRlPffB/oLUg/P6Q==
+                            [MD] => 710092421352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=223f7bbab137c305fdaf5ffdc9d24452602b6e171b62fa0123a4bd001a523a03&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:16:43Z
+RequestParameter:  billNo: 45d2f34426370952 | startTime:2015-09-28 08:16:43
+
+2015-09-28T08:16:43Z
+https://test.payu.in/_payment
+
+2015-09-28T08:16:43Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45d2f34426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:16:48Z
+ResponseParameter:  billNo: 45d2f34426370952 | endTime:2015-09-28 08:16:48
+
+2015-09-28T08:16:48Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1XozAQ/SscXj2SAEVKzxCP1Vqpy7ba7p7VNwwRUAk0CZb++01ou7rzkrkzc+6dj8BlX39Yn0zIquGx7TrYthinTV7xIrZ/bW7Px/YlgU0pGLtZM9oJRiBlUmYFs6o8tseLKJheP6zrOZ+xclkvlveBf8ab/vcstgmsrh7ZlsBRgGh+xwN0gppJ0DLjikBGt9PkJxn5vheOAB0h1EwkN+RVSuubnUdYWxRiQIc88KxmJJkm06W1Yy/W6lNZP1QOaIgDbTquxJ74wQWgE4BOfJBSqVZOEJLDZG2hmFSOVuNMObRxKo7aYpftUZEpZt4sz4eWnTfZAjIMgL5mWHXGk1qxr3JS3r+M9+FWPUReIjAt502PvDRKn9ZpDMhUQK5piYfdAEfe2MLuZBROsN7PEIesNq2SR3kRjhw/0ks5BKA1OlcHoHMm9T0Eehahj3ga+ISA9W3Dma7QEv98QF9tX9+ZQ1ClV3pX3W5m3ex9/vaHlov983u1cdNdHJvTDAWGrdJ7dEMcDHQGADIU6Hh1dPwo2vvvA/0FqFnO0w==
+                    [MD] => 7538693461352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a17d8058bde9ed5de194966949fbbe156dc839848451f8155abe5d7aacd92f34&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1XozAQ/SscXj2SAEVKzxCP1Vqpy7ba7p7VNwwRUAk0CZb++01ou7rzkrkzc+6dj8BlX39Yn0zIquGx7TrYthinTV7xIrZ/bW7Px/YlgU0pGLtZM9oJRiBlUmYFs6o8tseLKJheP6zrOZ+xclkvlveBf8ab/vcstgmsrh7ZlsBRgGh+xwN0gppJ0DLjikBGt9PkJxn5vheOAB0h1EwkN+RVSuubnUdYWxRiQIc88KxmJJkm06W1Yy/W6lNZP1QOaIgDbTquxJ74wQWgE4BOfJBSqVZOEJLDZG2hmFSOVuNMObRxKo7aYpftUZEpZt4sz4eWnTfZAjIMgL5mWHXGk1qxr3JS3r+M9+FWPUReIjAt502PvDRKn9ZpDMhUQK5piYfdAEfe2MLuZBROsN7PEIesNq2SR3kRjhw/0ks5BKA1OlcHoHMm9T0Eehahj3ga+ISA9W3Dma7QEv98QF9tX9+ZQ1ClV3pX3W5m3ex9/vaHlov983u1cdNdHJvTDAWGrdJ7dEMcDHQGADIU6Hh1dPwo2vvvA/0FqFnO0w==
+                            [MD] => 7538693461352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a17d8058bde9ed5de194966949fbbe156dc839848451f8155abe5d7aacd92f34&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:18:38Z
+RequestParameter:  billNo: sddss1d2f35634426370952 | startTime:2015-09-28 08:18:38
+
+2015-09-28T08:18:38Z
+https://test.payu.in/_payment
+
+2015-09-28T08:18:38Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => sddss1d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:18:43Z
+ResponseParameter:  billNo: sddss1d2f35634426370952 | endTime:2015-09-28 08:18:43
+
+2015-09-28T08:18:43Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttymzAQ/RWG106QMDgYz6KMr4G2STyxc32joGIlWGBJYNKvr4TtJtWL9uyuzl6O4KrblVZLhWQVj2zXwbZFeVbljBeR/bBZXozsKwKbraB0vqZZIyiBGyplWlCL5ZF9jV/3d987perwmYXrenpY3IT7WLVYvyewmtzTPYFTAaL5nQGgM9RMItumXBFIs/00uSW+5w0CH9AJwo6KZE5+S2l9ORch1icMMKBjHHi6oySZJtM760B/WatWWT9VDqj3Q1Y1XIkP4g0vAZ0BNKIkW923HCMk+8nqQlGpHF2NU+VklcM4qotD+oGKVFFzp3net+y8yRqQYQD0OcOqMZbUFTuWkwS1P+Knb24+/xNMbqundfnQVnUZL0s/AmQyINe0ZIDdIQ4HIwu7Y380HgaAej+kO9MquZeXge94oV7K0QG1qTM5Ah0zoa8u0LMILeJ54DMC2tUVpzpDS/DPBvTZ9iw2QmRKrzRmy82iWbxfvz0Gs3fmzcS2e5lEkZGmTzBsTO/RDfCwpzMAkKFAJ9XR6aNo678P9BfNL8+s
+                    [MD] => 8945605481352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1656bd3d794b4692a4462c334ce40296e8209b3d912410b798d8d1edd85ccec4&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttymzAQ/RWG106QMDgYz6KMr4G2STyxc32joGIlWGBJYNKvr4TtJtWL9uyuzl6O4KrblVZLhWQVj2zXwbZFeVbljBeR/bBZXozsKwKbraB0vqZZIyiBGyplWlCL5ZF9jV/3d987perwmYXrenpY3IT7WLVYvyewmtzTPYFTAaL5nQGgM9RMItumXBFIs/00uSW+5w0CH9AJwo6KZE5+S2l9ORch1icMMKBjHHi6oySZJtM760B/WatWWT9VDqj3Q1Y1XIkP4g0vAZ0BNKIkW923HCMk+8nqQlGpHF2NU+VklcM4qotD+oGKVFFzp3net+y8yRqQYQD0OcOqMZbUFTuWkwS1P+Knb24+/xNMbqundfnQVnUZL0s/AmQyINe0ZIDdIQ4HIwu7Y380HgaAej+kO9MquZeXge94oV7K0QG1qTM5Ah0zoa8u0LMILeJ54DMC2tUVpzpDS/DPBvTZ9iw2QmRKrzRmy82iWbxfvz0Gs3fmzcS2e5lEkZGmTzBsTO/RDfCwpzMAkKFAJ9XR6aNo678P9BfNL8+s
+                            [MD] => 8945605481352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1656bd3d794b4692a4462c334ce40296e8209b3d912410b798d8d1edd85ccec4&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:21:05Z
+RequestParameter:  billNo: 45ss1d2f35634426370952 | startTime:2015-09-28 08:21:05
+
+2015-09-28T08:21:05Z
+https://test.payu.in/_payment
+
+2015-09-28T08:21:05Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45ss1d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:21:09Z
+ResponseParameter:  billNo: 45ss1d2f35634426370952 | endTime:2015-09-28 08:21:09
+
+2015-09-28T08:21:09Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttS2zAQ/RWP37F8jZPMWoxTILgll9KYgb4Ja7FN4guWHMLfV3KSAvuiPbs7Zy9HcHmodsYeO1E2dWQ6lm0aWGcNL+s8MtPNzcXYvKSwKTrEqz+Y9R1SWKAQLEej5JGJSCRL7fnycfkr+fsQLpz9iBdZG7I4Mims43t8o3BqQBW/5QI5Q8XUZQWrJQWWvc2SJfU9zw19ICcIFXbJFX0RwvhiFxNb2SS0gRzzULMKaTJLZivjHZ+N9V4ad5IDGeKQNX0tuw/qBSMgZwB9t6OFlK2YEiKGzdpcopCW6lajtLLGKmvS5u/sg+RMon4Z58PI1qtogWgGIJ87rHvtCdXxUHLK09/pY/Wyj93nlM99IkLp+E934+1oEQHRFcAVLXVtJ7An7tiwnWngTF0PyBAHVulR6b0Yhb7lTdRRjgFodZ/4CFROp76GQO3SKRHPC58R4KFtalQVSoL/PpDPsX/caiEyqU56W95srvvr7fz1Yb5CZ/dzVQTbOIq0NEOBZivVHZ3QDgY6DYBoCnJSnZw+ivK+faB/1y3OVg==
+                    [MD] => 670926511352710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a59fe5d3772c94f6d401a15b100d91e55ac0562060b261b08d05d207dc4f70e4&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttS2zAQ/RWP37F8jZPMWoxTILgll9KYgb4Ja7FN4guWHMLfV3KSAvuiPbs7Zy9HcHmodsYeO1E2dWQ6lm0aWGcNL+s8MtPNzcXYvKSwKTrEqz+Y9R1SWKAQLEej5JGJSCRL7fnycfkr+fsQLpz9iBdZG7I4Mims43t8o3BqQBW/5QI5Q8XUZQWrJQWWvc2SJfU9zw19ICcIFXbJFX0RwvhiFxNb2SS0gRzzULMKaTJLZivjHZ+N9V4ad5IDGeKQNX0tuw/qBSMgZwB9t6OFlK2YEiKGzdpcopCW6lajtLLGKmvS5u/sg+RMon4Z58PI1qtogWgGIJ87rHvtCdXxUHLK09/pY/Wyj93nlM99IkLp+E934+1oEQHRFcAVLXVtJ7An7tiwnWngTF0PyBAHVulR6b0Yhb7lTdRRjgFodZ/4CFROp76GQO3SKRHPC58R4KFtalQVSoL/PpDPsX/caiEyqU56W95srvvr7fz1Yb5CZ/dzVQTbOIq0NEOBZivVHZ3QDgY6DYBoCnJSnZw+ivK+faB/1y3OVg==
+                            [MD] => 670926511352710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a59fe5d3772c94f6d401a15b100d91e55ac0562060b261b08d05d207dc4f70e4&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:32:56Z
+RequestParameter:  billNo: 453s1d2f35634426370952 | startTime:2015-09-28 08:32:56
+
+2015-09-28T08:32:56Z
+https://test.payu.in/_payment
+
+2015-09-28T08:32:56Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 453s1d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:33:06Z
+ResponseParameter:  billNo: 453s1d2f35634426370952 | endTime:2015-09-28 08:33:06
+
+2015-09-28T08:33:06Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttygjAQ/RWGV6cEQUWcJR2ttjJTq2OtD33jsgWsBEqC4N83Qe0lL9mzuzl7OYH7Nj9qJ6x4VjBP7xumriGLijhjiae/7R7vxvo9hV1aIc5fMaorpLBCzoMEtSz29HWTio9xmJx7kSi2zWn/tmQjYr73BvI9hc10i18UrgWo5DcsIDcomaooDZigEERfM/+FDmzbcgZArhByrPw5/eBc+3PuXFMe1zGBXOLAghypP/Nna63BUNuchPYsYiCdH6KiZqI6U3s4AnIDUFdHmgpR8gkhvJusTARyYchqDIURFUbGSJk0wZkkgUB1B3HctWwceAlEMQD5nWFTK4vLim0WU7b2Mc7zxfP+Zfle2E8PYe2409qeH30PiMqAWNJSy+wPTdcaa6Y1Me2JJafq/BDkqlW65SNnYNiuXMrFAaWqM70AGVOhvy6Qs1RSxNvANwTYlgVDmSEl+LGB/Lb9sFRCREKudJk97hb14vPpsB+uwkMb9tombTxPSdMlKLZM7rHvmMOOTgEgioJcVSfXjyKtfx/oG69mz+Q=
+                    [MD] => 2417123031452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=7a124cd88ba1b848c30d568376a2821e5e65c04fd15e592082f2b7a9d887bbc0&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttygjAQ/RWGV6cEQUWcJR2ttjJTq2OtD33jsgWsBEqC4N83Qe0lL9mzuzl7OYH7Nj9qJ6x4VjBP7xumriGLijhjiae/7R7vxvo9hV1aIc5fMaorpLBCzoMEtSz29HWTio9xmJx7kSi2zWn/tmQjYr73BvI9hc10i18UrgWo5DcsIDcomaooDZigEERfM/+FDmzbcgZArhByrPw5/eBc+3PuXFMe1zGBXOLAghypP/Nna63BUNuchPYsYiCdH6KiZqI6U3s4AnIDUFdHmgpR8gkhvJusTARyYchqDIURFUbGSJk0wZkkgUB1B3HctWwceAlEMQD5nWFTK4vLim0WU7b2Mc7zxfP+Zfle2E8PYe2409qeH30PiMqAWNJSy+wPTdcaa6Y1Me2JJafq/BDkqlW65SNnYNiuXMrFAaWqM70AGVOhvy6Qs1RSxNvANwTYlgVDmSEl+LGB/Lb9sFRCREKudJk97hb14vPpsB+uwkMb9tombTxPSdMlKLZM7rHvmMOOTgEgioJcVSfXjyKtfx/oG69mz+Q=
+                            [MD] => 2417123031452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=7a124cd88ba1b848c30d568376a2821e5e65c04fd15e592082f2b7a9d887bbc0&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:34:33Z
+RequestParameter:  billNo: 45441d2f35634426370952 | startTime:2015-09-28 08:34:33
+
+2015-09-28T08:34:33Z
+https://test.payu.in/_payment
+
+2015-09-28T08:34:33Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45441d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:34:39Z
+ResponseParameter:  billNo: 45441d2f35634426370952 | endTime:2015-09-28 08:34:39
+
+2015-09-28T08:34:39Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUltzqjAQ/isMr52ScBNxlnT01FY7tVKllzlvHIiIpwSaBC/99U1Qe9mX7Le78+3lC1ztqzdjS7koaxaZtoVNg7KszktWROZTcnPZN68IJGtO6fWSZi2nBGZUiLSgRplH5ryqOevdNSgJslHpJMvx6yzcPPefX2aRSSAeLug7gVMDovgtB9AZKiaerVMmCaTZ+2j6QDzXdQIP0AlCRfn0mqyEMH7YZYiVhQEGdMwDSytKpqPpaG7s6D8j3krjXuaAujhkdcskPxDX7wE6A2j5G1lL2YgBQqLbrCkkFdJS3RiVVlZbJUNNsUsPqEgl1W+a593I1kY0gDQDoO8d4lZ7QnXclznx/k6Gq1U8f/HuAvcxSJ9i3z6sdosZxhEgXQG5oiUOtn0cOn0DOwPsDXwXUBeHtNKjkoXoBZ7lhuooxwA0us/wCFROp36GQO3ClYjnhc8I6L6pGVUVSoIvH9D32H8mWohMqpNOyptk3I7/325etw8Xcm1/LO35YxRpaboCzVaqO9oB9js6DQBpCnRSHZ0+ivJ+faBPbOvOBA==
+                    [MD] => 8583089041452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=3cd69357d331f96c49c040fc36e4baf6decd2594878b0790fe431cf7ccdcc9a3&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUltzqjAQ/isMr52ScBNxlnT01FY7tVKllzlvHIiIpwSaBC/99U1Qe9mX7Le78+3lC1ztqzdjS7koaxaZtoVNg7KszktWROZTcnPZN68IJGtO6fWSZi2nBGZUiLSgRplH5ryqOevdNSgJslHpJMvx6yzcPPefX2aRSSAeLug7gVMDovgtB9AZKiaerVMmCaTZ+2j6QDzXdQIP0AlCRfn0mqyEMH7YZYiVhQEGdMwDSytKpqPpaG7s6D8j3krjXuaAujhkdcskPxDX7wE6A2j5G1lL2YgBQqLbrCkkFdJS3RiVVlZbJUNNsUsPqEgl1W+a593I1kY0gDQDoO8d4lZ7QnXclznx/k6Gq1U8f/HuAvcxSJ9i3z6sdosZxhEgXQG5oiUOtn0cOn0DOwPsDXwXUBeHtNKjkoXoBZ7lhuooxwA0us/wCFROp36GQO3ClYjnhc8I6L6pGVUVSoIvH9D32H8mWohMqpNOyptk3I7/325etw8Xcm1/LO35YxRpaboCzVaqO9oB9js6DQBpCnRSHZ0+ivJ+faBPbOvOBA==
+                            [MD] => 8583089041452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=3cd69357d331f96c49c040fc36e4baf6decd2594878b0790fe431cf7ccdcc9a3&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:36:59Z
+RequestParameter:  billNo: 455441d2f35634426370952 | startTime:2015-09-28 08:36:59
+
+2015-09-28T08:36:59Z
+https://test.payu.in/_payment
+
+2015-09-28T08:36:59Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 455441d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:37:04Z
+ResponseParameter:  billNo: 455441d2f35634426370952 | endTime:2015-09-28 08:37:04
+
+2015-09-28T08:37:04Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUltT6jAQ/iudvp6x2wtYYLZxwAv2jHgYBHV4i2ksAZuWJhX015sUOOq+ZL/dnW8vX/BiX7w577xWopSJG3i+63DJykzIPHEX85uznntBcL6qOb964KypOcEJV4rm3BFZ4m4uN4saJo+qWLI/8eds5MtyvXiNin2ZuASnwxnfEjw2IIbfCxFO0DDVbEWlJkjZdpTek04UhXEH4Qix4HV6RV6Vcn7YWd831o99hEMeJS04SUfp6J+z4y/O9F07dzpDaOPIykbq+oNE3XOEE8CmfiMrrSs1AFDtZlWuudKe6Sa59ljpCQlVvqMfkFPN7UuzrB3ZW6sKwTIgfO8wbaynTMe9yEhn+TwWy89tDOPu/cNiO3z5SzMqgphNEgRbgZmhJaEfdP1+2HP8cODHg6CH0MaRFnZUMlPncceL+uYohwBWts/wAEzOpn6G0OxSGxFPC58Q8n1VSm4qjAT/fYTvsS9vrRBMm5Peipv5dXO9Ga+fomkBAWt4utsliZWmLbBswtwxiP1uS2cBgqWAo+pw/CjG+/WBvgDV4s+m
+                    [MD] => 5012867071452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=7fdd737f9a72aaccacba1a9e9d22bccf361296dd2e8ce9bf83cf15669e246252&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUltT6jAQ/iudvp6x2wtYYLZxwAv2jHgYBHV4i2ksAZuWJhX015sUOOq+ZL/dnW8vX/BiX7w577xWopSJG3i+63DJykzIPHEX85uznntBcL6qOb964KypOcEJV4rm3BFZ4m4uN4saJo+qWLI/8eds5MtyvXiNin2ZuASnwxnfEjw2IIbfCxFO0DDVbEWlJkjZdpTek04UhXEH4Qix4HV6RV6Vcn7YWd831o99hEMeJS04SUfp6J+z4y/O9F07dzpDaOPIykbq+oNE3XOEE8CmfiMrrSs1AFDtZlWuudKe6Sa59ljpCQlVvqMfkFPN7UuzrB3ZW6sKwTIgfO8wbaynTMe9yEhn+TwWy89tDOPu/cNiO3z5SzMqgphNEgRbgZmhJaEfdP1+2HP8cODHg6CH0MaRFnZUMlPncceL+uYohwBWts/wAEzOpn6G0OxSGxFPC58Q8n1VSm4qjAT/fYTvsS9vrRBMm5Peipv5dXO9Ga+fomkBAWt4utsliZWmLbBswtwxiP1uS2cBgqWAo+pw/CjG+/WBvgDV4s+m
+                            [MD] => 5012867071452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=7fdd737f9a72aaccacba1a9e9d22bccf361296dd2e8ce9bf83cf15669e246252&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:43:37Z
+RequestParameter:  billNo: 45rd41d2f35634426370952 | startTime:2015-09-28 08:43:37
+
+2015-09-28T08:43:37Z
+https://test.payu.in/_payment
+
+2015-09-28T08:43:37Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45rd41d2f35634426370952
+    [amount] => 0
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:43:38Z
+ResponseParameter:  billNo: 45rd41d2f35634426370952 | endTime:2015-09-28 08:43:38
+
+2015-09-28T08:43:38Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => One or more mandatory parameters are missing in the transaction request.  #~#Please ensure that you send all mandatory parameters in the transaction request to PayU.<br><div style='font-size: 13px;padding: 0 150px; padding: 0 150px; line-height: 18px;'>Mandatory parameters which must be sent in the transaction are: <br><b>key, txnid, amount, productinfo, firstname, email, phone, surl, furl, hash</b></div>.<br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>The parameters which you have actually sent in the transaction are: <br><b> key, txnid, productinfo, surl, hash, firstname, email, phone</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Mandatory parameter missing from your transaction request are: <br><b> amount</b>.</div><br><div style='font-size: 13px;padding: 0 150px; line-height: 18px;'>Please re-initiate the transaction with all the mandatory parameters.</div></p>   @~@ ExceptionConstant : MANDATORY_PARAMETER_TXNID_MISSING
+        )
+
+)
+
+
+2015-09-28T08:44:05Z
+RequestParameter:  billNo: 453d41d2f35634426370952 | startTime:2015-09-28 08:44:05
+
+2015-09-28T08:44:05Z
+https://test.payu.in/_payment
+
+2015-09-28T08:44:05Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 453d41d2f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:44:09Z
+ResponseParameter:  billNo: 453d41d2f35634426370952 | endTime:2015-09-28 08:44:09
+
+2015-09-28T08:44:09Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttyokAQ/RWK99AjoIjVTEpWjWzl4kay2c0bgZGLOhBmSPTvdwY1yfbL9OnuOn05g9eH/c54Z60oax6YA4uYBuNpnZU8D8yneHE1Nq8pxkXL2GzN0q5lFO+YEEnOjDILzPl29/vlOK5eIq8gYbaBn2G78e+cX6/bwKS4mj6yN4rnBlTxWzbCBSqmNi0SLikm6VsY3VPXcWzPRThD3LM2mtGNEMY3u/KJMt8jCKc88mTPaBRG4YPxwV6N1bs0bmWG0McxrTsu2yN1hiOEC8Cu3dFCykZMAES/WZNLJqSlunEmrbS2Sg5N/pEcIU8k02+SZf3IViUaBM2A8LXDqtOeUB0PZUb9NN/8TWEZ/+Gr+zWJqvmMPz8Uo9idBgi6AjNFS20yGBLfHhvEngzcie0g9HFM9npU+ihGnms5vjrKKYCN7jM9AZXTqe8hVLu0SsTLwheE7NDUnKkKJcGnj/A19o+lFiKV6qTLchHPu/n2pnpe3lbHRbM+3IzyINDS9AWarVR3HHhk2NNpgKAp4Kw6nD+K8v77QP8ASpLO5Q==
+                    [MD] => 8028787141452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=cfce91b77ba81f26485e50960155a50e03341c48dfdae65bc7b0dc2d46a1c1eb&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttyokAQ/RWK99AjoIjVTEpWjWzl4kay2c0bgZGLOhBmSPTvdwY1yfbL9OnuOn05g9eH/c54Z60oax6YA4uYBuNpnZU8D8yneHE1Nq8pxkXL2GzN0q5lFO+YEEnOjDILzPl29/vlOK5eIq8gYbaBn2G78e+cX6/bwKS4mj6yN4rnBlTxWzbCBSqmNi0SLikm6VsY3VPXcWzPRThD3LM2mtGNEMY3u/KJMt8jCKc88mTPaBRG4YPxwV6N1bs0bmWG0McxrTsu2yN1hiOEC8Cu3dFCykZMAES/WZNLJqSlunEmrbS2Sg5N/pEcIU8k02+SZf3IViUaBM2A8LXDqtOeUB0PZUb9NN/8TWEZ/+Gr+zWJqvmMPz8Uo9idBgi6AjNFS20yGBLfHhvEngzcie0g9HFM9npU+ihGnms5vjrKKYCN7jM9AZXTqe8hVLu0SsTLwheE7NDUnKkKJcGnj/A19o+lFiKV6qTLchHPu/n2pnpe3lbHRbM+3IzyINDS9AWarVR3HHhk2NNpgKAp4Kw6nD+K8v77QP8ASpLO5Q==
+                            [MD] => 8028787141452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=cfce91b77ba81f26485e50960155a50e03341c48dfdae65bc7b0dc2d46a1c1eb&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:46:40Z
+RequestParameter:  billNo: 431d2f35634426370952 | startTime:2015-09-28 08:46:40
+
+2015-09-28T08:46:40Z
+https://test.payu.in/_payment
+
+2015-09-28T08:46:40Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 431d2f35634426370952
+    [amount] => 754.0674768
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:46:44Z
+ResponseParameter:  billNo: 431d2f35634426370952 | endTime:2015-09-28 08:46:44
+
+2015-09-28T08:46:44Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl13ojAQ/SscXntKAKGgZ0iPbmulp7q21dZ9zMIsYBUwCaj76zdB3bbzkrkzc+583MDtYbsxWuSiqMrIdCzbNLBMqrQos8hcLsbXoXlLYZFzxLtXTBqOFKYoBMvQKNLIDJwU232wx+bX0mPVW/hxjCV75+1qGZkU5sMX3FE4N6CK33KBXKBi4knOSkmBJbtRPKNer+cGHpAzhC3y+I7+EcL4Ytd9W1k/sIGc8lCyLdJ4FI9+Gnv8bcxbaTzJFEgXh6RqSsmPtOffALkAaPiG5lLWYkCI6DarM4lCWqpbidJKKqsoSZ3t2ZFkTKJ+WZp2I1trUQPRDEA+d5g32hOq46FIaba6ehx6bvV3WkymYfowy3dX3ix5fiNhBERXQKpoqWs7vt13Q8N2B87NwO8D6eLAtnpU+iIC37PsQB3lFIBa9xmegMrp1NcQqF24EvGy8AUBHuqqRFWhJPjvA/kc+8dEC5FIddJJMV7cN/cfD+tVPh5tHt9bXLfPUaSl6Qo0W6Hu6AS239FpAERTkLPq5PxRlPftA/0DJuXPwA==
+                    [MD] => 2287900161452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=ae4ac0f37f2b5ebe4f7404e77122ab8c029290239b6f92ac3aae6d10ea3b533d&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl13ojAQ/SscXntKAKGgZ0iPbmulp7q21dZ9zMIsYBUwCaj76zdB3bbzkrkzc+583MDtYbsxWuSiqMrIdCzbNLBMqrQos8hcLsbXoXlLYZFzxLtXTBqOFKYoBMvQKNLIDJwU232wx+bX0mPVW/hxjCV75+1qGZkU5sMX3FE4N6CK33KBXKBi4knOSkmBJbtRPKNer+cGHpAzhC3y+I7+EcL4Ytd9W1k/sIGc8lCyLdJ4FI9+Gnv8bcxbaTzJFEgXh6RqSsmPtOffALkAaPiG5lLWYkCI6DarM4lCWqpbidJKKqsoSZ3t2ZFkTKJ+WZp2I1trUQPRDEA+d5g32hOq46FIaba6ehx6bvV3WkymYfowy3dX3ix5fiNhBERXQKpoqWs7vt13Q8N2B87NwO8D6eLAtnpU+iIC37PsQB3lFIBa9xmegMrp1NcQqF24EvGy8AUBHuqqRFWhJPjvA/kc+8dEC5FIddJJMV7cN/cfD+tVPh5tHt9bXLfPUaSl6Qo0W6Hu6AS239FpAERTkLPq5PxRlPftA/0DJuXPwA==
+                            [MD] => 2287900161452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=ae4ac0f37f2b5ebe4f7404e77122ab8c029290239b6f92ac3aae6d10ea3b533d&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:51:15Z
+RequestParameter:  billNo: 45rd42f35634426370952 | startTime:2015-09-28 08:51:15
+
+2015-09-28T08:51:15Z
+https://test.payu.in/_payment
+
+2015-09-28T08:51:15Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45rd42f35634426370952
+    [amount] => 674.390442
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:51:20Z
+ResponseParameter:  billNo: 45rd42f35634426370952 | endTime:2015-09-28 08:51:20
+
+2015-09-28T08:51:20Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUm1TgzAM/isc36UMNpFdqAduc5zT7XQ77/yGEIE5CmuLTH+9Ldt8yZfmSXJP8iSF60O1Mz6Qi7JmgTmwbNNAltZZyfLA3KxnF1fmNYV1wREnT5i2HCncoxBJjkaZBWY1WSy3u2Ipiq8Dn68375HMn8Ptcpp2gUlhFT7insKpAVX8lgPkDBUTT4uESQpJuo/iBzp0XccbAjlBqJDHE/omhPHHLnxbme/ZQI55YEmFNI7iaGl0+GqsPqSxkBmQPg5p3TLJP6k7ugRyBtDyHS2kbMSYENEra3KJQlqqG0NppbVVMtLkXfJJ8kSifpMs60e2tqIBohmA/GpYtdoTquOhzKj3snhqnuNw2N3V0aR7CWfC37uuz51pAERXQKZoqWMPRrbvXBm2M3YGY1ep7+OQVHpU+iguvaHl+mopxwA0uk94BCqnU39DoLRwdcSz4DMCPDQ1Q1WhTvDjA/kd+2auD5FKtdJ5OVtP2+n77XbzcFd0+c5blfMwCPRp+gLNVqo9Djx71NNpAERTkNPVyemjKO/fB/oGrL/P2A==
+                    [MD] => 7360544211452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a187e17212d57d9821f467b26d27fe00624fee00ee608ad58f75abecb337aa7b&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUm1TgzAM/isc36UMNpFdqAduc5zT7XQ77/yGEIE5CmuLTH+9Ldt8yZfmSXJP8iSF60O1Mz6Qi7JmgTmwbNNAltZZyfLA3KxnF1fmNYV1wREnT5i2HCncoxBJjkaZBWY1WSy3u2Ipiq8Dn68375HMn8Ptcpp2gUlhFT7insKpAVX8lgPkDBUTT4uESQpJuo/iBzp0XccbAjlBqJDHE/omhPHHLnxbme/ZQI55YEmFNI7iaGl0+GqsPqSxkBmQPg5p3TLJP6k7ugRyBtDyHS2kbMSYENEra3KJQlqqG0NppbVVMtLkXfJJ8kSifpMs60e2tqIBohmA/GpYtdoTquOhzKj3snhqnuNw2N3V0aR7CWfC37uuz51pAERXQKZoqWMPRrbvXBm2M3YGY1ep7+OQVHpU+iguvaHl+mopxwA0uk94BCqnU39DoLRwdcSz4DMCPDQ1Q1WhTvDjA/kd+2auD5FKtdJ5OVtP2+n77XbzcFd0+c5blfMwCPRp+gLNVqo9Djx71NNpAERTkNPVyemjKO/fB/oGrL/P2A==
+                            [MD] => 7360544211452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a187e17212d57d9821f467b26d27fe00624fee00ee608ad58f75abecb337aa7b&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:52:46Z
+RequestParameter:  billNo: 45542f35634426370952 | startTime:2015-09-28 08:52:46
+
+2015-09-28T08:52:46Z
+https://test.payu.in/_payment
+
+2015-09-28T08:52:46Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45542f35634426370952
+    [amount] => 674.39
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:52:50Z
+ResponseParameter:  billNo: 45542f35634426370952 | endTime:2015-09-28 08:52:50
+
+2015-09-28T08:52:50Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttyokAQ/RWKVysMAkqwmkmpSdRak1iJW27yhtDCZOU6g0G/PjOIufTL9OnuOn05AzdNutcOWHGWZ77eN0xdwyzMI5bFvv53fX91rd9QWCcV4u0LhnWFFB6Q8yBGjUW+fsrn0SF15rOjM016p11TJt7wNV/W7tjXKazGz1hS6BpQyW9YQC5QMlVhEmSCQhCWk8UjdWzbch0gHYQUq8Ut3XGu/bArz5TmuSaQcx6yIEW6mCwmT9oHbrXVQWhLEQFp4xDmdSaqI7UHQyAXAHW1p4kQBR8RwtvNilggF4bslqEwwtxgGSnij+BI4kCgeoMoakc23nkBRDEA+d5hVSuPy44Ni+ibtyF/No9Vsi82Jds+7XqzIj/hFs1XH4iqgEjSUsvsD0zPutZMa2TZI3MApI1DkKpR6TMfuo5he/Io5wAUqs/4DGROpX6GQO5SSREvC18QYFPkGcoKKcGXD+R77OlcCREKedI5u1/f1Xf/Z+//7GbqvZUJ6x1i31fStAWKjck79l01cQeAKArSqU66jyK9Xx/oE3tt0F4=
+                    [MD] => 9652850231452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c3fb051eb4bd929da5ddd5d4867c7cf5251f790ff2c74f5ea0f2b7e252d416fb&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttyokAQ/RWKVysMAkqwmkmpSdRak1iJW27yhtDCZOU6g0G/PjOIufTL9OnuOn05AzdNutcOWHGWZ77eN0xdwyzMI5bFvv53fX91rd9QWCcV4u0LhnWFFB6Q8yBGjUW+fsrn0SF15rOjM016p11TJt7wNV/W7tjXKazGz1hS6BpQyW9YQC5QMlVhEmSCQhCWk8UjdWzbch0gHYQUq8Ut3XGu/bArz5TmuSaQcx6yIEW6mCwmT9oHbrXVQWhLEQFp4xDmdSaqI7UHQyAXAHW1p4kQBR8RwtvNilggF4bslqEwwtxgGSnij+BI4kCgeoMoakc23nkBRDEA+d5hVSuPy44Ni+ibtyF/No9Vsi82Jds+7XqzIj/hFs1XH4iqgEjSUsvsD0zPutZMa2TZI3MApI1DkKpR6TMfuo5he/Io5wAUqs/4DGROpX6GQO5SSREvC18QYFPkGcoKKcGXD+R77OlcCREKedI5u1/f1Xf/Z+//7GbqvZUJ6x1i31fStAWKjck79l01cQeAKArSqU66jyK9Xx/oE3tt0F4=
+                            [MD] => 9652850231452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c3fb051eb4bd929da5ddd5d4867c7cf5251f790ff2c74f5ea0f2b7e252d416fb&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:54:42Z
+RequestParameter:  billNo: 45742f35634426370952 | startTime:2015-09-28 08:54:42
+
+2015-09-28T08:54:42Z
+https://test.payu.in/_payment
+
+2015-09-28T08:54:42Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45742f35634426370952
+    [amount] => 674.39
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:54:47Z
+ResponseParameter:  billNo: 45742f35634426370952 | endTime:2015-09-28 08:54:47
+
+2015-09-28T08:54:47Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttyokAQ/RWKVys0AopazaRESXATVxNMubtvCLOIxoEwg5e/3xnU6PbL9OnuOn05g4/H3ae2pxXPC+bpbcPUNcqSIs1Z5ukfi6eHnv5IcLGuKB1HNKkrSnBKOY8zquWppwdO6+P5pZvvQzcIo63NfGe5WoWLHnvzdILz4Tv9InhpQCS/YSFcoWSqknXMBME4+fInP4lj25brIFwg7mg1GZO/nGt39tA3pfVdE+GcRxbvKJn4E3+mHehKm++F9ipShCaOSVEzUZ2I3ekiXAHW1SdZC1HyAQBvNiszQbkwZDdGhZEURs6gzA7xCbJYUPXGadqMbGx4iaAYEG47zGvlcdnxmKfkAG5r+Xs2inz2YzYerboRZWFkb9fHzENQFZhKWmKZ7Y7Zt3qaaQ2szsBsIzRxjHdqVPLOu65j2H15lHMAS9VneAYyp1L3IZS7VFLE68JXhPRYFozKCinBt49wG3sUKiESIU8a5k+LoA62z5tfm1Eynf5pLcNg6HlKmqZAseXyjm3X7DR0CiAoCrioDpePIr3/PtA/1qXN2Q==
+                    [MD] => 6927715241452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=11a08d9b60069a976bf05c3a28eac47249ef215eca1d112a6c82bd64c3b770c7&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttyokAQ/RWKVys0AopazaRESXATVxNMubtvCLOIxoEwg5e/3xnU6PbL9OnuOn05g4/H3ae2pxXPC+bpbcPUNcqSIs1Z5ukfi6eHnv5IcLGuKB1HNKkrSnBKOY8zquWppwdO6+P5pZvvQzcIo63NfGe5WoWLHnvzdILz4Tv9InhpQCS/YSFcoWSqknXMBME4+fInP4lj25brIFwg7mg1GZO/nGt39tA3pfVdE+GcRxbvKJn4E3+mHehKm++F9ipShCaOSVEzUZ2I3ekiXAHW1SdZC1HyAQBvNiszQbkwZDdGhZEURs6gzA7xCbJYUPXGadqMbGx4iaAYEG47zGvlcdnxmKfkAG5r+Xs2inz2YzYerboRZWFkb9fHzENQFZhKWmKZ7Y7Zt3qaaQ2szsBsIzRxjHdqVPLOu65j2H15lHMAS9VneAYyp1L3IZS7VFLE68JXhPRYFozKCinBt49wG3sUKiESIU8a5k+LoA62z5tfm1Eynf5pLcNg6HlKmqZAseXyjm3X7DR0CiAoCrioDpePIr3/PtA/1qXN2Q==
+                            [MD] => 6927715241452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=11a08d9b60069a976bf05c3a28eac47249ef215eca1d112a6c82bd64c3b770c7&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T08:57:44Z
+RequestParameter:  billNo: 45542f3563442s6370952 | startTime:2015-09-28 08:57:44
+
+2015-09-28T08:57:44Z
+https://test.payu.in/_payment
+
+2015-09-28T08:57:44Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 45542f3563442s6370952
+    [amount] => 674.39
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T08:57:48Z
+ResponseParameter:  billNo: 45542f3563442s6370952 | endTime:2015-09-28 08:57:48
+
+2015-09-28T08:57:48Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUtty4jAM/ZVMXjuNTBIKYRR3oFBgp2XZLsx0H0MiQiC32g7Qv187wLarF+tImqPLMT6ei9w6kpBZVYZ2x2G2RWVcJVmZhvZ69Xzftx85rnaCaPyb4kYQx1eSMkrJypLQpvxIT+PZcBv/CX7A/pBPipeT6LjRyg9tjsvhG31wvDbgmt9xEW5QM4l4F5WKYxR/jOYL7nue2/MRrhALEvMx30ppfbP7gGkLegzhkscyKojPR/PRT+tEG2t5VNaLShDaOMZVUyrxyb3uA8INYCNyvlOqlgMA2W5Wp4qkcnS3kpQTV05WQp2eok9II0XmjZKkHdnZyxrBMCB87bBsjCd1x3OW8PF7/i7Od9lCxNtpnlV3G1j7UuWHYB0imApMNC13WafLArdvMXfg9gfMQ2jjGBVmVP4mH3q+4wX6KJcA1qbP8AJ0zqS+h1DvIrSIt4VvCOlcVyXpCi3BPx/ha+ynmREiVvqks+x5NWkmh+l+/au/8SfDxTRhaRgaadoCw5bpO3Z6rNvSGYBgKOCqOlw/ivb++0B/AY1qz2k=
+                    [MD] => 8826656281452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=be2ffb31ede0c752be45c3ba01b2021bf35fa4fea5e883158a3f079e0221e5c3&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUtty4jAM/ZVMXjuNTBIKYRR3oFBgp2XZLsx0H0MiQiC32g7Qv187wLarF+tImqPLMT6ei9w6kpBZVYZ2x2G2RWVcJVmZhvZ69Xzftx85rnaCaPyb4kYQx1eSMkrJypLQpvxIT+PZcBv/CX7A/pBPipeT6LjRyg9tjsvhG31wvDbgmt9xEW5QM4l4F5WKYxR/jOYL7nue2/MRrhALEvMx30ppfbP7gGkLegzhkscyKojPR/PRT+tEG2t5VNaLShDaOMZVUyrxyb3uA8INYCNyvlOqlgMA2W5Wp4qkcnS3kpQTV05WQp2eok9II0XmjZKkHdnZyxrBMCB87bBsjCd1x3OW8PF7/i7Od9lCxNtpnlV3G1j7UuWHYB0imApMNC13WafLArdvMXfg9gfMQ2jjGBVmVP4mH3q+4wX6KJcA1qbP8AJ0zqS+h1DvIrSIt4VvCOlcVyXpCi3BPx/ha+ynmREiVvqks+x5NWkmh+l+/au/8SfDxTRhaRgaadoCw5bpO3Z6rNvSGYBgKOCqOlw/ivb++0B/AY1qz2k=
+                            [MD] => 8826656281452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=be2ffb31ede0c752be45c3ba01b2021bf35fa4fea5e883158a3f079e0221e5c3&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:00:33Z
+RequestParameter:  billNo: 46542f3563442s6370952 | startTime:2015-09-28 09:00:33
+
+2015-09-28T09:00:33Z
+https://test.payu.in/_payment
+
+2015-09-28T09:00:33Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 46542f3563442s6370952
+    [amount] => 674.39
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:00:38Z
+ResponseParameter:  billNo: 46542f3563442s6370952 | endTime:2015-09-28 09:00:38
+
+2015-09-28T09:00:38Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttu4jAQ/ZUor1UzJoGEoIkrUq7qZRFll1Xf0sQEU3Kp7RT4+7UDtN158ZyZ0ZnLMd4di731yYTkVRnZHYfYFivTKuNlHtm/V5Pbvn1HcbUVjI1eWNoIRvGJSZnkzOJZZI+m/Zmf8j/xw6TavK798CZecsknORlHNsXFcMk+KF4aUM3vuAhXqJlEuk1KRTFJP+L5M+16nht0ES4QCybmI7qR0vphtyHRFgYE4ZzHMikYncfz+Jd1YG/W4lNZjypDaOOYVk2pxIl6PR/hCrARe7pVqpYDANluVueKSeXobiVTTlo5vIQ6PyQnyBPFzJtkWTuys5M1gmFA+N5h0RhP6o5HntHCP0Ed7OV6+xA0zVD8vd+8ktWhKhoSIZgKzDQtdUmnR0K3bxF34JFBz0No45gUZlS6lH7QdbxQH+UcwNr0GZ6BzpnUzxDqXYQW8brwFSE71lXJdIWW4MtH+B77fmaESJU+6YxPVuNm/D7drXfB9HhT554XD6PISNMWGDau79gJSK+lMwDBUMBFdbh8FO3994H+AQ4yzs8=
+                    [MD] => 641974301452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=e45e7d757ffd41844673665baf7a7a4671af0f23e7465e425b3695c58990db33&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttu4jAQ/ZUor1UzJoGEoIkrUq7qZRFll1Xf0sQEU3Kp7RT4+7UDtN158ZyZ0ZnLMd4di731yYTkVRnZHYfYFivTKuNlHtm/V5Pbvn1HcbUVjI1eWNoIRvGJSZnkzOJZZI+m/Zmf8j/xw6TavK798CZecsknORlHNsXFcMk+KF4aUM3vuAhXqJlEuk1KRTFJP+L5M+16nht0ES4QCybmI7qR0vphtyHRFgYE4ZzHMikYncfz+Jd1YG/W4lNZjypDaOOYVk2pxIl6PR/hCrARe7pVqpYDANluVueKSeXobiVTTlo5vIQ6PyQnyBPFzJtkWTuys5M1gmFA+N5h0RhP6o5HntHCP0Ed7OV6+xA0zVD8vd+8ktWhKhoSIZgKzDQtdUmnR0K3bxF34JFBz0No45gUZlS6lH7QdbxQH+UcwNr0GZ6BzpnUzxDqXYQW8brwFSE71lXJdIWW4MtH+B77fmaESJU+6YxPVuNm/D7drXfB9HhT554XD6PISNMWGDau79gJSK+lMwDBUMBFdbh8FO3994H+AQ4yzs8=
+                            [MD] => 641974301452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=e45e7d757ffd41844673665baf7a7a4671af0f23e7465e425b3695c58990db33&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:07:58Z
+RequestParameter:  billNo: 4654234563442s6370952 | startTime:2015-09-28 09:07:58
+
+2015-09-28T09:07:58Z
+https://test.payu.in/_payment
+
+2015-09-28T09:07:58Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 4654234563442s6370952
+    [amount] => 0.00
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:07:59Z
+ResponseParameter:  billNo: 4654234563442s6370952 | endTime:2015-09-28 09:07:59
+
+2015-09-28T09:07:59Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] => Invalid amount  @~@ ExceptionConstant : INVALID_AMOUNT
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] => Invalid amount  @~@ ExceptionConstant : INVALID_AMOUNT
+        )
+
+)
+
+
+2015-09-28T09:08:22Z
+RequestParameter:  billNo: 44554234563442s6370952 | startTime:2015-09-28 09:08:22
+
+2015-09-28T09:08:22Z
+https://test.payu.in/_payment
+
+2015-09-28T09:08:22Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 44554234563442s6370952
+    [amount] => 674.54
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:08:26Z
+ResponseParameter:  billNo: 44554234563442s6370952 | endTime:2015-09-28 09:08:26
+
+2015-09-28T09:08:26Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl13ojAQ/SscXntK+KziGdKjtW7ddStVOe4+0jBFLAYkoeq/b4K67eYlc2cmdz5u4P64K40PbERR8ch0LNs0kLMqK3gemclqcts37ymsNg3ieImsbZDCbxQizdEossh023mCy/gt9tc378vZ/O+E74/Jdv5Hv6cQDxe4p3ApQBW/5QK5QsXUsE3KJYWU7UfTZ+p7ntvzgVwg7LCZjumbEMa3cxva6oQ9G8g5DjzdIZ2OpqO5ccBXI/6QxkxmQDo/sKrlsjlRL7gDcgXQNiXdSFmLASGim6zOJQppqWocpcUqq+Ckzg/pieSpRH2nWda1bG1FDUQzAPmaIW61JVTFY5HRmuXrZDEZ2hV6vzblMDyw8KYsZ8E4iYDoDMgULXVtJ7BDt2/Y7sDrD3wHSOeHdKdbpQtx1/OtQC/l7IBa1xmegYrp0HcXqFkaJeJ14CsCPNYVR5WhJPhnA/lq++FJC8GkWulTMVk9to/vP7Zr56dzejnJYhS+RJGWpkvQbIXao9Ozg45OAyCaglxUJ5ePoqz/PtAnaa/PTA==
+                    [MD] => 9952262381452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1656a834583c371beeac146e3881dd930cf5d67277b7e04a29023f2f140998cd&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl13ojAQ/SscXntK+KziGdKjtW7ddStVOe4+0jBFLAYkoeq/b4K67eYlc2cmdz5u4P64K40PbERR8ch0LNs0kLMqK3gemclqcts37ymsNg3ieImsbZDCbxQizdEossh023mCy/gt9tc378vZ/O+E74/Jdv5Hv6cQDxe4p3ApQBW/5QK5QsXUsE3KJYWU7UfTZ+p7ntvzgVwg7LCZjumbEMa3cxva6oQ9G8g5DjzdIZ2OpqO5ccBXI/6QxkxmQDo/sKrlsjlRL7gDcgXQNiXdSFmLASGim6zOJQppqWocpcUqq+Ckzg/pieSpRH2nWda1bG1FDUQzAPmaIW61JVTFY5HRmuXrZDEZ2hV6vzblMDyw8KYsZ8E4iYDoDMgULXVtJ7BDt2/Y7sDrD3wHSOeHdKdbpQtx1/OtQC/l7IBa1xmegYrp0HcXqFkaJeJ14CsCPNYVR5WhJPhnA/lq++FJC8GkWulTMVk9to/vP7Zr56dzejnJYhS+RJGWpkvQbIXao9Ozg45OAyCaglxUJ5ePoqz/PtAnaa/PTA==
+                            [MD] => 9952262381452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1656a834583c371beeac146e3881dd930cf5d67277b7e04a29023f2f140998cd&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:10:01Z
+RequestParameter:  billNo: 445654234563442s6370952 | startTime:2015-09-28 09:10:01
+
+2015-09-28T09:10:01Z
+https://test.payu.in/_payment
+
+2015-09-28T09:10:01Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 445654234563442s6370952
+    [amount] => 674.54
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:10:05Z
+ResponseParameter:  billNo: 445654234563442s6370952 | endTime:2015-09-28 09:10:05
+
+2015-09-28T09:10:05Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUtty4jAM/ZVMXneITUigMIo70BvMlpJNKdPdt2yiNU7Budhp6d+vHaAXvVhH0hzpSIbLw37nvGKjRCkjt+9R10GZlbmQPHKf1re9C/eSwXrbIF4/YtY2yGCJSqUcHZFHbvhQ1vhjN0/6XNSPv/kdjdWLEJoPaeQyiKcJ1gxODZjh93wgZ2iYmmybSs0gzerZ4oEFg4E/CoCcIOyxWVyzf0o5X6w3psbGIwrkmAeZ7pEtZovZynnDv078qp17nQPp4pCVrdTNOxuEQyBnAG2zY1utKzUhRHXKKq5Rac90k6i9rPSEJBV/S98JTzXaN83zbmSvUBUQywDkU0PcWk+ZjgeRs2nsj7dytSyKWviJYcyHPIjLn8v5NAJiKyA3tMyn/ZCO/QuH+pOATnyjqotDurejskQNR4EX2qUcA1DZPtMjMDmb+hoCo6UxRzwLPiPAQ1VKNBXmBB8+kM+xr+b2EJk2K52L2/VNe/NyV2ySP4dNFRZXm+dfUWRP0xVYNmH22B/RsKOzAIilIKerk9NHMd63D/QfiJHPng==
+                    [MD] => 7392402401452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=d14425d276a215181a4bcc3ca4ddc09710ec629a5e22e7bcadebfe7a5e954867&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUtty4jAM/ZVMXneITUigMIo70BvMlpJNKdPdt2yiNU7Budhp6d+vHaAXvVhH0hzpSIbLw37nvGKjRCkjt+9R10GZlbmQPHKf1re9C/eSwXrbIF4/YtY2yGCJSqUcHZFHbvhQ1vhjN0/6XNSPv/kdjdWLEJoPaeQyiKcJ1gxODZjh93wgZ2iYmmybSs0gzerZ4oEFg4E/CoCcIOyxWVyzf0o5X6w3psbGIwrkmAeZ7pEtZovZynnDv078qp17nQPp4pCVrdTNOxuEQyBnAG2zY1utKzUhRHXKKq5Rac90k6i9rPSEJBV/S98JTzXaN83zbmSvUBUQywDkU0PcWk+ZjgeRs2nsj7dytSyKWviJYcyHPIjLn8v5NAJiKyA3tMyn/ZCO/QuH+pOATnyjqotDurejskQNR4EX2qUcA1DZPtMjMDmb+hoCo6UxRzwLPiPAQ1VKNBXmBB8+kM+xr+b2EJk2K52L2/VNe/NyV2ySP4dNFRZXm+dfUWRP0xVYNmH22B/RsKOzAIilIKerk9NHMd63D/QfiJHPng==
+                            [MD] => 7392402401452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=d14425d276a215181a4bcc3ca4ddc09710ec629a5e22e7bcadebfe7a5e954867&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:13:50Z
+RequestParameter:  billNo: 9876543 | startTime:2015-09-28 09:13:50
+
+2015-09-28T09:13:50Z
+https://test.payu.in/_payment
+
+2015-09-28T09:13:50Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 9876543
+    [amount] => 754.23
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:13:56Z
+ResponseParameter:  billNo: 9876543 | endTime:2015-09-28 09:13:56
+
+2015-09-28T09:13:56Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttyokAQ/RWK99BcV7GaSWlEQ25rXC1TvhHoIK4CMoOXfP3OoG6Sfpk+3V2nL2fw9rjdaHuqeV4WgW4Zpq5RkZRpXmSBPp+Nbrr6LcPZqiYa/qGkqYnhM3EeZ6TlaaAfN+HMf3TBeQmj3XQyLxd8sXyYN92mH+gMJ/0p7RheGjDJb9gIVyiZ6mQVF4JhnOwG0QtzHcfuuAgXiFuqoyH74Fz7Zje+Kc3vmAjnPBbxllg0iAa/tQO9a5O90J5EitDGMSmbQtQn5ni/EK4Am3rDVkJUvAfA282qTBAXhuxWkDCS0sgLqLJDfIIsFqTeOE3bkY01rxAUA8LXDpNGeVx2POYpg/nysxmG2f70vDCfXl/Xq/7Yvxt7w5EbIKgKTCUts03LM327q5l2z3V7loXQxjHeqlHZlHc817AdeZRzACvVp38GMqdS30Mod6mliNeFrwjpWJUFyQopwX8f4Wvsu3slRCLkSe/z0Sxswr/j9Vu043varJ3F8hAESpq2QLHl8o5Wx/RaOgUQFAVcVIfLR5Hejw/0DzeRzxs=
+                    [MD] => 4085792441452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b4e1573799417587398b2c2aa85489c8c5068c05f00358241154187461a95b23&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttyokAQ/RWK99BcV7GaSWlEQ25rXC1TvhHoIK4CMoOXfP3OoG6Sfpk+3V2nL2fw9rjdaHuqeV4WgW4Zpq5RkZRpXmSBPp+Nbrr6LcPZqiYa/qGkqYnhM3EeZ6TlaaAfN+HMf3TBeQmj3XQyLxd8sXyYN92mH+gMJ/0p7RheGjDJb9gIVyiZ6mQVF4JhnOwG0QtzHcfuuAgXiFuqoyH74Fz7Zje+Kc3vmAjnPBbxllg0iAa/tQO9a5O90J5EitDGMSmbQtQn5ni/EK4Am3rDVkJUvAfA282qTBAXhuxWkDCS0sgLqLJDfIIsFqTeOE3bkY01rxAUA8LXDpNGeVx2POYpg/nysxmG2f70vDCfXl/Xq/7Yvxt7w5EbIKgKTCUts03LM327q5l2z3V7loXQxjHeqlHZlHc817AdeZRzACvVp38GMqdS30Mod6mliNeFrwjpWJUFyQopwX8f4Wvsu3slRCLkSe/z0Sxswr/j9Vu043varJ3F8hAESpq2QLHl8o5Wx/RaOgUQFAVcVIfLR5Hejw/0DzeRzxs=
+                            [MD] => 4085792441452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b4e1573799417587398b2c2aa85489c8c5068c05f00358241154187461a95b23&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:15:34Z
+RequestParameter:  billNo: 98765433 | startTime:2015-09-28 09:15:34
+
+2015-09-28T09:15:34Z
+https://test.payu.in/_payment
+
+2015-09-28T09:15:34Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 98765433
+    [amount] => 754.23
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:15:38Z
+ResponseParameter:  billNo: 98765433 | endTime:2015-09-28 09:15:38
+
+2015-09-28T09:15:38Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttymzAQ/RWG104QYAi2Z1HGri94mosnsXvxmwpbTGIEkYQh/fpK2E7SfdGe3Z1z9iK46cqDdUQhi4rHtue4toU8rbKC57G93SyuhvYNhc1eIM6eMG0EUrhDKVmOVpHFdjDdMZz94qP71RehvLq9/n6MdmFTHNzYprCePOIrhbMA1fyOD+QCNZNI94wrCix9na7uaTAY+FEA5AyhRLGa0T9SWp/sauRqG0UukFMeOCuRrqar6YPV4m9rfVTWrcqA9HFIq4Yr8UYH4TWQC4BGHOheqVqOCZH9ZHWuUCpHq3FUTlo5BSd13rI3kjOF5mVZ1rfsPMsaiGEA8jHDujGe1IpdkdHw+He4ZWWiHpJ2N0kWoluGL5v8W7Ocx0BMBWSalvquF7ojf2i5/jgIx6HeTx8HVppW6aOMwsDxB3oppwDURmdyAjpnUp9DoGcR+oiXgS8IsKsrjrpCS7z7QD7a/pqYQ6RKrzQpFpt5M39ZPv+cdK7I7/DH1mvj2JymLzBshd6jF7lhT2cAEENBzlcn54+ivf8+0D8Z38+S
+                    [MD] => 4919971451452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0275a160c6d6cdf70822e3738f61aceb55fc6b5dfa97450e11623fceb852ba29&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttymzAQ/RWG104QYAi2Z1HGri94mosnsXvxmwpbTGIEkYQh/fpK2E7SfdGe3Z1z9iK46cqDdUQhi4rHtue4toU8rbKC57G93SyuhvYNhc1eIM6eMG0EUrhDKVmOVpHFdjDdMZz94qP71RehvLq9/n6MdmFTHNzYprCePOIrhbMA1fyOD+QCNZNI94wrCix9na7uaTAY+FEA5AyhRLGa0T9SWp/sauRqG0UukFMeOCuRrqar6YPV4m9rfVTWrcqA9HFIq4Yr8UYH4TWQC4BGHOheqVqOCZH9ZHWuUCpHq3FUTlo5BSd13rI3kjOF5mVZ1rfsPMsaiGEA8jHDujGe1IpdkdHw+He4ZWWiHpJ2N0kWoluGL5v8W7Ocx0BMBWSalvquF7ojf2i5/jgIx6HeTx8HVppW6aOMwsDxB3oppwDURmdyAjpnUp9DoGcR+oiXgS8IsKsrjrpCS7z7QD7a/pqYQ6RKrzQpFpt5M39ZPv+cdK7I7/DH1mvj2JymLzBshd6jF7lhT2cAEENBzlcn54+ivf8+0D8Z38+S
+                            [MD] => 4919971451452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0275a160c6d6cdf70822e3738f61aceb55fc6b5dfa97450e11623fceb852ba29&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:16:21Z
+RequestParameter:  billNo: 98765432 | startTime:2015-09-28 09:16:21
+
+2015-09-28T09:16:21Z
+https://test.payu.in/_payment
+
+2015-09-28T09:16:21Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 98765432
+    [amount] => 674.54
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:16:26Z
+ResponseParameter:  billNo: 98765432 | endTime:2015-09-28 09:16:26
+
+2015-09-28T09:16:26Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttym0AM/RWG9yCM8XXEZnAuhWniOoSmnbzhRcE44WJ2sXG/vrvYblK9rI6kOdKRFq+74sPYUyPyqvTMgWWbBpW8SvMy88yf8f3V1LxmGG8aottn4m1DDB9JiCQjI089c+nvOr4O4z8vsDxuu2fXOVQUvbZBZ3smw5Uf0Y7huQFT/JaDcIGKqeGbpJQME75bhEvmDofOxEU4QyyoCW/ZmxDGF7ua2cpmExvhlMcyKYiFi3DxwzjQ2ljtpfEgU4Q+jrxqS9kc2XA0RrgAbJsPtpGyFnMA0SurM0lCWqpbSdLilZWXUGeH5AhZIkm/SZr2I1tbUSNoBoRPDatWe0J17PKUPbWRAH+wmMZThzZV8bB+3P/+9Z1D4XoIugJTRcscezCyZ87UsJ25O567SlUfx6TQo7JIjCeuNdJLOQWw1n38E1A5nfoaQqWlUUe8CL4gpK6uSlIV6gT/fITPsW8CfQgu1UqD/D6+a+/ev21fgkDKhJ6iKvA9T5+mL9BsudrjYGKPejoNEDQFnK8O54+ivP8+0F8PoM/E
+                    [MD] => 8053630461452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=386ca5172930f4bb2eb8d4c75c49827fc46b87ebe7e5da1bfa5b674078d879c0&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttym0AM/RWG9yCM8XXEZnAuhWniOoSmnbzhRcE44WJ2sXG/vrvYblK9rI6kOdKRFq+74sPYUyPyqvTMgWWbBpW8SvMy88yf8f3V1LxmGG8aottn4m1DDB9JiCQjI089c+nvOr4O4z8vsDxuu2fXOVQUvbZBZ3smw5Uf0Y7huQFT/JaDcIGKqeGbpJQME75bhEvmDofOxEU4QyyoCW/ZmxDGF7ua2cpmExvhlMcyKYiFi3DxwzjQ2ljtpfEgU4Q+jrxqS9kc2XA0RrgAbJsPtpGyFnMA0SurM0lCWqpbSdLilZWXUGeH5AhZIkm/SZr2I1tbUSNoBoRPDatWe0J17PKUPbWRAH+wmMZThzZV8bB+3P/+9Z1D4XoIugJTRcscezCyZ87UsJ25O567SlUfx6TQo7JIjCeuNdJLOQWw1n38E1A5nfoaQqWlUUe8CL4gpK6uSlIV6gT/fITPsW8CfQgu1UqD/D6+a+/ev21fgkDKhJ6iKvA9T5+mL9BsudrjYGKPejoNEDQFnK8O54+ivP8+0F8PoM/E
+                            [MD] => 8053630461452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=386ca5172930f4bb2eb8d4c75c49827fc46b87ebe7e5da1bfa5b674078d879c0&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:17:12Z
+RequestParameter:  billNo: w98765432 | startTime:2015-09-28 09:17:12
+
+2015-09-28T09:17:12Z
+https://test.payu.in/_payment
+
+2015-09-28T09:17:12Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => w98765432
+    [amount] => 754.23
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:17:16Z
+ResponseParameter:  billNo: w98765432 | endTime:2015-09-28 09:17:16
+
+2015-09-28T09:17:16Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1T6jAQ/SudvjJ2+4UFZhtHFLXjvcpguQz3rbSxRGhakxTBX29S4Ordl+zZ3Tn7cYJX+2pr7aiQrOax7TmubVGe1wXjZWzP07uLgX1FMF0LSm9faN4KSvA3lTIrqcWK2K7DLduxdLHwe8v1yyDpiadVsxLVPN3ENsHp9Yy+Ezw1IJrf8RHOUDOJfJ1xRTDL38fJEwmDwI9ChBPEiorklrxKaf2wi6GrbRi5CMc88qyiJBkn42frg66s6U5Zv1SB0MUxr1uuxIEE/UuEM8BWbMlaqUaOAGS3WVMqKpWju3GqnLx2GIem/MgOUGaKmjcrim5k5002CIYB4XuHaWs8qTvuWUH+AKuKaW8x48/LfUiZ9/f+M3g8rARMYgRTgYWmJb7r9d2hP7BcfxRGo8BD6OKYVWZUMpNRP3T8QB/lGMDG9Lk+Ap0zqZ8h1LsILeJ54TNCum9qTnWFluCfj/A99s2DESJX+qQP7C6dtJPN/dv8VYlNursU3rKMYyNNV2DYmL6jF7n9js4ABEMBJ9Xh9FG0998H+gL2HtAU
+                    [MD] => 6017482471452710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a6c4296afb2937a8af467a282273a0d3c10b0f2b81cfe46fdf8bdd2fa871fe2a&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1T6jAQ/SudvjJ2+4UFZhtHFLXjvcpguQz3rbSxRGhakxTBX29S4Ordl+zZ3Tn7cYJX+2pr7aiQrOax7TmubVGe1wXjZWzP07uLgX1FMF0LSm9faN4KSvA3lTIrqcWK2K7DLduxdLHwe8v1yyDpiadVsxLVPN3ENsHp9Yy+Ezw1IJrf8RHOUDOJfJ1xRTDL38fJEwmDwI9ChBPEiorklrxKaf2wi6GrbRi5CMc88qyiJBkn42frg66s6U5Zv1SB0MUxr1uuxIEE/UuEM8BWbMlaqUaOAGS3WVMqKpWju3GqnLx2GIem/MgOUGaKmjcrim5k5002CIYB4XuHaWs8qTvuWUH+AKuKaW8x48/LfUiZ9/f+M3g8rARMYgRTgYWmJb7r9d2hP7BcfxRGo8BD6OKYVWZUMpNRP3T8QB/lGMDG9Lk+Ap0zqZ8h1LsILeJ54TNCum9qTnWFluCfj/A99s2DESJX+qQP7C6dtJPN/dv8VYlNursU3rKMYyNNV2DYmL6jF7n9js4ABEMBJ9Xh9FG0998H+gL2HtAU
+                            [MD] => 6017482471452710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a6c4296afb2937a8af467a282273a0d3c10b0f2b81cfe46fdf8bdd2fa871fe2a&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-28T09:33:21Z
+RequestParameter:  billNo: 987654s32 | startTime:2015-09-28 09:33:21
+
+2015-09-28T09:33:21Z
+https://test.payu.in/_payment
+
+2015-09-28T09:33:21Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 987654s32
+    [amount] => 10.00
+    [productinfo] => Product
+    [firstname] => Any
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 12345678
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Any Any
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-28T09:33:25Z
+ResponseParameter:  billNo: 987654s32 | endTime:2015-09-28 09:33:25
+
+2015-09-28T09:33:25Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFv2yAQ/SuWv9dgJ07i6kyVtM3qqdkiN1W3fWNAHSc1dgAn8b8fuM7aIiTuHad393jAzbl6845C6bKWqR8G2PeEZDUvZZH6z5vl1cy/IbDZKiHungRrlSCwElrTQnglT/256rpd/nKe3PJfhzILd/tpHjWz8KliqU9gPc/FgcDQgFj+IAJ0gZZJsS2VhgBlh0X2g4xHo2g6BjRAqITK7sir1t6ndZVgu5IpBvR+D5JWgmSLbPHTO4m/3vpovEfDAfV5YHUrjerIKJ4AugBo1RvZGtPoa4R0r6wpjNAmsN2kMAGrg1KipjjRDhXUCHdSzvuRg51uADkGQB8a1q2LtO14Ljnhv0W3nG0mr7KOju33is3jJPuzeKSTVQrIVQC3tCTCYYyTaObh0bXdY6uqzwOt3Kgk1yEOsM0OGBrXZv4OQuxuPmfAKlHWwovcCwJxbmopbIU14H8M6GPo2wdnAzP2QR/K5ea+vd9/272c9niVxDzv8lOaOmP6AsdW2lcMpzju6RwA5CjQ4DkavomNvnyffw1yzv0=
+                    [MD] => 8625208031552710
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c9df8209aa2a12218489c14e6e1af646701cdcfe42f9356d246e30ee5af3583c&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFv2yAQ/SuWv9dgJ07i6kyVtM3qqdkiN1W3fWNAHSc1dgAn8b8fuM7aIiTuHad393jAzbl6845C6bKWqR8G2PeEZDUvZZH6z5vl1cy/IbDZKiHungRrlSCwElrTQnglT/256rpd/nKe3PJfhzILd/tpHjWz8KliqU9gPc/FgcDQgFj+IAJ0gZZJsS2VhgBlh0X2g4xHo2g6BjRAqITK7sir1t6ndZVgu5IpBvR+D5JWgmSLbPHTO4m/3vpovEfDAfV5YHUrjerIKJ4AugBo1RvZGtPoa4R0r6wpjNAmsN2kMAGrg1KipjjRDhXUCHdSzvuRg51uADkGQB8a1q2LtO14Ljnhv0W3nG0mr7KOju33is3jJPuzeKSTVQrIVQC3tCTCYYyTaObh0bXdY6uqzwOt3Kgk1yEOsM0OGBrXZv4OQuxuPmfAKlHWwovcCwJxbmopbIU14H8M6GPo2wdnAzP2QR/K5ea+vd9/272c9niVxDzv8lOaOmP6AsdW2lcMpzju6RwA5CjQ4DkavomNvnyffw1yzv0=
+                            [MD] => 8625208031552710
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c9df8209aa2a12218489c14e6e1af646701cdcfe42f9356d246e30ee5af3583c&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+

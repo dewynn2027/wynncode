@@ -1,0 +1,100 @@
+2015-09-21T11:16:55Z
+RequestParameter:  billNo: gSLG11442637097 | startTime:2015-09-21 11:16:55
+
+2015-09-21T11:16:55Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => gSLG11442637097
+    [referenceId] => gSLG11442637097
+    [dateTime] => 20150919123132
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 5123456789012346
+    [cvv2] => 123
+    [month] => 05
+    [year] => 2017
+    [firstName] => test
+    [lastName] => SimpleXMLElement Object
+        (
+            [0] =>  
+        )
+
+    [gender] => M
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [birthDate] => 20000901
+    [phone] => 12345678
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => BD
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Product
+    [currency] => EUR
+    [productItem] => Product
+    [productType] => Product
+    [productDesc] => Product
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-09-21T11:16:55Z
+ResponseParameter:  billNo: gSLG11442637097 | endTime:2015-09-21 11:16:55
+
+2015-09-21T11:16:55Z
+successcode=-1&Ref=gSLG11442637097&PayRef=150921190955&Amt=10&Cur=978&prc=1&src=14&Ord=150921190955&Holder=&AuthId=0955&TxTime=15-09-21 19:09:55&errMsg=Error: invalid cardNumber, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName, Parameter currency incorrect
+

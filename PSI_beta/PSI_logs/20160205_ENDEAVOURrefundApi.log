@@ -1,0 +1,52 @@
+2016-02-05T05:04:32Z
+RequestParameter:  billNo: 20160122020501
+
+2016-02-05T05:04:32Z
+Array
+(
+    [Version] => 
+    [Referer] => CommerceDataServices
+    [ReceiptCode] => D160502055812299
+    [ReceiptCodeEncrypted] => 7da0e5267d87a6b5cd8a43d9bcc27a6d83766e006e869fb5
+    [Action] => Cancel
+    [Amount] => 21.00
+)
+
+
+2016-02-05T05:04:34Z
+RequestParameter:  billNo: 20160122020501
+
+2016-02-05T05:04:34Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D160502055812299,AcceptReject=F,Action=Cancel,Desc=Expected status N found P,ReasonCode=-55
+)
+
+
+2016-02-05T05:06:39Z
+RequestParameter:  billNo: 20160122020501
+
+2016-02-05T05:06:39Z
+Array
+(
+    [Version] => 1.0
+    [Referer] => CommerceDataServices
+    [ReceiptCode] => D160502055812299
+    [ReceiptCodeEncrypted] => 7da0e5267d87a6b5cd8a43d9bcc27a6d83766e006e869fb5
+    [Action] => Cancel
+    [Amount] => 21.00
+)
+
+
+2016-02-05T05:06:40Z
+RequestParameter:  billNo: 20160122020501
+
+2016-02-05T05:06:40Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D160502055812299,AcceptReject=F,Action=Cancel,Desc=Expected status N found P,ReasonCode=-55
+)
+
+

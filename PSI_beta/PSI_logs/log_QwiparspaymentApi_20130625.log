@@ -1,0 +1,90 @@
+2013-06-25T01:35:38Z
+RequestParameter:  referenceId: 20130624200053
+
+2013-06-25T01:35:38Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130624200053&dateTime=20130624200049&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=30DC1DAB8BFB055A9C41C9828448981F&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-25T01:35:43Z
+ResponseParameter:  referenceId: 20130624200053
+
+2013-06-25T01:35:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130624200053</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130625093930</dateTime><paymentOrderNo>103355788729</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><md5Info>C74A0A7ED3AB48AAC6017EB1E619DBF8</md5Info><billingDescriptor>Purchstream trade A/G</billingDescriptor>
+
+</response>
+
+2013-06-25T01:45:22Z
+RequestParameter:  referenceId: 20130624200055
+
+2013-06-25T01:45:22Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130624200055&dateTime=20130624200049&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=4A9C8D2EF6875358BD3AF0270720D826&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-25T01:45:27Z
+ResponseParameter:  referenceId: 20130624200055
+
+2013-06-25T01:45:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130624200055</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130625094915</dateTime><paymentOrderNo>103355788853</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><md5Info>07CF6BE4B79F26B456681EB7A90F8B16</md5Info><billingDescriptor>Purchstream trade A/G</billingDescriptor>
+
+</response>
+
+2013-06-25T01:47:23Z
+RequestParameter:  referenceId: 20130624200056
+
+2013-06-25T01:47:23Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130624200056&dateTime=20130624200049&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=E46BA54CCD73C97AF8DF3FA4B26BD54B&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-25T01:47:26Z
+ResponseParameter:  referenceId: 20130624200056
+
+2013-06-25T01:47:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130624200056</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130625095114</dateTime><paymentOrderNo>103355788882</paymentOrderNo><remark>Payment Declined(Your card was declined several times, please use different card or deposit in 24 hours.Thank you)</remark><md5Info>60C1DDA2315AD5A4AEFA310823AA8959</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-06-25T02:07:55Z
+RequestParameter:  referenceId: 20130624200059
+
+2013-06-25T02:07:55Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130624200059&dateTime=20130624200049&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=5BF16EC33C14339118B2DFE43C947B3C&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-25T02:07:57Z
+ResponseParameter:  referenceId: 20130624200059
+
+2013-06-25T02:07:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130624200059</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130625101146</dateTime><paymentOrderNo>103355789107</paymentOrderNo><remark>Payment Declined(Your card was declined several times, please use different card or deposit in 24 hours.Thank you)</remark><md5Info>2AB46DCF1B3DB9C969B341BD11490FE1</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-06-25T02:14:43Z
+RequestParameter:  referenceId: 20130624200062
+
+2013-06-25T02:14:43Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130624200062&dateTime=20130624200049&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=5E53831D766E46DF604D0BB548E2FD3B&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-25T02:14:47Z
+ResponseParameter:  referenceId: 20130624200062
+
+2013-06-25T02:14:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130624200062</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130625101835</dateTime><paymentOrderNo>103355789176</paymentOrderNo><remark>Payment Declined(Your card was declined several times, please use different card or deposit in 24 hours.Thank you)</remark><md5Info>01155E99D76C13ADEF1955488BDB1E0B</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

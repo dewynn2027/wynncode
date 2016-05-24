@@ -1,0 +1,89 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+class Sdpayupdate extends CI_Controller {
+
+	function __construct()
+	{
+		parent::__construct();
+
+		if($this->input->post('HiddenField1',TRUE) != NULL)
+		{
+			$hiddenfield1 = $this->input->post('HiddenField1');
+			
+			$dec = $this->sdpay_model->DecryptDate($hiddenfield1,$this->config->item('serverFun_key1'),$this->config->item('serverFun_key2'));
+			
+			$server = $this->sdpay_model->Destrizlize($dec); 
+			
+			$this->sdpay = $this->load->database('sdpay', true);
+				
+			$data = array(
+               'state' => $server['state'],
+			);
+
+			$this->sdpay->where('serverid', $server['id']);
+			$this->sdpay->update('t_savingapply', $data);
+
+			$check = $this->sdpay->affected_rows() ? true : false;
+			
+			$this->sdpay->close();
+			
+			if($server['state'] != NULL)
+			{
+				echo "<span id=\"resultLable\">Success</span>";
+				
+				$fundin = $this->fundin($server['id']);
+			}
+			else {
+				echo "<span id=\"resultLable\">Failed</span>";
+			}
+			
+		}
+
+	}
+	
+	function index()
+	{		
+		$this->load->view('welcome_message');	
+	}
+	
+	function fundin($serverid)
+	{
+		$service_url = 'http://192.168.170.216/DGT/asia88/';
+		$this->xmlrpc->server($service_url, 80);
+		//$this->xmlrpc->set_debug(TRUE);
+		$this->xmlrpc->method('FUNDINOUT');
+
+		$getaccount = $this->sdpay_model->getAccount($serverid);
+			
+		$row = $getaccount->result();
+		
+		$request = array(
+                                    array(
+                                          // Param 0
+                                          array(
+                                          	"API_username"  	=> "asia88",							//username to access API
+											"API_password"  	=> "password",						//password to access API
+											"API_key"  		=> "5e8553f13a3b8e037f17c7d84e2b3d27",	//key to access API
+											"transId"		=> $row[0]->sPlayersId,
+											"accountId"	=> 	(int) $row[0]->sAccountId,
+											"fromAccount"	=> (int) 0,
+											"toAccount"	=> (int) $row[0]->sAccountId,
+											"amount"		=> (float)  $row[0]->sPrice,
+											"transType"		=> "DEPOSIT",
+											"transDesc"		=> "Sdpay"),
+                                          'struct'
+                                    ),'struct');
+		
+		$this->xmlrpc->request($request);   
+
+		if (!$this->xmlrpc->send_request())
+		{
+			echo $this->xmlrpc->display_error();
+		}
+		else
+		{
+			$response = $this->xmlrpc->display_response();
+			print_r($response);
+			
+		}
+	}
+}

@@ -1,0 +1,562 @@
+2016-05-10T06:21:14Z
+RequestParameter:  billNo: e5dcc7041e2265f6 | startTime:2016-05-10 06:21:14
+
+2016-05-10T06:21:14Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 10.2.192.39
+    [SESS] => e5dcc7041e2265f6
+    [ORDR] => e5dcc7041e2265f6
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456132BDFIK4XLYEREVL
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10600
+    [TOTL] => 10600
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MEREXPRESSMC
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 1234 Ponte 
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 1234 Ponte 
+    [S2CC] => PH
+    [S2CI] => Makati
+    [S2EM] => juan@mail.cmo
+    [S2NM] => Juan Juan
+    [S2PC] => 1204
+    [S2PN] => 1234567
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 106
+    [DOB] => 1984-09-20
+    [GENDER] => M
+    [EMAL] => juan@mail.cmo
+    [ANID] => 1234567
+)
+
+
+2016-05-10T06:21:17Z
+ResponseParameter:  billNo: e5dcc7041e2265f6 | endTime:2016-05-10 06:21:17
+
+2016-05-10T06:21:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PJN30JWG49H2</TRAN>
+  <MERC>680000</MERC>
+  <SESS>e5dcc7041e2265f6</SESS>
+  <ORDR>e5dcc7041e2265f6</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>793142</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-05-10T11:49:17Z
+RequestParameter:  billNo: daeeade4431971b0 | startTime:2016-05-10 11:49:17
+
+2016-05-10T11:49:17Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 10.2.192.45
+    [SESS] => daeeade4431971b0
+    [ORDR] => daeeade4431971b0
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456132BDFIK4XLYEREVL
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 8199
+    [TOTL] => 8199
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MEREXPRESSMC
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 123 Ponte 
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 123 Ponte 
+    [S2CC] => PH
+    [S2CI] => Makati
+    [S2EM] => juan@mail.cmo
+    [S2NM] => Juan Juan
+    [S2PC] => 1204
+    [S2PN] => 1234567
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 81.99
+    [DOB] => 1987-05-10
+    [GENDER] => M
+    [EMAL] => juan@mail.cmo
+    [ANID] => 1234567
+)
+
+
+2016-05-10T11:49:19Z
+ResponseParameter:  billNo: daeeade4431971b0 | endTime:2016-05-10 11:49:19
+
+2016-05-10T11:49:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PJJK0ZDCMC0Q</TRAN>
+  <MERC>680000</MERC>
+  <SESS>daeeade4431971b0</SESS>
+  <ORDR>daeeade4431971b0</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>793142</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [81.99] did not match regex /^(\d{1,15})?$/], Field: [CASH], Value: [81.99]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2016-05-10T11:53:51Z
+RequestParameter:  billNo: 95726c253bb38d67 | startTime:2016-05-10 11:53:51
+
+2016-05-10T11:53:51Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 10.2.192.45
+    [SESS] => 95726c253bb38d67
+    [ORDR] => 95726c253bb38d67
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456132BDFIK4XLYEREVL
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 8199
+    [TOTL] => 8199
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MEREXPRESSMC
+    [NAME] => De Wynn Rivera
+    [B2A1] => 1234 Ponte 
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 1234 Ponte 
+    [S2CC] => PH
+    [S2CI] => Makati
+    [S2EM] => rivera.dewynn@gmail.com
+    [S2NM] => De Wynn De Wynn
+    [S2PC] => 1204
+    [S2PN] => 1234567
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 81.99
+    [DOB] => 1984-09-20
+    [GENDER] => M
+    [EMAL] => rivera.dewynn@gmail.com
+    [ANID] => 1234567
+)
+
+
+2016-05-10T11:53:52Z
+ResponseParameter:  billNo: 95726c253bb38d67 | endTime:2016-05-10 11:53:52
+
+2016-05-10T11:53:52Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PJJK05WRGZ2L</TRAN>
+  <MERC>680000</MERC>
+  <SESS>95726c253bb38d67</SESS>
+  <ORDR>95726c253bb38d67</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [81.99] did not match regex /^(\d{1,15})?$/], Field: [CASH], Value: [81.99]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2016-05-10T12:00:19Z
+RequestParameter:  billNo: 09d73e1da9f21048 | startTime:2016-05-10 12:00:19
+
+2016-05-10T12:00:19Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 10.2.192.45
+    [SESS] => 09d73e1da9f21048
+    [ORDR] => 09d73e1da9f21048
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456132BDFIK4XLYEREVL
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 8199
+    [TOTL] => 8199
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MEREXPRESSMC
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 1234 Ponte 
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 1234 Ponte 
+    [S2CC] => PH
+    [S2CI] => Makati
+    [S2EM] => juan@mail.cmo
+    [S2NM] => Juan Juan
+    [S2PC] => 1204
+    [S2PN] => 1234567
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 81.99
+    [DOB] => 1984-09-20
+    [GENDER] => M
+    [EMAL] => juan@mail.cmo
+    [ANID] => 1234567
+)
+
+
+2016-05-10T12:00:20Z
+ResponseParameter:  billNo: 09d73e1da9f21048 | endTime:2016-05-10 12:00:20
+
+2016-05-10T12:00:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PJJN0SVLC48J</TRAN>
+  <MERC>680000</MERC>
+  <SESS>09d73e1da9f21048</SESS>
+  <ORDR>09d73e1da9f21048</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>793142</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [81.99] did not match regex /^(\d{1,15})?$/], Field: [CASH], Value: [81.99]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2016-05-10T12:06:21Z
+RequestParameter:  billNo: 0bfaf377ed7ff74a | startTime:2016-05-10 12:06:21
+
+2016-05-10T12:06:21Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 10.2.192.45
+    [SESS] => 0bfaf377ed7ff74a
+    [ORDR] => 0bfaf377ed7ff74a
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456132BDFIK4XLYEREVL
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 8199
+    [TOTL] => 8199
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MEREXPRESSMC
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 1234 Ponte 
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 1234 Ponte 
+    [S2CC] => PH
+    [S2CI] => Makati
+    [S2EM] => juan@mail.cmo
+    [S2NM] => Juan Juan
+    [S2PC] => 1204
+    [S2PN] => 1234567
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 81.99
+    [DOB] => 1984-09-20
+    [GENDER] => M
+    [EMAL] => juan@mail.cmo
+    [ANID] => 1234567
+)
+
+
+2016-05-10T12:06:22Z
+ResponseParameter:  billNo: 0bfaf377ed7ff74a | endTime:2016-05-10 12:06:22
+
+2016-05-10T12:06:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PJJN07WNGCQW</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0bfaf377ed7ff74a</SESS>
+  <ORDR>0bfaf377ed7ff74a</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>793142</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [81.99] did not match regex /^(\d{1,15})?$/], Field: [CASH], Value: [81.99]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

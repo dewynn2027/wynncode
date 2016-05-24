@@ -1,0 +1,312 @@
+2015-12-07T00:59:27Z
+RequestParameter:  billNo: 7muW81449449965 | startTime:2015-12-07 00:59:27
+
+2015-12-07T00:59:27Z
+
+
+2015-12-07T00:59:27Z
+Array
+(
+)
+
+
+2015-12-07T00:59:27Z
+ResponseParameter:  billNo: 7muW81449449965 | endTime:2015-12-07 00:59:27
+
+2015-12-07T00:59:27Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"76","cid":"11631","payNo":"7muW81449449965","billAmount":"10","createdAt":"20151207085925","billCurrency":"USD","tid":981718001449449967,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T00:59:43Z
+RequestParameter:  billNo: NtSUH1449449981 | startTime:2015-12-07 00:59:43
+
+2015-12-07T00:59:43Z
+
+
+2015-12-07T00:59:43Z
+Array
+(
+)
+
+
+2015-12-07T00:59:43Z
+ResponseParameter:  billNo: NtSUH1449449981 | endTime:2015-12-07 00:59:43
+
+2015-12-07T00:59:43Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"9954","cid":"11631","payNo":"NtSUH1449449981","billAmount":"10","createdAt":"20151207085941","billCurrency":"USD","tid":375529001449449983,"comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T01:00:14Z
+RequestParameter:  billNo: Rd0tv1449450012 | startTime:2015-12-07 01:00:14
+
+2015-12-07T01:00:14Z
+
+
+2015-12-07T01:00:14Z
+Array
+(
+)
+
+
+2015-12-07T01:00:14Z
+ResponseParameter:  billNo: Rd0tv1449450012 | endTime:2015-12-07 01:00:14
+
+2015-12-07T01:00:14Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"Rd0tv1449450012","billAmount":"10","createdAt":"20151207090012","billCurrency":"USD","tid":549147001449450014,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T02:20:33Z
+RequestParameter:  billNo: 71DkV1449454830 | startTime:2015-12-07 02:20:33
+
+2015-12-07T02:20:33Z
+
+
+2015-12-07T02:20:33Z
+Array
+(
+)
+
+
+2015-12-07T02:20:33Z
+ResponseParameter:  billNo: 71DkV1449454830 | endTime:2015-12-07 02:20:33
+
+2015-12-07T02:20:33Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"71DkV1449454830","billAmount":"10","createdAt":"20151207102030","billCurrency":"USD","tid":338001001449454833,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T06:30:21Z
+RequestParameter:  billNo: mwD951449469818 | startTime:2015-12-07 06:30:21
+
+2015-12-07T06:30:21Z
+
+
+2015-12-07T06:30:21Z
+Array
+(
+)
+
+
+2015-12-07T06:30:21Z
+ResponseParameter:  billNo: mwD951449469818 | endTime:2015-12-07 06:30:21
+
+2015-12-07T06:30:21Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"mwD951449469818","billAmount":"10","createdAt":"20151207143018","billCurrency":"USD","tid":529597001449469821,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:11:56Z
+RequestParameter:  billNo: 6qRLJ1449472313 | startTime:2015-12-07 07:11:56
+
+2015-12-07T07:11:56Z
+
+
+2015-12-07T07:11:56Z
+Array
+(
+)
+
+
+2015-12-07T07:11:56Z
+ResponseParameter:  billNo: 6qRLJ1449472313 | endTime:2015-12-07 07:11:56
+
+2015-12-07T07:11:56Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6qRLJ1449472313","billAmount":"10","createdAt":"20151207151153","billCurrency":"USD","tid":714623001449472316,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:29:16Z
+RequestParameter:  billNo: h3WnK1449473354 | startTime:2015-12-07 07:29:16
+
+2015-12-07T07:29:16Z
+
+
+2015-12-07T07:29:16Z
+Array
+(
+)
+
+
+2015-12-07T07:29:16Z
+ResponseParameter:  billNo: h3WnK1449473354 | endTime:2015-12-07 07:29:16
+
+2015-12-07T07:29:16Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"h3WnK1449473354","billAmount":"10","createdAt":"20151207152914","billCurrency":"USD","tid":603317001449473356,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:39:22Z
+RequestParameter:  billNo: WDxbu1449473960 | startTime:2015-12-07 07:39:22
+
+2015-12-07T07:39:22Z
+
+
+2015-12-07T07:39:22Z
+Array
+(
+)
+
+
+2015-12-07T07:39:22Z
+ResponseParameter:  billNo: WDxbu1449473960 | endTime:2015-12-07 07:39:22
+
+2015-12-07T07:39:22Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"WDxbu1449473960","billAmount":"10","createdAt":"20151207153920","billCurrency":"USD","tid":115626001449473962,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:43:06Z
+RequestParameter:  billNo: 6SG0u1449474185 | startTime:2015-12-07 07:43:06
+
+2015-12-07T07:43:06Z
+
+
+2015-12-07T07:43:06Z
+Array
+(
+)
+
+
+2015-12-07T07:43:06Z
+ResponseParameter:  billNo: 6SG0u1449474185 | endTime:2015-12-07 07:43:06
+
+2015-12-07T07:43:06Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6SG0u1449474185","billAmount":"10","createdAt":"20151207154305","billCurrency":"USD","tid":929663001449474186,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:45:06Z
+RequestParameter:  billNo: qCRTO1449474304 | startTime:2015-12-07 07:45:06
+
+2015-12-07T07:45:06Z
+
+
+2015-12-07T07:45:06Z
+Array
+(
+)
+
+
+2015-12-07T07:45:06Z
+ResponseParameter:  billNo: qCRTO1449474304 | endTime:2015-12-07 07:45:06
+
+2015-12-07T07:45:06Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"qCRTO1449474304","billAmount":"10","createdAt":"20151207154504","billCurrency":"USD","tid":184041001449474306,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:45:20Z
+RequestParameter:  billNo: zUYgk1449474318 | startTime:2015-12-07 07:45:20
+
+2015-12-07T07:45:20Z
+
+
+2015-12-07T07:45:20Z
+Array
+(
+)
+
+
+2015-12-07T07:45:20Z
+ResponseParameter:  billNo: zUYgk1449474318 | endTime:2015-12-07 07:45:20
+
+2015-12-07T07:45:20Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"76","cid":"11631","payNo":"zUYgk1449474318","billAmount":"10","createdAt":"20151207154518","billCurrency":"USD","tid":424969001449474320,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:46:57Z
+RequestParameter:  billNo: TelNR1449474415 | startTime:2015-12-07 07:46:57
+
+2015-12-07T07:46:57Z
+
+
+2015-12-07T07:46:57Z
+Array
+(
+)
+
+
+2015-12-07T07:46:57Z
+ResponseParameter:  billNo: TelNR1449474415 | endTime:2015-12-07 07:46:57
+
+2015-12-07T07:46:57Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"76","cid":"11631","payNo":"TelNR1449474415","billAmount":"10","createdAt":"20151207154655","billCurrency":"USD","tid":771590001449474417,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-12-07T07:48:11Z
+RequestParameter:  billNo: H6r8I1449474490 | startTime:2015-12-07 07:48:11
+
+2015-12-07T07:48:11Z
+
+
+2015-12-07T07:48:11Z
+Array
+(
+)
+
+
+2015-12-07T07:48:11Z
+ResponseParameter:  billNo: H6r8I1449474490 | endTime:2015-12-07 07:48:11
+
+2015-12-07T07:48:11Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"76","cid":"11631","payNo":"H6r8I1449474490","billAmount":"10","createdAt":"20151207154810","billCurrency":"USD","tid":847506001449474491,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

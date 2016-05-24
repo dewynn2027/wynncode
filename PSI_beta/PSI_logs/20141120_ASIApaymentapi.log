@@ -1,0 +1,49 @@
+2014-11-20T02:09:26Z
+RequestParameter:  referenceId: 20141120101126 | startTime:2014-11-20 02:09:26
+
+2014-11-20T02:09:26Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=Master&lang=E&cardHolder=firstName%20lastName&cardNo=5309700000000001&securityCode=467&epMonth=01&epYear=15&amount=12&currCode=608&orderRef=141120101126&remark=remark
+
+2014-11-20T02:09:27Z
+ResponseParameter:  referenceId: 20141120101127 | endTime:2014-11-20 02:09:27
+
+2014-11-20T02:09:27Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter expiry year incorrect
+
+
+2014-11-20T02:17:32Z
+RequestParameter:  referenceId: 20141120101132 | startTime:2014-11-20 02:17:32
+
+2014-11-20T02:17:32Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=5&currCode=608&orderRef=141120101132&remark=remark
+
+2014-11-20T02:17:33Z
+ResponseParameter:  referenceId: 20141120101133 | endTime:2014-11-20 02:17:33
+
+2014-11-20T02:17:33Z
+successcode=0&Ref=141120101132&PayRef=1210066763&Amt=5.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Shahid Tanveer&AuthId=066763&TxTime=2014-11-20 10:17:58.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-11-20T02:18:19Z
+RequestParameter:  referenceId: 20141120101119 | startTime:2014-11-20 02:18:19
+
+2014-11-20T02:18:19Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=4&currCode=608&orderRef=141120101119&remark=remark
+
+2014-11-20T02:18:20Z
+ResponseParameter:  referenceId: 20141120101120 | endTime:2014-11-20 02:18:20
+
+2014-11-20T02:18:20Z
+successcode=0&Ref=141120101119&PayRef=1210066765&Amt=4.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Shahid Tanveer&AuthId=066765&TxTime=2014-11-20 10:18:44.0&errMsg=Transaction completed
+
+
+
+
+
+
+

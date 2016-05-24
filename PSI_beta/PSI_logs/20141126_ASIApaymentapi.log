@@ -1,0 +1,85 @@
+2014-11-26T02:46:18Z
+RequestParameter:  referenceId: 20141126101118 | startTime:2014-11-26 02:46:18
+
+2014-11-26T02:46:18Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=608&orderRef=20141126151131&remark=remark
+
+2014-11-26T02:46:20Z
+ResponseParameter:  referenceId: 20141126101120 | endTime:2014-11-26 02:46:20
+
+2014-11-26T02:46:20Z
+successcode=0&Ref=20141126151131&PayRef=1210067179&Amt=14.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Shahid Tanveer&AuthId=067179&TxTime=2014-11-26 10:46:48.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-11-26T03:59:42Z
+RequestParameter:  referenceId: 20141126111142 | startTime:2014-11-26 03:59:42
+
+2014-11-26T03:59:42Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=608&orderRef=20141126151133&remark=remark
+
+2014-11-26T03:59:45Z
+ResponseParameter:  referenceId: 20141126111145 | endTime:2014-11-26 03:59:45
+
+2014-11-26T03:59:45Z
+successcode=0&Ref=20141126151133&PayRef=1210067185&Amt=14.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Shahid Tanveer&AuthId=067185&TxTime=2014-11-26 12:00:13.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-11-26T04:07:47Z
+RequestParameter:  billNo: 20141126151134 | startTime:2014-11-26 04:07:47
+
+2014-11-26T04:07:47Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=840&orderRef=20141126151134&remark=remark
+
+2014-11-26T04:08:00Z
+ResponseParameter:  billNo: 20141126151134 | endTime:2014-11-26 04:08:00
+
+2014-11-26T04:08:00Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2014-11-26T04:10:57Z
+RequestParameter:  billNo: 20141126151135 | startTime:2014-11-26 04:10:57
+
+2014-11-26T04:10:57Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsps?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=840&orderRef=20141126151135&remark=remark
+
+2014-11-26T04:10:57Z
+ResponseParameter:  billNo: 20141126151135 | endTime:2014-11-26 04:10:57
+
+2014-11-26T04:10:57Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /b2cDemo/eng/directPay/payComp.jsps</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/b2cDemo/eng/directPay/payComp.jsps</u></p><p><b>description</b> <u>The requested resource (/b2cDemo/eng/directPay/payComp.jsps) is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2014-11-26T04:14:18Z
+RequestParameter:  billNo: 20141126151136 | startTime:2014-11-26 04:14:18
+
+2014-11-26T04:14:18Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsps?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=840&orderRef=20141126151136&remark=remark
+
+2014-11-26T04:14:18Z
+ResponseParameter:  billNo: 20141126151136 | endTime:2014-11-26 04:14:18
+
+2014-11-26T04:14:18Z
+<html><head><title>Apache Tomcat/7.0.23 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /b2cDemo/eng/directPay/payComp.jsps</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/b2cDemo/eng/directPay/payComp.jsps</u></p><p><b>description</b> <u>The requested resource (/b2cDemo/eng/directPay/payComp.jsps) is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.23</h3></body></html>
+
+2014-11-26T04:14:52Z
+RequestParameter:  billNo: 20141126151137 | startTime:2014-11-26 04:14:52
+
+2014-11-26T04:14:52Z
+?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Shahid%20Tanveer&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=14&currCode=840&orderRef=20141126151137&remark=remark
+
+2014-11-26T04:14:52Z
+ResponseParameter:  billNo: 20141126151137 | endTime:2014-11-26 04:14:52
+
+2014-11-26T04:14:52Z
+
+

@@ -1,0 +1,30 @@
+2015-06-18T13:02:17Z
+RequestParameter:  billNo: P2kY5Sc6
+
+2015-06-18T13:02:17Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150618170619
+    [billNo] => P2kY5Sc6
+    [amount] => 10.00
+    [refundAmount] => 10.00
+    [refundType] => 1
+    [remark] => as per st, test|adminRemarks|_|as per st, test
+    [type] => 2
+)
+
+
+2015-06-18T13:02:17Z
+ResponseParameter:  billNo: P2kY5Sc6
+
+2015-06-18T13:02:17Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc6&payRef=090617&amt=10.00&cur=608&errMsg=Void Successfully.
+

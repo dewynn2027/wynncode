@@ -1,0 +1,110 @@
+2015-08-26T11:25:31Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d2 | startTime:2015-08-26 11:25:31
+
+2015-08-26T11:25:31Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 35
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-ANTY
+    [API_password] => sFUvUE48BXgenz
+    [loginName] => 100-01-MER-ANTY
+    [type] => 1
+    [dateTime] => 20150826022529
+    [sessId] => 4af95ad9019c45b2bf7962665fb72fb4
+    [referenceId] => a67ddd7e0e8a449ab1ccc7e4dd26b8d2
+    [billNo] => a67ddd7e0e8a449ab1ccc7e4dd26b8d2
+    [language] => eng
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [cardType] => VISA
+    [currency] => EUR
+    [productItem] => SKU-ANT-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 99.00
+    [amount] => 99.00
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19771204
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [gender] => M
+    [phone] => 375336264692
+    [zipCode] => 12345
+    [address] => St. Bakerroad, 52
+    [city] => New York
+    [state] => NY
+    [country] => US
+    [cardHolderIp] => 31.168.187.64
+)
+
+
+2015-08-26T11:25:31Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d2 | endTime:2015-08-26 11:25:31
+
+2015-08-26T11:25:31Z
+successcode=0&Ref=a67ddd7e0e8a449ab1ccc7e4dd26b8d2&PayRef=150826190831&Amt=99.00&Cur=978&prc=0&src=0&Ord=150826190831&Holder=&AuthId=0831&TxTime=15-08-26 19:08:31&errMsg=Transaction Completed
+
+2015-08-26T11:25:35Z
+RequestParameter:  billNo: 83adde5c6d8f4d52ac9d1d736507cde7 | startTime:2015-08-26 11:25:35
+
+2015-08-26T11:25:35Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 35
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-ANTY
+    [API_password] => sFUvUE48BXgenz
+    [loginName] => 100-01-MER-ANTY
+    [type] => 1
+    [dateTime] => 20150826022536
+    [sessId] => 3778007740ab4d37babf7feaa5f87cb6
+    [referenceId] => 83adde5c6d8f4d52ac9d1d736507cde7
+    [billNo] => 83adde5c6d8f4d52ac9d1d736507cde7
+    [language] => eng
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [cardType] => VISA
+    [currency] => EUR
+    [productItem] => SKU-ANT-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 99.00
+    [amount] => 99.00
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19811217
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [gender] => M
+    [phone] => 375336264692
+    [zipCode] => 12345
+    [address] => St. Bakerroad, 52
+    [city] => New York
+    [state] => NY
+    [country] => US
+    [cardHolderIp] => 31.168.187.64
+    [agt] => 1
+    [subMerchant] => SimpleXMLElement Object
+        (
+            [API_username] => 100-01-MER-ANTY
+            [API_password] => sFUvUE48BXgenz
+            [API_key] => c90f74bfa957bdf723e0058efcd77ab2
+        )
+
+)
+
+
+2015-08-26T11:25:35Z
+ResponseParameter:  billNo: 83adde5c6d8f4d52ac9d1d736507cde7 | endTime:2015-08-26 11:25:35
+
+2015-08-26T11:25:35Z
+successcode=0&Ref=83adde5c6d8f4d52ac9d1d736507cde7&PayRef=150826190835&Amt=99.00&Cur=978&prc=0&src=0&Ord=150826190835&Holder=&AuthId=0835&TxTime=15-08-26 19:08:35&errMsg=Transaction Completed
+

@@ -1,0 +1,19 @@
+2014-06-09T14:58:16Z
+RequestParameter:  referenceId: CAD-bd47041d3060
+
+2014-06-09T14:58:16Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=CAD-bd47041d3060&dateTime=20140609202804&currency=USD&language=eng&cardHolderIp=192.168.0.197&md5Info=7801F08A5C29FC072AB7B1973F6EC5CB&cardNum=4100000000000006&cvv2=123&month=12&year=14&birthDate=19651108&firstName=Gerald&lastName=West&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=city&state=state&country=US&amount=12.00&products=&remark=remark
+
+2014-06-09T14:58:20Z
+ResponseParameter:  referenceId: CAD-bd47041d3060
+
+2014-06-09T14:58:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>CAD-bd47041d3060</billNo><amount>12.00</amount><currency>USD</currency><dateTime>20140609202804</dateTime><remark>Unexpected Error. Try again later.</remark><md5Info>-</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

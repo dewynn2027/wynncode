@@ -1,0 +1,96 @@
+2015-10-21T03:04:21Z
+RequestParameter:  billNo: 20151015018 | startTime:2015-10-21 03:04:21
+
+2015-10-21T03:04:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-21T03:04:21Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 20151015018
+    [createdAt] => 20151015100101
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 87c3f5c96b637e738a938352f8a9b046
+    [ccNo] => 4************005
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Dela Cruz
+    [emailAddress] => juan@email.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test Payment Only, test comma.
+)
+
+
+2015-10-21T03:04:23Z
+ResponseParameter:  billNo: 20151015018 | endTime:2015-10-21 03:04:23
+
+2015-10-21T03:04:23Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-68","cid":"88906","payNo":"20151015018","billAmount":"10.00","createdAt":"20151021110432","billCurrency":"EUR","tid":"","comment":"Invalid MD5Info","signInfo":"C7967C7D62E23837D8AA8793CAA5AA3A","billingDescriptor":""}
+
+)
+
+
+2015-10-21T08:09:40Z
+RequestParameter:  billNo: 201510150181 | startTime:2015-10-21 08:09:40
+
+2015-10-21T08:09:40Z
+https://sip.uniques.net/direct/payment
+
+2015-10-21T08:09:40Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 201510150181
+    [createdAt] => 20151015100101
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 3629809d27a7ea03f886fe920d26f184
+    [ccNo] => 4************005
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Dela Cruz
+    [emailAddress] => juan@email.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test Payment Only, test comma.
+)
+
+
+2015-10-21T08:09:42Z
+ResponseParameter:  billNo: 201510150181 | endTime:2015-10-21 08:09:42
+
+2015-10-21T08:09:42Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-68","cid":"88906","payNo":"201510150181","billAmount":"10.00","createdAt":"20151021160951","billCurrency":"EUR","tid":"","comment":"Invalid MD5Info","signInfo":"A475C3B2021CAF4022673FBF99CB1914","billingDescriptor":""}
+
+)
+
+

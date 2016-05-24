@@ -1,0 +1,102 @@
+2014-11-27T03:34:22Z
+RequestParameter:  referenceId: nPKfA1417059260 | startTime:2014-11-27 03:34:22
+
+2014-11-27T03:34:22Z
+https://secure.qwipi.com/universalS2S/paymentqq?resType=XML&merNo=10785&cardNum=5353535353535353&cvv2=123&month=10&year=2017&cardHolderIp=203.206.164.56&dateTime=20141127113420&billNo=nPKfA1417059260&currency=USD&amount=500&language=eng&md5Info=7adcdf408f43607d3861cbabba85bd29&firstName=Firstname&middleName=&lastName=Lastname&dob=19981101&email=johndoeapprove@acme.com&phone=12345678&zipCode=1234&address=Address&city=City&state=State&country=AF
+
+2014-11-27T03:34:24Z
+ResponseParameter:  referenceId: nPKfA1417059260 | endTime:2014-11-27 03:34:24
+
+2014-11-27T03:34:24Z
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Draft//EN">
+<HTML>
+<HEAD>
+<TITLE>Error 404--Not Found</TITLE>
+</HEAD>
+<BODY bgcolor="white">
+<FONT FACE=Helvetica><BR CLEAR=all>
+<TABLE border=0 cellspacing=5><TR><TD><BR CLEAR=all>
+<FONT FACE="Helvetica" COLOR="black" SIZE="3"><H2>Error 404--Not Found</H2>
+</FONT></TD></TR>
+</TABLE>
+<TABLE border=0 width=100% cellpadding=10><TR><TD VALIGN=top WIDTH=100% BGCOLOR=white><FONT FACE="Courier New"><FONT FACE="Helvetica" SIZE="3"><H3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</H3>
+</FONT><FONT FACE="Helvetica" SIZE="3"><H4>10.4.5 404 Not Found</H4>
+</FONT><P><FONT FACE="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</p><p>If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</FONT></P>
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+2014-11-27T03:34:24Z
+String could not be parsed as XML, Reason: response timeout from provider.
+
+2014-11-27T03:37:27Z
+RequestParameter:  referenceId: lHcSb1417059445 | startTime:2014-11-27 03:37:27
+
+2014-11-27T03:37:27Z
+https://secure.qwipi.com/universalS2S/paymentqq?resType=XML&merNo=10785&cardNum=5353535353535353&cvv2=123&month=10&year=2017&cardHolderIp=203.206.164.56&dateTime=20141127113725&billNo=lHcSb1417059445&currency=USD&amount=499&language=eng&md5Info=7d80efce4611128311435bc27b935ee2&firstName=Firstname&middleName=&lastName=Lastname&dob=19981101&email=johndoeapprove@acme.com&phone=12345678&zipCode=1234&address=Address&city=City&state=State&country=AF
+
+2014-11-27T03:37:27Z
+ResponseParameter:  referenceId: lHcSb1417059445 | endTime:2014-11-27 03:37:27
+
+2014-11-27T03:37:27Z
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Draft//EN">
+<HTML>
+<HEAD>
+<TITLE>Error 404--Not Found</TITLE>
+</HEAD>
+<BODY bgcolor="white">
+<FONT FACE=Helvetica><BR CLEAR=all>
+<TABLE border=0 cellspacing=5><TR><TD><BR CLEAR=all>
+<FONT FACE="Helvetica" COLOR="black" SIZE="3"><H2>Error 404--Not Found</H2>
+</FONT></TD></TR>
+</TABLE>
+<TABLE border=0 width=100% cellpadding=10><TR><TD VALIGN=top WIDTH=100% BGCOLOR=white><FONT FACE="Courier New"><FONT FACE="Helvetica" SIZE="3"><H3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</H3>
+</FONT><FONT FACE="Helvetica" SIZE="3"><H4>10.4.5 404 Not Found</H4>
+</FONT><P><FONT FACE="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</p><p>If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</FONT></P>
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+2014-11-27T03:37:27Z
+String could not be parsed as XML, Reason: response timeout from provider.
+
+2014-11-27T03:38:49Z
+RequestParameter:  referenceId: 8dCLz1417059527 | startTime:2014-11-27 03:38:49
+
+2014-11-27T03:38:49Z
+https://secure.qwipi.com/universalS2S/paymentqq?resType=XML&merNo=10785&cardNum=5353535353535353&cvv2=123&month=10&year=2017&cardHolderIp=203.206.164.56&dateTime=20141127113847&billNo=8dCLz1417059527&currency=USD&amount=400&language=eng&md5Info=462a30ce11212258b14ea484bd80b988&firstName=Firstname&middleName=&lastName=Lastname&dob=19981101&email=johndoeapprove@acme.com&phone=12345678&zipCode=1234&address=Address&city=City&state=State&country=AF
+
+2014-11-27T03:38:50Z
+ResponseParameter:  referenceId: 8dCLz1417059527 | endTime:2014-11-27 03:38:50
+
+2014-11-27T03:38:50Z
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Draft//EN">
+<HTML>
+<HEAD>
+<TITLE>Error 404--Not Found</TITLE>
+</HEAD>
+<BODY bgcolor="white">
+<FONT FACE=Helvetica><BR CLEAR=all>
+<TABLE border=0 cellspacing=5><TR><TD><BR CLEAR=all>
+<FONT FACE="Helvetica" COLOR="black" SIZE="3"><H2>Error 404--Not Found</H2>
+</FONT></TD></TR>
+</TABLE>
+<TABLE border=0 width=100% cellpadding=10><TR><TD VALIGN=top WIDTH=100% BGCOLOR=white><FONT FACE="Courier New"><FONT FACE="Helvetica" SIZE="3"><H3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</H3>
+</FONT><FONT FACE="Helvetica" SIZE="3"><H4>10.4.5 404 Not Found</H4>
+</FONT><P><FONT FACE="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</p><p>If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</FONT></P>
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+2014-11-27T03:38:50Z
+String could not be parsed as XML, Reason: response timeout from provider.
+

@@ -1,0 +1,24 @@
+2015-11-07T07:19:25Z
+RequestParameter:  billNo: B3UhY1446880761 | startTime:2015-11-07 07:19:25
+
+2015-11-07T07:19:25Z
+
+
+2015-11-07T07:19:25Z
+Array
+(
+)
+
+
+2015-11-07T07:19:25Z
+ResponseParameter:  billNo: B3UhY1446880761 | endTime:2015-11-07 07:19:25
+
+2015-11-07T07:19:25Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"B3UhY1446880761","billAmount":"10","createdAt":"20151107151921","billCurrency":"USD","tid":211929001446880765,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

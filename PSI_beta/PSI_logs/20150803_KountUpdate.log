@@ -1,0 +1,103 @@
+2015-08-03T04:13:36Z
+RequestParameter:  billNo: 8yxds1435292536 | startTime:2015-08-03 04:13:36
+
+2015-08-03T04:13:36Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [SESS] => 8yxds1435292536
+    [TRAN] => 3C6407BLC4JD
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => C
+)
+
+
+2015-08-03T04:13:38Z
+ResponseParameter:  billNo: 8yxds1435292536 | endTime:2015-08-03 04:13:38
+
+2015-08-03T04:13:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>U</MODE>
+  <TRAN>3C6407BLC4JD</TRAN>
+  <MERC>680000</MERC>
+  <SESS>8yxds1435292536</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-03T04:15:07Z
+RequestParameter:  billNo: 8yxds1435292536 | startTime:2015-08-03 04:15:07
+
+2015-08-03T04:15:07Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [SESS] => 
+    [TRAN] => 3C6407BLC4JD
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-08-03T04:15:08Z
+ResponseParameter:  billNo: 8yxds1435292536 | endTime:2015-08-03 04:15:08
+
+2015-08-03T04:15:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [value was empty], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-03T06:06:37Z
+RequestParameter:  billNo: woY731435292479 | startTime:2015-08-03 06:06:37
+
+2015-08-03T06:06:37Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [SESS] => woY731435292479
+    [TRAN] => 3C640M64HKV7
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => C
+)
+
+
+2015-08-03T06:06:38Z
+ResponseParameter:  billNo: woY731435292479 | endTime:2015-08-03 06:06:38
+
+2015-08-03T06:06:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>U</MODE>
+  <TRAN>3C640M64HKV7</TRAN>
+  <MERC>680000</MERC>
+  <SESS>woY731435292479</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

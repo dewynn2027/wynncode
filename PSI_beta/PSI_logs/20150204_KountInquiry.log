@@ -1,0 +1,266 @@
+2015-02-04T14:05:03Z
+RequestParameter:  billNo: P3KbMDj | startTime:2015-02-04 14:05:03
+
+2015-02-04T14:05:03Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => P3KbMDj
+    [ORDR] => P3KbMDj
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 30000
+    [TOTL] => 30000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 300
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-04T14:12:38Z
+RequestParameter:  billNo: P3KdG4i | startTime:2015-02-04 14:12:38
+
+2015-02-04T14:12:38Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => P3KdG4i
+    [ORDR] => P3KdG4i
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 30000
+    [TOTL] => 30000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 300
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-04T14:12:40Z
+ResponseParameter:  billNo: P3KdG4i | endTime:2015-02-04 14:12:40
+
+2015-02-04T14:12:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3W8006Q0KZ60</TRAN>
+  <MERC>680000</MERC>
+  <SESS>P3KdG4i</SESS>
+  <ORDR>P3KdG4i</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-04T14:14:42Z
+RequestParameter:  billNo: P3Kdnje | startTime:2015-02-04 14:14:42
+
+2015-02-04T14:14:42Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => P3Kdnje
+    [ORDR] => P3Kdnje
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => SKU-PBN-BinaryTrade
+    [PROD_ITEM[0]] => Binary Trade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 30000
+    [TOTL] => 30000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Bergstraße 17a
+    [B2CC] => DE
+    [B2CI] => Munich
+    [B2PC] => 84456
+    [B2PN] => 089 494949
+    [B2ST] => BY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 300
+    [DOB] => 1990-11-10
+    [GENDER] => M
+    [EMAL] => test@test.com
+    [ANID] => 089 494949
+)
+
+
+2015-02-04T14:14:44Z
+ResponseParameter:  billNo: P3Kdnje | endTime:2015-02-04 14:14:44
+
+2015-02-04T14:14:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3W8006LJRNCW</TRAN>
+  <MERC>680000</MERC>
+  <SESS>P3Kdnje</SESS>
+  <ORDR>P3Kdnje</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>32</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

@@ -1,0 +1,50 @@
+2015-07-03T12:49:11Z
+RequestParameter:  billNo: bill635715314361205613 | startTime:2015-07-03 12:49:11
+
+2015-07-03T12:49:11Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 62
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL1
+    [API_password] => s4HIM9zuy6IypJ
+    [billNo] => bill635715314361205613
+    [referenceId] => ref635715314361205613
+    [sessId] => sess635715314361205613
+    [dateTime] => 20150703024917
+    [cardHolderIp] => 109.86.219.121
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 7
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [birthdate] => 19220301
+    [phone] => 454 546546
+    [zipCode] => 5999
+    [address] => address
+    [city] => LosAngeles
+    [state] => MH
+    [country] => IN
+    [amount] => 10
+    [language] => eng
+    [currency] => EUR
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 10
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-07-03T12:49:11Z
+ResponseParameter:  billNo: bill635715314361205613 | endTime:2015-07-03 12:49:11
+
+2015-07-03T12:49:11Z
+successcode=0&Ref=bill635715314361205613&PayRef=150703200711&Amt=10&Cur=978&prc=0&src=0&Ord=150703200711&Holder=&AuthId=0711&TxTime=15-07-03 20:07:11&errMsg=Transaction Completed
+

@@ -1,0 +1,550 @@
+2015-04-10T03:49:20Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T03:49:20Z
+RequestParameter:  billNo: zdAoY1428637715 | startTime:2015-04-10 03:49:20
+
+2015-04-10T03:49:20Z
+Array
+(
+    [reason[3HKG0MLC1RRB]] => R1
+    [note[3HKG0MLC1RRB]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-04-10T03:49:20Z
+REFUND
+
+2015-04-10T03:49:23Z
+ResponseParameter:  billNo: zdAoY1428637715 | endTime:2015-04-10 03:49:23
+
+2015-04-10T03:49:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+
+2015-04-10T03:50:52Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T03:50:52Z
+RequestParameter:  billNo: ETWzw1428637848 | startTime:2015-04-10 03:50:52
+
+2015-04-10T03:50:52Z
+Array
+(
+    [reason[3HKG0Q2MD3RP]] => D1
+    [note[3HKG0Q2MD3RP]] => *remarks: [test payment|bankremarks|_|invalid card verification number|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T03:50:52Z
+DECLINED
+
+2015-04-10T03:50:55Z
+ResponseParameter:  billNo: ETWzw1428637848 | endTime:2015-04-10 03:50:55
+
+2015-04-10T03:50:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HKG0Q2MD3RP</scope></error></errors><result/></response>
+
+
+2015-04-10T03:50:55Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T03:50:55Z
+RequestParameter:  billNo: ETWzw1428637848 | startTime:2015-04-10 03:50:55
+
+2015-04-10T03:50:55Z
+Array
+(
+    [reason[3HKG0Q2MD3RP]] => D1
+    [note[3HKG0Q2MD3RP]] => *remarks: [test payment|bankremarks|_|invalid card verification number|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T03:50:55Z
+DECLINED
+
+2015-04-10T03:50:57Z
+ResponseParameter:  billNo: ETWzw1428637848 | endTime:2015-04-10 03:50:57
+
+2015-04-10T03:50:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HKG0Q2MD3RP</scope></error></errors><result/></response>
+
+
+2015-04-10T03:51:25Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T03:51:25Z
+RequestParameter:  billNo: T61w21428637883 | startTime:2015-04-10 03:51:25
+
+2015-04-10T03:51:25Z
+Array
+(
+    [reason[3HKG0T8DKB8M]] => D1
+    [note[3HKG0T8DKB8M]] => *remarks: [test payment|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T03:51:25Z
+DECLINED
+
+2015-04-10T03:51:27Z
+ResponseParameter:  billNo: T61w21428637883 | endTime:2015-04-10 03:51:27
+
+2015-04-10T03:51:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HKG0T8DKB8M</scope></error></errors><result/></response>
+
+
+2015-04-10T03:51:27Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T03:51:27Z
+RequestParameter:  billNo: T61w21428637883 | startTime:2015-04-10 03:51:27
+
+2015-04-10T03:51:27Z
+Array
+(
+    [reason[3HKG0T8DKB8M]] => D1
+    [note[3HKG0T8DKB8M]] => *remarks: [test payment|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T03:51:27Z
+DECLINED
+
+2015-04-10T03:51:29Z
+ResponseParameter:  billNo: T61w21428637883 | endTime:2015-04-10 03:51:29
+
+2015-04-10T03:51:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HKG0T8DKB8M</scope></error></errors><result/></response>
+
+
+2015-04-10T05:22:41Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:22:41Z
+RequestParameter:  billNo: 6peuD1428643357 | startTime:2015-04-10 05:22:41
+
+2015-04-10T05:22:41Z
+Array
+(
+    [reason[3HK90LR86J0V]] => D1
+    [note[3HK90LR86J0V]] => *remarks: [test|bankremarks|_|parameter currcode incorrect|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:22:41Z
+DECLINED
+
+2015-04-10T05:22:43Z
+ResponseParameter:  billNo: 6peuD1428643357 | endTime:2015-04-10 05:22:43
+
+2015-04-10T05:22:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90LR86J0V</scope></error></errors><result/></response>
+
+
+2015-04-10T05:22:43Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:22:43Z
+RequestParameter:  billNo: 6peuD1428643357 | startTime:2015-04-10 05:22:43
+
+2015-04-10T05:22:43Z
+Array
+(
+    [reason[3HK90LR86J0V]] => D1
+    [note[3HK90LR86J0V]] => *remarks: [test|bankremarks|_|parameter currcode incorrect|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:22:43Z
+DECLINED
+
+2015-04-10T05:22:46Z
+ResponseParameter:  billNo: 6peuD1428643357 | endTime:2015-04-10 05:22:46
+
+2015-04-10T05:22:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90LR86J0V</scope></error></errors><result/></response>
+
+
+2015-04-10T05:23:03Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:23:03Z
+RequestParameter:  billNo: Ahskp1428643380 | startTime:2015-04-10 05:23:03
+
+2015-04-10T05:23:03Z
+Array
+(
+    [reason[3HK901K48D43]] => D1
+    [note[3HK901K48D43]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:23:03Z
+DECLINED
+
+2015-04-10T05:23:06Z
+ResponseParameter:  billNo: Ahskp1428643380 | endTime:2015-04-10 05:23:06
+
+2015-04-10T05:23:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK901K48D43</scope></error></errors><result/></response>
+
+
+2015-04-10T05:23:06Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:23:06Z
+RequestParameter:  billNo: Ahskp1428643380 | startTime:2015-04-10 05:23:06
+
+2015-04-10T05:23:06Z
+Array
+(
+    [reason[3HK901K48D43]] => D1
+    [note[3HK901K48D43]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:23:06Z
+DECLINED
+
+2015-04-10T05:23:08Z
+ResponseParameter:  billNo: Ahskp1428643380 | endTime:2015-04-10 05:23:08
+
+2015-04-10T05:23:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK901K48D43</scope></error></errors><result/></response>
+
+
+2015-04-10T05:26:28Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:26:28Z
+RequestParameter:  billNo: QEpIg1428643586 | startTime:2015-04-10 05:26:28
+
+2015-04-10T05:26:28Z
+Array
+(
+    [reason[3HK90XCY21MW]] => D1
+    [note[3HK90XCY21MW]] => *remarks: [test|bankremarks|_|parameter currcode incorrect|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:26:28Z
+DECLINED
+
+2015-04-10T05:26:30Z
+ResponseParameter:  billNo: QEpIg1428643586 | endTime:2015-04-10 05:26:30
+
+2015-04-10T05:26:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90XCY21MW</scope></error></errors><result/></response>
+
+
+2015-04-10T05:26:30Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:26:30Z
+RequestParameter:  billNo: QEpIg1428643586 | startTime:2015-04-10 05:26:30
+
+2015-04-10T05:26:30Z
+Array
+(
+    [reason[3HK90XCY21MW]] => D1
+    [note[3HK90XCY21MW]] => *remarks: [test|bankremarks|_|parameter currcode incorrect|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:26:30Z
+DECLINED
+
+2015-04-10T05:26:32Z
+ResponseParameter:  billNo: QEpIg1428643586 | endTime:2015-04-10 05:26:32
+
+2015-04-10T05:26:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90XCY21MW</scope></error></errors><result/></response>
+
+
+2015-04-10T05:27:01Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:27:01Z
+RequestParameter:  billNo: 5vxT71428643618 | startTime:2015-04-10 05:27:01
+
+2015-04-10T05:27:01Z
+Array
+(
+    [reason[3HK90KYJP2LN]] => D1
+    [note[3HK90KYJP2LN]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:27:01Z
+DECLINED
+
+2015-04-10T05:27:03Z
+ResponseParameter:  billNo: 5vxT71428643618 | endTime:2015-04-10 05:27:03
+
+2015-04-10T05:27:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90KYJP2LN</scope></error></errors><result/></response>
+
+
+2015-04-10T05:27:03Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:27:03Z
+RequestParameter:  billNo: 5vxT71428643618 | startTime:2015-04-10 05:27:03
+
+2015-04-10T05:27:03Z
+Array
+(
+    [reason[3HK90KYJP2LN]] => D1
+    [note[3HK90KYJP2LN]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:27:03Z
+DECLINED
+
+2015-04-10T05:27:05Z
+ResponseParameter:  billNo: 5vxT71428643618 | endTime:2015-04-10 05:27:05
+
+2015-04-10T05:27:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90KYJP2LN</scope></error></errors><result/></response>
+
+
+2015-04-10T05:28:13Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:28:13Z
+RequestParameter:  billNo: Ye6aK1428643689 | startTime:2015-04-10 05:28:13
+
+2015-04-10T05:28:13Z
+Array
+(
+    [reason[3HK9039WZ9TT]] => D1
+    [note[3HK9039WZ9TT]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:28:13Z
+DECLINED
+
+2015-04-10T05:28:15Z
+ResponseParameter:  billNo: Ye6aK1428643689 | endTime:2015-04-10 05:28:15
+
+2015-04-10T05:28:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK9039WZ9TT</scope></error></errors><result/></response>
+
+
+2015-04-10T05:28:15Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:28:15Z
+RequestParameter:  billNo: Ye6aK1428643689 | startTime:2015-04-10 05:28:15
+
+2015-04-10T05:28:15Z
+Array
+(
+    [reason[3HK9039WZ9TT]] => D1
+    [note[3HK9039WZ9TT]] => *remarks: [test|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:28:15Z
+DECLINED
+
+2015-04-10T05:28:17Z
+ResponseParameter:  billNo: Ye6aK1428643689 | endTime:2015-04-10 05:28:17
+
+2015-04-10T05:28:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK9039WZ9TT</scope></error></errors><result/></response>
+
+
+2015-04-10T05:38:22Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:38:22Z
+RequestParameter:  billNo: 7LbKl1428643401 | startTime:2015-04-10 05:38:22
+
+2015-04-10T05:38:22Z
+Array
+(
+    [reason[3HK90SSL3KKP]] => R1
+    [note[3HK90SSL3KKP]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-04-10T05:38:22Z
+REFUND
+
+2015-04-10T05:38:24Z
+ResponseParameter:  billNo: 7LbKl1428643401 | endTime:2015-04-10 05:38:24
+
+2015-04-10T05:38:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+
+2015-04-10T05:43:07Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:43:07Z
+RequestParameter:  billNo: P2kY5Sc450 | startTime:2015-04-10 05:43:07
+
+2015-04-10T05:43:07Z
+Array
+(
+    [reason[3HK90M054LGV]] => D1
+    [note[3HK90M054LGV]] => *remarks: [|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:43:07Z
+DECLINED
+
+2015-04-10T05:43:09Z
+ResponseParameter:  billNo: P2kY5Sc450 | endTime:2015-04-10 05:43:09
+
+2015-04-10T05:43:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90M054LGV</scope></error></errors><result/></response>
+
+
+2015-04-10T05:43:09Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:43:09Z
+RequestParameter:  billNo: P2kY5Sc450 | startTime:2015-04-10 05:43:09
+
+2015-04-10T05:43:09Z
+Array
+(
+    [reason[3HK90M054LGV]] => D1
+    [note[3HK90M054LGV]] => *remarks: [|bankremarks|_|transaction failed(rejected due to internal/fraud prevention checking, blacklist card by system)|bankresponse|_|successcode=1|prc=-8|src=2001] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:43:09Z
+DECLINED
+
+2015-04-10T05:43:11Z
+ResponseParameter:  billNo: P2kY5Sc450 | endTime:2015-04-10 05:43:11
+
+2015-04-10T05:43:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90M054LGV</scope></error></errors><result/></response>
+
+
+2015-04-10T05:52:56Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:52:56Z
+RequestParameter:  billNo: dq8Mf1428645175 | startTime:2015-04-10 05:52:56
+
+2015-04-10T05:52:56Z
+Array
+(
+    [reason[3HK90C154KDR]] => D1
+    [note[3HK90C154KDR]] => *remarks: [test|bankremarks|_|error: blacklist card by system, invalid expiry year|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:52:56Z
+DECLINED
+
+2015-04-10T05:52:58Z
+ResponseParameter:  billNo: dq8Mf1428645175 | endTime:2015-04-10 05:52:58
+
+2015-04-10T05:52:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90C154KDR</scope></error></errors><result/></response>
+
+
+2015-04-10T05:52:58Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:52:58Z
+RequestParameter:  billNo: dq8Mf1428645175 | startTime:2015-04-10 05:52:58
+
+2015-04-10T05:52:58Z
+Array
+(
+    [reason[3HK90C154KDR]] => D1
+    [note[3HK90C154KDR]] => *remarks: [test|bankremarks|_|error: blacklist card by system, invalid expiry year|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:52:58Z
+DECLINED
+
+2015-04-10T05:53:00Z
+ResponseParameter:  billNo: dq8Mf1428645175 | endTime:2015-04-10 05:53:00
+
+2015-04-10T05:53:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90C154KDR</scope></error></errors><result/></response>
+
+
+2015-04-10T05:56:20Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:56:20Z
+RequestParameter:  billNo: x9mJd1428645378 | startTime:2015-04-10 05:56:20
+
+2015-04-10T05:56:20Z
+Array
+(
+    [reason[3HK90KK2D4RL]] => D1
+    [note[3HK90KK2D4RL]] => *remarks: [test|bankremarks|_|error: invalid expiry year|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:56:20Z
+DECLINED
+
+2015-04-10T05:56:22Z
+ResponseParameter:  billNo: x9mJd1428645378 | endTime:2015-04-10 05:56:22
+
+2015-04-10T05:56:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90KK2D4RL</scope></error></errors><result/></response>
+
+
+2015-04-10T05:56:22Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-10T05:56:22Z
+RequestParameter:  billNo: x9mJd1428645378 | startTime:2015-04-10 05:56:22
+
+2015-04-10T05:56:22Z
+Array
+(
+    [reason[3HK90KK2D4RL]] => D1
+    [note[3HK90KK2D4RL]] => *remarks: [test|bankremarks|_|error: invalid expiry year|bankresponse|_|successcode=-1|prc=|src=] *psi method [paymentapi] *trigger: [transaction declined]
+)
+
+
+2015-04-10T05:56:22Z
+DECLINED
+
+2015-04-10T05:56:24Z
+ResponseParameter:  billNo: x9mJd1428645378 | endTime:2015-04-10 05:56:24
+
+2015-04-10T05:56:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HK90KK2D4RL</scope></error></errors><result/></response>
+
+

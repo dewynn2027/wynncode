@@ -1,0 +1,26 @@
+2014-12-05T01:11:03Z
+RequestParameter:  billNo: 2014120315122411 | startTime:2014-12-05 01:11:03
+
+2014-12-05T01:11:03Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Tamad&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=2014120315122411&remark=Just%20a%20test
+
+2014-12-05T01:11:04Z
+ResponseParameter:  billNo: 2014120315122411 | endTime:2014-12-05 01:11:04
+
+2014-12-05T01:11:04Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Your account doesn't support this channel.
+
+
+2014-12-05T03:32:34Z
+RequestParameter:  billNo: 20141204231311 | startTime:2014-12-05 03:32:34
+
+2014-12-05T03:32:34Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=AMEX&lang=E&cardHolder=aljen%20patingo&cardNo=321321321321312&securityCode=1234&epMonth=01&epYear=2015&amount=100&currCode=840&orderRef=20141204231311&remark=testallianz
+
+2014-12-05T03:32:35Z
+ResponseParameter:  billNo: 20141204231311 | endTime:2014-12-05 03:32:35
+
+2014-12-05T03:32:35Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Your account doesn't support the payment method (AMEX)
+
+

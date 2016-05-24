@@ -1,0 +1,19 @@
+2014-03-27T05:01:21Z
+RequestParameter:  referenceId: BILL00000445
+
+2014-03-27T05:01:21Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=BILL00000445&dateTime=201211051511373&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=16D6D9DA0CB63DA9E384D71C162AFFDB&cardNum=40000000000000006&cvv2=123&month=12&year=0&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-03-27T05:01:23Z
+ResponseParameter:  referenceId: BILL00000445
+
+2014-03-27T05:01:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>BILL00000445</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>B433321DCCCF7F7EEE9771FA04CFCEE1</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

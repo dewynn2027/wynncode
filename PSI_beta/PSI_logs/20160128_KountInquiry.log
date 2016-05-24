@@ -1,0 +1,704 @@
+2016-01-28T03:41:25Z
+RequestParameter:  billNo: 20160122801 | startTime:2016-01-28 03:41:25
+
+2016-01-28T03:41:25Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122801
+    [ORDR] => 20160122801
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T03:41:27Z
+ResponseParameter:  billNo: 20160122801 | endTime:2016-01-28 03:41:27
+
+2016-01-28T03:41:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DVC00PJNGT3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122801</SESS>
+  <ORDR>20160122801</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-01-28T03:53:24Z
+RequestParameter:  billNo: 20160122802 | startTime:2016-01-28 03:53:24
+
+2016-01-28T03:53:24Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122802
+    [ORDR] => 20160122802
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 491891H7Y5N52EQS1XJF
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T03:53:25Z
+ResponseParameter:  billNo: 20160122802 | endTime:2016-01-28 03:53:25
+
+2016-01-28T03:53:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DVC0DZ9M795</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122802</SESS>
+  <ORDR>20160122802</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-01-28T07:35:04Z
+RequestParameter:  billNo: 20160122803 | startTime:2016-01-28 07:35:04
+
+2016-01-28T07:35:04Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122803
+    [ORDR] => 20160122803
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T07:35:07Z
+ResponseParameter:  billNo: 20160122803 | endTime:2016-01-28 07:35:07
+
+2016-01-28T07:35:07Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DV105RMVKB4</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122803</SESS>
+  <ORDR>20160122803</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-01-28T09:47:53Z
+RequestParameter:  billNo: 20160122804 | startTime:2016-01-28 09:47:53
+
+2016-01-28T09:47:53Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122804
+    [ORDR] => 20160122804
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T09:47:59Z
+ResponseParameter:  billNo: 20160122804 | endTime:2016-01-28 09:47:59
+
+2016-01-28T09:47:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DVP0WVQ2KTJ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122804</SESS>
+  <ORDR>20160122804</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-01-28T10:12:22Z
+RequestParameter:  billNo: 20160122805 | startTime:2016-01-28 10:12:22
+
+2016-01-28T10:12:22Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122805
+    [ORDR] => 20160122805
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T10:12:25Z
+ResponseParameter:  billNo: 20160122805 | endTime:2016-01-28 10:12:25
+
+2016-01-28T10:12:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DV70B0QVH8S</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122805</SESS>
+  <ORDR>20160122805</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-01-28T10:18:20Z
+RequestParameter:  billNo: 20160122806 | startTime:2016-01-28 10:18:20
+
+2016-01-28T10:18:20Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => 20160122806
+    [ORDR] => 20160122806
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 488100SL99SUM4HRAIN8
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [PROD_DESC[1]] => LG 8gb SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 1
+    [PROD_PRICE[1]] => 1100
+    [TOTL] => 2100
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Thomas Jefferson
+    [B2A1] => Address
+    [B2CC] => US
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 5551234567
+    [B2ST] => State
+    [S2A1] => Address
+    [S2CC] => US
+    [S2CI] => City
+    [S2EM] => email@domain.com
+    [S2NM] => Firstname Lastname
+    [S2PC] => 1234
+    [S2PN] => 5551234567
+    [S2ST] => State
+    [SHTP] => 
+    [CASH] => 21
+    [DOB] => 1978-11-01
+    [GENDER] => M
+    [EMAL] => email@domain.com
+    [ANID] => 5551234567
+)
+
+
+2016-01-28T10:18:21Z
+ResponseParameter:  billNo: 20160122806 | endTime:2016-01-28 10:18:21
+
+2016-01-28T10:18:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3DV70P3BTB7N</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20160122806</SESS>
+  <ORDR>20160122806</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

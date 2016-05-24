@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<xs:schema attributeFormDefault='unqualified' elementFormDefault='qualified' xmlns:xs='http://www.w3.org/2001/XMLSchema'>
+
+<xs:simpleType name='stringtype'>
+ <xs:restriction base='xs:string'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='inttype'>
+ <xs:restriction base='xs:positiveInteger'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='decimaltype'>
+ <xs:restriction base='xs:decimal'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='patterntype'>
+ <xs:restriction base='xs:string'>
+ <xs:pattern value='[0-9]{6}'/>
+</xs:restriction>
+</xs:simpleType>
+
+ <xs:element name='Parameters'>
+<xs:complexType>
+<xs:sequence>
+<xs:element name='API_username' type='stringtype' />
+<xs:element name='API_password' type='stringtype' />
+<xs:element name='API_key' type='stringtype' />
+<xs:element name='billNo' type='stringtype' />
+<xs:element name='referenceId' type='stringtype' />
+<xs:element name='salesId' type='stringtype' />
+<xs:element name='authCode' type='stringtype' />
+<xs:element name='transactionId' type='stringtype' />
+<xs:element name='amount' type='stringtype' />
+<xs:element name='cardHolderIp' type='stringtype' />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

@@ -1,0 +1,18 @@
+2013-07-16T07:00:52Z
+RequestParameter:  referenceId: 2013071605
+
+2013-07-16T07:00:52Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=2013071605&dateTime=2013071605&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=25A1DA6CEEB58D8370A3C01B4F4D35BA&cardNum=4000000000000002&cvv2=123&month=12&year=0&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=11.00&products=2&remark=remark
+
+2013-07-16T07:00:56Z
+ResponseParameter:  referenceId: 2013071605
+
+2013-07-16T07:00:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>2013071605</billNo><currency>USD</currency><amount>11.00</amount><dateTime>20130716150542</dateTime><paymentOrderNo>103356125118</paymentOrderNo><remark>Payment Declined-Bad year.</remark><md5Info>7ACA68934DD940DD80B5B7F803D639D2</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

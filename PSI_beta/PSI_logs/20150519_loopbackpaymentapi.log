@@ -1,0 +1,3072 @@
+2015-05-19T03:22:37Z
+RequestParameter:  billNo: QVcYF1432005755 | startTime:2015-05-19 03:22:37
+
+2015-05-19T03:22:37Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => QVcYF1432005755
+    [referenceId] => QVcYF1432005755
+    [dateTime] => 20150519112235
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T03:22:37Z
+ResponseParameter:  billNo: QVcYF1432005755 | endTime:2015-05-19 03:22:37
+
+2015-05-19T03:22:37Z
+successcode=-1&Ref=QVcYF1432005755&PayRef=150519110537&Amt=10&Cur=978&prc=1&src=14&Ord=150519110537&Holder=&AuthId=0537&TxTime=15-05-19 11:05:37&errMsg=Error: invalid Security Code
+
+2015-05-19T04:59:19Z
+RequestParameter:  billNo: r5Lok1432011558 | startTime:2015-05-19 04:59:19
+
+2015-05-19T04:59:19Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => r5Lok1432011558
+    [referenceId] => r5Lok1432011558
+    [dateTime] => 20150519125918
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T04:59:19Z
+ResponseParameter:  billNo: r5Lok1432011558 | endTime:2015-05-19 04:59:19
+
+2015-05-19T04:59:19Z
+successcode=-1&Ref=r5Lok1432011558&PayRef=150519120519&Amt=10&Cur=978&prc=1&src=14&Ord=150519120519&Holder=&AuthId=0519&TxTime=15-05-19 12:05:19&errMsg=Error: invalid Security Code
+
+2015-05-19T05:00:58Z
+RequestParameter:  billNo: MaSen1432011654 | startTime:2015-05-19 05:00:58
+
+2015-05-19T05:00:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => MaSen1432011654
+    [referenceId] => MaSen1432011654
+    [dateTime] => 20150519130054
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:00:58Z
+ResponseParameter:  billNo: MaSen1432011654 | endTime:2015-05-19 05:00:58
+
+2015-05-19T05:00:58Z
+successcode=-1&Ref=MaSen1432011654&PayRef=150519130558&Amt=10&Cur=978&prc=1&src=14&Ord=150519130558&Holder=&AuthId=0558&TxTime=15-05-19 13:05:58&errMsg=Error: invalid Security Code
+
+2015-05-19T05:02:51Z
+RequestParameter:  billNo: DXC6I1432011769 | startTime:2015-05-19 05:02:51
+
+2015-05-19T05:02:51Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => DXC6I1432011769
+    [referenceId] => DXC6I1432011769
+    [dateTime] => 20150519130249
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT SSSS
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:02:51Z
+ResponseParameter:  billNo: DXC6I1432011769 | endTime:2015-05-19 05:02:51
+
+2015-05-19T05:02:51Z
+successcode=-1&Ref=DXC6I1432011769&PayRef=150519130551&Amt=10&Cur=978&prc=1&src=14&Ord=150519130551&Holder=&AuthId=0551&TxTime=15-05-19 13:05:51&errMsg=Error: invalid Security Code
+
+2015-05-19T05:05:16Z
+RequestParameter:  billNo: pKFn81432011913 | startTime:2015-05-19 05:05:16
+
+2015-05-19T05:05:16Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => pKFn81432011913
+    [referenceId] => pKFn81432011913
+    [dateTime] => 20150519130513
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT 60 Secs
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:05:16Z
+ResponseParameter:  billNo: pKFn81432011913 | endTime:2015-05-19 05:05:16
+
+2015-05-19T05:05:16Z
+successcode=-1&Ref=pKFn81432011913&PayRef=150519130516&Amt=10&Cur=978&prc=1&src=14&Ord=150519130516&Holder=&AuthId=0516&TxTime=15-05-19 13:05:16&errMsg=Error: invalid Security Code
+
+2015-05-19T05:13:45Z
+RequestParameter:  billNo: VtmJM1432012420 | startTime:2015-05-19 05:13:45
+
+2015-05-19T05:13:45Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => VtmJM1432012420
+    [referenceId] => VtmJM1432012420
+    [dateTime] => 20150519131340
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT 30 Secs
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:13:45Z
+ResponseParameter:  billNo: VtmJM1432012420 | endTime:2015-05-19 05:13:45
+
+2015-05-19T05:13:45Z
+successcode=-1&Ref=VtmJM1432012420&PayRef=150519130545&Amt=10&Cur=978&prc=1&src=14&Ord=150519130545&Holder=&AuthId=0545&TxTime=15-05-19 13:05:45&errMsg=Error: invalid Security Code
+
+2015-05-19T05:15:58Z
+RequestParameter:  billNo: BaDcw1432012556 | startTime:2015-05-19 05:15:58
+
+2015-05-19T05:15:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => BaDcw1432012556
+    [referenceId] => BaDcw1432012556
+    [dateTime] => 20150519131556
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT 50 Secs
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:15:58Z
+ResponseParameter:  billNo: BaDcw1432012556 | endTime:2015-05-19 05:15:58
+
+2015-05-19T05:15:58Z
+successcode=-1&Ref=BaDcw1432012556&PayRef=150519130558&Amt=10&Cur=978&prc=1&src=14&Ord=150519130558&Holder=&AuthId=0558&TxTime=15-05-19 13:05:58&errMsg=Error: invalid Security Code
+
+2015-05-19T05:18:28Z
+RequestParameter:  billNo: SEVCc1432012707 | startTime:2015-05-19 05:18:28
+
+2015-05-19T05:18:28Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => SEVCc1432012707
+    [referenceId] => SEVCc1432012707
+    [dateTime] => 20150519131827
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT 40 Secs
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:18:28Z
+ResponseParameter:  billNo: SEVCc1432012707 | endTime:2015-05-19 05:18:28
+
+2015-05-19T05:18:28Z
+successcode=-1&Ref=SEVCc1432012707&PayRef=150519130528&Amt=10&Cur=978&prc=1&src=14&Ord=150519130528&Holder=&AuthId=0528&TxTime=15-05-19 13:05:28&errMsg=Error: invalid Security Code
+
+2015-05-19T05:23:38Z
+RequestParameter:  billNo: fGuC51432013016 | startTime:2015-05-19 05:23:38
+
+2015-05-19T05:23:38Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => fGuC51432013016
+    [referenceId] => fGuC51432013016
+    [dateTime] => 20150519132336
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT NO Sleep
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T05:23:38Z
+ResponseParameter:  billNo: fGuC51432013016 | endTime:2015-05-19 05:23:38
+
+2015-05-19T05:23:38Z
+successcode=-1&Ref=fGuC51432013016&PayRef=150519130538&Amt=10&Cur=978&prc=1&src=14&Ord=150519130538&Holder=&AuthId=0538&TxTime=15-05-19 13:05:38&errMsg=Error: invalid Security Code
+
+2015-05-19T07:04:43Z
+RequestParameter:  billNo: g0iUH1432019082 | startTime:2015-05-19 07:04:43
+
+2015-05-19T07:04:43Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => g0iUH1432019082
+    [referenceId] => g0iUH1432019082
+    [dateTime] => 20150519150442
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT NO Sleep
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:04:43Z
+ResponseParameter:  billNo: g0iUH1432019082 | endTime:2015-05-19 07:04:43
+
+2015-05-19T07:04:43Z
+successcode=-1&Ref=g0iUH1432019082&PayRef=150519150543&Amt=10&Cur=978&prc=1&src=14&Ord=150519150543&Holder=&AuthId=0543&TxTime=15-05-19 15:05:43&errMsg=Error: invalid Security Code
+
+2015-05-19T07:05:22Z
+RequestParameter:  billNo: iMHRQ1432019121 | startTime:2015-05-19 07:05:22
+
+2015-05-19T07:05:22Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => iMHRQ1432019121
+    [referenceId] => iMHRQ1432019121
+    [dateTime] => 20150519150521
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT NO Sleep
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:05:23Z
+ResponseParameter:  billNo: iMHRQ1432019121 | endTime:2015-05-19 07:05:23
+
+2015-05-19T07:05:23Z
+successcode=-1&Ref=iMHRQ1432019121&PayRef=150519150522&Amt=10&Cur=978&prc=1&src=14&Ord=150519150522&Holder=&AuthId=0522&TxTime=15-05-19 15:05:22&errMsg=Error: invalid Security Code
+
+2015-05-19T07:06:05Z
+RequestParameter:  billNo: d0pMG1432019163 | startTime:2015-05-19 07:06:05
+
+2015-05-19T07:06:05Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => d0pMG1432019163
+    [referenceId] => d0pMG1432019163
+    [dateTime] => 20150519150603
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT NO Sleep
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:06:05Z
+ResponseParameter:  billNo: d0pMG1432019163 | endTime:2015-05-19 07:06:05
+
+2015-05-19T07:06:05Z
+successcode=-1&Ref=d0pMG1432019163&PayRef=150519150505&Amt=10&Cur=978&prc=1&src=14&Ord=150519150505&Holder=&AuthId=0505&TxTime=15-05-19 15:05:05&errMsg=Error: invalid Security Code
+
+2015-05-19T07:08:54Z
+RequestParameter:  billNo: j4QIa1432019333 | startTime:2015-05-19 07:08:54
+
+2015-05-19T07:08:54Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => j4QIa1432019333
+    [referenceId] => j4QIa1432019333
+    [dateTime] => 20150519150853
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:08:54Z
+ResponseParameter:  billNo: j4QIa1432019333 | endTime:2015-05-19 07:08:54
+
+2015-05-19T07:08:54Z
+successcode=-1&Ref=j4QIa1432019333&PayRef=150519150554&Amt=10&Cur=978&prc=1&src=14&Ord=150519150554&Holder=&AuthId=0554&TxTime=15-05-19 15:05:54&errMsg=Error: invalid Security Code
+
+2015-05-19T07:11:30Z
+RequestParameter:  billNo: l4UEi1432019489 | startTime:2015-05-19 07:11:30
+
+2015-05-19T07:11:30Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => l4UEi1432019489
+    [referenceId] => l4UEi1432019489
+    [dateTime] => 20150519151129
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:11:30Z
+ResponseParameter:  billNo: l4UEi1432019489 | endTime:2015-05-19 07:11:30
+
+2015-05-19T07:11:30Z
+successcode=-1&Ref=l4UEi1432019489&PayRef=150519150530&Amt=10&Cur=978&prc=1&src=14&Ord=150519150530&Holder=&AuthId=0530&TxTime=15-05-19 15:05:30&errMsg=Error: invalid Security Code
+
+2015-05-19T07:13:04Z
+RequestParameter:  billNo: ZO8GU1432019581 | startTime:2015-05-19 07:13:04
+
+2015-05-19T07:13:04Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => ZO8GU1432019581
+    [referenceId] => ZO8GU1432019581
+    [dateTime] => 20150519151301
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:13:04Z
+ResponseParameter:  billNo: ZO8GU1432019581 | endTime:2015-05-19 07:13:04
+
+2015-05-19T07:13:04Z
+successcode=-1&Ref=ZO8GU1432019581&PayRef=150519150504&Amt=10&Cur=978&prc=1&src=14&Ord=150519150504&Holder=&AuthId=0504&TxTime=15-05-19 15:05:04&errMsg=Error: invalid Security Code
+
+2015-05-19T07:13:14Z
+RequestParameter:  billNo: uYR7E1432019591 | startTime:2015-05-19 07:13:14
+
+2015-05-19T07:13:14Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => uYR7E1432019591
+    [referenceId] => uYR7E1432019591
+    [dateTime] => 20150519151311
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:13:14Z
+ResponseParameter:  billNo: uYR7E1432019591 | endTime:2015-05-19 07:13:14
+
+2015-05-19T07:13:14Z
+successcode=-1&Ref=uYR7E1432019591&PayRef=150519150514&Amt=10&Cur=978&prc=1&src=14&Ord=150519150514&Holder=&AuthId=0514&TxTime=15-05-19 15:05:14&errMsg=Error: invalid Security Code
+
+2015-05-19T07:14:33Z
+RequestParameter:  billNo: AKurt1432019671 | startTime:2015-05-19 07:14:33
+
+2015-05-19T07:14:33Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => AKurt1432019671
+    [referenceId] => AKurt1432019671
+    [dateTime] => 20150519151431
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:14:33Z
+ResponseParameter:  billNo: AKurt1432019671 | endTime:2015-05-19 07:14:33
+
+2015-05-19T07:14:33Z
+successcode=-1&Ref=AKurt1432019671&PayRef=150519150533&Amt=10&Cur=978&prc=1&src=14&Ord=150519150533&Holder=&AuthId=0533&TxTime=15-05-19 15:05:33&errMsg=Error: invalid Security Code
+
+2015-05-19T07:17:49Z
+RequestParameter:  billNo: a1Z9f1432019867 | startTime:2015-05-19 07:17:49
+
+2015-05-19T07:17:49Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => a1Z9f1432019867
+    [referenceId] => a1Z9f1432019867
+    [dateTime] => 20150519151747
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:17:49Z
+ResponseParameter:  billNo: a1Z9f1432019867 | endTime:2015-05-19 07:17:49
+
+2015-05-19T07:17:49Z
+successcode=-1&Ref=a1Z9f1432019867&PayRef=150519150549&Amt=10&Cur=978&prc=1&src=14&Ord=150519150549&Holder=&AuthId=0549&TxTime=15-05-19 15:05:49&errMsg=Error: invalid Security Code
+
+2015-05-19T07:18:59Z
+RequestParameter:  billNo: siaLb1432019938 | startTime:2015-05-19 07:18:59
+
+2015-05-19T07:18:59Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => siaLb1432019938
+    [referenceId] => siaLb1432019938
+    [dateTime] => 20150519151858
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2 SS
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:18:59Z
+ResponseParameter:  billNo: siaLb1432019938 | endTime:2015-05-19 07:18:59
+
+2015-05-19T07:18:59Z
+successcode=-1&Ref=siaLb1432019938&PayRef=150519150559&Amt=10&Cur=978&prc=1&src=14&Ord=150519150559&Holder=&AuthId=0559&TxTime=15-05-19 15:05:59&errMsg=Error: invalid Security Code
+
+2015-05-19T07:20:58Z
+RequestParameter:  billNo: HIuC71432020057 | startTime:2015-05-19 07:20:58
+
+2015-05-19T07:20:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => HIuC71432020057
+    [referenceId] => HIuC71432020057
+    [dateTime] => 20150519152057
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2 XXX
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:20:58Z
+ResponseParameter:  billNo: HIuC71432020057 | endTime:2015-05-19 07:20:58
+
+2015-05-19T07:20:58Z
+successcode=-1&Ref=HIuC71432020057&PayRef=150519150558&Amt=10&Cur=978&prc=1&src=14&Ord=150519150558&Holder=&AuthId=0558&TxTime=15-05-19 15:05:58&errMsg=Error: invalid Security Code
+
+2015-05-19T07:23:09Z
+RequestParameter:  billNo: Mx9RE1432020188 | startTime:2015-05-19 07:23:09
+
+2015-05-19T07:23:09Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => Mx9RE1432020188
+    [referenceId] => Mx9RE1432020188
+    [dateTime] => 20150519152308
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:23:10Z
+ResponseParameter:  billNo: Mx9RE1432020188 | endTime:2015-05-19 07:23:10
+
+2015-05-19T07:23:10Z
+successcode=-1&Ref=Mx9RE1432020188&PayRef=150519150509&Amt=10&Cur=978&prc=1&src=14&Ord=150519150509&Holder=&AuthId=0509&TxTime=15-05-19 15:05:09&errMsg=Error: invalid Security Code
+
+2015-05-19T07:29:02Z
+RequestParameter:  billNo: fWKYB1432020541 | startTime:2015-05-19 07:29:02
+
+2015-05-19T07:29:02Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => fWKYB1432020541
+    [referenceId] => fWKYB1432020541
+    [dateTime] => 20150519152901
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:29:02Z
+ResponseParameter:  billNo: fWKYB1432020541 | endTime:2015-05-19 07:29:02
+
+2015-05-19T07:29:02Z
+successcode=-1&Ref=fWKYB1432020541&PayRef=150519150502&Amt=10&Cur=978&prc=1&src=14&Ord=150519150502&Holder=&AuthId=0502&TxTime=15-05-19 15:05:02&errMsg=Error: invalid Security Code
+
+2015-05-19T07:29:31Z
+RequestParameter:  billNo: 4W8uO1432020570 | startTime:2015-05-19 07:29:31
+
+2015-05-19T07:29:31Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 4W8uO1432020570
+    [referenceId] => 4W8uO1432020570
+    [dateTime] => 20150519152930
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:29:31Z
+ResponseParameter:  billNo: 4W8uO1432020570 | endTime:2015-05-19 07:29:31
+
+2015-05-19T07:29:31Z
+successcode=-1&Ref=4W8uO1432020570&PayRef=150519150531&Amt=10&Cur=978&prc=1&src=14&Ord=150519150531&Holder=&AuthId=0531&TxTime=15-05-19 15:05:31&errMsg=Error: invalid Security Code
+
+2015-05-19T07:29:39Z
+RequestParameter:  billNo: ZBeJy1432020577 | startTime:2015-05-19 07:29:39
+
+2015-05-19T07:29:39Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => ZBeJy1432020577
+    [referenceId] => ZBeJy1432020577
+    [dateTime] => 20150519152937
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1234
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:29:39Z
+ResponseParameter:  billNo: ZBeJy1432020577 | endTime:2015-05-19 07:29:39
+
+2015-05-19T07:29:39Z
+successcode=-1&Ref=ZBeJy1432020577&PayRef=150519150539&Amt=10&Cur=978&prc=1&src=14&Ord=150519150539&Holder=&AuthId=0539&TxTime=15-05-19 15:05:39&errMsg=Error: invalid Security Code
+
+2015-05-19T07:30:44Z
+RequestParameter:  billNo: A5fuo1432020642 | startTime:2015-05-19 07:30:44
+
+2015-05-19T07:30:44Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => A5fuo1432020642
+    [referenceId] => A5fuo1432020642
+    [dateTime] => 20150519153042
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:30:44Z
+ResponseParameter:  billNo: A5fuo1432020642 | endTime:2015-05-19 07:30:44
+
+2015-05-19T07:30:44Z
+successcode=-1&Ref=A5fuo1432020642&PayRef=150519150544&Amt=10&Cur=978&prc=1&src=14&Ord=150519150544&Holder=&AuthId=0544&TxTime=15-05-19 15:05:44&errMsg=Error: invalid firstName
+
+2015-05-19T07:32:52Z
+RequestParameter:  billNo: t2mZj1432020771 | startTime:2015-05-19 07:32:52
+
+2015-05-19T07:32:52Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => t2mZj1432020771
+    [referenceId] => t2mZj1432020771
+    [dateTime] => 20150519153251
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => USD
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:32:52Z
+ResponseParameter:  billNo: t2mZj1432020771 | endTime:2015-05-19 07:32:52
+
+2015-05-19T07:32:52Z
+successcode=-1&Ref=t2mZj1432020771&PayRef=150519150552&Amt=10&Cur=840&prc=1&src=14&Ord=150519150552&Holder=&AuthId=0552&TxTime=15-05-19 15:05:52&errMsg=Error: invalid firstName, Parameter currency incorrect
+
+2015-05-19T07:33:15Z
+RequestParameter:  billNo: 24mRt1432020793 | startTime:2015-05-19 07:33:15
+
+2015-05-19T07:33:15Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 24mRt1432020793
+    [referenceId] => 24mRt1432020793
+    [dateTime] => 20150519153313
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:33:15Z
+ResponseParameter:  billNo: 24mRt1432020793 | endTime:2015-05-19 07:33:15
+
+2015-05-19T07:33:15Z
+successcode=-1&Ref=24mRt1432020793&PayRef=150519150515&Amt=10&Cur=978&prc=1&src=14&Ord=150519150515&Holder=&AuthId=0515&TxTime=15-05-19 15:05:15&errMsg=Error: invalid firstName
+
+2015-05-19T07:33:38Z
+RequestParameter:  billNo: 5Rn0h1432020816 | startTime:2015-05-19 07:33:38
+
+2015-05-19T07:33:38Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 5Rn0h1432020816
+    [referenceId] => 5Rn0h1432020816
+    [dateTime] => 20150519153336
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2ssssss
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:33:38Z
+ResponseParameter:  billNo: 5Rn0h1432020816 | endTime:2015-05-19 07:33:38
+
+2015-05-19T07:33:38Z
+successcode=-1&Ref=5Rn0h1432020816&PayRef=150519150538&Amt=10&Cur=978&prc=1&src=14&Ord=150519150538&Holder=&AuthId=0538&TxTime=15-05-19 15:05:38&errMsg=Error: invalid firstName
+
+2015-05-19T07:35:58Z
+RequestParameter:  billNo: jOXdr1432020957 | startTime:2015-05-19 07:35:58
+
+2015-05-19T07:35:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => jOXdr1432020957
+    [referenceId] => jOXdr1432020957
+    [dateTime] => 20150519153557
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2sdsd
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:35:58Z
+ResponseParameter:  billNo: jOXdr1432020957 | endTime:2015-05-19 07:35:58
+
+2015-05-19T07:35:58Z
+successcode=-1&Ref=jOXdr1432020957&PayRef=150519150558&Amt=10&Cur=978&prc=1&src=14&Ord=150519150558&Holder=&AuthId=0558&TxTime=15-05-19 15:05:58&errMsg=Error: invalid firstName
+
+2015-05-19T07:39:22Z
+RequestParameter:  billNo: nFJ261432021160 | startTime:2015-05-19 07:39:22
+
+2015-05-19T07:39:22Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => nFJ261432021160
+    [referenceId] => nFJ261432021160
+    [dateTime] => 20150519153920
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2 fffffffff
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:39:22Z
+ResponseParameter:  billNo: nFJ261432021160 | endTime:2015-05-19 07:39:22
+
+2015-05-19T07:39:22Z
+successcode=-1&Ref=nFJ261432021160&PayRef=150519150522&Amt=10&Cur=978&prc=1&src=14&Ord=150519150522&Holder=&AuthId=0522&TxTime=15-05-19 15:05:22&errMsg=Error: invalid firstName
+
+2015-05-19T07:40:43Z
+RequestParameter:  billNo: rVSBZ1432021241 | startTime:2015-05-19 07:40:43
+
+2015-05-19T07:40:43Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => rVSBZ1432021241
+    [referenceId] => rVSBZ1432021241
+    [dateTime] => 20150519154041
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2 fffffffff
+    [currency] => EUR
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:40:43Z
+ResponseParameter:  billNo: rVSBZ1432021241 | endTime:2015-05-19 07:40:43
+
+2015-05-19T07:40:43Z
+successcode=-1&Ref=rVSBZ1432021241&PayRef=150519150543&Amt=10&Cur=978&prc=1&src=41&Ord=150519150543&Holder=&AuthId=0543&TxTime=15-05-19 15:05:43&errMsg=Error: invalid firstName
+
+2015-05-19T07:43:45Z
+RequestParameter:  billNo: 5OPLU1432021423 | startTime:2015-05-19 07:43:45
+
+2015-05-19T07:43:45Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 5OPLU1432021423
+    [referenceId] => 5OPLU1432021423
+    [dateTime] => 20150519154343
+    [cardHolderIp] => 49.144.58.49
+    [cardNum] => 4918914107195005
+    [cvv2] => 1235
+    [month] => 07
+    [year] => 17
+    [firstName] => JUANS
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840920
+    [phone] => 7511234
+    [zipCode] => 1604
+    [address] => 101 IDC Zapote St. 
+    [city] => Makati
+    [state] => NA
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => TEST PAYMENT D2 fffffffff
+    [currency] => USD
+    [productItem] => xxxx
+    [productType] => xxx
+    [productDesc] => xxxx
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-05-19T07:43:45Z
+ResponseParameter:  billNo: 5OPLU1432021423 | endTime:2015-05-19 07:43:45
+
+2015-05-19T07:43:45Z
+successcode=-1&Ref=5OPLU1432021423&PayRef=150519150545&Amt=10&Cur=840&prc=1&src=14&Ord=150519150545&Holder=&AuthId=0545&TxTime=15-05-19 15:05:45&errMsg=Error: invalid Security Code, invalid firstName, Parameter currency incorrect
+

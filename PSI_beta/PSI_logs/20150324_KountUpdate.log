@@ -1,0 +1,286 @@
+2015-03-24T07:14:13Z
+RequestParameter:  billNo: cjckigihbc | startTime:2015-03-24 07:14:13
+
+2015-03-24T07:14:13Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => aabfb71ca88b9860ee553f8105daf9c4
+    [TRAN] => 3YVC0D31V63K
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T07:14:14Z
+ResponseParameter:  billNo: cjckigihbc | endTime:2015-03-24 07:14:14
+
+2015-03-24T07:14:14Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVC0D31V63K</TRAN>
+  <MERC>680000</MERC>
+  <SESS>aabfb71ca88b9860ee553f8105daf9c4</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T07:18:47Z
+RequestParameter:  billNo: ibbciegega | startTime:2015-03-24 07:18:47
+
+2015-03-24T07:18:47Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => aabfb71ca88b9860ee553f8105daf9c4
+    [TRAN] => 3YVC0LWLKJ0J
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T07:18:49Z
+ResponseParameter:  billNo: ibbciegega | endTime:2015-03-24 07:18:49
+
+2015-03-24T07:18:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVC0LWLKJ0J</TRAN>
+  <MERC>680000</MERC>
+  <SESS>aabfb71ca88b9860ee553f8105daf9c4</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T07:26:04Z
+RequestParameter:  billNo: bfidhhedak | startTime:2015-03-24 07:26:04
+
+2015-03-24T07:26:04Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 458a156ebab421458bf3d71864215e18
+    [TRAN] => 3YVC0DK1PW5Q
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T07:26:05Z
+ResponseParameter:  billNo: bfidhhedak | endTime:2015-03-24 07:26:05
+
+2015-03-24T07:26:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVC0DK1PW5Q</TRAN>
+  <MERC>680000</MERC>
+  <SESS>458a156ebab421458bf3d71864215e18</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T08:36:07Z
+RequestParameter:  billNo: P2kY5Sc013 | startTime:2015-03-24 08:36:07
+
+2015-03-24T08:36:07Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => tajimb9i7hr4loqg3icq23cen7
+    [TRAN] => 3YVZ04N099BS
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T08:36:09Z
+ResponseParameter:  billNo: P2kY5Sc013 | endTime:2015-03-24 08:36:09
+
+2015-03-24T08:36:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVZ04N099BS</TRAN>
+  <MERC>680000</MERC>
+  <SESS>tajimb9i7hr4loqg3icq23cen7</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T08:36:25Z
+RequestParameter:  billNo: 2015032502 | startTime:2015-03-24 08:36:25
+
+2015-03-24T08:36:25Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 2015032502
+    [TRAN] => 3YVZ0Z924VS2
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T08:36:27Z
+ResponseParameter:  billNo: 2015032502 | endTime:2015-03-24 08:36:27
+
+2015-03-24T08:36:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVZ0Z924VS2</TRAN>
+  <MERC>680000</MERC>
+  <SESS>2015032502</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T09:29:26Z
+RequestParameter:  billNo: hfdhakdeke | startTime:2015-03-24 09:29:26
+
+2015-03-24T09:29:26Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 0e9c39b92d43c418f40519702fc383dd
+    [TRAN] => 3YV80LJJPTPN
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T09:29:28Z
+ResponseParameter:  billNo: hfdhakdeke | endTime:2015-03-24 09:29:28
+
+2015-03-24T09:29:28Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YV80LJJPTPN</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0e9c39b92d43c418f40519702fc383dd</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-24T12:16:37Z
+RequestParameter:  billNo: bdhkjbcbei | startTime:2015-03-24 12:16:37
+
+2015-03-24T12:16:37Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 13b4ffb143140a167c93465a4d592181
+    [TRAN] => 3YV301V42MHG
+    [AUTH] => 
+    [MACK] => Y
+    [RFCB] => R
+)
+
+
+2015-03-24T14:01:27Z
+RequestParameter:  billNo: bill635628023113574370 | startTime:2015-03-24 14:01:27
+
+2015-03-24T14:01:27Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => sess635628023113574370
+    [TRAN] => 3YV70SZ92H4X
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-24T14:03:55Z
+RequestParameter:  billNo: bill635628024593336229 | startTime:2015-03-24 14:03:55
+
+2015-03-24T14:03:55Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => sess635628024593336229
+    [TRAN] => 3YV70VVPKP8Z
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-24T14:03:57Z
+ResponseParameter:  billNo: bill635628024593336229 | endTime:2015-03-24 14:03:57
+
+2015-03-24T14:03:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YV70VVPKP8Z</TRAN>
+  <MERC>680000</MERC>
+  <SESS>sess635628024593336229</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

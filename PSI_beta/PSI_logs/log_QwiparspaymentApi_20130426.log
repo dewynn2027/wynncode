@@ -1,0 +1,87 @@
+2013-04-26T10:32:55Z
+RequestParameter:  referenceId: 20130426183159
+
+2013-04-26T10:32:55Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130426183159&dateTime=20130426183159&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=4F8611479121113068823F3025C8F3F2&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-04-26T10:32:57Z
+ResponseParameter:  referenceId: 20130426183159
+
+2013-04-26T10:32:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130426183159</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>D31E99DB826C26A3470355422FDB27D8</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-04-26T10:37:39Z
+https://secure.qwipi.com/api/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130426183257&dateTime=20130426183257&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=59276028E650C814379F0C3C68B30390&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=YYYYMMDD&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=10.00&products=2&remark=remark
+
+2013-04-26T10:37:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>20130426183257</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20130426183751</dateTime><paymentOrderNo>103354704742</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><md5Info>AEBF00789509CE909946F12E32ECEE6C</md5Info><billingDescriptor>puchasetmore trade A/G</billingDescriptor>
+
+</response>
+
+2013-04-26T10:45:15Z
+https://secure.qwipi.com/api/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130426184447&dateTime=20130426184447&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=9AB9085452C3DF90DB043402203EE3D7&cardNum=4000000000000002&cvv2=123&month=12&year=14&birthDate=19800331&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=10.00&products=2&remark=remark
+
+2013-04-26T10:45:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>20130426184447</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>682B80F645A8DB005CF482FFE5D01295</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-04-26T10:50:22Z
+https://secure.qwipi.com/api/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130426183257s&dateTime=20130426183257s&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=AF2F0C2DC6FF6483FA0723FA483C3107&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=YYYYMMDD&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=10.00&products=2&remark=remark
+
+2013-04-26T10:50:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>20130426183257s</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>725D0238D147FB01847F12B914A71655</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-04-26T10:53:50Z
+https://secure.qwipi.com/api/payments.jsp
+
+2013-04-26T10:53:50Z
+merNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130426183257ss&dateTime=20130426183257s&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=F98B2CFAEC9718636E87499BA26D1AE6&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=YYYYMMDD&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=10.00&products=2&remark=remark
+
+2013-04-26T10:53:53Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>20130426183257ss</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>42A41E10CCE9354779B1EBCB2D35879A</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-04-26T10:58:13Z
+
+
+2013-04-26T10:58:13Z
+
+
+2013-04-26T10:59:19Z
+https://secure.qwipi.com/api/payments.jsp
+
+2013-04-26T10:59:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10335</merNo><billNo>201304261832572</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The API is not supported for this MID</remark><md5Info>D7B115EC2F715BD4FF69405B5191A156</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

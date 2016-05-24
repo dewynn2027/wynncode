@@ -1,0 +1,694 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Whip extends CI_Controller {
+
+	public function __construct()
+	{
+		parent::__construct();
+		
+		$this->load->model('psi_model');	
+		$this->load->model('whip_model');	
+
+		$config['functions']['debug'] 				= array('function' => 'Whip.debug');
+		$config['functions']['getTransactionDetails'] 	= array('function' => 'Whip.getTransactionDetails');
+		$config['functions']['paymentapi'] 			= array('function' => 'Whip.paymentApi');
+		$config['functions']['paymentksv'] 			= array('function' => 'Whip.paymentKsv');
+		$config['functions']['paymentxcp'] 			= array('function' => 'Whip.paymentXcp');
+		$config['functions']['refundapi'] 			= array('function' => 'Whip.paymentRefundArs');
+		$config['functions']['customerRegister'] 		= array('function' => 'Whip.customerRegister');
+		$config['functions']['customDeposit'] 		= array('function' => 'Whip.customerRegisterDeposit');
+		$config['functions']['whipLogin'] 			= array('function' => 'Whip.adminLogin');
+		$config['functions']['whipTransHistory'] 		= array('function' => 'Whip.transHistory');
+		$config['functions']['whipUserAddEdit'] 		= array('function' => 'Whip.userAddEdit');
+		$config['functions']['whipRefund'] 			= array('function' => 'Whip.refund');
+		$config['functions']['whipRefundHistory'] 		= array('function' => 'Whip.refundHistory');
+		
+		$this->xmlrpcs->initialize($config);
+		$this->xmlrpcs->serve();
+
+	}
+	
+	function minimumAmount()
+	{
+		$msg  = "<response rc='999' status='failed'>";
+		$msg .= "<remarks>amount you input is less than the minimum amount!</remarks>";
+		$msg .= "</response>";
+		return $msg;
+	}
+		
+	function authenticate($username,$password,$key,$IP_addr,$API_name)
+	{
+		$check = $this->psi_model->checkmyaccess($username,$password,$key,$IP_addr,$API_name);
+		if($check=="allow")
+		{
+			return "allow";
+			
+		}else{
+		
+			return "<RSP rc='999' msg='Authentication Error for ".$username." ".$check."'></RSP>";
+		
+		}	
+	}
+	
+	
+	function adminLogin($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP adminLogin');
+		if($check=="allow")
+		{
+		
+			$rsp = $this->psi_model->adminLogin((string)$xml->accountName,(string)$xml->accountPasswd);
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP adminLogin",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+	function refund($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP refund');
+		if($check=="allow")
+		{
+			$rsp = $this->psi_model->refund((string)$xml->refundOperation,(string)$xml->resultCode,(string)$xml->paymentOrderNo,(string)$xml->billNo,(float)$xml->refundAmount,(string)$xml->remark,(int)$xml->appUserId);
+			//~ $rsp = $request;
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP refund",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+	function refundHistory($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP refundHistory');
+		if($check=="allow")
+		{
+			$appUserId = $this->psi_model->getAppUserId((string)$xml->accountName);
+			$rsp = $this->psi_model->refundHistory($appUserId,(int)$xml->groupId,(string)$xml->keyword);
+			//~ $rsp = $request;
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function transHistory($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP transHistory');
+		if($check=="allow")
+		{
+			$appUserId = $this->psi_model->getAppUserId((string)$xml->accountName);
+			$rsp = $this->psi_model->transHistory($appUserId,(int)$xml->groupId,(string)$xml->billNo,(string)$xml->referenceId,(string)$xml->paymentOrderNo,(string)$xml->cardNum,(string)$xml->status,(string)$xml->startDate,(string)$xml->endDate);
+			//~ $rsp = $request;
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		return $this->xmlrpc->send_response($rsp);
+	}
+
+	function userAddEdit($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP userAddEdit');
+		if($check=="allow")
+		{
+			$rsp = $this->psi_model->userAddEdit((int)$xml->userId,(string)$xml->firstName,(string)$xml->middleName,(string)$xml->lastName,(string)$xml->institute,(string)$xml->designation,(string)$xml->loginName,(string)$xml->loginPasswd,(string)$xml->email,(int)$xml->accountStatus,(int)$xml->groupId,(int)$xml->appUserId);
+			//~ $rsp = $request;
+			
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP userAddEdit",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+	}
+
+	function customerRegisterDeposit($request="")
+	{
+	
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP getTransactionDetails');
+		if($check=="allow")
+		{
+			if((string)$xml->ReferenceID == "" || (string)$xml->Paymentmethod == "" || (string)$xml->Type == "" || (string)$xml->billNo == "" || (string)$xml->dateTime == "" || (string)$xml->currency == "" || (string)$xml->language == "" || (string)$xml->cardHolderIp == "" || (string)$xml->cardNum == "" || (int)$xml->cvv2 <= 0 || (string)$xml->month == "" || (int)$xml->year <= 0 || (string)$xml->firstName == "" || (string)$xml->lastName == "" || (string)$xml->email=="" || (string)$xml->phone == "" || (string)$xml->zipCode == "" || (string)$xml->address == "" || (string)$xml->city == "" || (string)$xml->state == "" || (string)$xml->country == "")
+			{
+				
+				$msg  = "Field listed (  ";
+				$msg .= (empty($xml->ReferenceID)) ? "ReferenceID, " : "";
+				$msg .= (empty($xml->Paymentmethod)) ? "Paymentmethod, " : "";
+				$msg .= (empty($xml->Type)) ? "Type, " : "";
+				$msg .= (empty($xml->billNo)) ? "billNo, " : "";
+				$msg .= (empty($xml->dateTime)) ? "dateTime, " : "";
+				$msg .= (empty($xml->currency)) ? "currency, " : "";
+				$msg .= (empty($xml->language)) ? "language, " : "";
+				$msg .= (empty($xml->cardHolderIp)) ? "cardHolderIp, " : "";
+				$msg .= (empty($xml->cardNum)) ? "cardNum, " : "";
+				$msg .= (empty($xml->cvv2)) ? "cvv2, " : "";
+				$msg .= (empty($xml->month)) ? "month, " : "";
+				$msg .= (empty($xml->year)) ? "year, " : "";
+				$msg .= (empty($xml->firstName)) ? "firstName, " : "";
+				$msg .= (empty($xml->lastName)) ? "lastName, " : "";
+				$msg .= (empty($xml->email)) ? "email, " : "";
+				$msg .= (empty($xml->phone)) ? "phone, " : "";
+				$msg .= (empty($xml->zipCode)) ? "zipCode, " : "";
+				$msg .= (empty($xml->address)) ? "address, " : "";
+				$msg .= (empty($xml->city)) ? "city, " : "";
+				$msg .= (empty($xml->state)) ? "state, " : "";
+				$msg .= (empty($xml->country)) ? "country, " : "";
+				$rsp = "<response rc='999' message='".substr($msg,0,strlen($msg)-2).") is/are required!'></response>";
+			
+			}else if((float)$xml->amount > 0){
+			
+				$checkifexist = $this->psi_model->checkIfExist((string)$xml->cardNum,(string)$xml->billNo);
+				if($checkifexist==0)
+				{
+					$apiUserId = $this->psi_model->getApiUserId((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"]);
+					$rsp = $this->psi_model->whipClientRequest((int)$apiUserId,(string)$xml->API_username,(string)$xml->API_password,(string)$xml->ReferenceID, (string)$xml->Paymentmethod, (string)$xml->Type, (int)$xml->accountId, (string)$xml->billNo, (string)$xml->dateTime, (string)$xml->currency, (string)$xml->language, (string)$xml->cardHolderIp, (string)$xml->cardNum, (int)$xml->cvv2, (string)$xml->month, (int)$xml->year, (string)$xml->firstName, (string)$xml->lastName, (string)$xml->email, (string)$xml->phone, (string)$xml->zipCode, (string)$xml->address, (string)$xml->city, (string)$xml->state, (string)$xml->country, (float)$xml->amount, (string)$xml->products, (string)$xml->remark,"INACTIVE",1);
+				
+				}else{
+				
+					$rsp = "<response rc='999' message='BillNo.: ".$xml->billNo."and cardNum.:".$xml->cardNum." are already used!'></response>";
+			
+				}
+				
+			}else{
+				
+				$rsp = "<response rc='999' message='".$xml->amount." is lower than minimum amount, please try higher amount!'></response>";
+			
+			}
+			
+		}else{
+		
+			$rsp = $check;
+		}
+		
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP customerRegisterDeposit",$reqparam,$rsp);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function debug($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'debug');
+		if($check=="allow"){
+			$rsp = "<RSP><yourdata>$xml->API_username</yourdata><yourdata>$xml->API_password</yourdata><yourdata>$xml->API_key</yourdata></RSP>";
+		}else{
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP debug",$reqparam,$rsp);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function getTransactionDetails($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP getTransactionDetails');
+		if($check=="allow")
+		{
+			$url =  $this->config->item('whipQueryUrl');
+			$md5Info  = (string)$this->config->item('merNoCC');
+			$md5Info .= (string)$xml->billNo;
+			$md5Info .= (string)$this->config->item('md5keyCC');
+			$params  = "merNo=".$this->config->item('merNoCC');
+			$params .= "&billNo=".$xml->billNo;
+			$params .= "&md5Info=".strtoupper((string)md5($md5Info));
+			$xmlrsp = $this->whip_model->sendrequest($url , $params);
+			$cleanxml = str_replace(array("<response>"),"<response rc='0' status='success' message='Transaction Complete'><ReferenceID>".$xml->ReferenceID."</ReferenceID>",$xmlrsp);
+			$rsp = $cleanxml;
+			
+		}else{
+		
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param_refId("WHIP getTransactionDetails",$reqparam,$rsp,(string)$xml->ReferenceID);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function paymentRefundArs($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'paymentRefundArs');
+		if($check=="allow")
+		{
+		
+			$appUserId = $this->psi_model->getApiUserId((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"]);
+			$insertToDb = $this->psi_model->refund(2,999,(string)$xml->paymentOrderNo,(string)$xml->billNo,(float)$xml->refundAmount,"",(int)$appUserId);
+			$resultdb = new SimpleXMLElement($insertToDb);
+			
+			if($resultdb['rc']==0)
+			{
+		
+				$client = new SoapClient("https://admin.webdosh.com/soap//tx3.php?wsdl");
+				$sid = $this->config->item('webDoshSID');
+				$rcode= $this->config->item('webDoshRCode');
+				
+				$param = array(
+					"sid" 			=> $sid,
+					"rcode" 		=> $rcode,
+					"txid" 		=> (string)$xml->paymentOrderNo,
+					"reason" 		=> (string)$xml->remark,
+					"amount" 		=> number_format((double)$xml->refundAmount,2),
+					"sendNotification" => "1"
+				);
+				
+				$response = $client->__soapCall("processRefund", $param);
+				
+				if($response->status == "OK")
+				{
+					$this->psi_model->updateRefund((string)$xml->ReferenceID,(string)$xml->paymentOrderNo,(string)$xml->billNo,0,$response->status);
+					$rsp  = "<Response rc='0' status='success' message='".$response->status."'>";
+					$rsp .= "<ReferenceID>".$xml->ReferenceID."</ReferenceID>";
+					$rsp .= "<paymentOrderNo>".$response->txid."</paymentOrderNo>";
+					$rsp .= "<billNo>".$xml->billNo."</billNo>";
+					$rsp .= "<refundAmount>".$xml->refundAmount."</refundAmount>";
+					$rsp .= "<remark>".$response->status."</remark>";
+					
+					
+				}else{
+				
+					$this->psi_model->updateRefund((string)$xml->ReferenceID,(string)$xml->paymentOrderNo,(string)$xml->billNo,999,str_replace(array("   ","  "),"",$response->error->msg));
+					$rsp  = "<Response rc='999' status='failed' message='".str_replace(array("  "," "),"",$response->error->msg)."'>";
+					$rsp .= "<ReferenceID>".$xml->ReferenceID."</ReferenceID>";
+					$rsp .= "<paymentOrderNo>".$response->txid."</paymentOrderNo>";
+					$rsp .= "<billNo>".$xml->billNo."</billNo>";
+					$rsp .= "<refundAmount>".$xml->refundAmount."</refundAmount>";
+					$rsp .= "<remark>".str_replace(array("  "," "),"",$response->error->msg)."</remark>";
+				}
+				
+				$rsp .= "</Response>";
+
+				
+			}else{
+			
+				$rsp = $insertToDb;
+			}
+		}else{
+			
+			$rsp = $check;
+		
+		}
+		
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP paymentRefundArs",$reqparam,$rsp);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function paymentApi($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'paymentApi');
+		if($check=="allow")
+		{
+			if((string)$xml->ReferenceID == "" || (string)$xml->Paymentmethod == "" || (string)$xml->Type == "" || (string)$xml->billNo == "" || (string)$xml->dateTime == "" || (string)$xml->currency == "" || (string)$xml->language == "" || (string)$xml->cardHolderIp == "" || (string)$xml->cardNum == "" || (int)$xml->cvv2 <= 0 || (string)$xml->month == "" || (int)$xml->year <= 0 || (string)$xml->firstName == "" || (string)$xml->lastName == "" || (string)$xml->email=="" || (string)$xml->phone == "" || (string)$xml->zipCode == "" || (string)$xml->address == "" || (string)$xml->city == "" || (string)$xml->state == "" || (string)$xml->country == "")
+			{
+				
+				$msg  = "Field listed (  ";
+				$msg .= (empty($xml->ReferenceID)) ? "ReferenceID, " : "";
+				$msg .= (empty($xml->Paymentmethod)) ? "Paymentmethod, " : "";
+				$msg .= (empty($xml->Type)) ? "Type, " : "";
+				$msg .= (empty($xml->billNo)) ? "billNo, " : "";
+				$msg .= (empty($xml->dateTime)) ? "dateTime, " : "";
+				$msg .= (empty($xml->currency)) ? "currency, " : "";
+				$msg .= (empty($xml->language)) ? "language, " : "";
+				$msg .= (empty($xml->cardHolderIp)) ? "cardHolderIp, " : "";
+				$msg .= (empty($xml->cardNum)) ? "cardNum, " : "";
+				$msg .= (empty($xml->cvv2)) ? "cvv2, " : "";
+				$msg .= (empty($xml->month)) ? "month, " : "";
+				$msg .= (empty($xml->year)) ? "year, " : "";
+				$msg .= (empty($xml->firstName)) ? "firstName, " : "";
+				$msg .= (empty($xml->lastName)) ? "lastName, " : "";
+				$msg .= (empty($xml->email)) ? "email, " : "";
+				$msg .= (empty($xml->phone)) ? "phone, " : "";
+				$msg .= (empty($xml->zipCode)) ? "zipCode, " : "";
+				$msg .= (empty($xml->address)) ? "address, " : "";
+				$msg .= (empty($xml->city)) ? "city, " : "";
+				$msg .= (empty($xml->state)) ? "state, " : "";
+				$msg .= (empty($xml->country)) ? "country, " : "";
+				$rsp = "<response rc='999' message='".substr($msg,0,strlen($msg)-2).") is/are required!'></response>";
+				
+			}else if(strlen($xml->country) > 2){
+			
+				$rsp = "<response rc='999' message='".$xml->country." is not code of country by ISO-3166, please check.'></response>";
+				
+			}else if((double)$xml->amount < 10){
+			
+				$rsp = "<response rc='999' message='Transaction amount is below the minimum amount.'></response>";
+
+			}else{
+				$checkifexist = $this->psi_model->checkIfExist((string)$xml->cardNum,(string)$xml->billNo);
+				if($checkifexist==0)
+				{
+					$apiUserId = $this->psi_model->getApiUserId((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"]);
+					$checkiferror = $this->psi_model->whipClientRequest((int)$apiUserId,(string)$xml->API_username,(string)$xml->API_password,(string)$xml->ReferenceID, (string)$xml->Paymentmethod, (string)$xml->Type, (int)$xml->accountId, (string)$xml->billNo, (string)$xml->dateTime, (string)$xml->currency, (string)$xml->language, (string)$xml->cardHolderIp, (string)$xml->cardNum, (int)$xml->cvv2, (string)$xml->month, (int)$xml->year, (string)$xml->firstName, (string)$xml->lastName, (string)$xml->email, (string)$xml->phone, (string)$xml->zipCode, (string)$xml->address, (string)$xml->city, (string)$xml->state, (string)$xml->country, (float)$xml->amount, (string)$xml->products, (string)$xml->remark,"ACTIVE",1);
+					$dbxml = new simpleXMLElement($checkiferror);
+					if($dbxml['rc']==1)
+					{
+						$rsp = $checkiferror;
+					
+					}else{
+						$card = (string)$xml->cardNum;
+						$payby = ($card[0] == 5) ? "mastercard" : "visa";
+						$client = new SoapClient("https://admin.webdosh.com/soap//tx3.php?wsdl");
+						$sid = $this->config->item('webDoshSID');
+						$rcode= $this->config->item('webDoshRCode');
+						$udetails = array(
+							"firstname" 		=> (string)$xml->firstName,
+							"lastname" 		=> (string)$xml->lastName,
+							"email" 		=> (string)$xml->email,
+							"phone" 		=> (string)$xml->phone,
+							"mobile" 		=> (string)$xml->phone,	//optional
+							"address" 		=> (string)$xml->address,
+							"suburb_city" 	=> (string)$xml->city,
+							"state" 		=> (string)$xml->state,
+							"postcode" 		=> (string)$xml->zipCode,
+							"country" 		=> (string)$xml->country,
+							"ship_firstname" 	=> (string)$xml->firstName,
+							"ship_lastname" 	=> (string)$xml->lastName,
+							"ship_address" 	=> (string)$xml->address,
+							"ship_suburb_city"=> (string)$xml->city,
+							"ship_state" 	=> (string)$xml->state,
+							"ship_postcode" 	=> (string)$xml->zipCode,
+							"ship_country" 	=> (string)$xml->country,
+							"uip" 			=> (string)$_SERVER["REMOTE_ADDR"]
+						);
+						$paydetails = array(
+							"payby" 			=> (string)$payby,
+							"card_name" 		=> (string)$xml->firstName." ".(string)$xml->lastName,
+							"card_no" 			=> (string)$xml->cardNum, 
+							"card_ccv" 			=> (string)$xml->cvv2,
+							"card_exp_month" 	=> (string)$xml->month,
+							"card_exp_year" 		=> (string)"20".$xml->year,
+							"md" 				=> "",
+							"type" 			=> 1,
+							"regulation_e" 		=> 1
+						);
+						$txparams = array(
+						
+							"ref1" 	=> (string)$xml->ReferenceID
+						
+						);
+						
+						$cart = array(
+							"items" => array(
+								array(
+									"name"		=> "PAYMENT",
+									"quantity"		=> 1,
+									"amount_unit"	=> number_format((double)$xml->amount,2),
+									"item_no"		=> (string)$xml->ReferenceID,
+									"item_desc"		=> "PAYMENT" 
+								) 
+							),
+							"summary" => array(
+								"quantity"			=> 1,
+								"amount_purchase"	=> number_format((double)$xml->amount,2),
+								"amount_shipping"	=> "0.00",
+								"currency_code" 		=> (string)$xml->currency
+							)
+						);
+						$param = array(
+							"sid" 			=> $sid,
+							"rcode" 		=> $rcode,
+							"udetails" 		=> $udetails,
+							"paydetails" 	=> $paydetails,
+							"cart" 		=> $cart,
+							"txparams" 		=> $txparams
+						);
+						$response = $client->__soapCall("processPayment", $param);
+						
+						if($response->status == "OK")
+						{
+							$this->psi_model->updateStatus((string)$xml->ReferenceID,(string)$xml->billNo,(string)$xml->cardNum,(string)$response->txid,88);
+							$rsp  = "<Response rc='0' status='success' message='".$response->status."'>";
+							$rsp .= "<ReferenceID>".$xml->ReferenceID."</ReferenceID>";
+							$rsp .= "<Paymentmethod>".$xml->Paymentmethod."</Paymentmethod>";
+							$rsp .= "<Type>".$xml->Type."</Type>";
+							$rsp .= "<currency>".$xml->currency."</currency>";
+							$rsp .= "<amount>".$xml->amount."</amount>";
+							$rsp .= "<dateTime>".$xml->dateTime."</dateTime>";
+							$rsp .= "<paymentOrderNo>".$response->txid."</paymentOrderNo>";
+							$rsp .= "<remark>".str_replace(array("   ","  "),"",$response->error->msg)."</remark>";
+							$rsp .= "<billingDescriptor>PAYMENT</billingDescriptor>";
+							
+							
+						}else{
+						
+							$this->psi_model->updateStatus((string)$xml->ReferenceID,(string)$xml->billNo,(string)$xml->cardNum,(string)$response->txid,999);
+							$rsp  = "<Response rc='999'  status='failed' message='".str_replace(array("   ","  "),"",$response->error->msg)."'>";
+							$rsp .= "<ReferenceID>".$xml->ReferenceID."</ReferenceID>";
+							$rsp .= "<billNo>".$xml->billNo."</billNo>";
+							$rsp .= "<currency>".$xml->currency."</currency>";
+							$rsp .= "<amount>".$xml->amount."</amount>";
+							$rsp .= "<dateTime>".$xml->dateTime."</dateTime>";
+							$rsp .= "<paymentOrderNo>".$response->txid."</paymentOrderNo>";
+							$rsp .= "<remark>".str_replace(array("   ","  "),"",$response->error->msg)."</remark>";
+							$rsp .= "<billingDescriptor>PAYMENT</billingDescriptor>";
+							
+						}
+						$rsp .= "</Response>";
+					}
+				}else{
+				
+					$rsp = "<response rc='999' message='BillNo.: ".$xml->billNo."and cardNum.:".$xml->cardNum." are already used!'></response>";
+			
+				}
+			}
+			
+		}else{
+		
+			$rsp = $check;
+		}
+		return $this->xmlrpc->send_response($rsp);
+	
+	}
+	
+	function paymentKsv($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP paymentKsv');
+		if($check=="allow")
+		{
+			$returnURL = "http://192.168.170.216/PSI/whipxcp/paymentKsv.php";
+			//merNo + billNo + currency + amount + dateTime + md5Key
+			$url = str_replace(" ", "%20", $this->config->item('whipPaymentKsv'));
+			$md5Ikey =  (string)$this->config->item('md5IkeyKSV');
+			$mymd5info  = (string)$this->config->item('merNoKSV');
+			$mymd5info .= (string)$xml->billNo;
+			$mymd5info .= (string)$xml->currency;
+			$mymd5info .= (string)number_format((double)$xml->amount,2);
+			$mymd5info .= (string)$xml->dateTime;
+			$mymd5info .= (string)$md5Ikey;
+			$params  = "merNo=".(int)$this->config->item('merNoKSV');
+			$params .= "&cardHolderIp=".(string)$xml->cardHolderIp;
+			$params .= "&cardNum=".(string)$xml->cardNum;
+			$params .= "&cvv2=".(string)$xml->cvv2;
+			$params .= "&year=".(string)$xml->year;
+			$params .= "&month=".(string)$xml->month;
+			$params .= "&dateTime=".(string)$xml->dateTime;
+			$params .= "&billNo=".(string)$xml->billNo;
+			$params .= "&currency=".(string)$xml->currency;
+			$params .= "&amount=".(string)$xml->amount;
+			$params .= "&language=".(string)$xml->language;
+			$params .= "&md5Key=".(string)$this->config->item('md5IkeyKSV');
+			$params .= "&md5Info=".(string)md5($mymd5info);
+			$params .= "&returnUrl=".(string)$returnURL;
+			$params .= "&firstName=".(string)$xml->firstName;
+			$params .= "&lastName=".(string)$xml->lastName;
+			$params .= "&email=".(string)$xml->email;
+			$params .= "&phone=".(string)$xml->phone;
+			$params .= "&zipCode=".(string)$xml->zipCode;
+			$params .= "&address=".(string)$xml->address;
+			$params .= "&city=".(string)$xml->city;
+			$params .= "&state=".(string)$xml->state;
+			$params .= "&country=".(string)$xml->country;
+			$xmlrsp = $this->whip_model->sendrequest(str_replace(" ", "%20",$url) , str_replace(" ", "%20",$params));
+			$rsp = $xmlrsp;
+			//~ $rsp = "<response>".str_replace(" ", "%20",$url)."?". str_replace(" ", "%20",$params)."</response>";
+			
+		}else{
+		
+			$rsp = $check;
+		
+		}
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function paymentXcp($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP getTransactionDetails');
+		if($check=="allow")
+		{
+ 			//md5Info = MD5Encrypt(merNo + billNo + currency + amount + dateTime + returnURL + md5Key).			
+			//~ merNo + billNo + currency + amount + dateTime + returnURL + md5Key
+			$returnURL = "http://rttransaccion.hostcentral.net/whipxcp/getresponse.php";
+			//~ $returnURL = "http://192.168.170.216/PSI/whipxcp/getresponse.php";
+			$mymd5info = "";
+			$url =  $this->config->item('whipPaymentXcpUrl');
+			$md5Ikey =  $this->config->item('md5IkeyXCP');
+			$mymd5info .= (string)$this->config->item('merNoXCP');
+			$mymd5info .= (string)$xml->billNo;
+			$mymd5info .= (string)$xml->currency;
+			$mymd5info .= (string)$xml->amount;
+			$mymd5info .= (string)$xml->dateTime;
+			$mymd5info .= (string)$returnURL;
+			$mymd5info .= (string)$md5Ikey;
+			$params  = "merNo=".(int)$this->config->item('merNoXCP');
+			$params .= "&dateTime=".$xml->dateTime;
+			$params .= "&billNo=".$xml->billNo;
+			$params .= "&currency=".(string)$xml->currency;
+			$params .= "&amount=".number_format((double)$xml->amount,2);
+			$params .= "&language=ENG";
+			$params .= "&returnURL=".(string)$returnURL;
+			$params .= "&md5Info=".(string)md5($mymd5info);
+			$params .= "&firstName=".(string)$xml->firstName;
+			$params .= "&lastName=".(string)$xml->lastName;
+			$params .= "&email=".(string)$xml->email;
+			$params .= "&phone=".(string)$xml->phone;
+			$params .= "&zipCode=".(string)$xml->zipCode;
+			$params .= "&address=".(string)$xml->address;
+			$params .= "&city=".(string)$xml->city;
+			$params .= "&state=".(string)$xml->state;
+			$params .= "&country=".(string)$xml->country;
+			$params .= "&products=".(string)$xml->products;
+			$params .= "&remark=".(string)$xml->remark;
+			$response = $this->whip_model->sendrequest($url , $params);
+			//~ $xmlrsp = $this->whip_model->curl($url , $params);
+			$result = new simpleXMLElement($response);
+			if($result['rc']==999)
+			{
+				$cleanxml = str_replace(array("</response>"),"<ReferenceID>".$xml->ReferenceID."</ReferenceID></response>",$response);
+				$rsp = $response;
+				
+			
+			}else{
+				
+				$rsp = "<RSP><ReferenceID>".$xml->ReferenceID."</ReferenceID><EURL>".$url."?".$params."</EURL></RSP>";
+			}
+		}else{
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param_refId("WHIP paymentXcp",$reqparam,$rsp,(string)$xml->ReferenceID);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function customerRegister($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'WHIP getTransactionDetails');
+		if($check=="allow"){
+			//~ MD5Encrypt(merNo + email + cardNumber + dateRequest + md5Key)
+			$url =  $this->config->item('whipRegisterUrl');
+			$md5Ikey =  $this->config->item('md5IkeyXCP');
+			//~ $notifyURL = "http://192.168.170.216/PSI/whipxcp/notifyURL.php";
+			$notifyURL = "http://rttransaccion.hostcentral.net/whipxcp/notifyURL.php";
+			
+			$md5info  = (string)$this->config->item('merNoXCP');
+			$md5info .= (string)$xml->email;
+			$md5info .= (string)$xml->cardNum;
+			$md5info .= (string)$xml->dateRequest;
+			$md5info .= (string)$this->config->item('md5IkeyXCP');
+			
+			$params  = "merNo=".(string)$this->config->item('merNoXCP');
+			$params .= "&email=".(string)$xml->email;
+			$params .= "&currency=USD";
+			$params .= "&cardNumber=".(string)$xml->cardNum;
+			$params .= "&dateRequest=".$xml->dateRequest;
+			$params .= "&language=ENG";
+			$params .= "&notifyURL=".(string)$notifyURL;
+			$params .= "&md5Info=".strtoupper((string)md5($md5info));
+			$params .= "&firstName=".(string)$xml->firstName;
+			$params .= "&lastName=".(string)$xml->lastName;
+			$params .= "&phone=".(string)$xml->phone;
+			$params .= "&zipCode=".(string)$xml->zipCode;
+			$params .= "&address=".(string)$xml->address;
+			$params .= "&city=".(string)$xml->city;
+			$params .= "&state=".(string)$xml->state;
+			$params .= "&country=".(string)$xml->country;
+			$params .= "&remark=".(string)$xml->remark;
+			$xmlrsp = $this->whip_model->sendrequest($url , $params);
+			$result = new simpleXMLElement($xmlrsp);
+			if($result->resultCode==0)
+			{
+				$cleanxmlrsp = str_replace(array("<response>"),"<response rc='999' status='failed' message='".$result->remark."'><ReferenceID>".$xml->ReferenceID."</ReferenceID>",$xmlrsp);
+				$rsp = $cleanxmlrsp;
+				
+			}else{
+			
+				$rsp  = "<response rc='0' status='success' message='Transaction Complete'";
+				$rsp .= "<ReferenceID>".$xml->ReferenceID."</ReferenceID>";
+				$rsp .= "<email>".$result->email."</email>";
+				$rsp .= "<cardNumber>".$result->cardNumber."</cardNumber>";
+				$rsp .= "<dateRegister>".$result->dateRegister."</dateRegister>";
+				$rsp .= "<registerId>".$result->registerId."</registerId>";
+				$rsp .= "<activationURL>".(string)htmlentities($result->activationURL)."</activationURL>";
+				$rsp .= "<remark>".$result->remark."</remark>";
+				$rsp .= "</response>";
+			}
+			
+		}else{
+			
+			$rsp = $check;
+			
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param_refId("WHIP customerRegister",$reqparam,$rsp,(string)$xml->ReferenceID);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+}

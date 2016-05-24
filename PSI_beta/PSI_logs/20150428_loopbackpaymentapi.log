@@ -1,0 +1,600 @@
+2015-04-28T13:28:09Z
+RequestParameter:  billNo: hbkkgjkjef | startTime:2015-04-28 13:28:09
+
+2015-04-28T13:28:09Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 46
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-ANGINV
+    [API_password] => vtrDM1n2xuzuHD
+    [loginName] => 100-01-MER-ANGINV
+    [referenceId] => ibaabgggcj
+    [sessId] => zgt1h6khmmrirw0p3jy20af5nh0qbne1
+    [billNo] => hbkkgjkjef
+    [dateTime] => 20150428012807
+    [language] => ENG
+    [cardHolderIp] => 88.208.39.134
+    [cardType] => Visa
+    [cardName] => Juan Dela Cruz
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [productType] => Binary Trade
+    [productItem] => SKU-ANI-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 12
+    [currency] => USD
+    [amount] => 12
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [birthDate] => 19810101
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 0526417722
+    [mobile] => SimpleXMLElement Object
+        (
+        )
+
+    [zipCode] => 12345
+    [address] => street
+    [city] => city
+    [state] => CI
+    [country] => HU
+    [remark] => SimpleXMLElement Object
+        (
+        )
+
+    [type] => 1
+)
+
+
+2015-04-28T13:28:10Z
+ResponseParameter:  billNo: hbkkgjkjef | endTime:2015-04-28 13:28:10
+
+2015-04-28T13:28:10Z
+successcode=0&Ref=hbkkgjkjef&PayRef=150428210409&Amt=12&Cur=840&prc=0&src=0&Ord=150428210409&Holder=&AuthId=0409&TxTime=15-04-28 21:04:09&errMsg=Transaction Completed
+
+2015-04-28T13:39:38Z
+RequestParameter:  billNo: iabeggjjka | startTime:2015-04-28 13:39:38
+
+2015-04-28T13:39:38Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 46
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-ANGINV
+    [API_password] => vtrDM1n2xuzuHD
+    [loginName] => 100-01-MER-ANGINV
+    [referenceId] => hagecaefdg
+    [sessId] => e61ftqmqkme0buyin6iigtxja6lr31ha
+    [billNo] => iabeggjjka
+    [dateTime] => 20150428013938
+    [language] => ENG
+    [cardHolderIp] => 88.208.39.134
+    [cardType] => Visa
+    [cardName] => Juan Dela Cruz
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [productType] => Binary Trade
+    [productItem] => SKU-ANI-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 12
+    [currency] => USD
+    [amount] => 12
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [birthDate] => 19870101
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 0526417722
+    [mobile] => SimpleXMLElement Object
+        (
+        )
+
+    [zipCode] => 12345
+    [address] => street
+    [city] => city
+    [state] => CI
+    [country] => HU
+    [remark] => SimpleXMLElement Object
+        (
+        )
+
+    [type] => 2
+)
+
+
+2015-04-28T13:39:39Z
+ResponseParameter:  billNo: iabeggjjka | endTime:2015-04-28 13:39:39
+
+2015-04-28T13:39:39Z
+successcode=0&Ref=iabeggjjka&PayRef=150428210438&Amt=12&Cur=840&prc=0&src=0&Ord=150428210438&Holder=&AuthId=0438&TxTime=15-04-28 21:04:38&errMsg=Transaction Completed
+
+2015-04-28T14:30:56Z
+RequestParameter:  billNo: 8eRqb1430231455 | startTime:2015-04-28 14:30:56
+
+2015-04-28T14:30:56Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => 8eRqb1430231455
+    [referenceId] => 8eRqb1430231455
+    [dateTime] => 20150428223055
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5131628213760068
+    [cvv2] => 506
+    [month] => 06
+    [year] => 16
+    [firstName] => micheline
+    [lastName] => lenain
+    [gender] => F
+    [email] => micheline@lenain.com
+    [birthDate] => 19630508
+    [phone] => 33491613095
+    [zipCode] => 13013
+    [address] => pol place
+    [city] => marseile
+    [state] => None
+    [country] => FR
+    [amount] => 400
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => depot
+    [currency] => EUR
+    [productItem] => depot
+    [productType] => depot
+    [productDesc] => depot
+    [productQty] => 4
+    [productPrice] => 100
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-04-28T14:30:56Z
+ResponseParameter:  billNo: 8eRqb1430231455 | endTime:2015-04-28 14:30:56
+
+2015-04-28T14:30:56Z
+successcode=-1&Ref=8eRqb1430231455&PayRef=150428220456&Amt=400&Cur=978&prc=1&src=14&Ord=150428220456&Holder=&AuthId=0456&TxTime=15-04-28 22:04:56&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName, Parameter currency incorrect
+
+2015-04-28T14:32:13Z
+RequestParameter:  billNo: YGLrT1430231531 | startTime:2015-04-28 14:32:13
+
+2015-04-28T14:32:13Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => YGLrT1430231531
+    [referenceId] => YGLrT1430231531
+    [dateTime] => 20150428223211
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5131628213760068
+    [cvv2] => 506
+    [month] => 06
+    [year] => 16
+    [firstName] => micheline
+    [lastName] => lenain
+    [gender] => F
+    [email] => micheline@lenain.com
+    [birthDate] => 19630508
+    [phone] => 33491613095
+    [zipCode] => 75001
+    [address] => pol place
+    [city] => marseile
+    [state] => bouche
+    [country] => FR
+    [amount] => 400
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => depot
+    [currency] => EUR
+    [productItem] => depot
+    [productType] => depot
+    [productDesc] => depot
+    [productQty] => 4
+    [productPrice] => 100
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-04-28T14:32:13Z
+ResponseParameter:  billNo: YGLrT1430231531 | endTime:2015-04-28 14:32:13
+
+2015-04-28T14:32:13Z
+successcode=-1&Ref=YGLrT1430231531&PayRef=150428220413&Amt=400&Cur=978&prc=1&src=14&Ord=150428220413&Holder=&AuthId=0413&TxTime=15-04-28 22:04:13&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName, Parameter currency incorrect
+
+2015-04-28T14:39:18Z
+RequestParameter:  billNo: TM7ix1430231956 | startTime:2015-04-28 14:39:18
+
+2015-04-28T14:39:18Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => TM7ix1430231956
+    [referenceId] => TM7ix1430231956
+    [dateTime] => 20150428223916
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5131628213760068
+    [cvv2] => 506
+    [month] => 06
+    [year] => 16
+    [firstName] => micheline
+    [lastName] => lenain
+    [gender] => F
+    [email] => michel.joly003@orangefr123as.fr
+    [birthDate] => 20150407
+    [phone] => 33491613095
+    [zipCode] => 71800
+    [address] => 5 av du lac
+    [city] => la clayette
+    [state] => None
+    [country] => FR
+    [amount] => 100
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => depot
+    [currency] => EUR
+    [productItem] => depot
+    [productType] => depot
+    [productDesc] => depot
+    [productQty] => 1
+    [productPrice] => 100
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-04-28T14:39:18Z
+ResponseParameter:  billNo: TM7ix1430231956 | endTime:2015-04-28 14:39:18
+
+2015-04-28T14:39:18Z
+successcode=-1&Ref=TM7ix1430231956&PayRef=150428220418&Amt=100&Cur=978&prc=1&src=14&Ord=150428220418&Holder=&AuthId=0418&TxTime=15-04-28 22:04:18&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName, Parameter currency incorrect
+
+2015-04-28T14:39:40Z
+RequestParameter:  billNo: U2lWJ1430231979 | startTime:2015-04-28 14:39:40
+
+2015-04-28T14:39:40Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => U2lWJ1430231979
+    [referenceId] => U2lWJ1430231979
+    [dateTime] => 20150428223939
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5131628213760068
+    [cvv2] => 506
+    [month] => 06
+    [year] => 16
+    [firstName] => micheline
+    [lastName] => lenain
+    [gender] => F
+    [email] => michel.joly003@orangefr123as.fr
+    [birthDate] => 20150407
+    [phone] => 33491613095
+    [zipCode] => 71800
+    [address] => 5 av du lac
+    [city] => la clayette
+    [state] => None
+    [country] => FR
+    [amount] => 100
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => depot
+    [currency] => USD
+    [productItem] => depot
+    [productType] => depot
+    [productDesc] => depot
+    [productQty] => 1
+    [productPrice] => 100
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-04-28T14:39:40Z
+ResponseParameter:  billNo: U2lWJ1430231979 | endTime:2015-04-28 14:39:40
+
+2015-04-28T14:39:40Z
+successcode=-1&Ref=U2lWJ1430231979&PayRef=150428220440&Amt=100&Cur=840&prc=1&src=14&Ord=150428220440&Holder=&AuthId=0440&TxTime=15-04-28 22:04:40&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+
+2015-04-28T14:49:32Z
+RequestParameter:  billNo: iv1jS1430232570 | startTime:2015-04-28 14:49:32
+
+2015-04-28T14:49:32Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 62
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL1
+    [API_password] => s4HIM9zuy6IypJ
+    [agt] => 0
+    [billNo] => iv1jS1430232570
+    [referenceId] => iv1jS1430232570
+    [dateTime] => 20150428224930
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5131628213760068
+    [cvv2] => 506
+    [month] => 06
+    [year] => 16
+    [firstName] => micheline
+    [lastName] => lenain
+    [gender] => F
+    [email] => jeanmarie.vanham1@skynet.be
+    [birthDate] => 19590416
+    [phone] => 33491613084
+    [zipCode] => 4537
+    [address] => 2 rue dupont
+    [city] => Verlaine
+    [state] => None
+    [country] => BE
+    [amount] => 400
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => ftd
+    [currency] => EUR
+    [productItem] => depot
+    [productType] => depot
+    [productDesc] => depot
+    [productQty] => 4
+    [productPrice] => 100
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL1
+    [type] => 2
+)
+
+
+2015-04-28T14:49:32Z
+ResponseParameter:  billNo: iv1jS1430232570 | endTime:2015-04-28 14:49:32
+
+2015-04-28T14:49:32Z
+successcode=-1&Ref=iv1jS1430232570&PayRef=150428220432&Amt=400&Cur=978&prc=1&src=14&Ord=150428220432&Holder=&AuthId=0432&TxTime=15-04-28 22:04:32&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+

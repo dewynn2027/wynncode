@@ -1,0 +1,360 @@
+Request Param: key=gtKFFx&var1=20150908090918&command=verify_payment&hash=d28429d1bbbe13b0a612f441e3c1f635e4f4aa40abbcacb2209bf481f526551db6132afeb6192474dabd3da9c1d6f3c31cc0d418d3075f75a8fc28467a7ea2fb&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /merchant/postservice.php?form=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 205
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:25:22 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=lf3ovevd7j306ajf7n7r28e5s0; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 688
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":1,"msg":"1 out of 1 Transactions Fetched Successfully","transaction_details":{"20150908090918":{"mihpayid":"403993715513310348","request_id":null,"bank_ref_num":null,"amt":"99.00","transaction_amount":"99.00","txnid":"20150908090918","additional_charges":"0.00","productinfo":"Product","firstname":"Juan","bankcode":null,"udf1":null,"udf3":null,"udf4":null,"udf5":null,"field9":null,"error_code":null,"card_type":null,"error_Message":"Bank was unable to authenticate.","net_amount_debit":"0.00","disc":"0.00","mode":"-","PG_TYPE":"","card_no":"","udf2":null,"addedon":"2015-09-08 06:55:22","status":"pending","unmappedstatus":"initiated","Merchant_UTR":null,"Settled_At":null}}}
+
+* Closing connection #0
+Request Param: key=gtKFFx&txnid=20150908090918&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=8d6f77abb15cbfda53322002b39882337052e9147112755f6b18546635bd3f1389922fdc14ad1b739126cc04cb248d59640406f30bd0126e1e88a38a6c73da55&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 438
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:25:22 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=etohib5r82ealn7fml7ivfk154; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: db8dcde2616cd7324aa6675d9476f0dd3c97260f09787c5ce98e7c3d30b9c0d6
+
+* Closing connection #0
+Request Param: key=gtKFFx&var1=20150908090915&command=verify_payment&hash=65d542f644ad10192a2fdaa3662f17a9e399df3c7186881e18f7dad11b3decf8c6f73290fa25742d1d7ca003cb260c69ab104753ca7a506fcbf0c937878175be&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /merchant/postservice.php?form=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 205
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:26:19 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=4j8pilvijql7tm7cj8gjmoguk3; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 688
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":1,"msg":"1 out of 1 Transactions Fetched Successfully","transaction_details":{"20150908090915":{"mihpayid":"403993715513310350","request_id":null,"bank_ref_num":null,"amt":"99.00","transaction_amount":"99.00","txnid":"20150908090915","additional_charges":"0.00","productinfo":"Product","firstname":"Juan","bankcode":null,"udf1":null,"udf3":null,"udf4":null,"udf5":null,"field9":null,"error_code":null,"card_type":null,"error_Message":"Bank was unable to authenticate.","net_amount_debit":"0.00","disc":"0.00","mode":"-","PG_TYPE":"","card_no":"","udf2":null,"addedon":"2015-09-08 06:56:19","status":"pending","unmappedstatus":"initiated","Merchant_UTR":null,"Settled_At":null}}}
+
+* Closing connection #0
+Request Param: key=gtKFFx&txnid=20150908090915&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=87f3408cf1ce8e0edf5bb8a9faa98b14db88ffad225658beb205da6ff47fffddd4743a884d58eb0d975949b2bfaa89b3a585a4c5389f3c244d0dde2f44b0f89f&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 438
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:26:19 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=jgh087jq0tdndj25b8ctcvkgp1; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: 8ed6264869a17c8820c6b430e72546feaf959143ac1597b6f89c48ad95018fe5
+
+* Closing connection #0
+Request Param: key=gtKFFx&var1=20150908090947&command=verify_payment&hash=38200f781bf54687d152e2094e7b6a3893ffdfe09c6061cff19f773c9c1766894f2893e2165b9ffdc3b700e69c5d8ba463ef6c3ef25632f2d08ecf4e7c91dca4&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /merchant/postservice.php?form=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 205
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:26:51 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=s3selj32brnh6ftjvcqds5jo67; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 688
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":1,"msg":"1 out of 1 Transactions Fetched Successfully","transaction_details":{"20150908090947":{"mihpayid":"403993715513310352","request_id":null,"bank_ref_num":null,"amt":"99.00","transaction_amount":"99.00","txnid":"20150908090947","additional_charges":"0.00","productinfo":"Product","firstname":"Juan","bankcode":null,"udf1":null,"udf3":null,"udf4":null,"udf5":null,"field9":null,"error_code":null,"card_type":null,"error_Message":"Bank was unable to authenticate.","net_amount_debit":"0.00","disc":"0.00","mode":"-","PG_TYPE":"","card_no":"","udf2":null,"addedon":"2015-09-08 06:56:51","status":"pending","unmappedstatus":"initiated","Merchant_UTR":null,"Settled_At":null}}}
+
+* Closing connection #0
+Request Param: key=gtKFFx&txnid=20150908090947&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=d35509c589cb28d485f7eb912227373f4a4f099aa837919b90878fc3de4bcfd863d91fbc93cfc2a001525d2f6efb8da5c960a2cef90ef14e6e00a848a07f377f&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 438
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:26:51 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=a5cljnrg32dqo6sv47bi1geon0; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: 8938ad1194438924325f4ef4588265d0eebbc43fe85f42ea968f1094803d36d0
+
+* Closing connection #0
+Request Param: key=gtKFFx&var1=20150908090953&command=verify_payment&hash=55a3e754cb30a34cd0fbbaf9329803b22b38a31bd5249b109fbc494cd16101a9b13433f46f9c9325ed4df7441adaebc99b2210e438970958297ce4a1b0362674&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /merchant/postservice.php?form=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 205
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:27:57 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=7n62kshqlcuqhuct47jl3mvkq6; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 688
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":1,"msg":"1 out of 1 Transactions Fetched Successfully","transaction_details":{"20150908090953":{"mihpayid":"403993715513310354","request_id":null,"bank_ref_num":null,"amt":"99.00","transaction_amount":"99.00","txnid":"20150908090953","additional_charges":"0.00","productinfo":"Product","firstname":"Juan","bankcode":null,"udf1":null,"udf3":null,"udf4":null,"udf5":null,"field9":null,"error_code":null,"card_type":null,"error_Message":"Bank was unable to authenticate.","net_amount_debit":"0.00","disc":"0.00","mode":"-","PG_TYPE":"","card_no":"","udf2":null,"addedon":"2015-09-08 06:57:57","status":"pending","unmappedstatus":"initiated","Merchant_UTR":null,"Settled_At":null}}}
+
+* Closing connection #0
+Request Param: key=gtKFFx&txnid=20150908090953&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=dddc356f1ed769c362ba2329e1f7c8e10e648ba4a827fd8dc0825bd096e9a542ebd707b67ab292c4af5f08d7a46db0efbad4a91ed4ae86757ac901b0956f402a&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 438
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:27:57 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=2p8qebd6b1bis7kprmhsr8abs1; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: 527d2ec4a401c7aaf5de83668bf666550dafd46a76b2da95034731cbbada595d
+
+* Closing connection #0
+Request Param: key=gtKFFx&var1=20150908090944&command=verify_payment&hash=957f7f3ec8f2fee646fda14099c07d42a3963c59ed491259dff42cef2b0134371c76b6feea3dd2d501ec8418190d71bb5eb9dd99573747ceabb9eefe196d47bb&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /merchant/postservice.php?form=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 205
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:35:48 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=os0vimu7vr5mibajv0p5aste63; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 688
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":1,"msg":"1 out of 1 Transactions Fetched Successfully","transaction_details":{"20150908090944":{"mihpayid":"403993715513310356","request_id":null,"bank_ref_num":null,"amt":"99.00","transaction_amount":"99.00","txnid":"20150908090944","additional_charges":"0.00","productinfo":"Product","firstname":"Juan","bankcode":null,"udf1":null,"udf3":null,"udf4":null,"udf5":null,"field9":null,"error_code":null,"card_type":null,"error_Message":"Bank was unable to authenticate.","net_amount_debit":"0.00","disc":"0.00","mode":"-","PG_TYPE":"","card_no":"","udf2":null,"addedon":"2015-09-08 07:05:48","status":"pending","unmappedstatus":"initiated","Merchant_UTR":null,"Settled_At":null}}}
+
+* Closing connection #0
+Request Param: key=gtKFFx&txnid=20150908090944&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=44c13956155ec985ad6681ffce018b9ad890031025433b15f05afcca931a9859d5c1cd84c1314bb9d7e5c25f5b093807e4a53e74db0b46f429ddb69500ee131f&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 438
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Tue, 08 Sep 2015 01:35:48 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=3jp15otep0dr16p30t7s1gmqs1; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: 111fd14326f9c5e6b5b8fb797a985861cd698ef7a892ab3abdebf4aa4547baed
+
+* Closing connection #0

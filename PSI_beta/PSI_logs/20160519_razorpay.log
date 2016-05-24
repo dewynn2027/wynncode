@@ -1,0 +1,456 @@
+2016-05-19T02:09:50Z
+Request
+
+2016-05-19T02:09:50Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4012001037141112&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T02:09:50Z
+response
+
+2016-05-19T02:09:50Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5XuR9bgdpYecCW";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5XuR9bgdpYecCW">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5XuR9bgdpYecCW/callback/c46bca574ad8e31ac47610b9306c1caeb2cc68f2/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4012001037141112">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6Ik16S2RQNFFZeGNlcHdoVkZaUW4zeGc9PSIsInZhbHVlIjoidFNuWkpaS2xvN0xwSURjeVcwTDVzVEczWkZwbGlFMHBwN09VRlE1WkMrND0iLCJtYWMiOiIzOWYwYTRiMDM1NGQ1ODc5M2U1OWQzZDQ2ZTMxM2M4OTE5M2VlY2UwMzU5MWVjMDRmOGQ5YTk5ZGU0Yjc3OGIyIn0=">
+    </form>
+
+    </body>
+</html>
+
+
+2016-05-19T06:13:47Z
+Request
+
+2016-05-19T06:13:47Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4012001037141112&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T06:13:47Z
+response
+
+2016-05-19T06:13:47Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5Xyapzr66Q4pl2";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5Xyapzr66Q4pl2">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5Xyapzr66Q4pl2/callback/a84d9edc92673cbeef74e60657a3dbf25e84d198/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4012001037141112">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6IlRqSkRDU1wvdEk3T0xMS0xNemZVRmNnPT0iLCJ2YWx1ZSI6Inl3XC80cUZXNGhjRXdoUHd4emRCMVU4cXhsc1E0Y3VTTEphWk9hMUIxUXVBPSIsIm1hYyI6IjY2ZTM1MDc0ZWViZGI4NWFhZmYxMDkzZjJkNDE3NjNmZTEyYmE5NTRjOTZmZjlhMjNiNzFjMmJmNjYwNmI1NTcifQ==">
+    </form>
+
+    </body>
+</html>
+
+
+2016-05-19T06:34:06Z
+Request
+
+2016-05-19T06:34:06Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4012001037141112&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T06:34:06Z
+response
+
+2016-05-19T06:34:06Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5XywImb1UOVuAg";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5XywImb1UOVuAg">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5XywImb1UOVuAg/callback/0b0e095d526c86da0a9c9b9f3b5d683befb9d52d/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4012001037141112">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6IjlvSGJqb1pieUJ4N2V2VndyTXRlalE9PSIsInZhbHVlIjoicExGM3dxcTJneXcyYlREVVJaMkVEeEF2SE00VStQcW43dUVMcjdCTTBqWT0iLCJtYWMiOiJjM2FiODQ0ZDA0MGFhYzI5ODA5MGY0NzAwZDVhY2U1YjQwOWMxYWM3MWIyYjQ1OWI3MDI1MWM3Zjk2YzcwYWQ5In0=">
+    </form>
+
+    </body>
+</html>
+
+
+2016-05-19T07:06:48Z
+Request
+
+2016-05-19T07:06:48Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4111111111111111&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T07:06:48Z
+response
+
+2016-05-19T07:06:48Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5XzUqrhykGkWzX";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5XzUqrhykGkWzX">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5XzUqrhykGkWzX/callback/0b9eba4aac4fd3fc7ef7e4c5d1e12b5966001097/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4111111111111111">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6InlkQzZGTnJpTUFQbllJRllUdGdxaUE9PSIsInZhbHVlIjoidUNiTUxvRlwvMFJQdU5DMlgzSXdmZHBuVGdvMkpNc0dwaGk2SzIrSFJLQmM9IiwibWFjIjoiMTVjM2NiZWQ1ZDljZmUyYjA3MzU1OTEzN2UxNzEzMDU4ZWIwMmJmMDk0N2FhODA5NzEwMWIwZWMzZmUxNGUwNyJ9">
+    </form>
+
+    </body>
+</html>
+
+
+2016-05-19T07:07:28Z
+Request
+
+2016-05-19T07:07:28Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4111111111111111&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T07:07:28Z
+response
+
+2016-05-19T07:07:28Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5XzVYIvKsmkel9";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5XzVYIvKsmkel9">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5XzVYIvKsmkel9/callback/94743f4684b049f509037234a2d9832e8eb800a2/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4111111111111111">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6IkVSUlkzeUU1MlBMNUduQVN0VFRVQ0E9PSIsInZhbHVlIjoiTEpJdHhHczZZQXhpNHFpUGJmZ1A3WXgxUitEcFBXc1p5c29ZVENMRld4QT0iLCJtYWMiOiJjZTkxODY1NTkxNmExZGY0NzQ3OTY0NTM0NDRmYzFiZGQzYWIzNmFkYTkyYmU4MmI5MWExMjc1ZGM0NTM2OWY4In0=">
+    </form>
+
+    </body>
+</html>
+
+
+2016-05-19T07:09:18Z
+Request
+
+2016-05-19T07:09:18Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4012001048141223&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T07:09:18Z
+response
+
+2016-05-19T07:09:18Z
+<!doctype html>
+<html lang="en">
+    <script>
+        function sub() {
+            document.form1.submit();
+        }
+    </script>
+
+<body onload="sub();">
+<div style="color: #555; font-weight: bold; text-align: center; position: absolute; top: 50%; width: 100%; margin-top: -30px;">
+Please wait while your payment gets processed...
+</div>
+<form id="form1" name="form1" action="https://beta.3dsecure.ecommsecure.com/razorpay/postback" method="post" onsubmit="return true;">
+            <input type="hidden" name="error[code]" value="BAD_REQUEST_ERROR" />
+            <input type="hidden" name="error[description]" value="The number is invalid." />
+            <input type="hidden" name="error[field]" value="number" />
+        <!-- <input type="submit" /> -->
+</form>
+
+<form id="form2" name="form2">
+    <input type="hidden" name="type" value="return" />
+</form>
+</body>
+</html>
+
+
+2016-05-19T07:34:17Z
+Request
+
+2016-05-19T07:34:17Z
+amount=100&currency=INR&email=test%40test.com&contact=9090909090&method=card&callback_url=https%3A%2F%2Fbeta.3dsecure.ecommsecure.com%2Frazorpay%2Fpostback&card%5Bname%5D=Test+Cardholder&card%5Bnumber%5D=4012001037141112&card%5Bexpiry_month%5D=01&card%5Bexpiry_year%5D=19&card%5Bcvv%5D=123
+
+2016-05-19T07:34:17Z
+response
+
+2016-05-19T07:34:17Z
+<!doctype html>
+<html lang="en" style="height: 100%; overflow: hidden;font-family:ubuntu,helvetica,sans-serif;">
+    <script>
+        try{
+
+            var payment_id = "pay_5Xzxt7fKOlUAuB";
+            if (typeof(CheckoutBridge) !== 'undefined' && typeof(CheckoutBridge.setPaymentID) === 'function') {
+                CheckoutBridge.setPaymentID(payment_id);
+            }
+            else if(window.opener){
+                opener.setPaymentID(payment_id);
+            }
+
+        } catch(e){}
+    </script>
+
+    <body onload="document.form1.submit()" style="text-align: center; height: 100%">
+    <div style="position: relative; top: 50%; margin-top: -100px;">
+        <div>Please wait while your transaction is processed...</div>
+        <div id="powered" style="display: none; font-size: 13px; position: absolute; right: 50%; bottom: 35px; letter-spacing: 0.25px; color: #888; margin-right: -96px;">powered by</div>
+        <script>
+            try{
+                var parent = document.currentScript.parentNode;
+                var src = localStorage.getItem('rzppowered');
+                var img = document.createElement('img');
+                img.src = src;
+                img.width = 192;
+                img.style.marginTop = '60px';
+                parent.appendChild(img);
+                document.querySelector('powered').style.display = 'block';
+            }
+            catch(e){}
+        </script>
+    </div>
+    <form id="form1" name="form1" action="https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ" method="post" onsubmit="return true;">
+
+        <!-- action: --> <input type="hidden" name="action" value="authorize">
+        <br />
+        <!-- amount: --> <input type="hidden" name="amount" value="100">
+        <br />
+        <!-- method: --> <input type="hidden" name="method" value="card">
+        <br />
+        <!-- payment_id: --> <input type="hidden" name="payment_id" value="5Xzxt7fKOlUAuB">
+        <br />
+        <!-- callback_url: --> <input type="hidden" name="callback_url" value="https://api.razorpay.com/v1/payments/pay_5Xzxt7fKOlUAuB/callback/4053b11ca0e1aa01fcfa8d0b720bdf6008b2b596/rzp_test_m063HCwZFXbXJJ">
+        <br />
+        <!-- card_number: --> <input type="hidden" name="card_number" value="4012001037141112">
+        <br />
+<!--         <input type="submit" value="Submit" >
+ -->    </form>
+    <br>
+    <form id="form2" name="form2">
+        <input type="hidden" name="type" value="first">
+        <input type="hidden" name="gateway" value="eyJpdiI6Ik5MaDNHTXYrNDlkOGJLR081SEt6NGc9PSIsInZhbHVlIjoiS1wvbDVkKzRzdytGcmowWDhNb09nMUlYR2s0a1Qyb3BzVnNuMVBNQURCeTA9IiwibWFjIjoiNjNlNmRiNzEzODUxMzcwZjIyYjlmMDFhYzdlZDcyMTczYzNhZjEyM2Q1MmJjZjhiZjljNmY0NWE3NTYwYWRiMiJ9">
+    </form>
+
+    </body>
+</html>
+
+

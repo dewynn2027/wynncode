@@ -1,0 +1,972 @@
+2015-04-28T12:59:37Z
+RequestParameter:  billNo: hidfbjdhif | startTime:2015-04-28 12:59:37
+
+2015-04-28T12:59:37Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => xk0f0te0qn6me1no5ptqfbp00hnfnyad
+    [ORDR] => hidfbjdhif
+    [CURR] => $USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 88.208.39.134
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => HU
+    [B2CI] => city
+    [B2PC] => 12345
+    [B2PN] => 0526417722
+    [B2ST] => CI
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1979-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+)
+
+
+2015-04-28T12:59:38Z
+ResponseParameter:  billNo: hidfbjdhif | endTime:2015-04-28 12:59:38
+
+2015-04-28T12:59:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>311</ERRO>
+  <ERROR_0>311 BAD_CURR Field: [CURR], Value: [$USD]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T13:03:36Z
+RequestParameter:  billNo: ckkgbfafef | startTime:2015-04-28 13:03:36
+
+2015-04-28T13:03:36Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => qchnkfnd5e6ne5o16jnkj43lmliqvg4e
+    [ORDR] => ckkgbfafef
+    [CURR] => $USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 88.208.39.134
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => IS
+    [B2CI] => city
+    [B2PC] => 12345
+    [B2PN] => 0526417722
+    [B2ST] => CI
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1985-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+)
+
+
+2015-04-28T13:03:37Z
+ResponseParameter:  billNo: ckkgbfafef | endTime:2015-04-28 13:03:37
+
+2015-04-28T13:03:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>311</ERRO>
+  <ERROR_0>311 BAD_CURR Field: [CURR], Value: [$USD]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T13:08:05Z
+RequestParameter:  billNo: cgjadgbehc | startTime:2015-04-28 13:08:05
+
+2015-04-28T13:08:05Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => cgjadgbehc
+    [ORDR] => cgjadgbehc
+    [CURR] => $USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => HU
+    [B2CI] => city
+    [B2PC] => 12345
+    [B2PN] => 0526417722
+    [B2ST] => CI
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1982-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+    [ANID] => 0526417722
+)
+
+
+2015-04-28T13:08:06Z
+ResponseParameter:  billNo: cgjadgbehc | endTime:2015-04-28 13:08:06
+
+2015-04-28T13:08:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>311</ERRO>
+  <ERROR_0>311 BAD_CURR Field: [CURR], Value: [$USD]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T13:28:06Z
+RequestParameter:  billNo: hbkkgjkjef | startTime:2015-04-28 13:28:06
+
+2015-04-28T13:28:06Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => zgt1h6khmmrirw0p3jy20af5nh0qbne1
+    [ORDR] => hbkkgjkjef
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 88.208.39.134
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => HU
+    [B2CI] => city
+    [B2PC] => 12345
+    [B2PN] => 0526417722
+    [B2ST] => CI
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1981-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+)
+
+
+2015-04-28T13:28:09Z
+ResponseParameter:  billNo: hbkkgjkjef | endTime:2015-04-28 13:28:09
+
+2015-04-28T13:28:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3HZG0CMM9X3C</TRAN>
+  <MERC>680000</MERC>
+  <SESS>zgt1h6khmmrirw0p3jy20af5nh0qbne1</SESS>
+  <ORDR>hbkkgjkjef</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>63</SCOR>
+  <GEOX>BY</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>BY_02</REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>3C30362111.AEA95C36AC.73071D3205.895F3146CD.6BFB5F2250</DEVICE_LAYERS>
+  <FINGERPRINT>B098DC71EDB8355EEF122762FA1AE037</FINGERPRINT>
+  <TIMEZONE>1260</TIMEZONE>
+  <LOCALTIME>2015-04-28 16:28</LOCALTIME>
+  <REGION>BY_02</REGION>
+  <COUNTRY>BY</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>RU</HTTP_COUNTRY>
+  <LANGUAGE>RU</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>9</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>772992</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>772996</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>773002</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>773010</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>772980</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Decline Merchant Chargebacks &gt;1</RULE_DESCRIPTION_5>
+  <RULE_ID_6>773024</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline VIP List</RULE_DESCRIPTION_6>
+  <RULE_ID_7>773026</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Approve VIP List Email</RULE_DESCRIPTION_7>
+  <RULE_ID_8>793142</RULE_ID_8>
+  <RULE_DESCRIPTION_8>Decline Customer Email Validation</RULE_DESCRIPTION_8>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-04-28</DDFS>
+  <DSR>768x1366</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36</UAS>
+  <BROWSER>Chrome 42.0.2311.90</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>178.123.161.74</IP_IPAD>
+  <IP_LAT>52.4054</IP_LAT>
+  <IP_LON>30.7591</IP_LON>
+  <IP_COUNTRY>BY</IP_COUNTRY>
+  <IP_REGION>Homyelskaya Voblasts</IP_REGION>
+  <IP_CITY>Gomel</IP_CITY>
+  <IP_ORG>BELPAK</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T13:39:37Z
+RequestParameter:  billNo: iabeggjjka | startTime:2015-04-28 13:39:37
+
+2015-04-28T13:39:37Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 88.208.39.134
+    [SESS] => iabeggjjka
+    [ORDR] => iabeggjjka
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ANI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERANGINV
+    [NAME] => Juan Dela Cruz
+    [B2A1] => street
+    [B2CC] => HU
+    [B2CI] => city
+    [B2PC] => 12345
+    [B2PN] => 0526417722
+    [B2ST] => CI
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1987-01-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+    [ANID] => 0526417722
+)
+
+
+2015-04-28T13:39:38Z
+ResponseParameter:  billNo: iabeggjjka | endTime:2015-04-28 13:39:38
+
+2015-04-28T13:39:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZG0R7XTQPC</TRAN>
+  <MERC>680000</MERC>
+  <SESS>iabeggjjka</SESS>
+  <ORDR>iabeggjjka</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>7</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>773010</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Network Chargeback Exists (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>772980</RULE_ID_3>
+  <RULE_DESCRIPTION_3>Decline Merchant Chargebacks &gt;1</RULE_DESCRIPTION_3>
+  <RULE_ID_4>773024</RULE_ID_4>
+  <RULE_DESCRIPTION_4>Decline VIP List</RULE_DESCRIPTION_4>
+  <RULE_ID_5>773026</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Approve VIP List Email</RULE_DESCRIPTION_5>
+  <RULE_ID_6>793142</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Customer Email Validation</RULE_DESCRIPTION_6>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>10</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T14:30:55Z
+RequestParameter:  billNo: 8eRqb1430231455 | startTime:2015-04-28 14:30:55
+
+2015-04-28T14:30:55Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.135.77.44
+    [SESS] => 8eRqb1430231455
+    [ORDR] => 8eRqb1430231455
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162T59MH14KWX2H3W
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot
+    [PROD_QUANT[0]] => 4
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 40000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL
+    [NAME] => micheline lenain
+    [B2A1] => pol place
+    [B2CC] => FR
+    [B2CI] => marseile
+    [B2PC] => 13013
+    [B2PN] => 33491613095
+    [B2ST] => None
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 400
+    [DOB] => 1963-05-08
+    [GENDER] => F
+    [EMAL] => micheline@lenain.com
+    [ANID] => 33491613095
+)
+
+
+2015-04-28T14:30:56Z
+ResponseParameter:  billNo: 8eRqb1430231455 | endTime:2015-04-28 14:30:56
+
+2015-04-28T14:30:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZX0NNQT8KR</TRAN>
+  <MERC>680000</MERC>
+  <SESS>8eRqb1430231455</SESS>
+  <ORDR>8eRqb1430231455</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T14:32:12Z
+RequestParameter:  billNo: YGLrT1430231531 | startTime:2015-04-28 14:32:12
+
+2015-04-28T14:32:12Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.135.77.44
+    [SESS] => YGLrT1430231531
+    [ORDR] => YGLrT1430231531
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162T59MH14KWX2H3W
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot
+    [PROD_QUANT[0]] => 4
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 40000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL
+    [NAME] => micheline lenain
+    [B2A1] => pol place
+    [B2CC] => FR
+    [B2CI] => marseile
+    [B2PC] => 75001
+    [B2PN] => 33491613095
+    [B2ST] => bouche
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 400
+    [DOB] => 1963-05-08
+    [GENDER] => F
+    [EMAL] => micheline@lenain.com
+    [ANID] => 33491613095
+)
+
+
+2015-04-28T14:32:13Z
+ResponseParameter:  billNo: YGLrT1430231531 | endTime:2015-04-28 14:32:13
+
+2015-04-28T14:32:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZX0G1D1RH3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>YGLrT1430231531</SESS>
+  <ORDR>YGLrT1430231531</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T14:39:16Z
+RequestParameter:  billNo: TM7ix1430231956 | startTime:2015-04-28 14:39:16
+
+2015-04-28T14:39:16Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.135.77.44
+    [SESS] => TM7ix1430231956
+    [ORDR] => TM7ix1430231956
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162T59MH14KWX2H3W
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL
+    [NAME] => micheline lenain
+    [B2A1] => 5 av du lac
+    [B2CC] => FR
+    [B2CI] => la clayette
+    [B2PC] => 71800
+    [B2PN] => 33491613095
+    [B2ST] => None
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 2015-04-07
+    [GENDER] => F
+    [EMAL] => michel.joly003@orangefr123as.fr
+    [ANID] => 33491613095
+)
+
+
+2015-04-28T14:39:17Z
+ResponseParameter:  billNo: TM7ix1430231956 | endTime:2015-04-28 14:39:17
+
+2015-04-28T14:39:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZX007067SK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TM7ix1430231956</SESS>
+  <ORDR>TM7ix1430231956</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T14:39:39Z
+RequestParameter:  billNo: U2lWJ1430231979 | startTime:2015-04-28 14:39:39
+
+2015-04-28T14:39:39Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.135.77.44
+    [SESS] => U2lWJ1430231979
+    [ORDR] => U2lWJ1430231979
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162T59MH14KWX2H3W
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL
+    [NAME] => micheline lenain
+    [B2A1] => 5 av du lac
+    [B2CC] => FR
+    [B2CI] => la clayette
+    [B2PC] => 71800
+    [B2PN] => 33491613095
+    [B2ST] => None
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 2015-04-07
+    [GENDER] => F
+    [EMAL] => michel.joly003@orangefr123as.fr
+    [ANID] => 33491613095
+)
+
+
+2015-04-28T14:39:40Z
+ResponseParameter:  billNo: U2lWJ1430231979 | endTime:2015-04-28 14:39:40
+
+2015-04-28T14:39:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZX0XCDHM2W</TRAN>
+  <MERC>680000</MERC>
+  <SESS>U2lWJ1430231979</SESS>
+  <ORDR>U2lWJ1430231979</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-28T14:49:31Z
+RequestParameter:  billNo: iv1jS1430232570 | startTime:2015-04-28 14:49:31
+
+2015-04-28T14:49:31Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.135.77.44
+    [SESS] => iv1jS1430232570
+    [ORDR] => iv1jS1430232570
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162T59MH14KWX2H3W
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot
+    [PROD_QUANT[0]] => 4
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 40000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERGTSHOL1
+    [NAME] => micheline lenain
+    [B2A1] => 2 rue dupont
+    [B2CC] => BE
+    [B2CI] => Verlaine
+    [B2PC] => 4537
+    [B2PN] => 33491613084
+    [B2ST] => None
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 400
+    [DOB] => 1959-04-16
+    [GENDER] => F
+    [EMAL] => jeanmarie.vanham1@skynet.be
+    [ANID] => 33491613084
+)
+
+
+2015-04-28T14:49:32Z
+ResponseParameter:  billNo: iv1jS1430232570 | endTime:2015-04-28 14:49:32
+
+2015-04-28T14:49:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>3HZX0TQ2R3B8</TRAN>
+  <MERC>680000</MERC>
+  <SESS>iv1jS1430232570</SESS>
+  <ORDR>iv1jS1430232570</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>772998</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>773002</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

@@ -1,0 +1,68 @@
+2016-04-12T05:19:20Z
+RequestParameter: startTime:2016-04-12 05:19:20
+
+2016-04-12T05:19:20Z
+{"name":"Automaton (API)","custom_fields":{"account_name":"100-01-MER-999-AAA"},"requester_id":14001180910,"subject":"Test Only","type":"Accounts &amp; Access","status":2,"priority":2,"description":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":3}
+
+2016-04-12T05:19:22Z
+ResponeParameter:  endTime:2016-04-12 05:19:22
+
+2016-04-12T05:19:22Z
+Array
+(
+    [rc] => 0
+    [result] => {"cc_emails":[],"fwd_emails":[],"reply_cc_emails":[],"fr_escalated":false,"spam":false,"email_config_id":14000014861,"group_id":14000005384,"priority":2,"requester_id":14001180910,"responder_id":null,"source":3,"status":2,"subject":"Test Only","company_id":null,"custom_fields":{"sub_category_dropdown":null,"other_brand":null,"account_name":"100-01-MER-999-AAA","transaction_identifier":null},"description":"<div>Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.</div>","description_text":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","to_emails":null,"product_id":14000000023,"id":45,"type":"Accounts &amp; Access","created_at":"2016-04-12T05:19:25Z","updated_at":"2016-04-12T05:19:25Z","due_by":"2016-04-12T16:00:00Z","fr_due_by":"2016-04-12T07:25:00Z","is_escalated":false,"tags":[],"attachments":[]}
+)
+
+
+2016-04-12T05:57:35Z
+RequestParameter: startTime:2016-04-12 05:57:35
+
+2016-04-12T05:57:35Z
+{"name":"Automaton (API)","custom_fields":{"account_name":"100-01-MER-998-ZZ2"},"requester_id":14001180910,"subject":"Test Only","type":"Accounts &amp; Access","status":2,"priority":2,"description":"Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":2}
+
+2016-04-12T05:57:37Z
+ResponeParameter:  endTime:2016-04-12 05:57:37
+
+2016-04-12T05:57:37Z
+Array
+(
+    [rc] => 0
+    [result] => {"cc_emails":[],"fwd_emails":[],"reply_cc_emails":[],"fr_escalated":false,"spam":false,"email_config_id":14000014861,"group_id":14000005384,"priority":2,"requester_id":14001180910,"responder_id":null,"source":2,"status":2,"subject":"Test Only","company_id":null,"custom_fields":{"sub_category_dropdown":null,"other_brand":null,"account_name":"100-01-MER-998-ZZ2","transaction_identifier":null},"description":"<div>Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.</div>","description_text":"Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.","to_emails":null,"product_id":14000000023,"id":46,"type":"Accounts &amp; Access","created_at":"2016-04-12T05:57:40Z","updated_at":"2016-04-12T05:57:40Z","due_by":"2016-04-12T16:00:00Z","fr_due_by":"2016-04-12T07:25:00Z","is_escalated":false,"tags":[],"attachments":[]}
+)
+
+
+2016-04-12T06:08:59Z
+RequestParameter: startTime:2016-04-12 06:08:59
+
+2016-04-12T06:08:59Z
+{"name":"Automaton (API)","custom_fields":{"account_name":"100-01-MER-999-AAA"},"requester_id":14001180910,"subject":"AUTO: Gateway Account Lockout","type":"Accounts &amp; Access","status":2,"priority":2,"description":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":2}
+
+2016-04-12T06:09:01Z
+ResponeParameter:  endTime:2016-04-12 06:09:01
+
+2016-04-12T06:09:01Z
+Array
+(
+    [rc] => 0
+    [result] => {"cc_emails":[],"fwd_emails":[],"reply_cc_emails":[],"fr_escalated":false,"spam":false,"email_config_id":14000014861,"group_id":14000005384,"priority":2,"requester_id":14001180910,"responder_id":null,"source":2,"status":2,"subject":"AUTO: Gateway Account Lockout","company_id":null,"custom_fields":{"sub_category_dropdown":null,"other_brand":null,"account_name":"100-01-MER-999-AAA","transaction_identifier":null},"description":"<div>Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.</div>","description_text":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","to_emails":null,"product_id":14000000023,"id":47,"type":"Accounts &amp; Access","created_at":"2016-04-12T06:09:04Z","updated_at":"2016-04-12T06:09:04Z","due_by":"2016-04-12T16:00:00Z","fr_due_by":"2016-04-12T07:25:00Z","is_escalated":false,"tags":[],"attachments":[]}
+)
+
+
+2016-04-12T06:10:24Z
+RequestParameter: startTime:2016-04-12 06:10:24
+
+2016-04-12T06:10:24Z
+{"name":"Automaton (API)","custom_fields":{"account_name":"100-01-MER-998-ZZ2"},"requester_id":14001180910,"subject":"AUTO: Gateway Account Lockout","type":"Accounts &amp; Access","status":2,"priority":2,"description":"Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":2}
+
+2016-04-12T06:10:25Z
+ResponeParameter:  endTime:2016-04-12 06:10:25
+
+2016-04-12T06:10:25Z
+Array
+(
+    [rc] => 0
+    [result] => {"cc_emails":[],"fwd_emails":[],"reply_cc_emails":[],"fr_escalated":false,"spam":false,"email_config_id":14000014861,"group_id":14000005384,"priority":2,"requester_id":14001180910,"responder_id":null,"source":2,"status":2,"subject":"AUTO: Gateway Account Lockout","company_id":null,"custom_fields":{"sub_category_dropdown":null,"other_brand":null,"account_name":"100-01-MER-998-ZZ2","transaction_identifier":null},"description":"<div>Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.</div>","description_text":"Gateway Account Lockout has occurred for 100-01-MER-998-ZZ2 due to transaction success rate.","to_emails":null,"product_id":14000000023,"id":48,"type":"Accounts &amp; Access","created_at":"2016-04-12T06:10:28Z","updated_at":"2016-04-12T06:10:28Z","due_by":"2016-04-12T16:00:00Z","fr_due_by":"2016-04-12T07:25:00Z","is_escalated":false,"tags":[],"attachments":[]}
+)
+
+

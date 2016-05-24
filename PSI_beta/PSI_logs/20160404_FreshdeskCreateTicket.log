@@ -1,0 +1,34 @@
+2016-04-04T06:22:45Z
+RequestParameter: startTime:2016-04-04 06:22:45
+
+2016-04-04T06:22:45Z
+{"name":"","requester_id":14000013909,"subject":"","type":"","status":0,"priority":0,"description":"Gateway Account Lockout has occurred for 100-01-ADM-DRivera due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":0}
+
+2016-04-04T06:22:46Z
+ResponeParameter:  endTime:2016-04-04 06:22:46
+
+2016-04-04T06:22:46Z
+Array
+(
+    [rc] => 0
+    [result] => {"description":"Validation failed","errors":[{"field":"source","message":"It should be one of these values: '1,2,3,7,8,9'","code":"invalid_value"},{"field":"status","message":"It should be one of these values: '2,3,4,5,6,7'","code":"invalid_value"},{"field":"subject","message":"It should not be blank as this is a mandatory field","code":"invalid_value"},{"field":"priority","message":"It should be one of these values: '1,2,3,4'","code":"invalid_value"},{"field":"type","message":"It should be one of these values: 'Gateway Transaction,Accounts &amp; Access,Gateway Integration,General Support,Other Brand'","code":"invalid_value"}]}
+)
+
+
+2016-04-04T06:38:29Z
+RequestParameter: startTime:2016-04-04 06:38:29
+
+2016-04-04T06:38:29Z
+{"name":"Automaton","requester_id":14000013909,"subject":"Test Only","type":"Accounts &amp; Access","status":2,"priority":2,"description":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","group_id":14000005384,"product_id":14000000023,"source":3}
+
+2016-04-04T06:38:31Z
+ResponeParameter:  endTime:2016-04-04 06:38:31
+
+2016-04-04T06:38:31Z
+Array
+(
+    [rc] => 0
+    [result] => {"cc_emails":[],"fwd_emails":[],"reply_cc_emails":[],"fr_escalated":false,"spam":false,"email_config_id":14000014861,"group_id":14000005384,"priority":2,"requester_id":14000013909,"responder_id":null,"source":3,"status":2,"subject":"Test Only","company_id":null,"custom_fields":{"sub_category_dropdown":null,"other_brand":null,"account_name":null,"transaction_identifier":null},"description":"<div>Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.</div>","description_text":"Gateway Account Lockout has occurred for 100-01-MER-999-AAA due to transaction success rate.","to_emails":null,"product_id":14000000023,"id":26,"type":"Accounts &amp; Access","created_at":"2016-04-04T06:38:44Z","updated_at":"2016-04-04T06:38:44Z","due_by":"2016-04-04T16:00:00Z","fr_due_by":"2016-04-04T07:25:00Z","is_escalated":false,"tags":[],"attachments":[]}
+)
+
+

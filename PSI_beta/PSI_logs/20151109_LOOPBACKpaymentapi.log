@@ -1,0 +1,288 @@
+2015-11-09T02:12:10Z
+RequestParameter:  billNo: 6427-10007880_1447035127_52622 | startTime:2015-11-09 02:12:10
+
+2015-11-09T02:12:10Z
+
+
+2015-11-09T02:12:10Z
+Array
+(
+)
+
+
+2015-11-09T02:12:10Z
+ResponseParameter:  billNo: 6427-10007880_1447035127_52622 | endTime:2015-11-09 02:12:10
+
+2015-11-09T02:12:10Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447035127_52622","billAmount":"111","createdAt":"20151109041207","billCurrency":"USD","tid":616523001447035130,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:11:03Z
+RequestParameter:  billNo: 6427-10007880_1447038663_78822 | startTime:2015-11-09 03:11:03
+
+2015-11-09T03:11:03Z
+
+
+2015-11-09T03:11:03Z
+Array
+(
+)
+
+
+2015-11-09T03:11:03Z
+ResponseParameter:  billNo: 6427-10007880_1447038663_78822 | endTime:2015-11-09 03:11:03
+
+2015-11-09T03:11:03Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447038663_78822","billAmount":"112","createdAt":"20151109051103","billCurrency":"EUR","tid":057743001447038663,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:11:55Z
+RequestParameter:  billNo: 6427-10007880_1447038719_59883 | startTime:2015-11-09 03:11:55
+
+2015-11-09T03:11:55Z
+
+
+2015-11-09T03:11:55Z
+Array
+(
+)
+
+
+2015-11-09T03:11:55Z
+ResponseParameter:  billNo: 6427-10007880_1447038719_59883 | endTime:2015-11-09 03:11:55
+
+2015-11-09T03:11:55Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447038719_59883","billAmount":"112","createdAt":"20151109051159","billCurrency":"EUR","tid":295488001447038715,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:37:59Z
+RequestParameter:  billNo: 6427-10007880_1447040284_61133 | startTime:2015-11-09 03:37:59
+
+2015-11-09T03:37:59Z
+
+
+2015-11-09T03:37:59Z
+Array
+(
+)
+
+
+2015-11-09T03:37:59Z
+ResponseParameter:  billNo: 6427-10007880_1447040284_61133 | endTime:2015-11-09 03:37:59
+
+2015-11-09T03:37:59Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447040284_61133","billAmount":"50","createdAt":"20151109053804","billCurrency":"EUR","tid":400912001447040279,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:38:39Z
+RequestParameter:  billNo: 6427-10007880_1447040324_80551 | startTime:2015-11-09 03:38:39
+
+2015-11-09T03:38:39Z
+
+
+2015-11-09T03:38:39Z
+Array
+(
+)
+
+
+2015-11-09T03:38:39Z
+ResponseParameter:  billNo: 6427-10007880_1447040324_80551 | endTime:2015-11-09 03:38:39
+
+2015-11-09T03:38:39Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447040324_80551","billAmount":"50","createdAt":"20151109053844","billCurrency":"EUR","tid":867779001447040319,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:39:29Z
+RequestParameter:  billNo: 6427-10007880_1447040374_69803 | startTime:2015-11-09 03:39:29
+
+2015-11-09T03:39:29Z
+
+
+2015-11-09T03:39:29Z
+Array
+(
+)
+
+
+2015-11-09T03:39:29Z
+ResponseParameter:  billNo: 6427-10007880_1447040374_69803 | endTime:2015-11-09 03:39:29
+
+2015-11-09T03:39:29Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"76","errorCode":"76","cid":"11631","payNo":"6427-10007880_1447040374_69803","billAmount":"50","createdAt":"20151109053934","billCurrency":"EUR","tid":897387001447040369,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:51:08Z
+RequestParameter:  billNo: 6427-10007880_1447041072_72377 | startTime:2015-11-09 03:51:08
+
+2015-11-09T03:51:08Z
+
+
+2015-11-09T03:51:08Z
+Array
+(
+)
+
+
+2015-11-09T03:51:08Z
+ResponseParameter:  billNo: 6427-10007880_1447041072_72377 | endTime:2015-11-09 03:51:08
+
+2015-11-09T03:51:08Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"76","errorCode":"76","cid":"11631","payNo":"6427-10007880_1447041072_72377","billAmount":"50","createdAt":"20151109055112","billCurrency":"EUR","tid":020935001447041068,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T03:54:17Z
+RequestParameter:  billNo: 6427-10007880_1447041262_89999 | startTime:2015-11-09 03:54:17
+
+2015-11-09T03:54:17Z
+
+
+2015-11-09T03:54:17Z
+Array
+(
+)
+
+
+2015-11-09T03:54:17Z
+ResponseParameter:  billNo: 6427-10007880_1447041262_89999 | endTime:2015-11-09 03:54:17
+
+2015-11-09T03:54:17Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"76","errorCode":"76","cid":"11631","payNo":"6427-10007880_1447041262_89999","billAmount":"50","createdAt":"20151109055422","billCurrency":"EUR","tid":601227001447041257,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T04:31:20Z
+RequestParameter:  billNo: 6427-10007880_1447038663_78111 | startTime:2015-11-09 04:31:20
+
+2015-11-09T04:31:20Z
+
+
+2015-11-09T04:31:20Z
+Array
+(
+)
+
+
+2015-11-09T04:31:20Z
+ResponseParameter:  billNo: 6427-10007880_1447038663_78111 | endTime:2015-11-09 04:31:20
+
+2015-11-09T04:31:20Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-10007880_1447038663_78111","billAmount":"112","createdAt":"20151109051103","billCurrency":"USD","tid":582667001447043480,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T04:31:44Z
+RequestParameter:  billNo: 6427-10007880_1447038663_78112 | startTime:2015-11-09 04:31:44
+
+2015-11-09T04:31:44Z
+
+
+2015-11-09T04:31:44Z
+Array
+(
+)
+
+
+2015-11-09T04:31:44Z
+ResponseParameter:  billNo: 6427-10007880_1447038663_78112 | endTime:2015-11-09 04:31:44
+
+2015-11-09T04:31:44Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"76","errorCode":"76","cid":"11631","payNo":"6427-10007880_1447038663_78112","billAmount":"112","createdAt":"20151109051103","billCurrency":"USD","tid":490917001447043504,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T04:42:12Z
+RequestParameter:  billNo: 6427-10007880_1447038663_78113 | startTime:2015-11-09 04:42:12
+
+2015-11-09T04:42:12Z
+
+
+2015-11-09T04:42:12Z
+Array
+(
+)
+
+
+2015-11-09T04:42:12Z
+ResponseParameter:  billNo: 6427-10007880_1447038663_78113 | endTime:2015-11-09 04:42:12
+
+2015-11-09T04:42:12Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"76","cid":"11631","payNo":"6427-10007880_1447038663_78113","billAmount":"12","createdAt":"20151109051103","billCurrency":"USD","tid":125421001447044132,"comment":"Wrong card info. Wrong cvv or expired card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-09T05:08:39Z
+RequestParameter:  billNo: 6427-882b3627114 | startTime:2015-11-09 05:08:39
+
+2015-11-09T05:08:39Z
+
+
+2015-11-09T05:08:39Z
+Array
+(
+)
+
+
+2015-11-09T05:08:39Z
+ResponseParameter:  billNo: 6427-882b3627114 | endTime:2015-11-09 05:08:39
+
+2015-11-09T05:08:39Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"6427-882b3627114","billAmount":"12","createdAt":"20151109051103","billCurrency":"USD","tid":489441001447045719,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

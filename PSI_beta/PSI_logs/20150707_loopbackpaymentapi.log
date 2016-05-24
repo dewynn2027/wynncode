@@ -1,0 +1,96 @@
+2015-07-07T09:02:24Z
+RequestParameter:  billNo: wNG5p1436259742 | startTime:2015-07-07 09:02:24
+
+2015-07-07T09:02:24Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => wNG5p1436259742
+    [referenceId] => wNG5p1436259742
+    [dateTime] => 20150707170222
+    [cardHolderIp] => 31.168.23.108
+    [cardNum] => 4054333550739330
+    [cvv2] => 531
+    [month] => 10
+    [year] => 16
+    [firstName] => ahmed
+    [lastName] => desoky
+    [gender] => M
+    [email] => lailadesuoky@hotmail.com
+    [birthDate] => 19730125
+    [phone] => 0096654103287
+    [zipCode] => 00966
+    [address] => ryad street
+    [city] => Alryadh
+    [state] => Alryadh
+    [country] => SA
+    [amount] => 300
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test deposit
+    [currency] => USD
+    [productItem] => deposit
+    [productType] => 2
+    [productDesc] => deposit
+    [productQty] => 1
+    [productPrice] => 300
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-07-07T09:02:24Z
+ResponseParameter:  billNo: wNG5p1436259742 | endTime:2015-07-07 09:02:24
+
+2015-07-07T09:02:24Z
+successcode=-1&Ref=wNG5p1436259742&PayRef=150707170724&Amt=300&Cur=840&prc=1&src=41&Ord=150707170724&Holder=&AuthId=0724&TxTime=15-07-07 17:07:24&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+

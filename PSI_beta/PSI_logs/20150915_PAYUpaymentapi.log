@@ -1,0 +1,1775 @@
+2015-09-15T03:52:09Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d218 | startTime:2015-09-15 03:52:09
+
+2015-09-15T03:52:09Z
+https://test.payu.in/_payment
+
+2015-09-15T03:52:09Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d218
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T03:52:14Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d218 | endTime:2015-09-15 03:52:14
+
+2015-09-15T03:52:14Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFTozAQ/SsM3yVAi0hniVNsqziepdrTuY8RVkptA01Cqf/+EqSnt1+yb7Pzdl9e4Pq031lHFLKqeWx7jmtbyPO6qHgZ27/Xi4sr+5rCeiMQZ8+YtwIp/EIpWYlWVcS22LExG2ePszCpDq+1/7yquo9LjvkqjW0K2fQJDxSGAVTzOz6QM9RMIt8wriiw/JCkj3Q8GvnhGMgAYY8indF3Ka0fcRG5OqLQBfJ1D5ztkaZJmiytDt+s7KisB1UA6euQ1y1X4pOOgksgZwCt2NGNUo2cECJ7ZU2pUCpHT+OonLx2Kk6asmOfpGQKzcmKol/Z2coGiGEA8q0ha00m9cRTVdC5Vz4wPv3zgstdl9Xb7rW4D8LlYsvKGIjpgELTUt/1AjfyAsuNJr4/8T0gfR3Y3qxKn2QUOa7WOmBozJjpF4gic/OzAlqJ0Bae5Z4R4KmpOeoObcC/HMj30jd3xoZc6Qe9qxbreTv/uN2+3LTHEUuWh+R+FcfGmL7BsFX6Fb3QDXo6A4AYCjJ4ToZvorP/vs9fUhHPVw==
+                    [MD] => 1164657220952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0e6fece1d3bac0298272d5a3359dfcd39929e507747b4be6239b30a2287d52b1&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFTozAQ/SsM3yVAi0hniVNsqziepdrTuY8RVkptA01Cqf/+EqSnt1+yb7Pzdl9e4Pq031lHFLKqeWx7jmtbyPO6qHgZ27/Xi4sr+5rCeiMQZ8+YtwIp/EIpWYlWVcS22LExG2ePszCpDq+1/7yquo9LjvkqjW0K2fQJDxSGAVTzOz6QM9RMIt8wriiw/JCkj3Q8GvnhGMgAYY8indF3Ka0fcRG5OqLQBfJ1D5ztkaZJmiytDt+s7KisB1UA6euQ1y1X4pOOgksgZwCt2NGNUo2cECJ7ZU2pUCpHT+OonLx2Kk6asmOfpGQKzcmKol/Z2coGiGEA8q0ha00m9cRTVdC5Vz4wPv3zgstdl9Xb7rW4D8LlYsvKGIjpgELTUt/1AjfyAsuNJr4/8T0gfR3Y3qxKn2QUOa7WOmBozJjpF4gic/OzAlqJ0Bae5Z4R4KmpOeoObcC/HMj30jd3xoZc6Qe9qxbreTv/uN2+3LTHEUuWh+R+FcfGmL7BsFX6Fb3QDXo6A4AYCjJ4ToZvorP/vs9fUhHPVw==
+                            [MD] => 1164657220952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=0e6fece1d3bac0298272d5a3359dfcd39929e507747b4be6239b30a2287d52b1&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T03:52:54Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d219 | startTime:2015-09-15 03:52:54
+
+2015-09-15T03:52:54Z
+https://test.payu.in/_payment
+
+2015-09-15T03:52:54Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d219
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T03:52:59Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d219 | endTime:2015-09-15 03:52:59
+
+2015-09-15T03:52:59Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttSwjAQ/ZVO3+2mIGKZbRwqIHUEq1IvvNU2lgqkJUkV/XqTWrzsS/Zsds7uyQme7bcb640JWZTct12H2BbjaZkVPPfteDE5OrXPKC5WgrHRHUtrwSjOmJRJzqwi8+1w+jQdwXy92V8Ep0P3JL68jifrZSGg9G2K0fCW7Si2A6jmdzoIB6iZRLpKuKKYpLsgnNPjbrfTP0ZoIW6ZCEf0RUrrTxx5RIfXJwjf98iTLaNhEAbX1jt7tqI3ZV2pDKGpY1rWXIkP2u2dIBwA1mJDV0pVcgAgG2VVrphUjp7GmXLS0ik4VPl78gF5opg5kyxrVnZeZYVgGBB+NUS1yaSeuC8yOn98npzP5mJXpcHqM4ziu/hqGVQ78TT2EUwHZpqWdojbI57bs4g36HQHRO/Y1DHZmlXprfQ8h2itLcbKjBl+A88zN38rqJUIbeFB7gEh21clZ7pDG/CTI/wufT41NqRKP+i0mCzG9Xh98frwsIyWL/E95MMb3zfGNA2GrdCv6PZJr6EzAMFQQOs5tN9EZ/++zxfke861
+                    [MD] => 7101416230952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=30a704df7ee00642dd45835c33daa68494a45a90922df74faf4829a32a72bf7d&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttSwjAQ/ZVO3+2mIGKZbRwqIHUEq1IvvNU2lgqkJUkV/XqTWrzsS/Zsds7uyQme7bcb640JWZTct12H2BbjaZkVPPfteDE5OrXPKC5WgrHRHUtrwSjOmJRJzqwi8+1w+jQdwXy92V8Ep0P3JL68jifrZSGg9G2K0fCW7Si2A6jmdzoIB6iZRLpKuKKYpLsgnNPjbrfTP0ZoIW6ZCEf0RUrrTxx5RIfXJwjf98iTLaNhEAbX1jt7tqI3ZV2pDKGpY1rWXIkP2u2dIBwA1mJDV0pVcgAgG2VVrphUjp7GmXLS0ik4VPl78gF5opg5kyxrVnZeZYVgGBB+NUS1yaSeuC8yOn98npzP5mJXpcHqM4ziu/hqGVQ78TT2EUwHZpqWdojbI57bs4g36HQHRO/Y1DHZmlXprfQ8h2itLcbKjBl+A88zN38rqJUIbeFB7gEh21clZ7pDG/CTI/wufT41NqRKP+i0mCzG9Xh98frwsIyWL/E95MMb3zfGNA2GrdCv6PZJr6EzAMFQQOs5tN9EZ/++zxfke861
+                            [MD] => 7101416230952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=30a704df7ee00642dd45835c33daa68494a45a90922df74faf4829a32a72bf7d&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T03:56:22Z
+RequestParameter:  billNo: 20150915110907 | startTime:2015-09-15 03:56:22
+
+2015-09-15T03:56:22Z
+https://test.payu.in/_payment
+
+2015-09-15T03:56:22Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915110907
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T03:56:28Z
+ResponseParameter:  billNo: 20150915110907 | endTime:2015-09-15 03:56:28
+
+2015-09-15T03:56:28Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFzojAQ/SsM38sCSj2cJR2tWpmzp+PZ3vUjwhZjNSAJFf/9JRSv7X7Jvs3O2315wbvmeLDeqZK8EJHtOa5tkUiLjIs8sp82s5sf9h3Dza4imvymtK6I4SNJmeRk8Syy32L5cmhSWvrb+72/eHmeH2D6zL0/kziyGa5Gazox7AYwze/4CFeomap0lwjFMElP4/gX6/d6/qCP0EE8UhVP2KuU1pe4CV0d4cBF+LhHkRyJxeN4vLTOtLVW78paqAyhrWNa1EJVF9YLbhGuAOvqwHZKlXIIIFtlZa5IKkdPE6SctHC4gDI/JxfIE0XmTLKsXdnZyxLBMCB8aljVJpN6YsMz1p8EJQ9knaXN/NQs+U/vdbnfFo+7i4wQTAdmmpb5rhe4oRdYbjj0b4e9AKGtY3I0q7K1DEPH1Vo7jKUZM/oAYWhuvlZQK6m0hVe5V4TUlIUg3aEN+J8jfC59Pzc2pEo/6JzPNtN6+vaw/7tdjNYPs1F/sD5HkTGmbTBsXL+iN3CDls4ABEMBnefQfROdffs+/wA0989A
+                    [MD] => 7520549260952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c23f9904d715fbcb0e964ba3d13c80dce66630e0cf620554d2eebbcb3a16d08c&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFzojAQ/SsM38sCSj2cJR2tWpmzp+PZ3vUjwhZjNSAJFf/9JRSv7X7Jvs3O2315wbvmeLDeqZK8EJHtOa5tkUiLjIs8sp82s5sf9h3Dza4imvymtK6I4SNJmeRk8Syy32L5cmhSWvrb+72/eHmeH2D6zL0/kziyGa5Gazox7AYwze/4CFeomap0lwjFMElP4/gX6/d6/qCP0EE8UhVP2KuU1pe4CV0d4cBF+LhHkRyJxeN4vLTOtLVW78paqAyhrWNa1EJVF9YLbhGuAOvqwHZKlXIIIFtlZa5IKkdPE6SctHC4gDI/JxfIE0XmTLKsXdnZyxLBMCB8aljVJpN6YsMz1p8EJQ9knaXN/NQs+U/vdbnfFo+7i4wQTAdmmpb5rhe4oRdYbjj0b4e9AKGtY3I0q7K1DEPH1Vo7jKUZM/oAYWhuvlZQK6m0hVe5V4TUlIUg3aEN+J8jfC59Pzc2pEo/6JzPNtN6+vaw/7tdjNYPs1F/sD5HkTGmbTBsXL+iN3CDls4ABEMBnefQfROdffs+/wA0989A
+                            [MD] => 7520549260952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c23f9904d715fbcb0e964ba3d13c80dce66630e0cf620554d2eebbcb3a16d08c&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T03:59:44Z
+RequestParameter:  billNo: 20150915110928 | startTime:2015-09-15 03:59:44
+
+2015-09-15T03:59:44Z
+https://test.payu.in/_payment
+
+2015-09-15T03:59:44Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915110928
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T03:59:49Z
+ResponseParameter:  billNo: 20150915110928 | endTime:2015-09-15 03:59:49
+
+2015-09-15T03:59:49Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1X4jAQ/Ss9feXYlBZkw5nGAwraXdcFLKK+xXYo5SOtTSrl329Sy+rOS+ZO5tyZmxu4qg976wNLmeUisLuOa1so4jzJRBrYy2h68cO+YhBtSsSbR4yrEhn8Ril5ilaWBPbq17ZHdvd8OVpVnK97L53FW/4zIkjngc1gNlrgO4N2ANP8jgfkDDVTGW+4UAx4/D4OH1jP971BD0gL4YBleMPWUlrf4oK6OujABfJ5D4IfkIXjcPzHOuKbNftQ1r1KgDR1iPNKqPLE/P4lkDOAqtyzjVKFHBIiG2VFqlAqR08TqJw4dzJBivTITyTlCs3Jk6RZ2dnKAohhAPKlYVaZTOqJdZaweVI/+GGn3tH90/N0NhkVncfXl9fbRXIMgJgOSDQt89xu36XdvuXSoUeHZsemDvxgVmULSanjaq0thsKMGX0CSs3N9wpoJaW28Cz3jADrIheoO7QB/3IgX0tf3xkbYqUf9C6bRpNqsrvdLkXsrU+naL7yj0FgjGkaDFumX7E7cPsNnQFADAVpPSftN9HZf9/nL+5uzs8=
+                    [MD] => 506155290952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=325d9a0e0bcf108e48401ccac0aad5334384e9e7460de1e82f960220bbd512a7&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1X4jAQ/Ss9feXYlBZkw5nGAwraXdcFLKK+xXYo5SOtTSrl329Sy+rOS+ZO5tyZmxu4qg976wNLmeUisLuOa1so4jzJRBrYy2h68cO+YhBtSsSbR4yrEhn8Ril5ilaWBPbq17ZHdvd8OVpVnK97L53FW/4zIkjngc1gNlrgO4N2ANP8jgfkDDVTGW+4UAx4/D4OH1jP971BD0gL4YBleMPWUlrf4oK6OujABfJ5D4IfkIXjcPzHOuKbNftQ1r1KgDR1iPNKqPLE/P4lkDOAqtyzjVKFHBIiG2VFqlAqR08TqJw4dzJBivTITyTlCs3Jk6RZ2dnKAohhAPKlYVaZTOqJdZaweVI/+GGn3tH90/N0NhkVncfXl9fbRXIMgJgOSDQt89xu36XdvuXSoUeHZsemDvxgVmULSanjaq0thsKMGX0CSs3N9wpoJaW28Cz3jADrIheoO7QB/3IgX0tf3xkbYqUf9C6bRpNqsrvdLkXsrU+naL7yj0FgjGkaDFumX7E7cPsNnQFADAVpPSftN9HZf9/nL+5uzs8=
+                            [MD] => 506155290952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=325d9a0e0bcf108e48401ccac0aad5334384e9e7460de1e82f960220bbd512a7&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:01:51Z
+RequestParameter:  billNo: 20150915110949 | startTime:2015-09-15 04:01:51
+
+2015-09-15T04:01:51Z
+https://test.payu.in/_payment
+
+2015-09-15T04:01:51Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915110949
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:01:56Z
+ResponseParameter:  billNo: 20150915110949 | endTime:2015-09-15 04:01:56
+
+2015-09-15T04:01:56Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFzojAQ/SsMXztlAygUZ0kHW22ZsdXrWW/sNwoRsTUgCYr//hKK195+yb7Nztt9ecHbdv9pHFktipKHpm0R02A8LbOC56H5upxe35i3FJfbmrH73yxtakbxiQmR5MwostCcwXrSzA/tyjs9tPGf9erKZscnGXlRFJoUF9ELO1DsB1DFbzkIF6iY6nSbcEkxSQ/j+JkOXNfxBwg9xD2r43u6EcL4EdcBURH4BOHrHnmyZzQex+O5cWLvxuIojZnMELo6pmXDZX2m7tBDuABs6k+6lbISIwDRKatyyYS01DTOpJWWVsGhyk/JGfJEMn0mWdatbO1EhaAZEL41LBqdCTWxLTK6Ot9sZsVbI6e2O/U3vjzv1k6+9LzqNUTQHZgpWuoQe0gCe2iQYOQ6I+IidHVM9npV+iKCwCJKa4+x0mOiLxAE+uZnBZWSWll4kXtByNqq5Ex1KAP+5QjfS989ahtSqR70sZguJ83k42G34u4Aksn8Iz/9CkNtTNeg2Qr1irZPhh2dBgiaAnrPof8mKvvv+/wFHunOiA==
+                    [MD] => 6289274320952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=918e1f957b92b55d765972d196357aa63569c2117b09abb3783cc02df2b847d4&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFzojAQ/SsMXztlAygUZ0kHW22ZsdXrWW/sNwoRsTUgCYr//hKK195+yb7Nztt9ecHbdv9pHFktipKHpm0R02A8LbOC56H5upxe35i3FJfbmrH73yxtakbxiQmR5MwostCcwXrSzA/tyjs9tPGf9erKZscnGXlRFJoUF9ELO1DsB1DFbzkIF6iY6nSbcEkxSQ/j+JkOXNfxBwg9xD2r43u6EcL4EdcBURH4BOHrHnmyZzQex+O5cWLvxuIojZnMELo6pmXDZX2m7tBDuABs6k+6lbISIwDRKatyyYS01DTOpJWWVsGhyk/JGfJEMn0mWdatbO1EhaAZEL41LBqdCTWxLTK6Ot9sZsVbI6e2O/U3vjzv1k6+9LzqNUTQHZgpWuoQe0gCe2iQYOQ6I+IidHVM9npV+iKCwCJKa4+x0mOiLxAE+uZnBZWSWll4kXtByNqq5Ex1KAP+5QjfS989ahtSqR70sZguJ83k42G34u4Aksn8Iz/9CkNtTNeg2Qr1irZPhh2dBgiaAnrPof8mKvvv+/wFHunOiA==
+                            [MD] => 6289274320952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=918e1f957b92b55d765972d196357aa63569c2117b09abb3783cc02df2b847d4&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:03:00Z
+RequestParameter:  billNo: 20150915120956 | startTime:2015-09-15 04:03:00
+
+2015-09-15T04:03:00Z
+https://test.payu.in/_payment
+
+2015-09-15T04:03:00Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120956
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:03:05Z
+ResponseParameter:  billNo: 20150915120956 | endTime:2015-09-15 04:03:05
+
+2015-09-15T04:03:05Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFzojAQ/SsMX29KgohcnCWdamtr73pY9ZyO3yikiEBISah6v74JxbaXL9m32Xlv327g8liV1htrZF7z0HYdbFuMJ3Wa8yy0/65nFz/tSwrrXcPY9YolbcMoPDAp44xZeRraZSH8rRBL9DiKdukvhTfltNrW0bA6hDaFxdWSvVLoBajmdwaAzlAzNcku5opCnLxO5n/o0PMGwRBQD6FizfyavkhpfTsXBOtDAgzo4x14XDE6n8wnkXVgz9biTVm/VQqoy0NSt1w1J+r5I0BnAG1T0p1SQo4Rkp0zkSkmlaPVOFNOUjs5RyI7xCeUxYqZO07TrmVnLwUgwwDoy8OiNZHUisc8pZvVfnT6MXsuNtHyX0SmAzfyi9UoKQ6PISBTAammpQPs+pi4voXJ2PPGrp5Pl4e4Mq3SpSTEwdprj0EYmasPQIh5+Z4B7aTRKzzbPSNgR1Fzpiu0wGcM6Kvp6Z1ZQ6L0QO/y2fqmvSlu90/lNqj9+we0CrIwNIvpCgxbrqfoBtjv6AwAZChQv3PUfxMd/fd93gEZoc6o
+                    [MD] => 8753947330952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=de57b9d02f48ea7c2c323a7ef9b76df55a2ce824c5d8091c4e22eadd98113427&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFzojAQ/SsMX29KgohcnCWdamtr73pY9ZyO3yikiEBISah6v74JxbaXL9m32Xlv327g8liV1htrZF7z0HYdbFuMJ3Wa8yy0/65nFz/tSwrrXcPY9YolbcMoPDAp44xZeRraZSH8rRBL9DiKdukvhTfltNrW0bA6hDaFxdWSvVLoBajmdwaAzlAzNcku5opCnLxO5n/o0PMGwRBQD6FizfyavkhpfTsXBOtDAgzo4x14XDE6n8wnkXVgz9biTVm/VQqoy0NSt1w1J+r5I0BnAG1T0p1SQo4Rkp0zkSkmlaPVOFNOUjs5RyI7xCeUxYqZO07TrmVnLwUgwwDoy8OiNZHUisc8pZvVfnT6MXsuNtHyX0SmAzfyi9UoKQ6PISBTAammpQPs+pi4voXJ2PPGrp5Pl4e4Mq3SpSTEwdprj0EYmasPQIh5+Z4B7aTRKzzbPSNgR1Fzpiu0wGcM6Kvp6Z1ZQ6L0QO/y2fqmvSlu90/lNqj9+we0CrIwNIvpCgxbrqfoBtjv6AwAZChQv3PUfxMd/fd93gEZoc6o
+                            [MD] => 8753947330952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=de57b9d02f48ea7c2c323a7ef9b76df55a2ce824c5d8091c4e22eadd98113427&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:07:55Z
+RequestParameter:  billNo: 20150915120905 | startTime:2015-09-15 04:07:55
+
+2015-09-15T04:07:55Z
+https://test.payu.in/_payment
+
+2015-09-15T04:07:55Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120905
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:07:59Z
+ResponseParameter:  billNo: 20150915120905 | endTime:2015-09-15 04:07:59
+
+2015-09-15T04:07:59Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUtFW4jAQ/ZWevu6xSUHEcKbxgFDoKoKCu/JY0rEUJK1NivD3m9Sy6rxk7mTOnbm5gZvj/s05YKmyXAau71HXQSnyJJNp4D4vw4tr94bDclMiDhcoqhI5TFGpOEUnSwL3LnyMxuvZjj3OivDl8BovVjs6HP85bUeBy2Hef8J3Ds0Abvi9FpAzNEyl2MRSc4jF+yB64Jftdqt7CaSBsMcyGvJXpZxvccGoCdalQD7vQcZ75NEgGsycD1w784N27nUCpK6DyCupyxNvd66AnAFU5RvfaF2oHiGqVlakGpX2zDSJ2hO5l0lSpB/xiaSxRnvGSVKv7G1VAcQyAPnSMK9spszEY5ZwsfiV+ipsnaLjcL28ldMH8nt1d1ivymkAxHZAYmh5i/odyvyOQ1mvfd2jZse6DvHersqfFGMeNVobDIUd0/8EjNmb7xUwSkpj4VnuGQEei1yi6TAG/M+BfC19O7E2CG0edJKFy1E12o23f/Fl0r8SKPIoDQJrTN1g2TLzin6Xdmo6C4BYCtJ4TppvYrIf3+cfoj3O+Q==
+                    [MD] => 43190380952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1f7cdda9efbdea12170af779660bcc24550e22697003707cae42aa30e08d5107&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUtFW4jAQ/ZWevu6xSUHEcKbxgFDoKoKCu/JY0rEUJK1NivD3m9Sy6rxk7mTOnbm5gZvj/s05YKmyXAau71HXQSnyJJNp4D4vw4tr94bDclMiDhcoqhI5TFGpOEUnSwL3LnyMxuvZjj3OivDl8BovVjs6HP85bUeBy2Hef8J3Ds0Abvi9FpAzNEyl2MRSc4jF+yB64Jftdqt7CaSBsMcyGvJXpZxvccGoCdalQD7vQcZ75NEgGsycD1w784N27nUCpK6DyCupyxNvd66AnAFU5RvfaF2oHiGqVlakGpX2zDSJ2hO5l0lSpB/xiaSxRnvGSVKv7G1VAcQyAPnSMK9spszEY5ZwsfiV+ipsnaLjcL28ldMH8nt1d1ivymkAxHZAYmh5i/odyvyOQ1mvfd2jZse6DvHersqfFGMeNVobDIUd0/8EjNmb7xUwSkpj4VnuGQEei1yi6TAG/M+BfC19O7E2CG0edJKFy1E12o23f/Fl0r8SKPIoDQJrTN1g2TLzin6Xdmo6C4BYCtJ4TppvYrIf3+cfoj3O+Q==
+                            [MD] => 43190380952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1f7cdda9efbdea12170af779660bcc24550e22697003707cae42aa30e08d5107&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:10:03Z
+RequestParameter:  billNo: 20150915120936 | startTime:2015-09-15 04:10:03
+
+2015-09-15T04:10:03Z
+https://test.payu.in/_payment
+
+2015-09-15T04:10:03Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120936
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:10:07Z
+ResponseParameter:  billNo: 20150915120936 | endTime:2015-09-15 04:10:07
+
+2015-09-15T04:10:07Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttS2zAQ/RWPXztYcuJclFmLyYXcgBLSAFPeXHlxTG3ZseQQ/r6ScQrsi/asds7u0RFcnvLMOWKl0kKGru9R10EpijiVSeg+7OYXQ/eSw25fIc5+oagr5HCLSkUJOmkcuk/Du/VvXGxYML/eTtm6T5+SYSFvXtY0dDlsxls8cGgHcMPvdYCcoWGqxD6SmkMkDpPVTx50u51BAKSFkGO1mvEXpZwvccGoCTagQD7uQUY58tVkNblz3vCPszlq50bHQJo6iKKWunrn3V4fyBlAXWV8r3WpRoSoRlmZaFTaM9Mkak8UXipJmbxF7ySJNNoziuNmZe9VlUAsA5BPDZvaZspMPKUxv3/ID3XAfvSPz2o7n3VvD1mVk1IsFiIEYjsgNrS8Q/0eZX7PoWwU0JFv1Dd1iHK7Kt8qxjxqtLYYSjtm/AEYszdfK2CUVMbCs9wzAjyVhUTTYQz4nwP5XHq6tDYIbR50mc53V/XV38Xr47KkGcmep9fj+zC0xjQNli01r+gPaK+hswCIpSCt56T9Jib79n3+AW5lza0=
+                    [MD] => 1661988400952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b7d664185f34a32a2037ae88918e10e39f72b1cf9a79817e26b2482c187c4f5b&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttS2zAQ/RWPXztYcuJclFmLyYXcgBLSAFPeXHlxTG3ZseQQ/r6ScQrsi/asds7u0RFcnvLMOWKl0kKGru9R10EpijiVSeg+7OYXQ/eSw25fIc5+oagr5HCLSkUJOmkcuk/Du/VvXGxYML/eTtm6T5+SYSFvXtY0dDlsxls8cGgHcMPvdYCcoWGqxD6SmkMkDpPVTx50u51BAKSFkGO1mvEXpZwvccGoCTagQD7uQUY58tVkNblz3vCPszlq50bHQJo6iKKWunrn3V4fyBlAXWV8r3WpRoSoRlmZaFTaM9Mkak8UXipJmbxF7ySJNNoziuNmZe9VlUAsA5BPDZvaZspMPKUxv3/ID3XAfvSPz2o7n3VvD1mVk1IsFiIEYjsgNrS8Q/0eZX7PoWwU0JFv1Dd1iHK7Kt8qxjxqtLYYSjtm/AEYszdfK2CUVMbCs9wzAjyVhUTTYQz4nwP5XHq6tDYIbR50mc53V/XV38Xr47KkGcmep9fj+zC0xjQNli01r+gPaK+hswCIpSCt56T9Jib79n3+AW5lza0=
+                            [MD] => 1661988400952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b7d664185f34a32a2037ae88918e10e39f72b1cf9a79817e26b2482c187c4f5b&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:12:08Z
+RequestParameter:  billNo: 20150915120907 | startTime:2015-09-15 04:12:08
+
+2015-09-15T04:12:08Z
+https://test.payu.in/_payment
+
+2015-09-15T04:12:08Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120907
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4012001037141112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => 123
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:12:12Z
+ResponseParameter:  billNo: 20150915120907 | endTime:2015-09-15 04:12:12
+
+2015-09-15T04:12:12Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1XozAQ/SscXj0SoMVKzxCPtWh7/FjUdndfI0wpKIEmgbb/3gTp6s5L5k7m3JmbG7g6VB9Wh0IWNY9sz3FtC3laZwXPI3u9uj2/tK8orLYCcf6KaSuQwiNKyXK0iiyy5f1ld78+e64esjbp8ne2wTI/bm9wX0c2heT6BXcUhgFU8zs+kBPUTCLdMq4osHQ3Wz7R8WjkT8ZABggViuWcbqS0fsR56OoIJy6Qr3vgrEK6nC1nv6w9vllJp6wHlQHp65DWLVfiSEfBBZATgFZ80K1SjZwSIntlTa5QKkdP46ictHYKTpp8z44kZwrNybKsX9kpZQPEMAD51pC0JpN64qHIaFm1yZ/NayPyMut2cjWLg338V8wXfhwBMR2QaVrqu17ghl5gueF07E+9EEhfB1aZVemLDEPH1VoHDI0Zc/0FwtDc/KyAViK0hSe5JwR4aGqOukMb8C8H8r30zcLYkCr9oIvidhW38ftd+ftMyjFb3I026+coMsb0DYat0K/oTdygpzMAiKEgg+dk+CY6++/7fALAO9CG
+                    [MD] => 2309285420952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=efa652a1e6f3aeca9c9a2a9f380ced44dc2ce8a08d7469afb148a76b66429aa9&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1XozAQ/SscXj0SoMVKzxCPtWh7/FjUdndfI0wpKIEmgbb/3gTp6s5L5k7m3JmbG7g6VB9Wh0IWNY9sz3FtC3laZwXPI3u9uj2/tK8orLYCcf6KaSuQwiNKyXK0iiyy5f1ld78+e64esjbp8ne2wTI/bm9wX0c2heT6BXcUhgFU8zs+kBPUTCLdMq4osHQ3Wz7R8WjkT8ZABggViuWcbqS0fsR56OoIJy6Qr3vgrEK6nC1nv6w9vllJp6wHlQHp65DWLVfiSEfBBZATgFZ80K1SjZwSIntlTa5QKkdP46ictHYKTpp8z44kZwrNybKsX9kpZQPEMAD51pC0JpN64qHIaFm1yZ/NayPyMut2cjWLg338V8wXfhwBMR2QaVrqu17ghl5gueF07E+9EEhfB1aZVemLDEPH1VoHDI0Zc/0FwtDc/KyAViK0hSe5JwR4aGqOukMb8C8H8r30zcLYkCr9oIvidhW38ftd+ftMyjFb3I026+coMsb0DYat0K/oTdygpzMAiKEgg+dk+CY6++/7fALAO9CG
+                            [MD] => 2309285420952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=efa652a1e6f3aeca9c9a2a9f380ced44dc2ce8a08d7469afb148a76b66429aa9&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:16:16Z
+RequestParameter:  billNo: 20150915120912 | startTime:2015-09-15 04:16:16
+
+2015-09-15T04:16:16Z
+https://test.payu.in/_payment
+
+2015-09-15T04:16:16Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120912
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:16:21Z
+ResponseParameter:  billNo: 20150915120912 | endTime:2015-09-15 04:16:21
+
+2015-09-15T04:16:21Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1zmzAQ/CsM70GAsTGeQxmT+CvTxK5Lm0zeiLgCri0wEtjOr69EcJPei25PN3u3WsHt+bA3WqxFUfLQdCzbNJCzMi14Fpo/4/nN2LylEOc14v0PZE2NFB5RiCRDo0hDc+48ebt8n78f2wyP8cPr+nlxqWbLkz8LTQqb6RaPFPoBVPFbLpArVEw1yxMuKSTsGK2eqDcYuL4HpIdwwHp1T38LYXyJm8BWEfg2kI974MkB6SpaRWvjhG/GppXGN5kC6erAyobL+kIHwxGQK4Cm3tNcykpMCBGdsiqTKKSlpnGUFiutgpMqOyUXkiUS9ZmkabeytRMVEM0A5FPDptGZUBPPRUqno+10/33QFtHDS9w8+ouEtflLFcXNOASiOyBVtNS1naEdOEPDDibeaOKOgXR1SA56VboVQWDZSmuPodJjph8gCPTN1wooJbWy8Cr3igDPVclRdSgD/uVAPpe+W2obmFQPuizm8ayZ/VnsfrF0vdixkde4pzDUxnQNmq1Qr+j49rCj0wCIpiC956T/Jir77/v8BdSZz30=
+                    [MD] => 4277025460952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c4f43e92397396d26b5be6ac18290f8edaa0f8201f6497ed1356d9bd21dfaee1&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1zmzAQ/CsM70GAsTGeQxmT+CvTxK5Lm0zeiLgCri0wEtjOr69EcJPei25PN3u3WsHt+bA3WqxFUfLQdCzbNJCzMi14Fpo/4/nN2LylEOc14v0PZE2NFB5RiCRDo0hDc+48ebt8n78f2wyP8cPr+nlxqWbLkz8LTQqb6RaPFPoBVPFbLpArVEw1yxMuKSTsGK2eqDcYuL4HpIdwwHp1T38LYXyJm8BWEfg2kI974MkB6SpaRWvjhG/GppXGN5kC6erAyobL+kIHwxGQK4Cm3tNcykpMCBGdsiqTKKSlpnGUFiutgpMqOyUXkiUS9ZmkabeytRMVEM0A5FPDptGZUBPPRUqno+10/33QFtHDS9w8+ouEtflLFcXNOASiOyBVtNS1naEdOEPDDibeaOKOgXR1SA56VboVQWDZSmuPodJjph8gCPTN1wooJbWy8Cr3igDPVclRdSgD/uVAPpe+W2obmFQPuizm8ayZ/VnsfrF0vdixkde4pzDUxnQNmq1Qr+j49rCj0wCIpiC956T/Jir77/v8BdSZz30=
+                            [MD] => 4277025460952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=c4f43e92397396d26b5be6ac18290f8edaa0f8201f6497ed1356d9bd21dfaee1&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:19:03Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d220 | startTime:2015-09-15 04:19:03
+
+2015-09-15T04:19:03Z
+https://test.payu.in/_payment
+
+2015-09-15T04:19:03Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d220
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:19:08Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d220 | endTime:2015-09-15 04:19:08
+
+2015-09-15T04:19:08Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1zmzAQ/CsMr5kgYYOpPIcyuLZjT93WSejU7RsGBcsJAkvCH/++EsFJei+6Pd3s3WoFd+fq1TkyqXgtYtf3sOswkdcFF2Xs/krnt1/cOwrpTjI2fWJ5KxmF70yprGQOL2L3oMJNw/fb5Pfupgy/PdzcS51Mg5CwWexSWCeP7EChH0ANvzcAdIWGSea7TGgKWX6YLH/QYDgcRAGgHkLF5HJKn5VyPsUtwSZIhAG93YPIKkaXk+Xkp3NiW2d91M5KF4C6OuR1K7S80GE4AnQF0MpXutO6UWOEVKesKTVT2jPTBNNeXntcoKY8ZRdUZprZMyuKbmVvrxpAlgHQh4Z1azNlJp55QTc6ktv0yF8ueJXWZbqKFqdLHbWr0SkGZDugMLR0gP0QEz90MBkHZOyHgLo6ZJVdlT4qQjxstPYYGjsmeQOE2JvPFTBKpLHwKveKgJ2bWjDTYQx4zwF9LP11YW3ItXnQBZ+ns3b2cr/fJOXoz99q/hzUD3FsjekaLBs3r+hHOOzoLABkKVDvOeq/icn++z7/AKiTzzo=
+                    [MD] => 5571285490952580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=70e03230fc75655c1e17d9905af6664eaa76ec02a1a252983ef0a32cc945e9bb&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1zmzAQ/CsMr5kgYYOpPIcyuLZjT93WSejU7RsGBcsJAkvCH/++EsFJei+6Pd3s3WoFd+fq1TkyqXgtYtf3sOswkdcFF2Xs/krnt1/cOwrpTjI2fWJ5KxmF70yprGQOL2L3oMJNw/fb5Pfupgy/PdzcS51Mg5CwWexSWCeP7EChH0ANvzcAdIWGSea7TGgKWX6YLH/QYDgcRAGgHkLF5HJKn5VyPsUtwSZIhAG93YPIKkaXk+Xkp3NiW2d91M5KF4C6OuR1K7S80GE4AnQF0MpXutO6UWOEVKesKTVT2jPTBNNeXntcoKY8ZRdUZprZMyuKbmVvrxpAlgHQh4Z1azNlJp55QTc6ktv0yF8ueJXWZbqKFqdLHbWr0SkGZDugMLR0gP0QEz90MBkHZOyHgLo6ZJVdlT4qQjxstPYYGjsmeQOE2JvPFTBKpLHwKveKgJ2bWjDTYQx4zwF9LP11YW3ItXnQBZ+ns3b2cr/fJOXoz99q/hzUD3FsjekaLBs3r+hHOOzoLABkKVDvOeq/icn++z7/AKiTzzo=
+                            [MD] => 5571285490952580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=70e03230fc75655c1e17d9905af6664eaa76ec02a1a252983ef0a32cc945e9bb&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:58:21Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d221 | startTime:2015-09-15 04:58:21
+
+2015-09-15T04:58:21Z
+https://test.payu.in/_payment
+
+2015-09-15T04:58:21Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d221
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:58:25Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d221 | endTime:2015-09-15 04:58:25
+
+2015-09-15T04:58:25Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1XozAQ/Ssc3iUBpDU9Qzyy1i2uq93adfUxC5FCS6BJ6Mf+ehOkq+Ylcydz7p07E7g81Btnx6UqGxG7voddh4usyUtRxO7v5c3ZhXtJYbmSnF8/8qyTnMJPrhQruFPmsfuDdLNo+eu4Cl7X0Z69zFVYL2QZ3L6ksUthfrXgWwqDADX8XgDoBA2TzFZMaAos2ybpPT0Pw2B8DmiAUHOZXtNXpZxP54xgc8gYA3p/B8FqTtMkTR6cPf/rzHfaudM5oD4PWdMJLY80jEaATgA6uaErrVs1QUj1ztpCc6U9oya49rLGKwVqiz07ooJpbm+W533LXqVaQJYB0IeHeWcjZRQPZU6f87vRYTNbVJglgboNR8l0vX3mf3akiQHZCsgNLQ2wH2HiR46PJ8HFJDTz6fPAatsqXShCPGy8DhhaK3P1DgixL58zYJxIs8KT3RMCfmgbwU2FEfgfA/po+tvMriHTZqCz8mY57abr79VTJarq6d/xHlf7OLaL6QssW2mm6I9x1NNZAMhSoGHnaPgmJvryfd4A4ETPgg==
+                    [MD] => 2178325281052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=4d58be2003a3b8f85e38c7edc68785bd331b4d6a595d855c8351504f639bb358&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1XozAQ/Ssc3iUBpDU9Qzyy1i2uq93adfUxC5FCS6BJ6Mf+ehOkq+Ylcydz7p07E7g81Btnx6UqGxG7voddh4usyUtRxO7v5c3ZhXtJYbmSnF8/8qyTnMJPrhQruFPmsfuDdLNo+eu4Cl7X0Z69zFVYL2QZ3L6ksUthfrXgWwqDADX8XgDoBA2TzFZMaAos2ybpPT0Pw2B8DmiAUHOZXtNXpZxP54xgc8gYA3p/B8FqTtMkTR6cPf/rzHfaudM5oD4PWdMJLY80jEaATgA6uaErrVs1QUj1ztpCc6U9oya49rLGKwVqiz07ooJpbm+W533LXqVaQJYB0IeHeWcjZRQPZU6f87vRYTNbVJglgboNR8l0vX3mf3akiQHZCsgNLQ2wH2HiR46PJ8HFJDTz6fPAatsqXShCPGy8DhhaK3P1DgixL58zYJxIs8KT3RMCfmgbwU2FEfgfA/po+tvMriHTZqCz8mY57abr79VTJarq6d/xHlf7OLaL6QssW2mm6I9x1NNZAMhSoGHnaPgmJvryfd4A4ETPgg==
+                            [MD] => 2178325281052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=4d58be2003a3b8f85e38c7edc68785bd331b4d6a595d855c8351504f639bb358&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T04:58:49Z
+RequestParameter:  billNo: 20150915120941 | startTime:2015-09-15 04:58:49
+
+2015-09-15T04:58:49Z
+https://test.payu.in/_payment
+
+2015-09-15T04:58:49Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120941
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T04:58:53Z
+ResponseParameter:  billNo: 20150915120941 | endTime:2015-09-15 04:58:53
+
+2015-09-15T04:58:53Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttymzAQ/RWG9yBhmzh4FmV8jT11akyctHnEsAXiIIgkfPn7SgQ36b5oz2rn7B4dwf25fLeOKGRR8cB2HWpbyJMqLXgW2M+7xc2dfc9glwvE2RMmjUAGjyhlnKFVpIH9EsnycZGJ7e38wQt//MJpMT1u9vW+TAKbQTiO8INBN4BpfqcH5Ao1k0jymCsGcfIxWf1kg36/NxwA6SCUKFYz9kdK61vc+FSHP6RAPu+BxyWy1WQ12Vgn3FvhUVlrlQJp65BUDVfiwvreLZArgEa8s1ypWo4Ika2yOlMolaOncVROUjkFJ3V2ii8kixWaM07TdmXnTdZADAOQLw1hYzKpJ56LlPVPr783+Xa2E4ewGlzuxstFlHjD5zWdB0BMB6SalvWo61Hf9SyXjnr+iGpVbR3i0qzKIun7jql2GGozZvwJfN/cfK+AViK0hVe5VwR4riuOukMb8C8H8rX0dGlsSJR+0GWx2M2b+eHh7eU1lNF6cMjrp20QGGPaBsNW6Fd0h9Rr6QwAYihI5znpvonO/vs+fwHMK87T
+                    [MD] => 8576428281052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=3bdac19e970c6917d2efe2bb153c518074ed311d1b9b5cb63a1c122ca09dc65f&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttymzAQ/RWG9yBhmzh4FmV8jT11akyctHnEsAXiIIgkfPn7SgQ36b5oz2rn7B4dwf25fLeOKGRR8cB2HWpbyJMqLXgW2M+7xc2dfc9glwvE2RMmjUAGjyhlnKFVpIH9EsnycZGJ7e38wQt//MJpMT1u9vW+TAKbQTiO8INBN4BpfqcH5Ao1k0jymCsGcfIxWf1kg36/NxwA6SCUKFYz9kdK61vc+FSHP6RAPu+BxyWy1WQ12Vgn3FvhUVlrlQJp65BUDVfiwvreLZArgEa8s1ypWo4Ika2yOlMolaOncVROUjkFJ3V2ii8kixWaM07TdmXnTdZADAOQLw1hYzKpJ56LlPVPr783+Xa2E4ewGlzuxstFlHjD5zWdB0BMB6SalvWo61Hf9SyXjnr+iGpVbR3i0qzKIun7jql2GGozZvwJfN/cfK+AViK0hVe5VwR4riuOukMb8C8H8rX0dGlsSJR+0GWx2M2b+eHh7eU1lNF6cMjrp20QGGPaBsNW6Fd0h9Rr6QwAYihI5znpvonO/vs+fwHMK87T
+                            [MD] => 8576428281052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=3bdac19e970c6917d2efe2bb153c518074ed311d1b9b5cb63a1c122ca09dc65f&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:01:07Z
+RequestParameter:  billNo: 20150915120953 | startTime:2015-09-15 05:01:07
+
+2015-09-15T05:01:07Z
+https://test.payu.in/_payment
+
+2015-09-15T05:01:07Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915120953
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:01:11Z
+ResponseParameter:  billNo: 20150915120953 | endTime:2015-09-15 05:01:11
+
+2015-09-15T05:01:11Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUmFvmzAQ/SuIr1ExDsmIo8NVQpMGZdmiLtWkfTPgEbICxjZJ2l8/m5K1uy++dz69u+dnuL9WL86ZS1U2deRiz3cdXmdNXtZF5D4f1ncz957C4Sg5f/jBs05yCjuuFCu4U+aR24ry7YTDlMSnsZw07fZn1478LRHpLHIp7BdPvKUwDKCG3xsDukHDJLMjqzUFlrXL5BudBME4nAAaIFRcJg/0t1LOp7gjvgkS+oDe76FmFafJMll+dy48dfZn7XzVOaC+DlnT1Vq+0mD6BdANQCdf6FFroeYIqV6ZKDRX2jPTaq69rPHKGoniwl5RwTS3J8vzfmXvpAQgywDoQ8O+s5kyE69lTvWv+BqfV1W7xjELqnP6JmZpiIPNZhcBsh2QG1o69vHUJ3jqYH8e4DmeAerrwCq7Kn1ShHi+0TpgEHbM4h0QYm8+V8AokcbCm9wbAn4VTc1NhzHgXw7oY+l4Y23ItHnQTbk+rLrVn8fTs05Gj6PdaIsviyiyxvQNlq00r4hDf9rTWQDIUqDBczR8E5P9933+An3qzjM=
+                    [MD] => 8828536311052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a48e04ca4a73af8cb0ee93421d258adaf930d4b220985ca48c87e5522f778b9d&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUmFvmzAQ/SuIr1ExDsmIo8NVQpMGZdmiLtWkfTPgEbICxjZJ2l8/m5K1uy++dz69u+dnuL9WL86ZS1U2deRiz3cdXmdNXtZF5D4f1ncz957C4Sg5f/jBs05yCjuuFCu4U+aR24ry7YTDlMSnsZw07fZn1478LRHpLHIp7BdPvKUwDKCG3xsDukHDJLMjqzUFlrXL5BudBME4nAAaIFRcJg/0t1LOp7gjvgkS+oDe76FmFafJMll+dy48dfZn7XzVOaC+DlnT1Vq+0mD6BdANQCdf6FFroeYIqV6ZKDRX2jPTaq69rPHKGoniwl5RwTS3J8vzfmXvpAQgywDoQ8O+s5kyE69lTvWv+BqfV1W7xjELqnP6JmZpiIPNZhcBsh2QG1o69vHUJ3jqYH8e4DmeAerrwCq7Kn1ShHi+0TpgEHbM4h0QYm8+V8AokcbCm9wbAn4VTc1NhzHgXw7oY+l4Y23ItHnQTbk+rLrVn8fTs05Gj6PdaIsviyiyxvQNlq00r4hDf9rTWQDIUqDBczR8E5P9933+An3qzjM=
+                            [MD] => 8828536311052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=a48e04ca4a73af8cb0ee93421d258adaf930d4b220985ca48c87e5522f778b9d&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:05:02Z
+RequestParameter:  billNo: 20150915130911 | startTime:2015-09-15 05:05:02
+
+2015-09-15T05:05:02Z
+https://test.payu.in/_payment
+
+2015-09-15T05:05:02Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915130911
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:05:06Z
+ResponseParameter:  billNo: 20150915130911 | endTime:2015-09-15 05:05:06
+
+2015-09-15T05:05:06Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1XozAQ/Ssc3mVCgXbpGeJptd2yW7Uqe/T4hhApKOEjwaK/3gSpuvOSuZM5d+bmBk/78sV4Za3IKx6YtkVMg/GkSnOeBea/aH3yyzylGO1bxs5vWdK1jOIFEyLOmJGngbn9C1VYO0V/t3CbRw7uWZiWT9P77GEVmBR3ixvWUBwHUMVvTRCOUDG1yT7mkmKcNMvwkrqOM5m5CCPEkrXhOX0SwvgRJz5R4c8Iwuc98rhkNFyGyyvjwB6N3as0tjJFGOqYVB2X7Rt1vCnCEWDXvtC9lLWYA4hBWZ1JJqSlpnEmraSycg51dojfIIsl02ecpsPKViFqBM2A8K1h1+lMqIl9ntKtfZVs3XfWQZFsyPRPs1tfNOKaeJPrAEF3YKpo6YTYHvFtz7DJ3PHmtoMw1DEu9ar0Rvi+RZTWEWOtxyw+ge/rm58VVEpaZeFR7hEh6+uKM9WhDPjKEb6XPttoGxKpHnSTr6NVt3r+XdxteBc9F5Hn94cg0MYMDZotV69oz4g30GmAoClg9BzGb6Ky/77PB6mrzmo=
+                    [MD] => 5621918351052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=24802e25c9ad5627658c1366e5c2e1b3d393961cab75fcbeb2293e909469b7b2&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1XozAQ/Ssc3mVCgXbpGeJptd2yW7Uqe/T4hhApKOEjwaK/3gSpuvOSuZM5d+bmBk/78sV4Za3IKx6YtkVMg/GkSnOeBea/aH3yyzylGO1bxs5vWdK1jOIFEyLOmJGngbn9C1VYO0V/t3CbRw7uWZiWT9P77GEVmBR3ixvWUBwHUMVvTRCOUDG1yT7mkmKcNMvwkrqOM5m5CCPEkrXhOX0SwvgRJz5R4c8Iwuc98rhkNFyGyyvjwB6N3as0tjJFGOqYVB2X7Rt1vCnCEWDXvtC9lLWYA4hBWZ1JJqSlpnEmraSycg51dojfIIsl02ecpsPKViFqBM2A8K1h1+lMqIl9ntKtfZVs3XfWQZFsyPRPs1tfNOKaeJPrAEF3YKpo6YTYHvFtz7DJ3PHmtoMw1DEu9ar0Rvi+RZTWEWOtxyw+ge/rm58VVEpaZeFR7hEh6+uKM9WhDPjKEb6XPttoGxKpHnSTr6NVt3r+XdxteBc9F5Hn94cg0MYMDZotV69oz4g30GmAoClg9BzGb6Ky/77PB6mrzmo=
+                            [MD] => 5621918351052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=24802e25c9ad5627658c1366e5c2e1b3d393961cab75fcbeb2293e909469b7b2&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:07:34Z
+RequestParameter:  billNo: 20150915130906 | startTime:2015-09-15 05:07:34
+
+2015-09-15T05:07:34Z
+https://test.payu.in/_payment
+
+2015-09-15T05:07:34Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915130906
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:07:38Z
+ResponseParameter:  billNo: 20150915130906 | endTime:2015-09-15 05:07:38
+
+2015-09-15T05:07:38Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUtFymzAQ/BWG10wQGBOK51DGjk1DW6eua2emfZPhCri2IJLAdr++EsFNei+6Pd3s3WoF9+fjwepQyKrmse05rm0hz+q84kVsbzfJ7Qf7nsKmFIjz75i1AiksUUpWoFXlsS27bz8fdj8+N+XeL9Wfriyf2mSRsstsGtsUVtM1vlAYBlDN74yAXKFmElnJuKLAspdZ+kTHvj8Kx0AGCEcU6Zz+ktJ6F7eRqyMKXSCv98DZEWk6S2dfrRPurFWnrC8qB9LXIatbrsSF+sEdkCuAVhxoqVQjJ4TIXllTKJTK0dM4KiernYqTpjixCymYQnOyPO9XdvayAWIYgLxpWLUmk3riucrpc/opvMlUvRwtdyi8u1PC5t76xu/ybQzEdECuaenI9QI38gLLcyd+OBkHQPo6sKNZla5lFDmu1jpgaMyY6SuIInPzvgJaidAWXuVeEeC5qTnqDm3AvxzI29IPj8aGTOkHfaySzaJd/P643+4PyeW5aHizmcaxMaZvMGyVfkUvdIOezgAghoIMnpPhm+jsv+/zFyAAz74=
+                    [MD] => 1648375371052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=2aeef4bf0181c35ddaa83518e0cae2d22e01079c3a9f6d613ce752a1b4d447fb&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUtFymzAQ/BWG10wQGBOK51DGjk1DW6eua2emfZPhCri2IJLAdr++EsFNei+6Pd3s3WoF9+fjwepQyKrmse05rm0hz+q84kVsbzfJ7Qf7nsKmFIjz75i1AiksUUpWoFXlsS27bz8fdj8+N+XeL9Wfriyf2mSRsstsGtsUVtM1vlAYBlDN74yAXKFmElnJuKLAspdZ+kTHvj8Kx0AGCEcU6Zz+ktJ6F7eRqyMKXSCv98DZEWk6S2dfrRPurFWnrC8qB9LXIatbrsSF+sEdkCuAVhxoqVQjJ4TIXllTKJTK0dM4KiernYqTpjixCymYQnOyPO9XdvayAWIYgLxpWLUmk3riucrpc/opvMlUvRwtdyi8u1PC5t76xu/ybQzEdECuaenI9QI38gLLcyd+OBkHQPo6sKNZla5lFDmu1jpgaMyY6SuIInPzvgJaidAWXuVeEeC5qTnqDm3AvxzI29IPj8aGTOkHfaySzaJd/P643+4PyeW5aHizmcaxMaZvMGyVfkUvdIOezgAghoIMnpPhm+jsv+/zFyAAz74=
+                            [MD] => 1648375371052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=2aeef4bf0181c35ddaa83518e0cae2d22e01079c3a9f6d613ce752a1b4d447fb&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:09:18Z
+RequestParameter:  billNo: 20150915130938 | startTime:2015-09-15 05:09:18
+
+2015-09-15T05:09:18Z
+https://test.payu.in/_payment
+
+2015-09-15T05:09:18Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915130938
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:09:24Z
+ResponseParameter:  billNo: 20150915130938 | endTime:2015-09-15 05:09:24
+
+2015-09-15T05:09:24Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1T6jAQ/Sudvjp2+2HFMNs4AgUZ/AAuMlffahvaoqSlSaXy601quXr3JXs2O2f35ASvm9278cEqkRc8MB3LNg3G4yLJeRqYT6vx+ZV5TXGVVYyN/rC4rhjFeyZElDIjTwLzmS3z8eZy+FS7yYivXefsuAgXw8kxfAtMivObJdtT7AZQxW+5CCeomKo4i7ikGMX7wfSBXnie27tA6CDuWDUd0Y0Qxq84J7YK0rMRvu+RRztGp4Pp4NE4sFdj/iGNO5kgtHWMi5rL6pN6/iXCCWBdvdNMylL0AUSrrEwlE9JS0ziTVlxYOYcyPUSfkEaS6TNKknZlaytKBM2A8KNhXutMqIlNntAsJIP7ZJ29bJvN7HEM4rifeZP91XqxCBB0ByaKlrq249vE8Q3H7nuk7zkIbR2jnV6VLgUhlq20dhhLPebmGxCib35XUCmplIUnuSeErCkLzlSHMuBfjvCz9PBW2xBL9aC3+XgV1uHbZLv+29Sj7ezlwX89BIE2pm3QbLl6Radn+y2dBgiaAjrPofsmKvvv+3wBDVrO3w==
+                    [MD] => 2840570391052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=5f8646588f56100f5595f70f2312c2482f509c589bf1895a919b4956cd364cc3&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1T6jAQ/Sudvjp2+2HFMNs4AgUZ/AAuMlffahvaoqSlSaXy601quXr3JXs2O2f35ASvm9278cEqkRc8MB3LNg3G4yLJeRqYT6vx+ZV5TXGVVYyN/rC4rhjFeyZElDIjTwLzmS3z8eZy+FS7yYivXefsuAgXw8kxfAtMivObJdtT7AZQxW+5CCeomKo4i7ikGMX7wfSBXnie27tA6CDuWDUd0Y0Qxq84J7YK0rMRvu+RRztGp4Pp4NE4sFdj/iGNO5kgtHWMi5rL6pN6/iXCCWBdvdNMylL0AUSrrEwlE9JS0ziTVlxYOYcyPUSfkEaS6TNKknZlaytKBM2A8KNhXutMqIlNntAsJIP7ZJ29bJvN7HEM4rifeZP91XqxCBB0ByaKlrq249vE8Q3H7nuk7zkIbR2jnV6VLgUhlq20dhhLPebmGxCib35XUCmplIUnuSeErCkLzlSHMuBfjvCz9PBW2xBL9aC3+XgV1uHbZLv+29Sj7ezlwX89BIE2pm3QbLl6Radn+y2dBgiaAjrPofsmKvvv+3wBDVrO3w==
+                            [MD] => 2840570391052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=5f8646588f56100f5595f70f2312c2482f509c589bf1895a919b4956cd364cc3&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:11:15Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d230 | startTime:2015-09-15 05:11:15
+
+2015-09-15T05:11:15Z
+https://test.payu.in/_payment
+
+2015-09-15T05:11:15Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d230
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:11:19Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d230 | endTime:2015-09-15 05:11:19
+
+2015-09-15T05:11:19Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1zmzAQ/CsMr50g8EddPIcydmLHTlvCuLSZPmJxxdhGyJIgdn99JIKb9F50e7rZu9UKbs/V0WlRqrLmkRt4vusgZ3Ve8iJyf6bLmy/uLYV0JxHvfyBrJFL4jkplBTplHrliW0vJRRkrEaezXRsP29XjpwdxwkXkUkhmGzxR6AdQw+8NgFyhYZJsl3FNIWOn+Tqmo+FwMBkB6SFUKNf39I9Szoe4CX0T4cQH8nYPPKuQrufr+ZPzglsnabXzTedAujqwuuFaXuhw/BnIFUAjj3SntVBTQlSnTBQalfbMNI7aY7VXciKKl+xCikyjPbM871b29koAsQxA3jUkjc2UmXguc7qRWB9OVfxXM3lYqt9fk21xeZTPe8YiILYDckNLB34w9sNg7AT+dBRMB2bHrg5ZZVelGxWGnm+09hiEHTN7A2Fobz5WwCiRxsKr3CsCPIuao+kwBvzLgbwvfbeyNjBtHnRVLtNFszg87H/drZp5+3w+JmkRRdaYrsGyleYVg4k/7ugsAGIpSO856b+Jyf77Pq9LstGk
+                    [MD] => 5512442411052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=2c9105bd8761ae84a68de31604e5577834dada8e6e4af1941b5af1bbe713b488&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1zmzAQ/CsMr50g8EddPIcydmLHTlvCuLSZPmJxxdhGyJIgdn99JIKb9F50e7rZu9UKbs/V0WlRqrLmkRt4vusgZ3Ve8iJyf6bLmy/uLYV0JxHvfyBrJFL4jkplBTplHrliW0vJRRkrEaezXRsP29XjpwdxwkXkUkhmGzxR6AdQw+8NgFyhYZJsl3FNIWOn+Tqmo+FwMBkB6SFUKNf39I9Szoe4CX0T4cQH8nYPPKuQrufr+ZPzglsnabXzTedAujqwuuFaXuhw/BnIFUAjj3SntVBTQlSnTBQalfbMNI7aY7VXciKKl+xCikyjPbM871b29koAsQxA3jUkjc2UmXguc7qRWB9OVfxXM3lYqt9fk21xeZTPe8YiILYDckNLB34w9sNg7AT+dBRMB2bHrg5ZZVelGxWGnm+09hiEHTN7A2Fobz5WwCiRxsKr3CsCPIuao+kwBvzLgbwvfbeyNjBtHnRVLtNFszg87H/drZp5+3w+JmkRRdaYrsGyleYVg4k/7ugsAGIpSO856b+Jyf77Pq9LstGk
+                            [MD] => 5512442411052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=2c9105bd8761ae84a68de31604e5577834dada8e6e4af1941b5af1bbe713b488&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:14:21Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d231 | startTime:2015-09-15 05:14:21
+
+2015-09-15T05:14:21Z
+https://test.payu.in/_payment
+
+2015-09-15T05:14:21Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d231
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:14:25Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d231 | endTime:2015-09-15 05:14:25
+
+2015-09-15T05:14:25Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUtFymzAQ/BWG106QwFAXz6GMHeOapnGd2J2J+6bAFeMGQZCwcb6+EsFNqhfdnm52b+8E1135bB2xkUUlItt1qG2hSKusEHlk/9wurr7Y1wy2+wZxvsG0bZDBHUrJc7SKLLJPtCJzX3ndr/Pm8PQpvnfxuHxcxOskjmwG6+kDvjAYBJjmdzwgF6iZmnTPhWLA05dZsmL+aOSNfSADhBKbZM5+S2l9OFch1SccUyBv7yB4iSyZJbMf1gmfrPVRWd9VBqTPQ1q1QjVnNgo+A7kAaJtntleqlhNCZO+szhVK5Wg1gcpJK6cQpM5P/ExyrtDcPMv6lp2DrIEYBiDvHtatiaRW7IqM3e5mQb1zj4vNanV72O7uX7vwmxLFa5BHQEwFZJqWedQNaOgGlksnvj8Z6fn0eeClaZU9yDB0qPY6YKiNzPQNhKF5+ZgB7aTRK7zYvSDArq4E6got8C8G8t70zdKsIVV6oMtisY3b+M/Xw6N3M5/e8TJLvTyKzGL6AsNW6Cm6Yxr0dAYAMRRk2DkZvomO/vs+fwEQs86W
+                    [MD] => 5643389441052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b74f4153e6bb008ca75efdcef680d48cb7ea40c326a5d36bdf0eee235a51edd6&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUtFymzAQ/BWG106QwFAXz6GMHeOapnGd2J2J+6bAFeMGQZCwcb6+EsFNqhfdnm52b+8E1135bB2xkUUlItt1qG2hSKusEHlk/9wurr7Y1wy2+wZxvsG0bZDBHUrJc7SKLLJPtCJzX3ndr/Pm8PQpvnfxuHxcxOskjmwG6+kDvjAYBJjmdzwgF6iZmnTPhWLA05dZsmL+aOSNfSADhBKbZM5+S2l9OFch1SccUyBv7yB4iSyZJbMf1gmfrPVRWd9VBqTPQ1q1QjVnNgo+A7kAaJtntleqlhNCZO+szhVK5Wg1gcpJK6cQpM5P/ExyrtDcPMv6lp2DrIEYBiDvHtatiaRW7IqM3e5mQb1zj4vNanV72O7uX7vwmxLFa5BHQEwFZJqWedQNaOgGlksnvj8Z6fn0eeClaZU9yDB0qPY6YKiNzPQNhKF5+ZgB7aTRK7zYvSDArq4E6got8C8G8t70zdKsIVV6oMtisY3b+M/Xw6N3M5/e8TJLvTyKzGL6AsNW6Cm6Yxr0dAYAMRRk2DkZvomO/vs+fwEQs86W
+                            [MD] => 5643389441052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=b74f4153e6bb008ca75efdcef680d48cb7ea40c326a5d36bdf0eee235a51edd6&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:21:16Z
+RequestParameter:  billNo: 20150915130914 | startTime:2015-09-15 05:21:16
+
+2015-09-15T05:21:16Z
+https://test.payu.in/_payment
+
+2015-09-15T05:21:16Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20150915130914
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:21:21Z
+ResponseParameter:  billNo: 20150915130914 | endTime:2015-09-15 05:21:21
+
+2015-09-15T05:21:21Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUltTszAQ/SsMr45soMWWzhKn2GpxPnuzjo5vCJFSS6Ak9OKv/xKkXvYlezY7Z/fkBK+P+dbYs0pkBfdN2yKmwXhcJBlPffNpdXvZN68prtYVY6NHFtcVo/jAhIhSZmSJbwZ5+LB4EeTqfltPwln3CV7ceursep+xb1KcD5dsR7EdQBW/5SCcoWKq4nXEJcUo3gXhlHY7HafXRWgh5qwKR/RdCONXXHpEhdcjCF/3yKOc0TAIg5lxYG/GfC+NfzJBaOoYFzWX1Yl23CuEM8C62tK1lKUYAIhGWZlKJqSlpnEmrbiwMg5leohOkEaS6TNKkmZlayNKBM2A8KNhXutMqInHLKHPs+Ri9LrZnhbjcn3ojg7BYv5xP833b0MfQXdgomipQ2yXeLZr2GTg2gOnj9DUMcr1qnQpPM8iSmuLsdRjhl/A8/TN7woqJZWy8Cz3jJAdy4Iz1aEM+M4Rfpa+mWgbYqkedJLdrsb1+ONu82z3l5956oahTH1fG9M0aLZMvaLdI25DpwGCpoDWc2i/icr+fJ//GAjO1Q==
+                    [MD] => 6641370511052580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=6fbbd0bd83b39634ec857f9111614c2db0336b9932c1983c53a387911ccfefd2&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUltTszAQ/SsMr45soMWWzhKn2GpxPnuzjo5vCJFSS6Ak9OKv/xKkXvYlezY7Z/fkBK+P+dbYs0pkBfdN2yKmwXhcJBlPffNpdXvZN68prtYVY6NHFtcVo/jAhIhSZmSJbwZ5+LB4EeTqfltPwln3CV7ceursep+xb1KcD5dsR7EdQBW/5SCcoWKq4nXEJcUo3gXhlHY7HafXRWgh5qwKR/RdCONXXHpEhdcjCF/3yKOc0TAIg5lxYG/GfC+NfzJBaOoYFzWX1Yl23CuEM8C62tK1lKUYAIhGWZlKJqSlpnEmrbiwMg5leohOkEaS6TNKkmZlayNKBM2A8KNhXutMqInHLKHPs+Ri9LrZnhbjcn3ojg7BYv5xP833b0MfQXdgomipQ2yXeLZr2GTg2gOnj9DUMcr1qnQpPM8iSmuLsdRjhl/A8/TN7woqJZWy8Cz3jJAdy4Iz1aEM+M4Rfpa+mWgbYqkedJLdrsb1+ONu82z3l5956oahTH1fG9M0aLZMvaLdI25DpwGCpoDWc2i/icr+fJ//GAjO1Q==
+                            [MD] => 6641370511052580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=6fbbd0bd83b39634ec857f9111614c2db0336b9932c1983c53a387911ccfefd2&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T05:35:15Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d234 | startTime:2015-09-15 05:35:15
+
+2015-09-15T05:35:15Z
+https://test.payu.in/_payment
+
+2015-09-15T05:35:15Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d234
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T05:35:20Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d234 | endTime:2015-09-15 05:35:20
+
+2015-09-15T05:35:20Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttymzAQ/RWG97BcTAmeRRncJJhePZS2k75h2GCScIkkYvz3lQhu0n3RntXO2T06wqupfTJeiIum7yLTsWzToK7sq6arI/NnfntxaV4xzA+c6PoHlSMnhl9JiKImo6ki81Pm3lFCzVRTcn8QfArjFez5NgMRmQx3cUbPDJcBTPFbLsIZKiZeHopOMizK5036ja08zw1WCAvElnh6ze6FMN7FRWirCAMb4fUeu6Illm7SzXfjSHtj9yKNL7JCmOtY9mMn+Yl5/geEM8CRP7GDlINYA4hZ2VBLEtJS0zqSVtlbTQdDfSxOUBeS9FlU1byy9SAGBM2A8KZhN+pMqIlTU7G+9Xb7JAn+fL7z48nOTnn7mI/8VxCnEYLuwErRMtd2fDt0fMNx1ra/dgOEuY5Fq1dlmQhDy1ZaF4yDHhO/gjDUN+8rqJRwZeFZ7hkhTUPfkepQBvzLEd6W/rjVNpRSPei2uc1vxpvH5OG3lw5iezlWRx5HkTZmbtBsjXpFJ7D9mU4DBE0Bi+ewfBOV/fd9/gIufc9H
+                    [MD] => 1892714051152580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=f0cd57397f8445f53b4f38e98659c68c65903eded4b7ea301f50c20c2d3b0a0c&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttymzAQ/RWG97BcTAmeRRncJJhePZS2k75h2GCScIkkYvz3lQhu0n3RntXO2T06wqupfTJeiIum7yLTsWzToK7sq6arI/NnfntxaV4xzA+c6PoHlSMnhl9JiKImo6ki81Pm3lFCzVRTcn8QfArjFez5NgMRmQx3cUbPDJcBTPFbLsIZKiZeHopOMizK5036ja08zw1WCAvElnh6ze6FMN7FRWirCAMb4fUeu6Illm7SzXfjSHtj9yKNL7JCmOtY9mMn+Yl5/geEM8CRP7GDlINYA4hZ2VBLEtJS0zqSVtlbTQdDfSxOUBeS9FlU1byy9SAGBM2A8KZhN+pMqIlTU7G+9Xb7JAn+fL7z48nOTnn7mI/8VxCnEYLuwErRMtd2fDt0fMNx1ra/dgOEuY5Fq1dlmQhDy1ZaF4yDHhO/gjDUN+8rqJRwZeFZ7hkhTUPfkepQBvzLEd6W/rjVNpRSPei2uc1vxpvH5OG3lw5iezlWRx5HkTZmbtBsjXpFJ7D9mU4DBE0Bi+ewfBOV/fd9/gIufc9H
+                            [MD] => 1892714051152580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=f0cd57397f8445f53b4f38e98659c68c65903eded4b7ea301f50c20c2d3b0a0c&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T07:38:06Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d235 | startTime:2015-09-15 07:38:06
+
+2015-09-15T07:38:06Z
+https://test.payu.in/_payment
+
+2015-09-15T07:38:06Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d235
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T07:38:10Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d235 | endTime:2015-09-15 07:38:10
+
+2015-09-15T07:38:10Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1TozAU/SsMr44kUGhL5xKnVSt1a7db6zj6FkOkqARMQr9+/SZIVzcvuefm5tx7cgIX+/LD2XKpikokru9h1+GCVVkh8sR9WE/Ph+4FgfVGcn51z1kjOYE7rhTNuVNkiRtGc5U+s/5dHjabutS7YL4aTtKHad/cJ7Acr/gnga4BMfxeAOgEDZNkGyo0Aco+J7MFCXu9YBAC6iCUXM6uyKtSzo91HmOz4gEG9HUOgpaczCazyW9nx1+c5VY7c50BavPAqkZoeSC9qA/oBKCRH2Sjda1GCKlWWZ1rrrRnugmuPVZ5hUB1vqMHlFPN7U6zrB3Ze1M1IMsA6FvDsrGRMh33RUZuiuCAzp7KfCH92/uzSIdPivm79Nc4TwDZCsgMLQmwH+HYjxzsj/Bw5A8AtXmgpR2VrFQce9ho7TDUts34C8SxPfmZAaNEGgtPck8I+L6uBDcVxoB/MaDvoS9TawPT5kHTYrq+bq7fb94eF8dt8NzfHunxT5JYY9oCy1aYV/QHOGrpLABkKVDnOeq+iYn++z5/AbJUzpc=
+                    [MD] => 7667738081352580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=4cc2a707e80edeefce555580ac0e29b923b35f1272f26a47e31c038daab7e724&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1TozAU/SsMr44kUGhL5xKnVSt1a7db6zj6FkOkqARMQr9+/SZIVzcvuefm5tx7cgIX+/LD2XKpikokru9h1+GCVVkh8sR9WE/Ph+4FgfVGcn51z1kjOYE7rhTNuVNkiRtGc5U+s/5dHjabutS7YL4aTtKHad/cJ7Acr/gnga4BMfxeAOgEDZNkGyo0Aco+J7MFCXu9YBAC6iCUXM6uyKtSzo91HmOz4gEG9HUOgpaczCazyW9nx1+c5VY7c50BavPAqkZoeSC9qA/oBKCRH2Sjda1GCKlWWZ1rrrRnugmuPVZ5hUB1vqMHlFPN7U6zrB3Ze1M1IMsA6FvDsrGRMh33RUZuiuCAzp7KfCH92/uzSIdPivm79Nc4TwDZCsgMLQmwH+HYjxzsj/Bw5A8AtXmgpR2VrFQce9ho7TDUts34C8SxPfmZAaNEGgtPck8I+L6uBDcVxoB/MaDvoS9TawPT5kHTYrq+bq7fb94eF8dt8NzfHunxT5JYY9oCy1aYV/QHOGrpLABkKVDnOeq+iYn++z5/AbJUzpc=
+                            [MD] => 7667738081352580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=4cc2a707e80edeefce555580ac0e29b923b35f1272f26a47e31c038daab7e724&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T07:53:22Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d240 | startTime:2015-09-15 07:53:22
+
+2015-09-15T07:53:22Z
+https://test.payu.in/_payment
+
+2015-09-15T07:53:22Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d240
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T07:53:27Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d240 | endTime:2015-09-15 07:53:27
+
+2015-09-15T07:53:27Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttSgzAQ/RWGV0cWSrGls8Sh2lq01aqt4/iGECm9BEhCW//eBKmXfcmezc7ZPTnBy+Nua+wpF3nBAtOxbNOgLCnSnGWBuVyMz/vmJcHFilN6/UyTmlOCMypEnFEjTwMTRLWeCK+YnEE6m56pvuXr69v4pX97CEyC8/CJVgTbAUTxWx2EE1RMPFnFTBKMk2oY3ZOu63Z6XYQW4o7y6Jp8CGH8iXPfVuH3bITve2TxjpJoGA0fjAN9N+Z7aUxlitDUMSlqJvkncb0LhBPAmm/JSspSDABEo6zMJBXSUtMYlVZSWDmDMjvEn5DFkuozTtNmZWstSgTNgPCrYV7rTKiJxzwlj9vNaPo4mlVRltxlXcE8t+LhxXIKYYCgOzBVtKRjO57tO55hO4OOO3CV+qaO8U6vSp6E71u20tpiLPWY8Bv4vr75W0GlhCsLT3JPCOmxLBhVHcqAnxzhd+mribYhkepBJ/l4MapHm5v10nuYZVcbufL6YRBoY5oGzZarV3R6ttfQaYCgKaD1HNpvorJ/3+cL9pjONA==
+                    [MD] => 1792050231352580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=9b5cda691ff8801ec0bd8e7446e66276ec32453e88908ecd81aa11bec64f64ad&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttSgzAQ/RWGV0cWSrGls8Sh2lq01aqt4/iGECm9BEhCW//eBKmXfcmezc7ZPTnBy+Nua+wpF3nBAtOxbNOgLCnSnGWBuVyMz/vmJcHFilN6/UyTmlOCMypEnFEjTwMTRLWeCK+YnEE6m56pvuXr69v4pX97CEyC8/CJVgTbAUTxWx2EE1RMPFnFTBKMk2oY3ZOu63Z6XYQW4o7y6Jp8CGH8iXPfVuH3bITve2TxjpJoGA0fjAN9N+Z7aUxlitDUMSlqJvkncb0LhBPAmm/JSspSDABEo6zMJBXSUtMYlVZSWDmDMjvEn5DFkuozTtNmZWstSgTNgPCrYV7rTKiJxzwlj9vNaPo4mlVRltxlXcE8t+LhxXIKYYCgOzBVtKRjO57tO55hO4OOO3CV+qaO8U6vSp6E71u20tpiLPWY8Bv4vr75W0GlhCsLT3JPCOmxLBhVHcqAnxzhd+mribYhkepBJ/l4MapHm5v10nuYZVcbufL6YRBoY5oGzZarV3R6ttfQaYCgKaD1HNpvorJ/3+cL9pjONA==
+                            [MD] => 1792050231352580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=9b5cda691ff8801ec0bd8e7446e66276ec32453e88908ecd81aa11bec64f64ad&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T07:53:57Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d41 | startTime:2015-09-15 07:53:57
+
+2015-09-15T07:53:57Z
+https://test.payu.in/_payment
+
+2015-09-15T07:53:57Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d41
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T07:54:02Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d41 | endTime:2015-09-15 07:54:02
+
+2015-09-15T07:54:02Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1z2jAQ/Csev8eSjV1HzFkZCNDQ0gZcaJtHY1+FIf6IJQPh11dyTJPei25PN3u3WsHduXi2jtjIvCoj23WobWGZVlleisjerGc3t/Ydh/WuQZz8wLRtkMM3lDIRaOVZZO8Xk9Em+OotLqvNcVscn+qAhcXu9nH9FNkclqMYXzj0A7jmdzwgV6iZmnSXlIpDkr6M59+5Pxh4oQ+kh1BgM5/wP1JaH+KGUR0spEDe7qFMCuTz8Xz8aJ1way2PylqoDEhXh7RqS9W88kHwCcgVQNs8851StRwSIjtltVAolaOnlaictHLyktTilLwSkSg0Z5Jl3crOXtZADAOQdw3L1mRSTzznGa8O51gM3M0qXP6cqcu9mFymsSjSw9SPgJgOyDQt96gbUOYGFnWHnj+kDEhXh6Qwq/JYMuZQrbXHUJsxozfAmLn5WAGtpNEWXuVeEeC5rkrUHdqAfzmQ96XvH4wNqdIP+pDP1tN2evi8/9Vi/GXlx9vf4hRFxpiuwbDl+hXdkAYdnQFADAXpPSf9N9HZf9/nL7Fqzzs=
+                    [MD] => 3948234241352580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=8d8e9ec61c2dbed1b24792e7a5866020ed8bcfe94a5825a1465e1742e0e758ec&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1z2jAQ/Csev8eSjV1HzFkZCNDQ0gZcaJtHY1+FIf6IJQPh11dyTJPei25PN3u3WsHduXi2jtjIvCoj23WobWGZVlleisjerGc3t/Ydh/WuQZz8wLRtkMM3lDIRaOVZZO8Xk9Em+OotLqvNcVscn+qAhcXu9nH9FNkclqMYXzj0A7jmdzwgV6iZmnSXlIpDkr6M59+5Pxh4oQ+kh1BgM5/wP1JaH+KGUR0spEDe7qFMCuTz8Xz8aJ1way2PylqoDEhXh7RqS9W88kHwCcgVQNs8851StRwSIjtltVAolaOnlaictHLyktTilLwSkSg0Z5Jl3crOXtZADAOQdw3L1mRSTzznGa8O51gM3M0qXP6cqcu9mFymsSjSw9SPgJgOyDQt96gbUOYGFnWHnj+kDEhXh6Qwq/JYMuZQrbXHUJsxozfAmLn5WAGtpNEWXuVeEeC5rkrUHdqAfzmQ96XvH4wNqdIP+pDP1tN2evi8/9Vi/GXlx9vf4hRFxpiuwbDl+hXdkAYdnQFADAXpPSf9N9HZf9/nL7Fqzzs=
+                            [MD] => 3948234241352580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=8d8e9ec61c2dbed1b24792e7a5866020ed8bcfe94a5825a1465e1742e0e758ec&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-09-15T07:59:41Z
+RequestParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d42 | startTime:2015-09-15 07:59:41
+
+2015-09-15T07:59:41Z
+https://test.payu.in/_payment
+
+2015-09-15T07:59:41Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => a67ddd7e0e8a449ab1ccc7e4dd26b8d42
+    [amount] => 99
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-09-15T07:59:46Z
+ResponseParameter:  billNo: a67ddd7e0e8a449ab1ccc7e4dd26b8d42 | endTime:2015-09-15 07:59:46
+
+2015-09-15T07:59:46Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl1z2jAQ/Csev3bi80dcIuasTCgQaKClhDbTRyMLY4JlR5Ix6a+v5JgmvRfdnm72brXC23N5dE5cqqISiRt4vutwwaqsEHni/txMr27cW4qbveR8/MhZIznFJVcqzblTZIk7Kx8PJLh5kL/Gx3MJn8Jo94NV08luyxKX4upuzV8o9gOo4fdChAs0TJLtU6EppuxlNP9Gr6MoHFwj9BBLLudjulPK+RBXxDdBBj7C2z2KtOR0PpqPvjst3zqrk3YWOkPo6siqRmj5SqP4M8IFYCOPdK91rYYAqlNW55or7ZlpgmuPVV4hoM7b9BXyVHN7plnWrewdVI1gGRDeNawamykz8Vxk1C//iMWyWrTP4r79CpOxYk+rTbGugmWCYDswM7Q09IPYJ0Hs+MEwJMM4QujqmJZ2VbpWhHi+0dpjrO2YuzdAiL35WEGjRBoLL3IvCPm5rgQ3HcaAfznC+9JfZtYGps2DzorpZtJMnu8PTwt5an5nErZ5myTWmK7BshXmFYOBH3d0FiBYCug9h/6bmOy/7/MXpfbPnQ==
+                    [MD] => 3519670291352580
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=6201bcc0dada52d24c26b98ddb5e60c4d54b67bd9c7192882d417b9a93ac10e6&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl1z2jAQ/Csev3bi80dcIuasTCgQaKClhDbTRyMLY4JlR5Ix6a+v5JgmvRfdnm72brXC23N5dE5cqqISiRt4vutwwaqsEHni/txMr27cW4qbveR8/MhZIznFJVcqzblTZIk7Kx8PJLh5kL/Gx3MJn8Jo94NV08luyxKX4upuzV8o9gOo4fdChAs0TJLtU6EppuxlNP9Gr6MoHFwj9BBLLudjulPK+RBXxDdBBj7C2z2KtOR0PpqPvjst3zqrk3YWOkPo6siqRmj5SqP4M8IFYCOPdK91rYYAqlNW55or7ZlpgmuPVV4hoM7b9BXyVHN7plnWrewdVI1gGRDeNawamykz8Vxk1C//iMWyWrTP4r79CpOxYk+rTbGugmWCYDswM7Q09IPYJ0Hs+MEwJMM4QujqmJZ2VbpWhHi+0dpjrO2YuzdAiL35WEGjRBoLL3IvCPm5rgQ3HcaAfznC+9JfZtYGps2DzorpZtJMnu8PTwt5an5nErZ5myTWmK7BshXmFYOBH3d0FiBYCug9h/6bmOy/7/MXpfbPnQ==
+                            [MD] => 3519670291352580
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=6201bcc0dada52d24c26b98ddb5e60c4d54b67bd9c7192882d417b9a93ac10e6&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+

@@ -1,0 +1,45 @@
+2014-07-01T13:49:57Z
+RequestParameter:  referenceId: CAD-c64131816345
+
+2014-07-01T13:49:57Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=CAD-c64131816345&Currency=USD&Amount=12.00&CardNumber=4100000000000006&ExpiryMM=12&ExpiryYY=2014&Csc=123&CardHolder=Gerald%20West&ProductName=
+
+2014-07-01T13:50:04Z
+ResponseParameter:  referenceId: CAD-c64131816345
+
+2014-07-01T13:50:04Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>CAD-c64131816345</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Format of expiry year is YY)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-07-01T13:53:27Z
+RequestParameter:  referenceId: CAD-d4b5511a3e3b
+
+2014-07-01T13:53:27Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=CAD-d4b5511a3e3b&Currency=USD&Amount=12.00&CardNumber=4100000000000006&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Gerald%20West&ProductName=
+
+2014-07-01T13:53:28Z
+ResponseParameter:  referenceId: CAD-d4b5511a3e3b
+
+2014-07-01T13:53:28Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>CAD-d4b5511a3e3b</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140701215341</ResponseTime>
+<TransactionID>20140701000006300030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

@@ -1,0 +1,321 @@
+2016-05-24T03:24:52Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T03:24:52Z
+RequestParameter:  billNo: 20160524110552
+
+2016-05-24T03:24:52Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524110552
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524110552
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T03:24:54Z
+ResponseParameter:  billNo: 20160524110552
+
+2016-05-24T03:24:54Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5ZuO5QzzlHpA9w</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5ZuO5QzzlHpA9w/callback/638a148802b7e8a849a1bdd242247dabbcf8a8c1/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T03:28:31Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T03:28:31Z
+RequestParameter:  billNo: 20160524110531
+
+2016-05-24T03:28:31Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524110531
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524110531
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T03:28:32Z
+ResponseParameter:  billNo: 20160524110531
+
+2016-05-24T03:28:32Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5ZuRwPxxJpM6P7</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5ZuRwPxxJpM6P7/callback/20b4dc79beddda4ad5b5e3848c7a5edc874f6bf1/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T03:36:12Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T03:36:12Z
+RequestParameter:  billNo: 20160524110512
+
+2016-05-24T03:36:12Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524110512
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524110512
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T03:36:14Z
+ResponseParameter:  billNo: 20160524110512
+
+2016-05-24T03:36:14Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5Zua3jFnWxkgaU</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5Zua3jFnWxkgaU/callback/01ae735d2a1652030967811d2a7d2f5fc017a7e2/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T03:38:58Z
+ResponseParameter CallbacUrl: billNo: 20160524110512
+
+2016-05-24T03:38:58Z
+Array
+(
+    [razorpay_payment_id] => pay_5Zua3jFnWxkgaU
+)
+
+
+2016-05-24T03:55:29Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T03:55:29Z
+RequestParameter:  billNo: 20160524110529
+
+2016-05-24T03:55:29Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524110529
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524110529
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T03:55:31Z
+ResponseParameter:  billNo: 20160524110529
+
+2016-05-24T03:55:31Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5ZuuQsIsJn8Fv4</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5ZuuQsIsJn8Fv4/callback/fe17306733ffef10fba1877c843084d4dca5dbf0/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T03:55:49Z
+ResponseParameter CallbacUrl: billNo: 20160524110529
+
+2016-05-24T03:55:49Z
+Array
+(
+    [error] => Array
+        (
+            [code] => BAD_REQUEST_ERROR
+            [description] => Payment failed
+        )
+
+)
+
+
+2016-05-24T03:59:05Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T03:59:05Z
+RequestParameter:  billNo: 20160524110505
+
+2016-05-24T03:59:05Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524110505
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524110505
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T03:59:06Z
+ResponseParameter:  billNo: 20160524110505
+
+2016-05-24T03:59:06Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5ZuyEAsQlYm0qz</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5ZuyEAsQlYm0qz/callback/598e930f002fba9ca2e457534d38bfa1457f8277/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T03:59:22Z
+ResponseParameter CallbacUrl: billNo: 20160524110505
+
+2016-05-24T03:59:22Z
+Array
+(
+    [razorpay_payment_id] => pay_5ZuyEAsQlYm0qz
+)
+
+
+2016-05-24T05:34:42Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T05:34:42Z
+RequestParameter:  billNo: 20160524130542
+
+2016-05-24T05:34:42Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524130542
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524130542
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T05:34:44Z
+ResponseParameter:  billNo: 20160524130542
+
+2016-05-24T05:34:44Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5ZwbEz7T2I0SD7</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5ZwbEz7T2I0SD7/callback/eae47935c1d9d1cff5207a735193dfd07a3ab43e/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T05:35:00Z
+ResponseParameter CallbacUrl: billNo: 20160524130542
+
+2016-05-24T05:35:00Z
+Array
+(
+    [razorpay_payment_id] => pay_5ZwbEz7T2I0SD7
+)
+
+
+2016-05-24T06:00:07Z
+Endpoint: https://api.razorpay.com/v1/payments
+
+2016-05-24T06:00:07Z
+RequestParameter:  billNo: 20160524140507
+
+2016-05-24T06:00:07Z
+Array
+(
+    [amount] => 100
+    [currency] => INR
+    [email] => test@test.com
+    [contact] => 9090909090
+    [method] => card
+    [callback_url] => https://beta.3dsecure.ecommsecure.com/acs/beta1/002?billNo=20160524140507
+    [card[name]] => Test Cardholder
+    [card[number]] => 4012001037141112
+    [card[expiry_month]] => 07
+    [card[expiry_year]] => 17
+    [card[cvv]] => 123
+    [notes[billNo]] => 20160524140507
+    [notes[firstName]] => Test
+    [notes[lastName]] => Cardholder
+)
+
+
+2016-05-24T06:00:08Z
+ResponseParameter:  billNo: 20160524140507
+
+2016-05-24T06:00:08Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [result] => <myform action='https://api.razorpay.com/v1/gateway/mocksharp/payment?key_id=rzp_test_m063HCwZFXbXJJ'><action>authorize</action><amount>100</amount><method>card</method><payment_id>5Zx24j9DfBoZcG</payment_id><callback_url>https://api.razorpay.com/v1/payments/pay_5Zx24j9DfBoZcG/callback/0d3f74dd57ce36410ed30ab8751467d0fa355e50/rzp_test_m063HCwZFXbXJJ</callback_url><card_number>4012001037141112</card_number></myform>
+)
+
+
+2016-05-24T06:00:22Z
+ResponseParameter CallbacUrl: billNo: 20160524140507
+
+2016-05-24T06:00:22Z
+Array
+(
+    [razorpay_payment_id] => pay_5Zx24j9DfBoZcG
+)
+
+

@@ -1,0 +1,64 @@
+2015-04-10T03:36:46Z
+RequestParameter:  billNo: qoXyb1428574680
+
+2015-04-10T03:36:46Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210078272&amount=10
+
+2015-04-10T03:36:48Z
+ResponseParameter:  billNo: qoXyb1428574680
+
+2015-04-10T03:36:48Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-04-10T03:40:32Z
+RequestParameter:  billNo: qoXyb1428574680
+
+2015-04-10T03:40:32Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=OnlineRefund&payRef=1210078272&amount=10
+
+2015-04-10T03:40:32Z
+ResponseParameter:  billNo: qoXyb1428574680
+
+2015-04-10T03:40:32Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-04-10T03:49:18Z
+RequestParameter:  billNo: zdAoY1428637715
+
+2015-04-10T03:49:18Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210078298&amount=10
+
+2015-04-10T03:49:18Z
+ResponseParameter:  billNo: zdAoY1428637715
+
+2015-04-10T03:49:18Z
+resultCode=0&orderStatus=Accepted&ref=zdAoY1428637715&payRef=1210078298&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-04-10T05:38:19Z
+RequestParameter:  billNo: 7LbKl1428643401
+
+2015-04-10T05:38:19Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210078302&amount=10
+
+2015-04-10T05:38:20Z
+ResponseParameter:  billNo: 7LbKl1428643401
+
+2015-04-10T05:38:20Z
+resultCode=0&orderStatus=Accepted&ref=7LbKl1428643401&payRef=1210078302&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+

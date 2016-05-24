@@ -1,0 +1,351 @@
+2015-12-10T05:07:10Z
+RequestParameter:  billNo: 20151210131201 | startTime:2015-12-10 05:07:10
+
+2015-12-10T05:07:10Z
+https://test.payu.in/_payment
+
+2015-12-10T05:07:10Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151210131201
+    [amount] => 21
+    [productinfo] => Samsung 32 Inch LCD TV Model 3210,LG 8gb SD Model 8001
+    [firstname] => Firstname
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Firstname Lastname
+    [ccvv] => ***
+    [ccexpmon] => 10
+    [ccexpyr] => 17
+)
+
+
+2015-12-10T05:07:11Z
+ResponseParameter:  billNo: 20151210131201 | endTime:2015-12-10 05:07:11
+
+2015-12-10T05:07:11Z
+Array
+(
+    [rc] => 999
+    [message] => failed
+    [payu_data] =>  !ERROR!-GW00854-Invalid Expiration Date.Error Code: GW00854
+    [data] => stdClass Object
+        (
+            [status] => failed
+            [error] =>  !ERROR!-GW00854-Invalid Expiration Date.Error Code: GW00854
+        )
+
+)
+
+
+2015-12-10T05:10:57Z
+RequestParameter:  billNo: 20151210131212 | startTime:2015-12-10 05:10:57
+
+2015-12-10T05:10:57Z
+https://test.payu.in/_payment
+
+2015-12-10T05:10:57Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151210131212
+    [amount] => 21
+    [productinfo] => Samsung 32 Inch LCD TV Model 3210,LG 8gb SD Model 8001
+    [firstname] => Firstname
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Firstname Lastname
+    [ccvv] => ***
+    [ccexpmon] => 10
+    [ccexpyr] => 2017
+)
+
+
+2015-12-10T05:11:00Z
+ResponseParameter:  billNo: 20151210131212 | endTime:2015-12-10 05:11:00
+
+2015-12-10T05:11:00Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttS4zAM/ZVMXneI4iQltKOYobTQ7EDJdMtsX01iUrfkgu20Zb9+7ZAurF6sI1tHOpLx+lS9OQculWjqxCWe7zq8zptC1GXiPq/vLq7ca4rrreR89ovnneQUH7lSrOSOKBI3uroV+2jTqh/6Z3hoFTyOV2yZ/Ym3Jp9idrPi7xSHAtTwewHCGRommW9ZrSmy/H2aLmkUhkEcIQwQKy7TGX1VyvlmF2Pf2Dj2ET7vsWYVp+k0nT45R/7iZAftPOgCoY9j3nS1lh80HF0inAF28o1utW7VBED1ytpSc6U9U63m2ssbT9TQlkf2ASXT3J6sKPqWvZ1qESwDwpeGrLOeMhVPoqBktt+0MNots6dy7L/E1SvZ3GfFc7iYJwj2BRaGlgY+GZGA+A7xJxGZBEZ9H0dW2VbpSgVmbEbrgLG1ZW4+gckzN98jaJRIs8Kz3DNCfmqbmtschH8+wlfTtwu7hlybgS7E3Xrezff3u9/y8ijTPF4Iv0wSu5j+gWUTZookJn5PZwGCpYBh5zB8E+P9933+Aoe3zeY=
+                    [MD] => 1865115411053440
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=e5bb41b4e33cd34222dd73ff5652747c61d49692ae1bc15b307314d01a1ac4e0&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttS4zAM/ZVMXneI4iQltKOYobTQ7EDJdMtsX01iUrfkgu20Zb9+7ZAurF6sI1tHOpLx+lS9OQculWjqxCWe7zq8zptC1GXiPq/vLq7ca4rrreR89ovnneQUH7lSrOSOKBI3uroV+2jTqh/6Z3hoFTyOV2yZ/Ym3Jp9idrPi7xSHAtTwewHCGRommW9ZrSmy/H2aLmkUhkEcIQwQKy7TGX1VyvlmF2Pf2Dj2ET7vsWYVp+k0nT45R/7iZAftPOgCoY9j3nS1lh80HF0inAF28o1utW7VBED1ytpSc6U9U63m2ssbT9TQlkf2ASXT3J6sKPqWvZ1qESwDwpeGrLOeMhVPoqBktt+0MNots6dy7L/E1SvZ3GfFc7iYJwj2BRaGlgY+GZGA+A7xJxGZBEZ9H0dW2VbpSgVmbEbrgLG1ZW4+gckzN98jaJRIs8Kz3DNCfmqbmtschH8+wlfTtwu7hlybgS7E3Xrezff3u9/y8ijTPF4Iv0wSu5j+gWUTZookJn5PZwGCpYBh5zB8E+P9933+Aoe3zeY=
+                            [MD] => 1865115411053440
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=e5bb41b4e33cd34222dd73ff5652747c61d49692ae1bc15b307314d01a1ac4e0&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-12-10T06:23:20Z
+RequestParameter:  billNo: 20151210131200 | startTime:2015-12-10 06:23:20
+
+2015-12-10T06:23:20Z
+https://test.payu.in/_payment
+
+2015-12-10T06:23:20Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151210131200
+    [amount] => 21
+    [productinfo] => Samsung 32 Inch LCD TV Model 3210,LG 8gb SD Model 8001
+    [firstname] => Firstname
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Firstname Lastname
+    [ccvv] => ***
+    [ccexpmon] => 10
+    [ccexpyr] => 2017
+)
+
+
+2015-12-10T06:23:23Z
+ResponseParameter:  billNo: 20151210131200 | endTime:2015-12-10 06:23:23
+
+2015-12-10T06:23:23Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUttyozAM/RWG104Rl6ShGeFOcy2zm2yaTfehbwS0hLQYYptc9uvXpmTb1Yt1ZOtIRzI+nMt360hCFhWPbM9xbYt4WmUFzyP7ZTO7De0HhpudIJr8pLQRxHBBUiY5WUUW2ftZsA6L6UFWSxlPTos3PlbLsnpdNDqf4epxTQeGXQGm+R0f4Qo1k0h3CVcMk/QwipesFwT+oIfQQSxJxBP2W0rri93eu9ruBy7Cxz3ypCQWj+LRD+tEW2t1VNZ3lSG0cUyrhitxYUH/DuEKsBHvbKdULYcAslVW54qkcnQ1TspJK6fgUOen5AJ5osicSZa1LTt7WSMYBoRPDavGeFJXPBcZ+3UTfNsvlq9qPp8X5WW7bdze5ngT8vFzhGBeYKZpme96fc/3XMvzhv1g2AsR2jgmpWmVraWvx6a1dhhrU+bxA+g8ffM1glqJ0Cu8yr0ipHNdcTI5CP98hM+mx09mDanSA30qZptpM32b719I3IWTP9naHzxHkVlM+8CwFXqK3sBzWzoDEAwFdDuH7pto77/v8xfFM87/
+                    [MD] => 1603762531153440
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=df4badc0623d871c11c4eef1ac62fab90d825e9082511ad2934b8f6d7e6a7e45&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUttyozAM/RWG104Rl6ShGeFOcy2zm2yaTfehbwS0hLQYYptc9uvXpmTb1Yt1ZOtIRzI+nMt360hCFhWPbM9xbYt4WmUFzyP7ZTO7De0HhpudIJr8pLQRxHBBUiY5WUUW2ftZsA6L6UFWSxlPTos3PlbLsnpdNDqf4epxTQeGXQGm+R0f4Qo1k0h3CVcMk/QwipesFwT+oIfQQSxJxBP2W0rri93eu9ruBy7Cxz3ypCQWj+LRD+tEW2t1VNZ3lSG0cUyrhitxYUH/DuEKsBHvbKdULYcAslVW54qkcnQ1TspJK6fgUOen5AJ5osicSZa1LTt7WSMYBoRPDavGeFJXPBcZ+3UTfNsvlq9qPp8X5WW7bdze5ngT8vFzhGBeYKZpme96fc/3XMvzhv1g2AsR2jgmpWmVraWvx6a1dhhrU+bxA+g8ffM1glqJ0Cu8yr0ipHNdcTI5CP98hM+mx09mDanSA30qZptpM32b719I3IWTP9naHzxHkVlM+8CwFXqK3sBzWzoDEAwFdDuH7pto77/v8xfFM87/
+                            [MD] => 1603762531153440
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=df4badc0623d871c11c4eef1ac62fab90d825e9082511ad2934b8f6d7e6a7e45&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+
+2015-12-10T07:11:59Z
+RequestParameter:  billNo: 20151210151227 | startTime:2015-12-10 07:11:59
+
+2015-12-10T07:11:59Z
+https://test.payu.in/_payment
+
+2015-12-10T07:11:59Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151210151227
+    [amount] => 21
+    [productinfo] => Samsung 32 Inch LCD TV Model 3210,LG 8gb SD Model 8001
+    [firstname] => Firstname
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 5************346
+    [ccname] => Firstname Lastname
+    [ccvv] => ***
+    [ccexpmon] => 10
+    [ccexpyr] => 2017
+)
+
+
+2015-12-10T07:12:24Z
+ResponseParameter:  billNo: 20151210151227 | endTime:2015-12-10 07:12:24
+
+2015-12-10T07:12:24Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [form_post_vars] => stdClass Object
+                (
+                    [transactionId] => 6e8ade4b07dde4b86be6b99e781b011c198a5420446a8c0696d66ab39875edf5
+                    [pgId] => 8
+                    [eci] => 7
+                    [nonEnrolled] => 1
+                    [nonDomestic] => 0
+                    [bank] => CC
+                    [cccat] => creditcard
+                    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+                    [ccname] => fdaae026ee6b1be892d576f003e93ca97570e7c874bc768bac6898457add6f09
+                    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+                    [ccexpmon] => e9482692288ebd638bcfdfef92207fd4ffa543d8cae90b1c4baaa8380cf7ef39
+                    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+                    [is_seamless] => 1
+                )
+
+            [post_uri] => https://test.payu.in/hdfc_not_enrolled
+            [enrolled] => 0
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [form_post_vars] => stdClass Object
+                        (
+                            [transactionId] => 6e8ade4b07dde4b86be6b99e781b011c198a5420446a8c0696d66ab39875edf5
+                            [pgId] => 8
+                            [eci] => 7
+                            [nonEnrolled] => 1
+                            [nonDomestic] => 0
+                            [bank] => CC
+                            [cccat] => creditcard
+                            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+                            [ccname] => fdaae026ee6b1be892d576f003e93ca97570e7c874bc768bac6898457add6f09
+                            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+                            [ccexpmon] => e9482692288ebd638bcfdfef92207fd4ffa543d8cae90b1c4baaa8380cf7ef39
+                            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+                            [is_seamless] => 1
+                        )
+
+                    [post_uri] => https://test.payu.in/hdfc_not_enrolled
+                    [enrolled] => 0
+                )
+
+        )
+
+)
+
+
+2015-12-10T08:05:29Z
+RequestParameter:  billNo: 20151210161249 | startTime:2015-12-10 08:05:29
+
+2015-12-10T08:05:29Z
+https://test.payu.in/_payment
+
+2015-12-10T08:05:29Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151210161249
+    [amount] => 21
+    [productinfo] => Samsung 32 Inch LCD TV Model 3210,LG 8gb SD Model 8001
+    [firstname] => Firstname
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Firstname Lastname
+    [ccvv] => ***
+    [ccexpmon] => 10
+    [ccexpyr] => 2017
+)
+
+
+2015-12-10T08:05:33Z
+ResponseParameter:  billNo: 20151210161249 | endTime:2015-12-10 08:05:33
+
+2015-12-10T08:05:33Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [payu_data] => stdClass Object
+        (
+            [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+            [form_post_vars] => stdClass Object
+                (
+                    [PaReq] => eJxVUl13mzAM/Ssc3ov5CKHJEe6Btkno2iVLs5zTvbnGA9piqG1Isl8/m5K184t1JftKVxJcHes3q2dCVg2Pbc9xbYtx2uQVL2L7525xcWlfYdiVgrGbR0Y7wTA8MClJwawqj+39svu1Wq/bovIPsydaPZSv4fN6Mk3UU2xj2CRb9o5hTIA1v+MDOkPNJGhJuMJA6HuafceTIPCjCaARQs1EdoN/S2l9ORczV59Z5AL6iAMnNcNZmqVr68CerU2vrHuVAxr8QJuOK3HCQTgFdAbQiTdcKtXKOUJyUNYWiknl6GycKYc2TsVRWxzICRVEMXOTPB9Kdl5kC8gwAPrUsOmMJXXGY5XjfPstoMt+uunTMvlzv79WwWX/SNKV+BEDMi8g17TYd73Q8z3Xcr15EM7DCNDgB1KbUvFW+rptWuuIoTVpkg+g/+nIVw9oJUKP8Cz3jIAd24Yz8wfQPxvQZ9HXKzMGqnRDV9Vid9vdvi5f9ovoLqtPmZfdJXFsBjM8MGyV7qIXee5AZwAgQ4HGmaNxTbT13/r8BYmozlg=
+                    [MD] => 1528128351353440
+                    [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1b60b98d0e6d72a21f87d62a0a4b82f8d9bdc0f6a9cdf2d71de688a8c796763e&action=hdfc2_3dsresponse
+                )
+
+            [enrolled] => 1
+        )
+
+    [data] => stdClass Object
+        (
+            [status] => success
+            [response] => stdClass Object
+                (
+                    [post_uri] => https://dropit.3dsecure.net:9443/PIT/ACS
+                    [form_post_vars] => stdClass Object
+                        (
+                            [PaReq] => eJxVUl13mzAM/Ssc3ov5CKHJEe6Btkno2iVLs5zTvbnGA9piqG1Isl8/m5K184t1JftKVxJcHes3q2dCVg2Pbc9xbYtx2uQVL2L7525xcWlfYdiVgrGbR0Y7wTA8MClJwawqj+39svu1Wq/bovIPsydaPZSv4fN6Mk3UU2xj2CRb9o5hTIA1v+MDOkPNJGhJuMJA6HuafceTIPCjCaARQs1EdoN/S2l9ORczV59Z5AL6iAMnNcNZmqVr68CerU2vrHuVAxr8QJuOK3HCQTgFdAbQiTdcKtXKOUJyUNYWiknl6GycKYc2TsVRWxzICRVEMXOTPB9Kdl5kC8gwAPrUsOmMJXXGY5XjfPstoMt+uunTMvlzv79WwWX/SNKV+BEDMi8g17TYd73Q8z3Xcr15EM7DCNDgB1KbUvFW+rptWuuIoTVpkg+g/+nIVw9oJUKP8Cz3jIAd24Yz8wfQPxvQZ9HXKzMGqnRDV9Vid9vdvi5f9ovoLqtPmZfdJXFsBjM8MGyV7qIXee5AZwAgQ4HGmaNxTbT13/r8BYmozlg=
+                            [MD] => 1528128351353440
+                            [TermUrl] => https://test.payu.in/_hdfc_response.php?txtid=1b60b98d0e6d72a21f87d62a0a4b82f8d9bdc0f6a9cdf2d71de688a8c796763e&action=hdfc2_3dsresponse
+                        )
+
+                    [enrolled] => 1
+                )
+
+        )
+
+)
+
+

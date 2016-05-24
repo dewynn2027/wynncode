@@ -1,0 +1,817 @@
+2015-12-24T05:45:00Z
+Init RequestParameter:  billNo: aAZET14503456493
+
+2015-12-24T05:45:00Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456493
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => na
+    [email] => dewynn@transcommglobal.com
+    [phone] => 123456
+    [merchant_site_url] => 
+    [custom_return_url] => 
+)
+
+
+2015-12-24T05:45:02Z
+Init ResponseParameter:  billNo: aAZET14503456493
+
+2015-12-24T05:45:02Z
+Array
+(
+)
+
+
+2015-12-24T05:47:32Z
+Init RequestParameter:  billNo: aAZET14503456494
+
+2015-12-24T05:47:32Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456494
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => na
+    [email] => dewynn@transcommglobal.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs
+)
+
+
+2015-12-24T05:47:34Z
+Init ResponseParameter:  billNo: aAZET14503456494
+
+2015-12-24T05:47:34Z
+Array
+(
+)
+
+
+2015-12-24T05:49:58Z
+Init RequestParameter:  billNo: aAZET14503456495
+
+2015-12-24T05:49:58Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456495
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => na
+    [email] => dewynn@transcommglobal.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs
+)
+
+
+2015-12-24T05:50:00Z
+Init ResponseParameter:  billNo: aAZET14503456495
+
+2015-12-24T05:50:00Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450936203:Init failed: bad access data:
+)
+
+
+2015-12-24T05:58:55Z
+Init RequestParameter:  billNo: aAZET14503456496
+
+2015-12-24T05:58:55Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456496
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => na
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs
+)
+
+
+2015-12-24T05:58:56Z
+Init ResponseParameter:  billNo: aAZET14503456496
+
+2015-12-24T05:58:56Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450936740:Init failed: bad access data:
+)
+
+
+2015-12-24T06:14:33Z
+Init RequestParameter:  billNo: aAZET14503456497
+
+2015-12-24T06:14:33Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456497
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => na
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev
+)
+
+
+2015-12-24T06:14:36Z
+Init ResponseParameter:  billNo: aAZET14503456497
+
+2015-12-24T06:14:36Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450937679:Init failed: bad access data:
+)
+
+
+2015-12-24T06:22:27Z
+Init RequestParameter:  billNo: aAZET14503456498
+
+2015-12-24T06:22:27Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456498
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev
+)
+
+
+2015-12-24T06:22:29Z
+Init ResponseParameter:  billNo: aAZET14503456498
+
+2015-12-24T06:22:29Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450938152:Init failed: bad access data:
+)
+
+
+2015-12-24T06:39:00Z
+Init RequestParameter:  billNo: aAZET14503456499
+
+2015-12-24T06:39:00Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET14503456499
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T06:39:01Z
+Init ResponseParameter:  billNo: aAZET14503456499
+
+2015-12-24T06:39:01Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450939144:Init failed: bad access data:
+)
+
+
+2015-12-24T06:43:15Z
+End Point: https://www2.1stpayments.net/gwprocessor2.php?a=init billNo: aAZET145034564911
+
+2015-12-24T06:43:15Z
+Init RequestParameter:  billNo: aAZET145034564911
+
+2015-12-24T06:43:15Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564911
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T06:43:17Z
+Init ResponseParameter:  billNo: aAZET145034564911
+
+2015-12-24T06:43:17Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450939400:Init failed: bad access data:
+)
+
+
+2015-12-24T06:51:18Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564912
+
+2015-12-24T06:51:18Z
+Init RequestParameter:  billNo: aAZET145034564912
+
+2015-12-24T06:51:18Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564912
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T06:51:20Z
+Init ResponseParameter:  billNo: aAZET145034564912
+
+2015-12-24T06:51:20Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450939883:Init failed: bad access data:
+)
+
+
+2015-12-24T06:52:51Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564913
+
+2015-12-24T06:52:51Z
+Init RequestParameter:  billNo: aAZET145034564913
+
+2015-12-24T06:52:51Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 2h!1(/Qbn$3s
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564913
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T06:52:52Z
+Init ResponseParameter:  billNo: aAZET145034564913
+
+2015-12-24T06:52:52Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450939975:Init failed: bad access data:
+)
+
+
+2015-12-24T07:55:29Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564914
+
+2015-12-24T07:55:29Z
+Init RequestParameter:  billNo: aAZET145034564914
+
+2015-12-24T07:55:29Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564914
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T07:55:32Z
+Init ResponseParameter:  billNo: aAZET145034564914
+
+2015-12-24T07:55:32Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450943735:Init failed: bad transaction data: ["Field card_bin not passed into request, or passed empty"]:
+)
+
+
+2015-12-24T07:59:38Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564915
+
+2015-12-24T07:59:38Z
+Init RequestParameter:  billNo: aAZET145034564915
+
+2015-12-24T07:59:38Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564915
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T07:59:40Z
+Init ResponseParameter:  billNo: aAZET145034564915
+
+2015-12-24T07:59:40Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450943983:Init failed: bad transaction data: ["Field card_bin not passed into request, or passed empty"]:
+)
+
+
+2015-12-24T08:03:17Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564916
+
+2015-12-24T08:03:17Z
+Init RequestParameter:  billNo: aAZET145034564916
+
+2015-12-24T08:03:17Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564916
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T08:03:18Z
+Init ResponseParameter:  billNo: aAZET145034564916
+
+2015-12-24T08:03:18Z
+Array
+(
+    [rc] => 0
+    [result] => OK:5bf1984d0caf082adf3d42756a90998f16468ef0
+)
+
+
+2015-12-24T08:03:18Z
+Capture RequestParameter:  billNo: aAZET145034564916
+
+2015-12-24T08:03:18Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 5bf1984d0caf082adf3d42756a90998f16468ef0
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2015-12-24T08:03:20Z
+Capture ResponseParameter:  billNo: aAZET145034564916
+
+2015-12-24T08:03:20Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450944203:Charge operation failed for (passed: '5bf1984d0caf082adf3d42756a90998f16468ef0') '': Bad init transaction ID:
+)
+
+
+2015-12-24T08:09:58Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564917
+
+2015-12-24T08:09:58Z
+Init RequestParameter:  billNo: aAZET145034564917
+
+2015-12-24T08:09:58Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564917
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T08:09:59Z
+Init ResponseParameter:  billNo: aAZET145034564917
+
+2015-12-24T08:09:59Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c70b7c36a5c773a191c8c48a42b1e8d4f7f1dc80
+)
+
+
+2015-12-24T08:09:59Z
+Capture RequestParameter:  billNo: aAZET145034564917
+
+2015-12-24T08:09:59Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => aAZET145034564917
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2015-12-24T08:10:01Z
+Capture ResponseParameter:  billNo: aAZET145034564917
+
+2015-12-24T08:10:01Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1450944604:Charge operation failed for (passed: 'aAZET145034564917') '': Wrong init transaction ID:
+)
+
+
+2015-12-24T08:22:03Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564918
+
+2015-12-24T08:22:03Z
+Init RequestParameter:  billNo: aAZET145034564918
+
+2015-12-24T08:22:03Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564918
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T08:22:06Z
+Init ResponseParameter:  billNo: aAZET145034564918
+
+2015-12-24T08:22:06Z
+Array
+(
+    [rc] => 0
+    [result] => OK:b75ad15fa6e4060c9cec50fff4845b5bed9c0f91
+)
+
+
+2015-12-24T08:22:06Z
+Capture RequestParameter:  billNo: aAZET145034564918
+
+2015-12-24T08:22:06Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => b75ad15fa6e4060c9cec50fff4845b5bed9c0f91
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2015-12-24T08:22:07Z
+Capture ResponseParameter:  billNo: aAZET145034564918
+
+2015-12-24T08:22:07Z
+Array
+(
+    [rc] => 0
+    [result] => <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /gw2tests/gwprocessor2.php
+on this server.</p>
+</body></html>
+
+)
+
+
+2015-12-24T08:28:29Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564919
+
+2015-12-24T08:28:29Z
+Init RequestParameter:  billNo: aAZET145034564919
+
+2015-12-24T08:28:29Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564919
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T08:28:31Z
+Init ResponseParameter:  billNo: aAZET145034564919
+
+2015-12-24T08:28:31Z
+Array
+(
+    [rc] => 0
+    [result] => OK:fb26f20709c77513247e2fec55291ca28a38a4b3
+)
+
+
+2015-12-24T08:28:31Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: aAZET145034564919
+
+2015-12-24T08:28:31Z
+Capture RequestParameter:  billNo: aAZET145034564919
+
+2015-12-24T08:28:31Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => fb26f20709c77513247e2fec55291ca28a38a4b3
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2015-12-24T08:28:37Z
+Capture ResponseParameter:  billNo: aAZET145034564919
+
+2015-12-24T08:28:37Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=fb26f20709c77513247e2fec55291ca28a38a4b3
+)
+
+
+2015-12-24T11:46:37Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: aAZET145034564920
+
+2015-12-24T11:46:37Z
+Init RequestParameter:  billNo: aAZET145034564920
+
+2015-12-24T11:46:37Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => aAZET145034564920
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/dev1
+)
+
+
+2015-12-24T11:46:39Z
+Init ResponseParameter:  billNo: aAZET145034564920
+
+2015-12-24T11:46:39Z
+Array
+(
+    [rc] => 0
+    [result] => OK:1de46a4eac9518ca7f4c05e39530f96d91442671
+)
+
+
+2015-12-24T11:46:39Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: aAZET145034564920
+
+2015-12-24T11:46:39Z
+Capture RequestParameter:  billNo: aAZET145034564920
+
+2015-12-24T11:46:39Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 1de46a4eac9518ca7f4c05e39530f96d91442671
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2015-12-24T11:46:45Z
+Capture ResponseParameter:  billNo: aAZET145034564920
+
+2015-12-24T11:46:45Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=1de46a4eac9518ca7f4c05e39530f96d91442671
+)
+
+

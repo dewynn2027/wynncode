@@ -1,0 +1,120 @@
+2016-05-05T09:27:05Z
+RequestParameter:  billNo: 25eefb7db3316fe9 | startTime:2016-05-05 09:27:05
+
+2016-05-05T09:27:05Z
+
+
+2016-05-05T09:27:05Z
+Array
+(
+)
+
+
+2016-05-05T09:27:05Z
+ResponseParameter:  billNo: 25eefb7db3316fe9 | endTime:2016-05-05 09:27:05
+
+2016-05-05T09:27:05Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"25eefb7db3316fe9","billAmount":"106.00","createdAt":"20160505092708","billCurrency":"USD","tid":266594001462440425,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-05-05T09:27:58Z
+RequestParameter:  billNo: 9704944e0a2454a2 | startTime:2016-05-05 09:27:58
+
+2016-05-05T09:27:58Z
+
+
+2016-05-05T09:27:58Z
+Array
+(
+)
+
+
+2016-05-05T09:27:58Z
+ResponseParameter:  billNo: 9704944e0a2454a2 | endTime:2016-05-05 09:27:58
+
+2016-05-05T09:27:58Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"9704944e0a2454a2","billAmount":"106.00","createdAt":"20160505092800","billCurrency":"USD","tid":429379001462440478,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-05-05T09:28:38Z
+RequestParameter:  billNo: 7ed13d2a6b622224 | startTime:2016-05-05 09:28:38
+
+2016-05-05T09:28:38Z
+
+
+2016-05-05T09:28:38Z
+Array
+(
+)
+
+
+2016-05-05T09:28:38Z
+ResponseParameter:  billNo: 7ed13d2a6b622224 | endTime:2016-05-05 09:28:38
+
+2016-05-05T09:28:38Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"7ed13d2a6b622224","billAmount":"106.00","createdAt":"20160505092840","billCurrency":"USD","tid":855300001462440518,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-05-05T09:33:57Z
+RequestParameter:  billNo: f7dc4f7e0332851d | startTime:2016-05-05 09:33:57
+
+2016-05-05T09:33:57Z
+
+
+2016-05-05T09:33:57Z
+Array
+(
+)
+
+
+2016-05-05T09:33:57Z
+ResponseParameter:  billNo: f7dc4f7e0332851d | endTime:2016-05-05 09:33:57
+
+2016-05-05T09:33:57Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"f7dc4f7e0332851d","billAmount":"106.00","createdAt":"20160505093349","billCurrency":"USD","tid":758394001462440837,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-05-05T09:37:06Z
+RequestParameter:  billNo: e9e152629852216a | startTime:2016-05-05 09:37:06
+
+2016-05-05T09:37:06Z
+
+
+2016-05-05T09:37:06Z
+Array
+(
+)
+
+
+2016-05-05T09:37:06Z
+ResponseParameter:  billNo: e9e152629852216a | endTime:2016-05-05 09:37:06
+
+2016-05-05T09:37:06Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-112","cid":"11631","payNo":"e9e152629852216a","billAmount":"106.00","createdAt":"20160505093639","billCurrency":"USD","tid":011610001462441026,"comment":"The Last Name contains illegal symbols (numbers, punctuations etc.)","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

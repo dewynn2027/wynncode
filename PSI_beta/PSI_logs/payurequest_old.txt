@@ -1,0 +1,69 @@
+key=gtKFFx&txnid=wynn123453&amount=10&productinfo=Shopping&firstname=Test&email=test%40test.com&phone=1234567&surl=success_url&furl=fail_url&hash=3b7f943782479a53dbf542d8b5fd362413622a46fa155f6c9bc33905917eaff63ce19381479d999d9f7a062fb23ef3f8cc7110d3e479753de955728650e0b13a&pg=CC&bankcode=testICIB&ccnum=5123456789012346&ccname=test+name&ccvv=123&ccexpmon=05&ccexpyr=2017
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 372
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 302 Found
+< Date: Thu, 03 Sep 2015 08:07:42 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=1lkg8d5odit63v44v6uigo5u15; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Location: https://test.payu.in/_payment_options?mihpayid=9a11c4a1e1849ec7159df23cfdcf7f297d3a07be1f1e6eafb054f4da5dd6ea35&pg=CC&code=TESTICIB
+< Vary: Accept-Encoding
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+* Closing connection #0
+key=gtKFFx&txnid=wynn1234531&amount=10&productinfo=Shopping&firstname=Test&email=test%40test.com&phone=1234567&surl=success_url&furl=fail_url&hash=ee5be1cf04e784c29fc6c40326a26f73e501b15b41ca4a5305404510fdb92d6ee50e7d1d434a5973e777f53774140fdd6eea098a87df8315a578e8592bc9b697&pg=CC&bankcode=testICIB&ccnum=5123456789012346&ccname=test+name&ccvv=123&ccexpmon=05&ccexpyr=2017
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment?type=merchant_txn HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 373
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Fri, 04 Sep 2015 00:34:06 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=4md4ojtrde26uuq1lcfo44f5l0; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 64
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+* Closing connection #0

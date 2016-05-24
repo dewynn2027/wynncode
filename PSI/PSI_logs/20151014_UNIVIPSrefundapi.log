@@ -1,0 +1,62 @@
+2015-10-14T12:12:56Z
+RequestParameter:  billNo: 1444741229556 | startTime:2015-10-14 12:12:56
+
+2015-10-14T12:12:56Z
+https://sip.uniques.net/direct/refund
+
+2015-10-14T12:12:56Z
+Array
+(
+    [operation] => 02
+    [tid] => 1163122420561
+    [payNo] => 1444741229556
+    [billAmount] => 20
+    [amountRefund] => 20
+    [signInfo] => f89c6b34edd2c5610d4e9ecdb1c4f605
+)
+
+
+2015-10-14T12:12:58Z
+ResponseParameter:  billNo: 1444741229556 | endTime:2015-10-14 12:12:58
+
+2015-10-14T12:12:58Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"02","resultCode":"0","errorCode":"-250","tid":"1163122420561","payNo":"1444741229556","billAmount":"20.00","amountRefund":"20.00","comment":"Refund is submitted to bank successfully","signInfo":"0C9A14ADE64129F3A0BEC42E7450911F"}
+
+)
+
+
+2015-10-14T12:13:25Z
+RequestParameter:  billNo: 1444741321569 | startTime:2015-10-14 12:13:25
+
+2015-10-14T12:13:25Z
+https://sip.uniques.net/direct/refund
+
+2015-10-14T12:13:25Z
+Array
+(
+    [operation] => 02
+    [tid] => 1163122420599
+    [payNo] => 1444741321569
+    [billAmount] => 20
+    [amountRefund] => 20
+    [signInfo] => 307d61db0812fe1ad51182a5270c05da
+)
+
+
+2015-10-14T12:13:27Z
+ResponseParameter:  billNo: 1444741321569 | endTime:2015-10-14 12:13:27
+
+2015-10-14T12:13:27Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"02","resultCode":"0","errorCode":"-250","tid":"1163122420599","payNo":"1444741321569","billAmount":"20.00","amountRefund":"20.00","comment":"Refund is submitted to bank successfully","signInfo":"AD02BCC592EFC38EFEFF49AD35B91814"}
+
+)
+
+

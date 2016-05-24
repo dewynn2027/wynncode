@@ -1,0 +1,804 @@
+2014-11-22T02:56:47Z
+RequestParameter:  billNo: O72Kh1416625006 | startTime:2014-11-22 02:56:47
+
+2014-11-22T02:56:47Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => O72Kh1416625006
+    [ORDR] => O72Kh1416625006
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 543465KL9FY5G4X9GM8N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => xxxx xxxx
+    [PROD_TYPE[0]] => xx
+    [PROD_ITEM[0]] => xxx
+    [PROD_QUANT[0]] => 2
+    [PROD_PRICE[0]] => 500
+    [TOTL] => 1000
+    [SITE] => VERT1
+    [UDF[MERCHANT_ID]] => PSIMERCH2
+    [NAME] => test1 test1
+    [B2A1] => 4172 unit f Ponte St., Tejeros, Makati city
+    [B2CC] => PH
+    [B2CI] => nakati
+    [B2PC] => 1234
+    [B2PN] => 134567
+    [B2ST] => na
+    [S2A1] => 4172 unit f Ponte St., Tejeros, Makati city
+    [S2CC] => PH
+    [S2CI] => makati
+    [S2EM] => test1@mail.com
+    [S2NM] => test1 test1
+    [S2PC] => 1236
+    [S2PN] => 123454567
+    [S2ST] => na
+    [SHTP] => SD
+    [CASH] => 10
+    [DOB] => 1985-11-01
+    [GENDER] => M
+    [EMAL] => test1@mail.com
+    [ANID] => 134567
+)
+
+
+2014-11-22T02:56:48Z
+ResponseParameter:  billNo: O72Kh1416625006 | endTime:2014-11-22 02:56:48
+
+2014-11-22T02:56:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3SN30K6MG6BY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>O72Kh1416625006</SESS>
+  <ORDR>O72Kh1416625006</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>24</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>757846</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T03:00:12Z
+RequestParameter:  billNo: 20141122101119 | startTime:2014-11-22 03:00:12
+
+2014-11-22T03:00:12Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 3p0b4nhgj2t61br6uqp8or2oi6
+    [ORDR] => 20141122101119
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 530970VDEX2DJE3AWXMP
+    [IPAD] => 192.168.170.168
+    [MACK] => Y
+    [PROD_DESC[0]] => 42 Inch LED
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => SKU-2385-42P
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1200
+    [SITE] => VERT1
+    [UDF[MERCHANT_ID]] => PSIMERCH1
+    [NAME] => firstName lastName
+    [B2A1] => address
+    [B2CC] => US
+    [B2CI] => address
+    [B2PC] => 123456
+    [B2PN] => 123456789
+    [B2ST] => state
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1984-09-20
+    [GENDER] => M
+    [EMAL] => email@mail.com
+)
+
+
+2014-11-22T03:00:13Z
+ResponseParameter:  billNo: 20141122101119 | endTime:2014-11-22 03:00:13
+
+2014-11-22T03:00:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3SNP0TB13LKH</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3p0b4nhgj2t61br6uqp8or2oi6</SESS>
+  <ORDR>20141122101119</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>38</SCOR>
+  <GEOX>PH</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN>PH_D9</REGN>
+  <NETW>A</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT1</SITE>
+  <DEVICE_LAYERS>989B2DE895.43FB2DD7E3.1D53EC815F.A80EBD4F24.94A54D04FF</DEVICE_LAYERS>
+  <FINGERPRINT>E0F0F2C8043688E220FEC084F734A93D</FINGERPRINT>
+  <TIMEZONE>960</TIMEZONE>
+  <LOCALTIME>2014-11-22 11:00</LOCALTIME>
+  <REGION>PH_D9</REGION>
+  <COUNTRY>PH</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>5</RULES_TRIGGERED>
+  <RULE_ID_0>757844</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; Device Country</RULE_DESCRIPTION_0>
+  <RULE_ID_1>757846</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_1>
+  <RULE_ID_2>757852</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Device Location Lower Risk Review Countries</RULE_DESCRIPTION_2>
+  <RULE_ID_3>757854</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEOX Lower Risk Review Countries</RULE_DESCRIPTION_3>
+  <RULE_ID_4>757856</RULE_ID_4>
+  <RULE_DESCRIPTION_4>Review Non-Normal Network Type</RULE_DESCRIPTION_4>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2014-11-21</DDFS>
+  <DSR>800x1280</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0</UAS>
+  <BROWSER>Firefox 33.0</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>120.28.185.198</IP_IPAD>
+  <IP_LAT>14.5501</IP_LAT>
+  <IP_LON>121.036</IP_LON>
+  <IP_COUNTRY>PH</IP_COUNTRY>
+  <IP_REGION>Manila</IP_REGION>
+  <IP_CITY>Makati</IP_CITY>
+  <IP_ORG>GLOBE TELECOM</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T03:07:05Z
+RequestParameter:  billNo: 20141122111123 | startTime:2014-11-22 03:07:05
+
+2014-11-22T03:07:05Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 3p0b4nhgj2t61br6uqp8or2oi6
+    [ORDR] => 20141122111123
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 530970VDEX2DJE3AWXMP
+    [IPAD] => 192.168.170.168
+    [MACK] => Y
+    [PROD_DESC[0]] => 42 Inch LED
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => SKU-2385-42P
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1200
+    [SITE] => VERT1
+    [UDF[MERCHANT_ID]] => PSIMERCH1
+    [NAME] => firstName lastName
+    [B2A1] => address
+    [B2CC] => US
+    [B2CI] => address
+    [B2PC] => 123456
+    [B2PN] => 123456789
+    [B2ST] => state
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1984-09-20
+    [GENDER] => 
+    [EMAL] => email@mail.com
+)
+
+
+2014-11-22T03:07:06Z
+ResponseParameter:  billNo: 20141122111123 | endTime:2014-11-22 03:07:06
+
+2014-11-22T03:07:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3SNP06SG7MT0</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3p0b4nhgj2t61br6uqp8or2oi6</SESS>
+  <ORDR>20141122111123</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>38</SCOR>
+  <GEOX>PH</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN>PH_D9</REGN>
+  <NETW>A</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT1</SITE>
+  <DEVICE_LAYERS>989B2DE895.43FB2DD7E3.1D53EC815F.A80EBD4F24.94A54D04FF</DEVICE_LAYERS>
+  <FINGERPRINT>E0F0F2C8043688E220FEC084F734A93D</FINGERPRINT>
+  <TIMEZONE>960</TIMEZONE>
+  <LOCALTIME>2014-11-22 11:07</LOCALTIME>
+  <REGION>PH_D9</REGION>
+  <COUNTRY>PH</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>5</RULES_TRIGGERED>
+  <RULE_ID_0>757844</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; Device Country</RULE_DESCRIPTION_0>
+  <RULE_ID_1>757846</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_1>
+  <RULE_ID_2>757852</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Device Location Lower Risk Review Countries</RULE_DESCRIPTION_2>
+  <RULE_ID_3>757854</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEOX Lower Risk Review Countries</RULE_DESCRIPTION_3>
+  <RULE_ID_4>757856</RULE_ID_4>
+  <RULE_DESCRIPTION_4>Review Non-Normal Network Type</RULE_DESCRIPTION_4>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2014-11-21</DDFS>
+  <DSR>800x1280</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0</UAS>
+  <BROWSER>Firefox 33.0</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>120.28.185.198</IP_IPAD>
+  <IP_LAT>14.5501</IP_LAT>
+  <IP_LON>121.036</IP_LON>
+  <IP_COUNTRY>PH</IP_COUNTRY>
+  <IP_REGION>Manila</IP_REGION>
+  <IP_CITY>Makati</IP_CITY>
+  <IP_ORG>GLOBE TELECOM</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T03:12:05Z
+RequestParameter:  billNo: 20141122111123 | startTime:2014-11-22 03:12:05
+
+2014-11-22T03:12:05Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 3p0b4nhgj2t61br6uqp8or2oi6
+    [ORDR] => 20141122111123
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 530970VDEX2DJE3AWXMP
+    [IPAD] => 192.168.170.168
+    [MACK] => Y
+    [PROD_DESC[0]] => 42 Inch LED
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => SKU-2385-42P
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1200
+    [SITE] => VERT1
+    [UDF[MERCHANT_ID]] => PSIMERCH1
+    [NAME] => firstName lastName
+    [B2A1] => address
+    [B2CC] => US
+    [B2CI] => address
+    [B2PC] => 123456
+    [B2PN] => 123456789
+    [B2ST] => state
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1984-09-20
+    [GENDER] => 
+    [EMAL] => email@mail.com
+)
+
+
+2014-11-22T03:12:06Z
+ResponseParameter:  billNo: 20141122111123 | endTime:2014-11-22 03:12:06
+
+2014-11-22T03:12:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3SNP0QL1803S</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3p0b4nhgj2t61br6uqp8or2oi6</SESS>
+  <ORDR>20141122111123</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>38</SCOR>
+  <GEOX>PH</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN>PH_D9</REGN>
+  <NETW>A</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT1</SITE>
+  <DEVICE_LAYERS>989B2DE895.43FB2DD7E3.1D53EC815F.A80EBD4F24.94A54D04FF</DEVICE_LAYERS>
+  <FINGERPRINT>E0F0F2C8043688E220FEC084F734A93D</FINGERPRINT>
+  <TIMEZONE>960</TIMEZONE>
+  <LOCALTIME>2014-11-22 11:12</LOCALTIME>
+  <REGION>PH_D9</REGION>
+  <COUNTRY>PH</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>5</RULES_TRIGGERED>
+  <RULE_ID_0>757844</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; Device Country</RULE_DESCRIPTION_0>
+  <RULE_ID_1>757846</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_1>
+  <RULE_ID_2>757852</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Device Location Lower Risk Review Countries</RULE_DESCRIPTION_2>
+  <RULE_ID_3>757854</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEOX Lower Risk Review Countries</RULE_DESCRIPTION_3>
+  <RULE_ID_4>757856</RULE_ID_4>
+  <RULE_DESCRIPTION_4>Review Non-Normal Network Type</RULE_DESCRIPTION_4>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2014-11-21</DDFS>
+  <DSR>800x1280</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0</UAS>
+  <BROWSER>Firefox 33.0</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>120.28.185.198</IP_IPAD>
+  <IP_LAT>14.5501</IP_LAT>
+  <IP_LON>121.036</IP_LON>
+  <IP_COUNTRY>PH</IP_COUNTRY>
+  <IP_REGION>Manila</IP_REGION>
+  <IP_CITY>Makati</IP_CITY>
+  <IP_ORG>GLOBE TELECOM</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T03:14:06Z
+RequestParameter:  billNo: LUWnE1416626046 | startTime:2014-11-22 03:14:06
+
+2014-11-22T03:14:06Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => LUWnE1416626046
+    [ORDR] => LUWnE1416626046
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 546789SEE1E5RP06EMO0
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => xxxx xxxx
+    [PROD_TYPE[0]] => xx
+    [PROD_ITEM[0]] => xxx
+    [PROD_QUANT[0]] => 2
+    [PROD_PRICE[0]] => 500
+    [TOTL] => 1000
+    [SITE] => VERT1
+    [UDF[MERCHANT_ID]] => PSIMERCH2
+    [NAME] => juan tamad
+    [B2A1] => 4172 unit f Ponte St., Tejeros, Makati city
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1235
+    [B2PN] => 12334567
+    [B2ST] => na
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-11-01
+    [GENDER] => M
+    [EMAL] => remalyn2027@yahoo.comalyn
+    [ANID] => 12334567
+)
+
+
+2014-11-22T03:14:07Z
+ResponseParameter:  billNo: LUWnE1416626046 | endTime:2014-11-22 03:14:07
+
+2014-11-22T03:14:07Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3SNP0K9ZRKN5</TRAN>
+  <MERC>680000</MERC>
+  <SESS>LUWnE1416626046</SESS>
+  <ORDR>LUWnE1416626046</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>757846</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T04:20:55Z
+RequestParameter:  billNo: yqtjN1416630055 | startTime:2014-11-22 04:20:55
+
+2014-11-22T04:20:55Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => yqtjN1416630055
+    [ORDR] => yqtjN1416630055
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 535353VFEC8DRAMZ8Z8G
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [PROD_DESC[1]] => LG 8gb Micro SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 2
+    [PROD_PRICE[1]] => 3000
+    [TOTL] => 31000
+    [SITE] => VERT2
+    [UDF[MERCHANT_ID]] => PSIMERCH2
+    [NAME] => Firstname Lastname
+    [B2A1] => Address
+    [B2CC] => AF
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 611234123123
+    [B2ST] => State
+    [S2A1] => sAddress
+    [S2CC] => AL
+    [S2CI] => sCity
+    [S2EM] => s-email@example.com
+    [S2NM] => sFirstname sLastname
+    [S2PC] => 1234
+    [S2PN] => 12345
+    [S2ST] => sState
+    [SHTP] => SD
+    [CASH] => 310
+    [DOB] => 1998-11-01
+    [GENDER] => M
+    [EMAL] => email@example.com
+    [ANID] => 611234123123
+)
+
+
+2014-11-22T04:20:57Z
+ResponseParameter:  billNo: yqtjN1416630055 | endTime:2014-11-22 04:20:57
+
+2014-11-22T04:20:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3SN70H1KTRWP</TRAN>
+  <MERC>680000</MERC>
+  <SESS>yqtjN1416630055</SESS>
+  <ORDR>yqtjN1416630055</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>757846</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2014-11-22T07:46:26Z
+RequestParameter:  billNo: 2ELsx1416642386 | startTime:2014-11-22 07:46:26
+
+2014-11-22T07:46:26Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 2ELsx1416642386
+    [ORDR] => 2ELsx1416642386
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 535353VFEC8DRAMZ8Z8G
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Samsung 32 Inch LCD TV Model 3210
+    [PROD_TYPE[0]] => LCD Television
+    [PROD_ITEM[0]] => SKU-SS3210
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [PROD_DESC[1]] => LG 8gb Micro SD Model 8001
+    [PROD_TYPE[1]] => SD Card
+    [PROD_ITEM[1]] => SKU-LG-SD8001
+    [PROD_QUANT[1]] => 2
+    [PROD_PRICE[1]] => 3000
+    [PROD_DESC[2]] => Item1_Description
+    [PROD_TYPE[2]] => Type1
+    [PROD_ITEM[2]] => Item1
+    [PROD_QUANT[2]] => 1
+    [PROD_PRICE[2]] => 1000
+    [TOTL] => 31000
+    [SITE] => VERT2
+    [UDF[MERCHANT_ID]] => PSIMERCH2
+    [NAME] => Firstname Lastname
+    [B2A1] => Address
+    [B2CC] => AF
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 611234123123
+    [B2ST] => State
+    [S2A1] => sAddress
+    [S2CC] => AL
+    [S2CI] => sCity
+    [S2EM] => s-email@example.com
+    [S2NM] => sFirstname sLastname
+    [S2PC] => 1234
+    [S2PN] => 12345
+    [S2ST] => sState
+    [SHTP] => SD
+    [CASH] => 310
+    [DOB] => 1998-11-01
+    [GENDER] => M
+    [EMAL] => email@example.com
+    [ANID] => 611234123123
+)
+
+
+2014-11-22T07:46:28Z
+ResponseParameter:  billNo: 2ELsx1416642386 | endTime:2014-11-22 07:46:28
+
+2014-11-22T07:46:28Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3SJK0Z3NJP7G</TRAN>
+  <MERC>680000</MERC>
+  <SESS>2ELsx1416642386</SESS>
+  <ORDR>2ELsx1416642386</ORDR>
+  <AUTO>R</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>757846</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Billing &lt;&gt; BIN Country</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

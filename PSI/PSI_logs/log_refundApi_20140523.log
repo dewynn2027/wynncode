@@ -1,0 +1,152 @@
+2014-05-23T07:06:21Z
+RequestParameter:  billNo: wYdTj1400828557
+
+2014-05-23T07:06:21Z
+https://secure.qwipi.com/ksn/refunds.jsp?operation=02&paymentOrderNo=1078410787671&billNo=wYdTj1400828557&Amount=10.00&refundAmount=10.00
+
+2014-05-23T07:06:22Z
+ResponseParameter:  billNo: wYdTj1400828557
+
+2014-05-23T07:06:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>5</resultCode><paymentOrderNo>1078410787671</paymentOrderNo><billNo>wYdTj1400828557</billNo><refundAmount>10.00</refundAmount><remark>md5Info can not be null</remark>
+
+</response>
+
+2014-05-23T07:15:27Z
+RequestParameter:  billNo: wYdTj1400828557
+
+2014-05-23T07:15:27Z
+https://secure.qwipi.com/ksn/refunds.jsp?operation=02&paymentOrderNo=1078410787671&billNo=wYdTj1400828557&Amount=10.00&refundAmount=10.00&md5Info=5075f9ff7f511f8e1854e56db4fa39a8
+
+2014-05-23T07:15:30Z
+ResponseParameter:  billNo: wYdTj1400828557
+
+2014-05-23T07:15:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>O</resultCode><paymentOrderNo>1078410787671</paymentOrderNo><billNo>wYdTj1400828557</billNo><refundAmount>10.00</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T07:29:16Z
+RequestParameter:  billNo: SvAjO1400829803
+
+2014-05-23T07:29:16Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078610787872&billNo=SvAjO1400829803&Amount=10.00&refundAmount=10.00
+
+2014-05-23T07:29:19Z
+ResponseParameter:  billNo: SvAjO1400829803
+
+2014-05-23T07:29:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078610787872</paymentOrderNo><billNo>SvAjO1400829803</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T07:29:42Z
+RequestParameter:  billNo: blx2B1400830104
+
+2014-05-23T07:29:42Z
+https://secure.qwipi.com/ksn/refunds.jsp?operation=02&paymentOrderNo=1078410787908&billNo=blx2B1400830104&Amount=10.00&refundAmount=10.00&md5Info=5241c83427998e1c306ca2a156fafec0
+
+2014-05-23T07:29:45Z
+ResponseParameter:  billNo: blx2B1400830104
+
+2014-05-23T07:29:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>O</resultCode><paymentOrderNo>1078410787908</paymentOrderNo><billNo>blx2B1400830104</billNo><refundAmount>10.00</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T08:10:59Z
+RequestParameter:  billNo: Npxft1400832622
+
+2014-05-23T08:10:59Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078510788191&billNo=Npxft1400832622&Amount=10.00&refundAmount=10.00
+
+2014-05-23T08:11:01Z
+ResponseParameter:  billNo: Npxft1400832622
+
+2014-05-23T08:11:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078510788191</paymentOrderNo><billNo>Npxft1400832622</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T08:14:57Z
+RequestParameter:  billNo: oz4ir1400832865
+
+2014-05-23T08:14:57Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078510788214&billNo=oz4ir1400832865&Amount=10.00&refundAmount=10.00
+
+2014-05-23T08:14:59Z
+ResponseParameter:  billNo: oz4ir1400832865
+
+2014-05-23T08:14:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078510788214</paymentOrderNo><billNo>oz4ir1400832865</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T14:59:15Z
+RequestParameter:  billNo: kf3O21400856430
+
+2014-05-23T14:59:15Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078510791371&billNo=kf3O21400856430&Amount=10.00&refundAmount=10.00
+
+2014-05-23T14:59:17Z
+ResponseParameter:  billNo: kf3O21400856430
+
+2014-05-23T14:59:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078510791371</paymentOrderNo><billNo>kf3O21400856430</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+
+2014-05-23T15:20:42Z
+RequestParameter:  billNo: khJzD1400857598
+
+2014-05-23T15:20:42Z
+https://secure.qwipi.com/ksn/refunds.jsp?operation=02&paymentOrderNo=1078410791530&billNo=khJzD1400857598&Amount=10.00&refundAmount=10.00&md5Info=e87cfda1ce0ca5b972fba9cffadb3115
+
+2014-05-23T15:20:46Z
+ResponseParameter:  billNo: khJzD1400857598
+
+2014-05-23T15:20:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>O</resultCode><paymentOrderNo>1078410791530</paymentOrderNo><billNo>khJzD1400857598</billNo><refundAmount>10.00</refundAmount><remark>Refund success.</remark>
+
+</response>
+

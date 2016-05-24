@@ -1,0 +1,360 @@
+2014-07-31T02:26:36Z
+RequestParameter:  billNo: INV00000000000000068
+
+2014-07-31T02:26:36Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000068&TransactionType=2&Currency=USD&Amount=5&TransactionID=20140731000012300030
+
+2014-07-31T02:26:38Z
+ResponseParameter:  billNo: INV00000000000000068
+
+2014-07-31T02:26:38Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>INV00000000000000068</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-07-31T03:02:08Z
+RequestParameter:  billNo: INV00000000000000075
+
+2014-07-31T03:02:08Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000075&TransactionType=2&Currency=USD&Amount=5&TransactionID=20140731000013400030
+
+2014-07-31T03:02:15Z
+ResponseParameter:  billNo: INV00000000000000075
+
+2014-07-31T03:02:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>INV00000000000000075</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-07-31T03:05:31Z
+RequestParameter:  billNo: INV00000000000000079
+
+2014-07-31T03:05:31Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000079&TransactionType=2&Currency=USD&Amount=3&TransactionID=20140731000013600030
+
+2014-07-31T03:05:32Z
+ResponseParameter:  billNo: INV00000000000000079
+
+2014-07-31T03:05:32Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>INV00000000000000079</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-07-31T03:35:47Z
+RequestParameter:  billNo: INV00000000000000082
+
+2014-07-31T03:35:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000082&TransactionType=2&Currency=USD&Amount=23.2&TransactionID=20140731000013900030
+
+2014-07-31T03:35:48Z
+ResponseParameter:  billNo: INV00000000000000082
+
+2014-07-31T03:35:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000082</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731123616</ResponseTime>
+<TransactionID>20140731000013900030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T04:13:44Z
+RequestParameter:  billNo: INV00000000000000081
+
+2014-07-31T04:13:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000081&TransactionType=2&Currency=USD&Amount=23.2&TransactionID=20140731000013800030
+
+2014-07-31T04:13:45Z
+ResponseParameter:  billNo: INV00000000000000081
+
+2014-07-31T04:13:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000081</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731131412</ResponseTime>
+<TransactionID>20140731000013800030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T04:21:07Z
+RequestParameter:  billNo: INV00000000000000079
+
+2014-07-31T04:21:07Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000079&TransactionType=2&Currency=USD&Amount=23.2&TransactionID=20140731000013600030
+
+2014-07-31T04:21:08Z
+ResponseParameter:  billNo: INV00000000000000079
+
+2014-07-31T04:21:08Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000079</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731132135</ResponseTime>
+<TransactionID>20140731000013600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T04:23:05Z
+RequestParameter:  billNo: INV00000000000000060
+
+2014-07-31T04:23:05Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000060&TransactionType=2&Currency=USD&Amount=23.2&TransactionID=20140731000011600030
+
+2014-07-31T04:23:05Z
+ResponseParameter:  billNo: INV00000000000000060
+
+2014-07-31T04:23:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000060</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731132333</ResponseTime>
+<TransactionID>20140731000011600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T04:28:56Z
+RequestParameter:  billNo: INV00000000000000057
+
+2014-07-31T04:28:56Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000057&TransactionType=2&Currency=USD&Amount=23.2&TransactionID=20140731000011100030
+
+2014-07-31T04:28:57Z
+ResponseParameter:  billNo: INV00000000000000057
+
+2014-07-31T04:28:57Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000057</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731132924</ResponseTime>
+<TransactionID>20140731000011100030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T04:38:34Z
+RequestParameter:  billNo: INV00000000000000068
+
+2014-07-31T04:38:34Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000068&TransactionType=2&Currency=USD&Amount=33.4&TransactionID=20140731000012300030
+
+2014-07-31T04:38:35Z
+ResponseParameter:  billNo: INV00000000000000068
+
+2014-07-31T04:38:35Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000068</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140731133902</ResponseTime>
+<TransactionID>20140731000012300030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T18:44:26Z
+RequestParameter:  billNo: INV00000000000000030
+
+2014-07-31T18:44:26Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000030&TransactionType=2&Currency=USD&Amount=12.3&TransactionID=20140801000003400030
+
+2014-07-31T18:44:27Z
+ResponseParameter:  billNo: INV00000000000000030
+
+2014-07-31T18:44:27Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000030</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801034455</ResponseTime>
+<TransactionID>20140801000003400030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T19:55:06Z
+RequestParameter:  billNo: INV00000000000000033
+
+2014-07-31T19:55:06Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000033&TransactionType=2&Currency=USD&Amount=25.2&TransactionID=20140801000006600030
+
+2014-07-31T19:55:07Z
+ResponseParameter:  billNo: INV00000000000000033
+
+2014-07-31T19:55:07Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000033</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801045535</ResponseTime>
+<TransactionID>20140801000006600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T20:26:46Z
+RequestParameter:  billNo: INV00000000000000034
+
+2014-07-31T20:26:46Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000034&TransactionType=2&Currency=USD&Amount=45.2&TransactionID=20140801000007C00030
+
+2014-07-31T20:26:47Z
+ResponseParameter:  billNo: INV00000000000000034
+
+2014-07-31T20:26:47Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000034</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801052715</ResponseTime>
+<TransactionID>20140801000007C00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T20:42:07Z
+RequestParameter:  billNo: INV00000000000000042
+
+2014-07-31T20:42:07Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=INV00000000000000042&TransactionType=2&Currency=USD&Amount=54.2&TransactionID=20140801000009900030
+
+2014-07-31T20:42:08Z
+ResponseParameter:  billNo: INV00000000000000042
+
+2014-07-31T20:42:08Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>INV00000000000000042</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801054236</ResponseTime>
+<TransactionID>20140801000009900030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T21:25:34Z
+RequestParameter:  billNo: IN00000000000000072
+
+2014-07-31T21:25:34Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=IN00000000000000072&TransactionType=2&Currency=USD&Amount=12.3&TransactionID=2014080100000B100030
+
+2014-07-31T21:25:36Z
+ResponseParameter:  billNo: IN00000000000000072
+
+2014-07-31T21:25:36Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>IN00000000000000072</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801062604</ResponseTime>
+<TransactionID>2014080100000B100030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-31T21:27:31Z
+RequestParameter:  billNo: IN00000000000000075
+
+2014-07-31T21:27:31Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=IN00000000000000075&TransactionType=2&Currency=USD&Amount=34.3&TransactionID=2014080100000B300030
+
+2014-07-31T21:27:32Z
+ResponseParameter:  billNo: IN00000000000000075
+
+2014-07-31T21:27:32Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>IN00000000000000075</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801062800</ResponseTime>
+<TransactionID>2014080100000B300030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

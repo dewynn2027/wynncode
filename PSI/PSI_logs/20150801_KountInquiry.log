@@ -1,0 +1,128 @@
+2015-08-01T04:16:51Z
+RequestParameter:  billNo: 81229a2afbb34e0181d9f85f776da6ab | startTime:2015-08-01 04:16:51
+
+2015-08-01T04:16:51Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.44.168.85
+    [SESS] => a62697812514451682b5731ab34677f2
+    [ORDR] => 81229a2afbb34e0181d9f85f776da6ab
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 427229FSAS3OI92P03HY
+    [IPAD] => 5.44.168.85
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HBR-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHIBRO
+    [NAME] => yuriy paziy
+    [B2A1] => b.bogatkova185/2
+    [B2CC] => RU
+    [B2CI] => novosibirsk
+    [B2PC] => 630089
+    [B2PN] => +79231826247
+    [B2ST] => RU
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 2001-01-01
+    [GENDER] => M
+    [EMAL] => 79231826247
+)
+
+
+2015-08-01T04:16:52Z
+ResponseParameter:  billNo: 81229a2afbb34e0181d9f85f776da6ab | endTime:2015-08-01 04:16:52
+
+2015-08-01T04:16:52Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>321</ERRO>
+  <ERROR_0>321 BAD_EMAL Cause: [[79231826247 is an invalid email address], Field: [EMAL], Value: [79231826247]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-01T04:23:42Z
+RequestParameter:  billNo: c1d9254eb5ac497f809d6764bd5b99f9 | startTime:2015-08-01 04:23:42
+
+2015-08-01T04:23:42Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 5.44.168.85
+    [SESS] => 5d2d258041ed4352a2976536cfcb8884
+    [ORDR] => c1d9254eb5ac497f809d6764bd5b99f9
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 427229FSAS3OI92P03HY
+    [IPAD] => 5.44.168.85
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HBR-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHIBRO
+    [NAME] => yuriy paziy
+    [B2A1] => b.bogatkova185/2
+    [B2CC] => RU
+    [B2CI] => novosibirsk
+    [B2PC] => 630089
+    [B2PN] => +79231826247
+    [B2ST] => RU
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 2001-01-01
+    [GENDER] => M
+    [EMAL] => 79231826247
+)
+
+
+2015-08-01T04:23:43Z
+ResponseParameter:  billNo: c1d9254eb5ac497f809d6764bd5b99f9 | endTime:2015-08-01 04:23:43
+
+2015-08-01T04:23:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>321</ERRO>
+  <ERROR_0>321 BAD_EMAL Cause: [[79231826247 is an invalid email address], Field: [EMAL], Value: [79231826247]</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

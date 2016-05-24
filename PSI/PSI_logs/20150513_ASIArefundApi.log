@@ -1,0 +1,560 @@
+2015-05-13T08:31:50Z
+RequestParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:31:50Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6329637&amount=500
+
+2015-05-13T08:31:50Z
+ResponseParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:31:50Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-05-13T08:33:03Z
+RequestParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:33:03Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6329637&amount=500
+
+2015-05-13T08:33:03Z
+ResponseParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:33:03Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-05-13T08:34:20Z
+RequestParameter:  billNo: 0p3ci1426689691
+
+2015-05-13T08:34:20Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6607355&amount=2000
+
+2015-05-13T08:34:22Z
+ResponseParameter:  billNo: 0p3ci1426689691
+
+2015-05-13T08:34:22Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:35:34Z
+RequestParameter:  billNo: 53ocw1426689855
+
+2015-05-13T08:35:34Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6607365&amount=1500
+
+2015-05-13T08:35:40Z
+ResponseParameter:  billNo: 53ocw1426689855
+
+2015-05-13T08:35:40Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:40:55Z
+RequestParameter:  billNo: pUqMd1427196170
+
+2015-05-13T08:40:55Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6645754&amount=200
+
+2015-05-13T08:40:58Z
+ResponseParameter:  billNo: pUqMd1427196170
+
+2015-05-13T08:40:58Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:43:44Z
+RequestParameter:  billNo: rbAKd1428914822
+
+2015-05-13T08:43:44Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6774234&amount=200
+
+2015-05-13T08:43:47Z
+ResponseParameter:  billNo: rbAKd1428914822
+
+2015-05-13T08:43:47Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+
+2015-05-13T08:45:07Z
+RequestParameter:  billNo: LwhZj1426785312
+
+2015-05-13T08:45:07Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6614260&amount=500
+
+2015-05-13T08:45:09Z
+ResponseParameter:  billNo: LwhZj1426785312
+
+2015-05-13T08:45:09Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:46:21Z
+RequestParameter:  billNo: Kr5Pt1428502668
+
+2015-05-13T08:46:21Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6747244&amount=500
+
+2015-05-13T08:46:23Z
+ResponseParameter:  billNo: Kr5Pt1428502668
+
+2015-05-13T08:46:23Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:47:52Z
+RequestParameter:  billNo: S4M9Q1428502775
+
+2015-05-13T08:47:52Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6747251&amount=2500
+
+2015-05-13T08:47:55Z
+ResponseParameter:  billNo: S4M9Q1428502775
+
+2015-05-13T08:47:55Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:48:04Z
+RequestParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:48:04Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6329637&amount=500
+
+2015-05-13T08:48:05Z
+ResponseParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:48:05Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-05-13T08:48:54Z
+RequestParameter:  billNo: ZlgBv1428502850
+
+2015-05-13T08:48:54Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6747255&amount=2500
+
+2015-05-13T08:48:56Z
+ResponseParameter:  billNo: ZlgBv1428502850
+
+2015-05-13T08:48:56Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:49:55Z
+RequestParameter:  billNo: bpl1S1428502976
+
+2015-05-13T08:49:55Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6747259&amount=1500
+
+2015-05-13T08:49:58Z
+ResponseParameter:  billNo: bpl1S1428502976
+
+2015-05-13T08:49:59Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:51:26Z
+RequestParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:51:26Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6329637&amount=500
+
+2015-05-13T08:51:26Z
+ResponseParameter:  billNo: 1422984660-25448
+
+2015-05-13T08:51:26Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-05-13T08:52:34Z
+RequestParameter:  billNo: iejhicjacf
+
+2015-05-13T08:52:34Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6793551&amount=2000
+
+2015-05-13T08:52:36Z
+ResponseParameter:  billNo: iejhicjacf
+
+2015-05-13T08:52:36Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:54:36Z
+RequestParameter:  billNo: baaekejgaa
+
+2015-05-13T08:54:36Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6793555&amount=1000
+
+2015-05-13T08:54:38Z
+ResponseParameter:  billNo: baaekejgaa
+
+2015-05-13T08:54:38Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:55:41Z
+RequestParameter:  billNo: kbhfgbkfkh
+
+2015-05-13T08:55:41Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6793562&amount=500
+
+2015-05-13T08:55:43Z
+ResponseParameter:  billNo: kbhfgbkfkh
+
+2015-05-13T08:55:43Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:56:54Z
+RequestParameter:  billNo: d68935bcb6a14057b71ed122939f0c9b
+
+2015-05-13T08:56:54Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6774482&amount=200
+
+2015-05-13T08:56:55Z
+ResponseParameter:  billNo: d68935bcb6a14057b71ed122939f0c9b
+
+2015-05-13T08:56:55Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+
+2015-05-13T08:58:01Z
+RequestParameter:  billNo: 1428407501-16197
+
+2015-05-13T08:58:01Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6741083&amount=4000
+
+2015-05-13T08:58:03Z
+ResponseParameter:  billNo: 1428407501-16197
+
+2015-05-13T08:58:03Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T08:59:22Z
+RequestParameter:  billNo: 1429690395-12911
+
+2015-05-13T08:59:22Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6831224&amount=2300
+
+2015-05-13T08:59:24Z
+ResponseParameter:  billNo: 1429690395-12911
+
+2015-05-13T08:59:24Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T09:03:46Z
+RequestParameter:  billNo: bgLVE1427905507
+
+2015-05-13T09:03:46Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6705392&amount=200
+
+2015-05-13T09:03:47Z
+ResponseParameter:  billNo: bgLVE1427905507
+
+2015-05-13T09:03:47Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T09:07:10Z
+RequestParameter:  billNo: 2168-3771_1236
+
+2015-05-13T09:07:10Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6709372&amount=100
+
+2015-05-13T09:07:12Z
+ResponseParameter:  billNo: 2168-3771_1236
+
+2015-05-13T09:07:12Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T10:54:51Z
+RequestParameter:  billNo: 888463892
+
+2015-05-13T10:54:51Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6930638&amount=500
+
+2015-05-13T10:54:54Z
+ResponseParameter:  billNo: 888463892
+
+2015-05-13T10:54:54Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:20:12Z
+RequestParameter:  billNo: 1430126909-26439
+
+2015-05-13T12:20:12Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6864603&amount=500
+
+2015-05-13T12:20:14Z
+ResponseParameter:  billNo: 1430126909-26439
+
+2015-05-13T12:20:14Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:22:38Z
+RequestParameter:  billNo: UscYx1427219243
+
+2015-05-13T12:22:38Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6647029&amount=3000
+
+2015-05-13T12:22:40Z
+ResponseParameter:  billNo: UscYx1427219243
+
+2015-05-13T12:22:40Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:24:45Z
+RequestParameter:  billNo: 623e31d1790a4fb8ae3ca0451b3a086f
+
+2015-05-13T12:24:45Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6826184&amount=700
+
+2015-05-13T12:24:47Z
+ResponseParameter:  billNo: 623e31d1790a4fb8ae3ca0451b3a086f
+
+2015-05-13T12:24:47Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:25:56Z
+RequestParameter:  billNo: 307837cbf132474a9355a73c399659ce
+
+2015-05-13T12:25:56Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6745865&amount=200
+
+2015-05-13T12:25:58Z
+ResponseParameter:  billNo: 307837cbf132474a9355a73c399659ce
+
+2015-05-13T12:25:58Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:27:48Z
+RequestParameter:  billNo: iiegbagcfh
+
+2015-05-13T12:27:48Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6794047&amount=3000
+
+2015-05-13T12:27:50Z
+ResponseParameter:  billNo: iiegbagcfh
+
+2015-05-13T12:27:50Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:29:37Z
+RequestParameter:  billNo: 1fd5d7f1d18342b9927610f58bd0c7f3
+
+2015-05-13T12:29:37Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6734490&amount=200
+
+2015-05-13T12:29:39Z
+ResponseParameter:  billNo: 1fd5d7f1d18342b9927610f58bd0c7f3
+
+2015-05-13T12:29:39Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:32:33Z
+RequestParameter:  billNo: d68935bcb6a14057b71ed122939f0c9b
+
+2015-05-13T12:32:33Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6774482&amount=200
+
+2015-05-13T12:32:34Z
+ResponseParameter:  billNo: d68935bcb6a14057b71ed122939f0c9b
+
+2015-05-13T12:32:34Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+
+2015-05-13T12:33:26Z
+RequestParameter:  billNo: 1422984660-25448
+
+2015-05-13T12:33:26Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6329637&amount=500
+
+2015-05-13T12:33:27Z
+ResponseParameter:  billNo: 1422984660-25448
+
+2015-05-13T12:33:27Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online refund fail..
+
+
+
+
+
+2015-05-13T12:34:16Z
+RequestParameter:  billNo: 1423052208-25448
+
+2015-05-13T12:34:16Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6330444&amount=250
+
+2015-05-13T12:34:17Z
+ResponseParameter:  billNo: 1423052208-25448
+
+2015-05-13T12:34:17Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:35:17Z
+RequestParameter:  billNo: 1423052279-25448
+
+2015-05-13T12:35:17Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6330441&amount=250
+
+2015-05-13T12:35:18Z
+ResponseParameter:  billNo: 1423052279-25448
+
+2015-05-13T12:35:18Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:37:15Z
+RequestParameter:  billNo: rbAKd1428914822
+
+2015-05-13T12:37:15Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6774234&amount=200
+
+2015-05-13T12:37:16Z
+ResponseParameter:  billNo: rbAKd1428914822
+
+2015-05-13T12:37:16Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+
+2015-05-13T12:38:14Z
+RequestParameter:  billNo: 1429542951236
+
+2015-05-13T12:38:14Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6819968&amount=1250
+
+2015-05-13T12:38:16Z
+ResponseParameter:  billNo: 1429542951236
+
+2015-05-13T12:38:16Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+
+2015-05-13T12:39:21Z
+RequestParameter:  billNo: 1427975057-25448
+
+2015-05-13T12:39:21Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=OnlineRefund&payRef=6708923&amount=500
+
+2015-05-13T12:39:23Z
+ResponseParameter:  billNo: 1427975057-25448
+
+2015-05-13T12:39:23Z
+resultCode=0&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Online Refund Success...
+
+
+
+
+

@@ -1,0 +1,25 @@
+2014-07-03T21:52:41Z
+RequestParameter:  billNo: LbzH71404411442
+
+2014-07-03T21:52:41Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=LbzH71404411442&TransactionType=2&Currency=USD&Amount=1498&TransactionID=20140704000000E000AD
+
+2014-07-03T21:52:43Z
+ResponseParameter:  billNo: LbzH71404411442
+
+2014-07-03T21:52:43Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>LbzH71404411442</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140704065257</ResponseTime>
+<TransactionID>20140704000000E000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

@@ -1,0 +1,48 @@
+2015-11-05T00:07:05Z
+RequestParameter:  billNo: 1446682027227 | startTime:2015-11-05 00:07:05
+
+2015-11-05T00:07:05Z
+https://sip.uniques.net/direct/payment
+
+2015-11-05T00:07:05Z
+Array
+(
+    [cid] => 11633
+    [payNo] => 1446682027227
+    [createdAt] => 20151105000707
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 103.18.0.194
+    [signInfo] => 5322b9a18fb6f89ce51355bcd2b10fef
+    [ccNo] => 5************185
+    [cvc] => ***
+    [expMonth] => 11
+    [expYear] => 2017
+    [fName] => Leow
+    [lName] => Hong Tee
+    [emailAddress] => hongtee_leow@hotmail.com
+    [phoneNo] => 0954687156
+    [birth] => 19801113
+    [zip] => 00000
+    [billAddress] => Malaysia
+    [billCity] => malaysia
+    [billState] => NAA
+    [billCountry] => MY
+    [billAmount] => 100
+    [comment] => 30309
+)
+
+
+2015-11-05T00:07:12Z
+ResponseParameter:  billNo: 1446682027227 | endTime:2015-11-05 00:07:12
+
+2015-11-05T00:07:12Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11633","payNo":"1446682027227","billAmount":"100.00","createdAt":"20151105080717","billCurrency":"USD","tid":"1163323246437","comment":"Success","signInfo":"7758C3295CEED2E5525CD8D84739DBC1","billingDescriptor":"FURONGJU"}
+
+)
+
+

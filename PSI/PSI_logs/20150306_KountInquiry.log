@@ -1,0 +1,3057 @@
+2015-03-06T09:20:10Z
+RequestParameter:  billNo: 1425633459-1314 | startTime:2015-03-06 09:20:10
+
+2015-03-06T09:20:10Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => dd9e3ee0a5e4edbc16c6204e29c2c4ed
+    [ORDR] => 1425633459-1314
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497624QNCP4GQ4FTTMOX
+    [IPAD] => 31.168.91.177
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERDPASL
+    [NAME] => Sandrine FUERTES
+    [B2A1] => 5 bis rue de margnolles
+    [B2CC] => FR
+    [B2CI] => caluire
+    [B2PC] => 69300
+    [B2PN] => 06 14 07 38 68
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 1969-08-17
+    [GENDER] => F
+    [EMAL] => sandrinefuertes@yahoo.fr
+)
+
+
+2015-03-06T09:20:13Z
+ResponseParameter:  billNo: 1425633459-1314 | endTime:2015-03-06 09:20:13
+
+2015-03-06T09:20:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3T1J0XQK4LG6</TRAN>
+  <MERC>680000</MERC>
+  <SESS>dd9e3ee0a5e4edbc16c6204e29c2c4ed</SESS>
+  <ORDR>1425633459-1314</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>64</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IL_05</REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>87FF197DF2.F8E592A450.E81F349621.C6CC5C45FA.7BE7EC6CF6</DEVICE_LAYERS>
+  <FINGERPRINT>BA98953F904883801BBF6834C822BD37</FINGERPRINT>
+  <TIMEZONE>1320</TIMEZONE>
+  <LOCALTIME>2015-03-06 11:20</LOCALTIME>
+  <REGION>IL_05</REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>FR</HTTP_COUNTRY>
+  <LANGUAGE>FR</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330722</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330730</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-01-26</DDFS>
+  <DSR>768x1366</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36</UAS>
+  <BROWSER>Chrome 40.0.2214.115</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>31.168.91.177</IP_IPAD>
+  <IP_LAT>32.0667</IP_LAT>
+  <IP_LON>34.7667</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>Tel Aviv</IP_REGION>
+  <IP_CITY>Tel Aviv</IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T09:34:48Z
+RequestParameter:  billNo: 1425633910-12911 | startTime:2015-03-06 09:34:48
+
+2015-03-06T09:34:48Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 6419b1a088557a3bdc09951a2fefa2bb
+    [ORDR] => 1425633910-12911
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 493831829N3MPJR0MN14
+    [IPAD] => 31.168.192.88
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERMIA2902
+    [NAME] => w.c. kammeijer
+    [B2A1] => oosteimde 6
+    [B2CC] => NL
+    [B2CI] => wapserven
+    [B2PC] => 8351hb
+    [B2PN] => 0621108991
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 1946-12-18
+    [GENDER] => F
+    [EMAL] => wilka@kpnmail.nl
+)
+
+
+2015-03-06T09:37:34Z
+RequestParameter:  billNo: 1425634532-12911 | startTime:2015-03-06 09:37:34
+
+2015-03-06T09:37:34Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => bde2f9fde6a03daf23391f8e8f472b2d
+    [ORDR] => 1425634532-12911
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 493831829N3MPJR0MN14
+    [IPAD] => 31.168.192.88
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERMIA2902
+    [NAME] => kammeijer willy
+    [B2A1] => oosteimde 6
+    [B2CC] => NL
+    [B2CI] => wapserven
+    [B2PC] => 8351hb
+    [B2PN] => 0621108991
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 1955-04-06
+    [GENDER] => F
+    [EMAL] => wilka@kpnmail.nl
+)
+
+
+2015-03-06T09:37:37Z
+ResponseParameter:  billNo: 1425634532-12911 | endTime:2015-03-06 09:37:37
+
+2015-03-06T09:37:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3T1J0PRGGSTT</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bde2f9fde6a03daf23391f8e8f472b2d</SESS>
+  <ORDR>1425634532-12911</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IL_05</REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>9</CARDS>
+  <DEVICES>7</DEVICES>
+  <EMAILS>9</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>87FF197DF2.6ED8A84C22.DEEC716A00.D300F3BD95.E24673E5BA</DEVICE_LAYERS>
+  <FINGERPRINT>A946B3DB67CD649D2162A018B519E346</FINGERPRINT>
+  <TIMEZONE>1320</TIMEZONE>
+  <LOCALTIME>2015-03-06 11:37</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>5</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330722</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330730</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330734</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_4>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-03-03</DDFS>
+  <DSR>768x1360</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36</UAS>
+  <BROWSER>Chrome 40.0.2214.115</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>31.168.192.88</IP_IPAD>
+  <IP_LAT>31.5</IP_LAT>
+  <IP_LON>34.75</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:13:58Z
+RequestParameter:  billNo: YDUV01425636837 | startTime:2015-03-06 10:13:58
+
+2015-03-06T10:13:58Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => YDUV01425636837
+    [ORDR] => YDUV01425636837
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4567890LSSRVKS85XUZB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => weqqw qweqw
+    [PROD_TYPE[0]] => adsas
+    [PROD_ITEM[0]] => dasdasd
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => juan tamad
+    [B2A1] => 213123
+    [B2CC] => BD
+    [B2CI] => vvcxv
+    [B2PC] => 1232
+    [B2PN] => 23123
+    [B2ST] => na
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 2015-03-01
+    [GENDER] => M
+    [EMAL] => juan@mail.com
+    [ANID] => 23123
+)
+
+
+2015-03-06T10:14:00Z
+ResponseParameter:  billNo: YDUV01425636837 | endTime:2015-03-06 10:14:00
+
+2015-03-06T10:14:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M0G68B2R4</TRAN>
+  <MERC>680000</MERC>
+  <SESS>YDUV01425636837</SESS>
+  <ORDR>YDUV01425636837</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:14:20Z
+RequestParameter:  billNo: hi5we1425636860 | startTime:2015-03-06 10:14:20
+
+2015-03-06T10:14:20Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => hi5we1425636860
+    [ORDR] => hi5we1425636860
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5411111O1TBIYR8J1Y4T
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => test
+    [PROD_TYPE[0]] => test
+    [PROD_ITEM[0]] => test
+    [PROD_QUANT[0]] => 2
+    [PROD_PRICE[0]] => 2500
+    [TOTL] => 5000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => a a
+    [B2A1] => 11
+    [B2CC] => AL
+    [B2CI] => tst
+    [B2PC] => 1111
+    [B2PN] => 12
+    [B2ST] => test
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 50
+    [DOB] => 1985-11-06
+    [GENDER] => F
+    [EMAL] => aheriales111@yahoo.com
+    [ANID] => 12
+)
+
+
+2015-03-06T10:14:21Z
+ResponseParameter:  billNo: hi5we1425636860 | endTime:2015-03-06 10:14:21
+
+2015-03-06T10:14:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M0CQVY1BM</TRAN>
+  <MERC>680000</MERC>
+  <SESS>hi5we1425636860</SESS>
+  <ORDR>hi5we1425636860</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>24</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:25:20Z
+RequestParameter:  billNo: kTgOx1425637520 | startTime:2015-03-06 10:25:20
+
+2015-03-06T10:25:20Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => kTgOx1425637520
+    [ORDR] => kTgOx1425637520
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4315710SK85L2EUGCBXD
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => Michael Gagulashvili
+    [B2A1] => alenbi 43
+    [B2CC] => IL
+    [B2CI] => tel aviv
+    [B2PC] => 42224
+    [B2PN] => 972526417722
+    [B2ST] => hasharon
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 1983-08-17
+    [GENDER] => M
+    [EMAL] => pmsat@me.com
+    [ANID] => 972526417722
+)
+
+
+2015-03-06T10:25:21Z
+ResponseParameter:  billNo: kTgOx1425637520 | endTime:2015-03-06 10:25:21
+
+2015-03-06T10:25:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M008TKXCK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>kTgOx1425637520</SESS>
+  <ORDR>kTgOx1425637520</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:26:10Z
+RequestParameter:  billNo: 1425637399-7845 | startTime:2015-03-06 10:26:10
+
+2015-03-06T10:26:10Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 1dfa9db3343e90fc84c69cf8474f48b7
+    [ORDR] => 1425637399-7845
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 528497E5W6EOTKI23I94
+    [IPAD] => 31.168.192.88
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERMIA2902
+    [NAME] => HENDRIK konstabel
+    [B2A1] => dysselsdorp
+    [B2CC] => GB
+    [B2CI] => westewn lake
+    [B2PC] => 12345
+    [B2PN] => 721536617
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 1966-11-24
+    [GENDER] => M
+    [EMAL] => konstabelh@gmail.com
+)
+
+
+2015-03-06T10:26:12Z
+ResponseParameter:  billNo: 1425637399-7845 | endTime:2015-03-06 10:26:12
+
+2015-03-06T10:26:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3T1M0CQK081K</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1dfa9db3343e90fc84c69cf8474f48b7</SESS>
+  <ORDR>1425637399-7845</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN>IL_05</REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>9</CARDS>
+  <DEVICES>7</DEVICES>
+  <EMAILS>9</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>87FF197DF2.86B8C16066.EB977797BE.D300F3BD95.C97260F4CB</DEVICE_LAYERS>
+  <FINGERPRINT>21FAA5C186E04452CAA13BC3B2A848B7</FINGERPRINT>
+  <TIMEZONE>1320</TIMEZONE>
+  <LOCALTIME>2015-03-06 12:26</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>6</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330722</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330724</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330730</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330734</RULE_ID_5>
+  <RULE_DESCRIPTION_5>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_5>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>4</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-03-03</DDFS>
+  <DSR>768x1360</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36</UAS>
+  <BROWSER>Chrome 40.0.2214.115</BROWSER>
+  <OS>Windows 8.1</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>31.168.192.88</IP_IPAD>
+  <IP_LAT>31.5</IP_LAT>
+  <IP_LON>34.75</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:32:13Z
+RequestParameter:  billNo: Kux461425637933 | startTime:2015-03-06 10:32:13
+
+2015-03-06T10:32:13Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => Kux461425637933
+    [ORDR] => Kux461425637933
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497539Z97FDNPSV717HY
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 120000
+    [TOTL] => 120000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => didier houg
+    [B2A1] => paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 7500
+    [B2ST] => paris
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1200
+    [DOB] => 2015-03-01
+    [GENDER] => M
+    [EMAL] => d.houg@mac.com
+    [ANID] => 7500
+)
+
+
+2015-03-06T10:32:15Z
+ResponseParameter:  billNo: Kux461425637933 | endTime:2015-03-06 10:32:15
+
+2015-03-06T10:32:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M0CVPQ8B2</TRAN>
+  <MERC>680000</MERC>
+  <SESS>Kux461425637933</SESS>
+  <ORDR>Kux461425637933</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:48:13Z
+RequestParameter:  billNo: p9VZR1425638893 | startTime:2015-03-06 10:48:13
+
+2015-03-06T10:48:13Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => p9VZR1425638893
+    [ORDR] => p9VZR1425638893
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513283OSSX8M4MU0BGLQ
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => coiffard albert
+    [B2A1] => 16 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 2015-03-22
+    [GENDER] => M
+    [EMAL] => albertcoiffard@sfr.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T10:48:16Z
+ResponseParameter:  billNo: p9VZR1425638893 | endTime:2015-03-06 10:48:16
+
+2015-03-06T10:48:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M07H1CT6T</TRAN>
+  <MERC>680000</MERC>
+  <SESS>p9VZR1425638893</SESS>
+  <ORDR>p9VZR1425638893</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:51:02Z
+RequestParameter:  billNo: ridlt1425639062 | startTime:2015-03-06 10:51:02
+
+2015-03-06T10:51:02Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => ridlt1425639062
+    [ORDR] => ridlt1425639062
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874IW42YNOKYNLYX3
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => didier franco
+    [B2A1] => 19 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 7500
+    [B2PN] => 7500
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 2015-03-22
+    [GENDER] => M
+    [EMAL] => dfranco9@aol.com
+    [ANID] => 7500
+)
+
+
+2015-03-06T10:51:03Z
+ResponseParameter:  billNo: ridlt1425639062 | endTime:2015-03-06 10:51:03
+
+2015-03-06T10:51:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M0NM18RZC</TRAN>
+  <MERC>680000</MERC>
+  <SESS>ridlt1425639062</SESS>
+  <ORDR>ridlt1425639062</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:52:19Z
+RequestParameter:  billNo: IX3lD1425639139 | startTime:2015-03-06 10:52:19
+
+2015-03-06T10:52:19Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => IX3lD1425639139
+    [ORDR] => IX3lD1425639139
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874JM735CE654DEMS
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => christine franco
+    [B2A1] => 19 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 7500
+    [B2PN] => 7500
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 2015-03-22
+    [GENDER] => F
+    [EMAL] => dfranco9@aol.com
+    [ANID] => 7500
+)
+
+
+2015-03-06T10:52:20Z
+ResponseParameter:  billNo: IX3lD1425639139 | endTime:2015-03-06 10:52:20
+
+2015-03-06T10:52:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M08HJSBZ6</TRAN>
+  <MERC>680000</MERC>
+  <SESS>IX3lD1425639139</SESS>
+  <ORDR>IX3lD1425639139</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:52:46Z
+RequestParameter:  billNo: pNREM1425639166 | startTime:2015-03-06 10:52:46
+
+2015-03-06T10:52:46Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => pNREM1425639166
+    [ORDR] => pNREM1425639166
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874JM735CE654DEMS
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => christine franco
+    [B2A1] => 19 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 7500
+    [B2PN] => 7500
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 2015-03-22
+    [GENDER] => F
+    [EMAL] => intrudom@gmail.comm
+    [ANID] => 7500
+)
+
+
+2015-03-06T10:52:47Z
+ResponseParameter:  billNo: pNREM1425639166 | endTime:2015-03-06 10:52:47
+
+2015-03-06T10:52:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M06MTJ166</TRAN>
+  <MERC>680000</MERC>
+  <SESS>pNREM1425639166</SESS>
+  <ORDR>pNREM1425639166</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345042</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Email Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T10:56:54Z
+RequestParameter:  billNo: wIplG1425639414 | startTime:2015-03-06 10:56:54
+
+2015-03-06T10:56:54Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => wIplG1425639414
+    [ORDR] => wIplG1425639414
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874IW42YNOKYNLYX3
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => daniel franco
+    [B2A1] => 16 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => dfranco9@aol.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T10:56:55Z
+ResponseParameter:  billNo: wIplG1425639414 | endTime:2015-03-06 10:56:55
+
+2015-03-06T10:56:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1M0XPYK4Y7</TRAN>
+  <MERC>680000</MERC>
+  <SESS>wIplG1425639414</SESS>
+  <ORDR>wIplG1425639414</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>59</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>3</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>3</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:00:32Z
+RequestParameter:  billNo: QFMy61425639632 | startTime:2015-03-06 11:00:32
+
+2015-03-06T11:00:32Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => QFMy61425639632
+    [ORDR] => QFMy61425639632
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5313060A3PPA45GKULKU
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => brice pizzera
+    [B2A1] => 16 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => intrudom@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:00:33Z
+ResponseParameter:  billNo: QFMy61425639632 | endTime:2015-03-06 11:00:33
+
+2015-03-06T11:00:33Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0D0J44YS</TRAN>
+  <MERC>680000</MERC>
+  <SESS>QFMy61425639632</SESS>
+  <ORDR>QFMy61425639632</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>66</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:01:08Z
+RequestParameter:  billNo: 2yw9X1425639668 | startTime:2015-03-06 11:01:08
+
+2015-03-06T11:01:08Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 2yw9X1425639668
+    [ORDR] => 2yw9X1425639668
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5313060A3PPA45GKULKU
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => brice pizzera
+    [B2A1] => 16 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => intrudom@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:01:09Z
+ResponseParameter:  billNo: 2yw9X1425639668 | endTime:2015-03-06 11:01:09
+
+2015-03-06T11:01:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0KMZ19Y4</TRAN>
+  <MERC>680000</MERC>
+  <SESS>2yw9X1425639668</SESS>
+  <ORDR>2yw9X1425639668</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>66</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:01:37Z
+RequestParameter:  billNo: c04tB1425639697 | startTime:2015-03-06 11:01:37
+
+2015-03-06T11:01:37Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => c04tB1425639697
+    [ORDR] => c04tB1425639697
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5313060A3PPA45GKULKU
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => brice pizzera
+    [B2A1] => 16 avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => intrudom@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:01:38Z
+ResponseParameter:  billNo: c04tB1425639697 | endTime:2015-03-06 11:01:38
+
+2015-03-06T11:01:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G048R5367</TRAN>
+  <MERC>680000</MERC>
+  <SESS>c04tB1425639697</SESS>
+  <ORDR>c04tB1425639697</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>66</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:09:58Z
+RequestParameter:  billNo: AwliT1425640197 | startTime:2015-03-06 11:09:58
+
+2015-03-06T11:09:58Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => AwliT1425640197
+    [ORDR] => AwliT1425640197
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4978862SZEHPKSTWE0FN
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => mahane champs
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 7500
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 2015-03-15
+    [GENDER] => M
+    [EMAL] => scylance.rc@gmail.com
+    [ANID] => 7500
+)
+
+
+2015-03-06T11:09:59Z
+ResponseParameter:  billNo: AwliT1425640197 | endTime:2015-03-06 11:09:59
+
+2015-03-06T11:09:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0JBMM3GV</TRAN>
+  <MERC>680000</MERC>
+  <SESS>AwliT1425640197</SESS>
+  <ORDR>AwliT1425640197</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:27:26Z
+RequestParameter:  billNo: eN2b51425641246 | startTime:2015-03-06 11:27:26
+
+2015-03-06T11:27:26Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => eN2b51425641246
+    [ORDR] => eN2b51425641246
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874XCIHJQJCO0BDMA
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => maxime lecouvey
+    [B2A1] => 27 rue des bocages
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 52150
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => maxime.lecouvey@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:27:45Z
+RequestParameter:  billNo: txJWD1425641264 | startTime:2015-03-06 11:27:45
+
+2015-03-06T11:27:45Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => txJWD1425641264
+    [ORDR] => txJWD1425641264
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874XCIHJQJCO0BDMA
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => maxime lecouvey
+    [B2A1] => 27 rue des bocages
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 52150
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => maxime.lecouvey@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:27:47Z
+ResponseParameter:  billNo: txJWD1425641264 | endTime:2015-03-06 11:27:47
+
+2015-03-06T11:27:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0PJ3N4CK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>txJWD1425641264</SESS>
+  <ORDR>txJWD1425641264</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:28:13Z
+RequestParameter:  billNo: gfOHT1425641293 | startTime:2015-03-06 11:28:13
+
+2015-03-06T11:28:13Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => gfOHT1425641293
+    [ORDR] => gfOHT1425641293
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497874XCIHJQJCO0BDMA
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 20000
+    [TOTL] => 20000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => maxime lecouvey
+    [B2A1] => 27 rue des bocages
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 52150
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 200
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => maxime.lecouvey@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:28:15Z
+ResponseParameter:  billNo: gfOHT1425641293 | endTime:2015-03-06 11:28:15
+
+2015-03-06T11:28:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0B33XYGR</TRAN>
+  <MERC>680000</MERC>
+  <SESS>gfOHT1425641293</SESS>
+  <ORDR>gfOHT1425641293</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:30:39Z
+RequestParameter:  billNo: 2Se7H1425641438 | startTime:2015-03-06 11:30:39
+
+2015-03-06T11:30:39Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 2Se7H1425641438
+    [ORDR] => 2Se7H1425641438
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513646JXDEW9GBPBH1FU
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => jeremy aggoun
+    [B2A1] => 27 rue des bocages
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 52150
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 2015-03-16
+    [GENDER] => M
+    [EMAL] => jerryagon@gmail.com
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:30:40Z
+ResponseParameter:  billNo: 2Se7H1425641438 | endTime:2015-03-06 11:30:40
+
+2015-03-06T11:30:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0MWBC0NJ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>2Se7H1425641438</SESS>
+  <ORDR>2Se7H1425641438</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:49:45Z
+RequestParameter:  billNo: W61NO1425642584 | startTime:2015-03-06 11:49:45
+
+2015-03-06T11:49:45Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => W61NO1425642584
+    [ORDR] => W61NO1425642584
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513111LUYO6YJH2LBXUE
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => bertrand popineau
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 2015-03-22
+    [GENDER] => M
+    [EMAL] => intrudom@gmail.comm
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:49:46Z
+ResponseParameter:  billNo: W61NO1425642584 | endTime:2015-03-06 11:49:46
+
+2015-03-06T11:49:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0Q60V8RX</TRAN>
+  <MERC>680000</MERC>
+  <SESS>W61NO1425642584</SESS>
+  <ORDR>W61NO1425642584</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>9</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>8</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>5</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330728</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330734</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>345042</RULE_ID_4>
+  <RULE_DESCRIPTION_4>Decline Customer Email Validation</RULE_DESCRIPTION_4>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:54:03Z
+RequestParameter:  billNo: BVuO61425642843 | startTime:2015-03-06 11:54:03
+
+2015-03-06T11:54:03Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => BVuO61425642843
+    [ORDR] => BVuO61425642843
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497604YVFZRX7XGZ97R8
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => lupo eliane
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-22
+    [GENDER] => F
+    [EMAL] => lupoeliane@estvideo.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:54:04Z
+ResponseParameter:  billNo: BVuO61425642843 | endTime:2015-03-06 11:54:04
+
+2015-03-06T11:54:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0G0TKW9J</TRAN>
+  <MERC>680000</MERC>
+  <SESS>BVuO61425642843</SESS>
+  <ORDR>BVuO61425642843</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:56:10Z
+RequestParameter:  billNo: pkwWi1425642970 | startTime:2015-03-06 11:56:10
+
+2015-03-06T11:56:10Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => pkwWi1425642970
+    [ORDR] => pkwWi1425642970
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497604YVFZRX7XGZ97R8
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => eliane lupo
+    [B2A1] => ahhhshshs
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => frace
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-29
+    [GENDER] => F
+    [EMAL] => lupoeliane@estvideo.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:56:11Z
+ResponseParameter:  billNo: pkwWi1425642970 | endTime:2015-03-06 11:56:11
+
+2015-03-06T11:56:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G040L1RG5</TRAN>
+  <MERC>680000</MERC>
+  <SESS>pkwWi1425642970</SESS>
+  <ORDR>pkwWi1425642970</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>10</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>9</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330728</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330734</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T11:58:39Z
+RequestParameter:  billNo: Fy0OT1425643118 | startTime:2015-03-06 11:58:39
+
+2015-03-06T11:58:39Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => Fy0OT1425643118
+    [ORDR] => Fy0OT1425643118
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497604YVFZRX7XGZ97R8
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => eliane lupo
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-22
+    [GENDER] => F
+    [EMAL] => elianelupo@estvideo.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T11:58:40Z
+ResponseParameter:  billNo: Fy0OT1425643118 | endTime:2015-03-06 11:58:40
+
+2015-03-06T11:58:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1G0KZ7SDK6</TRAN>
+  <MERC>680000</MERC>
+  <SESS>Fy0OT1425643118</SESS>
+  <ORDR>Fy0OT1425643118</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>10</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>10</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330728</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330734</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T12:01:43Z
+RequestParameter:  billNo: SAsrR1425643303 | startTime:2015-03-06 12:01:43
+
+2015-03-06T12:01:43Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => SAsrR1425643303
+    [ORDR] => SAsrR1425643303
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497604YVFZRX7XGZ97R8
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => eliane lupo
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-02
+    [GENDER] => F
+    [EMAL] => elianelupo@estvideo.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T12:01:45Z
+ResponseParameter:  billNo: SAsrR1425643303 | endTime:2015-03-06 12:01:45
+
+2015-03-06T12:01:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1X08M56V2H</TRAN>
+  <MERC>680000</MERC>
+  <SESS>SAsrR1425643303</SESS>
+  <ORDR>SAsrR1425643303</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>10</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>10</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330728</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330734</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T12:02:27Z
+RequestParameter:  billNo: EFUQB1425643347 | startTime:2015-03-06 12:02:27
+
+2015-03-06T12:02:27Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => EFUQB1425643347
+    [ORDR] => EFUQB1425643347
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497604SW285M25HCJG4B
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => binary trade
+    [PROD_TYPE[0]] => binary trade
+    [PROD_ITEM[0]] => SKU-AMF-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 200000
+    [TOTL] => 200000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERAMFCAP
+    [NAME] => eliane lupo
+    [B2A1] => avenue de paris
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75000
+    [B2PN] => 75000
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 2000
+    [DOB] => 2015-03-02
+    [GENDER] => F
+    [EMAL] => elianelupo@estvideo.fr
+    [ANID] => 75000
+)
+
+
+2015-03-06T12:02:28Z
+ResponseParameter:  billNo: EFUQB1425643347 | endTime:2015-03-06 12:02:28
+
+2015-03-06T12:02:28Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3T1X01YWJ620</TRAN>
+  <MERC>680000</MERC>
+  <SESS>EFUQB1425643347</SESS>
+  <ORDR>EFUQB1425643347</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>11</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>10</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330728</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330734</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T12:43:27Z
+RequestParameter:  billNo: 2120-4721_1155 | startTime:2015-03-06 12:43:27
+
+2015-03-06T12:43:27Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 24c6fm1dp3cd21c2813e7rl6f5
+    [ORDR] => 2120-4721_1155
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongée
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 123333444
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 1972-08-07
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2015-03-06T12:43:29Z
+ResponseParameter:  billNo: 2120-4721_1155 | endTime:2015-03-06 12:43:29
+
+2015-03-06T12:43:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3T1X0RNY3DWW</TRAN>
+  <MERC>680000</MERC>
+  <SESS>24c6fm1dp3cd21c2813e7rl6f5</SESS>
+  <ORDR>2120-4721_1155</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>36</SCOR>
+  <GEOX>FR</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>....</DEVICE_LAYERS>
+  <FINGERPRINT></FINGERPRINT>
+  <TIMEZONE></TIMEZONE>
+  <LOCALTIME> </LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY></COUNTRY>
+  <PROXY></PROXY>
+  <JAVASCRIPT></JAVASCRIPT>
+  <FLASH></FLASH>
+  <COOKIES></COOKIES>
+  <HTTP_COUNTRY></HTTP_COUNTRY>
+  <LANGUAGE></LANGUAGE>
+  <MOBILE_DEVICE></MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER></MOBILE_FORWARDER>
+  <VOICE_DEVICE></VOICE_DEVICE>
+  <PC_REMOTE></PC_REMOTE>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-06T12:44:47Z
+RequestParameter:  billNo: 7475-6807_4962 | startTime:2015-03-06 12:44:47
+
+2015-03-06T12:44:47Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => f0vfhkl687tc4vth0a5pl674f7
+    [ORDR] => 7475-6807_4962
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1200
+    [TOTL] => 1200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongée
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 123333444
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 12
+    [DOB] => 1070-06-12
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2015-03-06T12:44:48Z
+ResponseParameter:  billNo: 7475-6807_4962 | endTime:2015-03-06 12:44:48
+
+2015-03-06T12:44:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3T1X0NP00MM0</TRAN>
+  <MERC>680000</MERC>
+  <SESS>f0vfhkl687tc4vth0a5pl674f7</SESS>
+  <ORDR>7475-6807_4962</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>36</SCOR>
+  <GEOX>FR</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>....</DEVICE_LAYERS>
+  <FINGERPRINT></FINGERPRINT>
+  <TIMEZONE></TIMEZONE>
+  <LOCALTIME> </LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY></COUNTRY>
+  <PROXY></PROXY>
+  <JAVASCRIPT></JAVASCRIPT>
+  <FLASH></FLASH>
+  <COOKIES></COOKIES>
+  <HTTP_COUNTRY></HTTP_COUNTRY>
+  <LANGUAGE></LANGUAGE>
+  <MOBILE_DEVICE></MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER></MOBILE_FORWARDER>
+  <VOICE_DEVICE></VOICE_DEVICE>
+  <PC_REMOTE></PC_REMOTE>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [1070-06-12] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [1070-06-12]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

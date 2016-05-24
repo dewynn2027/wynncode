@@ -1,0 +1,859 @@
+2015-03-25T07:36:25Z
+RequestParameter:  billNo: 1427268984851 | startTime:2015-03-25 07:36:25
+
+2015-03-25T07:36:25Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Alessandro%20Sepich&cardNo=4************541&securityCode=***&epMonth=11&epYear=2017&amount=10&currCode=840&orderRef=1427268984851&remark=10002
+
+2015-03-25T07:36:25Z
+ResponseParameter:  billNo: 1427268984851 | endTime:2015-03-25 07:36:25
+
+2015-03-25T07:36:25Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-03-25T07:44:43Z
+RequestParameter:  billNo: 1427269483501 | startTime:2015-03-25 07:44:43
+
+2015-03-25T07:44:43Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Alessandro%20Sepich&cardNo=4************541&securityCode=***&epMonth=11&epYear=2017&amount=10&currCode=978&orderRef=1427269483501&remark=10002
+
+2015-03-25T07:44:49Z
+ResponseParameter:  billNo: 1427269483501 | endTime:2015-03-25 07:44:49
+
+2015-03-25T07:44:49Z
+successcode=0&Ref=1427269483501&PayRef=6650693&Amt=10.0&Cur=978&prc=0&src=0&Ord=508418581354&Holder=Alessandro Sepich&AuthId=551811&TxTime=2015-03-25 15:44:44.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T08:12:57Z
+RequestParameter:  billNo: 1427270987-2103 | startTime:2015-03-25 08:12:57
+
+2015-03-25T08:12:57Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=dominique%20mellac&cardNo=4************672&securityCode=***&epMonth=09&epYear=2016&amount=500&currCode=978&orderRef=1427270987-2103&remark=
+
+2015-03-25T08:13:01Z
+ResponseParameter:  billNo: 1427270987-2103 | endTime:2015-03-25 08:13:01
+
+2015-03-25T08:13:01Z
+successcode=0&Ref=1427270987-2103&PayRef=6650866&Amt=500.0&Cur=978&prc=0&src=0&Ord=508419583523&Holder=dominique mellac&AuthId=235543&TxTime=2015-03-25 16:12:58.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T08:23:35Z
+RequestParameter:  billNo: 1427271469-3908 | startTime:2015-03-25 08:23:35
+
+2015-03-25T08:23:35Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=alexis%20monnier&cardNo=4************992&securityCode=***&epMonth=10&epYear=2015&amount=500&currCode=978&orderRef=1427271469-3908&remark=
+
+2015-03-25T08:23:53Z
+ResponseParameter:  billNo: 1427271469-3908 | endTime:2015-03-25 08:23:53
+
+2015-03-25T08:23:53Z
+successcode=1&Ref=1427271469-3908&PayRef=6650925&Amt=500.0&Cur=978&prc=1&src=205&Ord=508419583600&Holder=alexis monnier&AuthId=&TxTime=2015-03-25 16:23:38.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T08:26:40Z
+RequestParameter:  billNo: 1427271942-9358 | startTime:2015-03-25 08:26:40
+
+2015-03-25T08:26:40Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Mario%20Hutin&cardNo=5************888&securityCode=***&epMonth=06&epYear=2015&amount=250&currCode=978&orderRef=1427271942-9358&remark=
+
+2015-03-25T08:26:43Z
+ResponseParameter:  billNo: 1427271942-9358 | endTime:2015-03-25 08:26:43
+
+2015-03-25T08:26:43Z
+successcode=1&Ref=1427271942-9358&PayRef=6650939&Amt=250.0&Cur=978&prc=1&src=551&Ord=508419583620&Holder=Mario Hutin&AuthId=&TxTime=2015-03-25 16:26:41.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T08:43:05Z
+RequestParameter:  billNo: 615895449 | startTime:2015-03-25 08:43:05
+
+2015-03-25T08:43:05Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Matteo%20Andreoli&cardNo=4************847&securityCode=***&epMonth=1&epYear=2019&amount=100&currCode=978&orderRef=615895449&remark=
+
+2015-03-25T08:43:16Z
+ResponseParameter:  billNo: 615895449 | endTime:2015-03-25 08:43:16
+
+2015-03-25T08:43:16Z
+successcode=1&Ref=615895449&PayRef=6651033&Amt=100.0&Cur=978&prc=1&src=551&Ord=508419583765&Holder=Matteo Andreoli&AuthId=&TxTime=2015-03-25 16:43:07.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:04:39Z
+RequestParameter:  billNo: 1427274226-24372 | startTime:2015-03-25 09:04:39
+
+2015-03-25T09:04:39Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Jean%20Pierre%20Guery&cardNo=4************935&securityCode=***&epMonth=09&epYear=2017&amount=500&currCode=978&orderRef=1427274226-24372&remark=
+
+2015-03-25T09:04:44Z
+ResponseParameter:  billNo: 1427274226-24372 | endTime:2015-03-25 09:04:44
+
+2015-03-25T09:04:44Z
+successcode=1&Ref=1427274226-24372&PayRef=6651140&Amt=500.0&Cur=978&prc=1&src=551&Ord=508420583905&Holder=Jean Pierre Guery&AuthId=&TxTime=2015-03-25 17:04:41.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:05:26Z
+RequestParameter:  billNo: 1427274285-24372 | startTime:2015-03-25 09:05:26
+
+2015-03-25T09:05:26Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Jean%20Pierre%20Guery&cardNo=4************935&securityCode=***&epMonth=09&epYear=2017&amount=250&currCode=978&orderRef=1427274285-24372&remark=
+
+2015-03-25T09:05:31Z
+ResponseParameter:  billNo: 1427274285-24372 | endTime:2015-03-25 09:05:31
+
+2015-03-25T09:05:31Z
+successcode=1&Ref=1427274285-24372&PayRef=6651142&Amt=250.0&Cur=978&prc=1&src=551&Ord=508420583910&Holder=Jean Pierre Guery&AuthId=&TxTime=2015-03-25 17:05:28.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:06:09Z
+RequestParameter:  billNo: 1427274332-24372 | startTime:2015-03-25 09:06:09
+
+2015-03-25T09:06:09Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Jean%20Pierre%20Guery&cardNo=4************935&securityCode=***&epMonth=09&epYear=2017&amount=200&currCode=978&orderRef=1427274332-24372&remark=
+
+2015-03-25T09:06:12Z
+ResponseParameter:  billNo: 1427274332-24372 | endTime:2015-03-25 09:06:12
+
+2015-03-25T09:06:12Z
+successcode=1&Ref=1427274332-24372&PayRef=6651147&Amt=200.0&Cur=978&prc=1&src=551&Ord=508420583913&Holder=Jean Pierre Guery&AuthId=&TxTime=2015-03-25 17:06:10.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:06:29Z
+RequestParameter:  billNo: 1427274387-9358 | startTime:2015-03-25 09:06:29
+
+2015-03-25T09:06:29Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=mario%20hutin&cardNo=5************888&securityCode=***&epMonth=06&epYear=2015&amount=250&currCode=978&orderRef=1427274387-9358&remark=
+
+2015-03-25T09:06:32Z
+ResponseParameter:  billNo: 1427274387-9358 | endTime:2015-03-25 09:06:32
+
+2015-03-25T09:06:32Z
+successcode=1&Ref=1427274387-9358&PayRef=6651148&Amt=250.0&Cur=978&prc=1&src=551&Ord=508420583916&Holder=mario hutin&AuthId=&TxTime=2015-03-25 17:06:31.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:11:24Z
+RequestParameter:  billNo: 1427274593-4841 | startTime:2015-03-25 09:11:24
+
+2015-03-25T09:11:24Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=jean%20lameynardi&cardNo=5************998&securityCode=***&epMonth=09&epYear=2015&amount=200&currCode=978&orderRef=1427274593-4841&remark=
+
+2015-03-25T09:11:30Z
+ResponseParameter:  billNo: 1427274593-4841 | endTime:2015-03-25 09:11:30
+
+2015-03-25T09:11:30Z
+successcode=0&Ref=1427274593-4841&PayRef=6651163&Amt=200.0&Cur=978&prc=0&src=0&Ord=508420583943&Holder=jean lameynardi&AuthId=694159&TxTime=2015-03-25 17:11:26.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T09:21:17Z
+RequestParameter:  billNo: 382814585 | startTime:2015-03-25 09:21:17
+
+2015-03-25T09:21:17Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Matteo%20Andreoli&cardNo=4************847&securityCode=***&epMonth=1&epYear=2019&amount=100&currCode=978&orderRef=382814585&remark=
+
+2015-03-25T09:21:22Z
+ResponseParameter:  billNo: 382814585 | endTime:2015-03-25 09:21:22
+
+2015-03-25T09:21:22Z
+successcode=1&Ref=382814585&PayRef=6651208&Amt=100.0&Cur=978&prc=1&src=551&Ord=508420584001&Holder=Matteo Andreoli&AuthId=&TxTime=2015-03-25 17:21:19.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:29:02Z
+RequestParameter:  billNo: 363799655 | startTime:2015-03-25 09:29:02
+
+2015-03-25T09:29:02Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=su%20su&cardNo=4************840&securityCode=***&epMonth=11&epYear=2016&amount=10&currCode=978&orderRef=363799655&remark=
+
+2015-03-25T09:29:07Z
+ResponseParameter:  billNo: 363799655 | endTime:2015-03-25 09:29:07
+
+2015-03-25T09:29:07Z
+successcode=0&Ref=363799655&PayRef=6651241&Amt=10.0&Cur=978&prc=0&src=0&Ord=508420584053&Holder=su su&AuthId=092701&TxTime=2015-03-25 17:29:03.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T09:30:44Z
+RequestParameter:  billNo: 736123762 | startTime:2015-03-25 09:30:44
+
+2015-03-25T09:30:44Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Matteo%20Andreoli&cardNo=4************847&securityCode=***&epMonth=1&epYear=2019&amount=100&currCode=978&orderRef=736123762&remark=
+
+2015-03-25T09:30:49Z
+ResponseParameter:  billNo: 736123762 | endTime:2015-03-25 09:30:49
+
+2015-03-25T09:30:49Z
+successcode=1&Ref=736123762&PayRef=6651250&Amt=100.0&Cur=978&prc=1&src=551&Ord=508420584063&Holder=Matteo Andreoli&AuthId=&TxTime=2015-03-25 17:30:46.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:41:36Z
+RequestParameter:  billNo: 1427276296-3960 | startTime:2015-03-25 09:41:36
+
+2015-03-25T09:41:36Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Laurent%20Basuyaux&cardNo=4************003&securityCode=***&epMonth=09&epYear=2016&amount=100&currCode=978&orderRef=1427276296-3960&remark=
+
+2015-03-25T09:41:41Z
+ResponseParameter:  billNo: 1427276296-3960 | endTime:2015-03-25 09:41:41
+
+2015-03-25T09:41:41Z
+successcode=1&Ref=1427276296-3960&PayRef=6651316&Amt=100.0&Cur=978&prc=1&src=551&Ord=508420584132&Holder=Laurent Basuyaux&AuthId=&TxTime=2015-03-25 17:41:38.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:43:48Z
+RequestParameter:  billNo: 1427276502-3960 | startTime:2015-03-25 09:43:48
+
+2015-03-25T09:43:48Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Laurent%20Basuyaux&cardNo=4************003&securityCode=***&epMonth=09&epYear=2016&amount=100&currCode=978&orderRef=1427276502-3960&remark=
+
+2015-03-25T09:43:53Z
+ResponseParameter:  billNo: 1427276502-3960 | endTime:2015-03-25 09:43:53
+
+2015-03-25T09:43:53Z
+successcode=1&Ref=1427276502-3960&PayRef=6651327&Amt=100.0&Cur=978&prc=1&src=551&Ord=508420584147&Holder=Laurent Basuyaux&AuthId=&TxTime=2015-03-25 17:43:51.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:52:24Z
+RequestParameter:  billNo: 1427276982-19218 | startTime:2015-03-25 09:52:24
+
+2015-03-25T09:52:24Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=DANIEL%20LAUNAY&cardNo=5************897&securityCode=***&epMonth=02&epYear=2018&amount=2000&currCode=978&orderRef=1427276982-19218&remark=
+
+2015-03-25T09:52:27Z
+ResponseParameter:  billNo: 1427276982-19218 | endTime:2015-03-25 09:52:27
+
+2015-03-25T09:52:27Z
+successcode=1&Ref=1427276982-19218&PayRef=6651377&Amt=2000.0&Cur=978&prc=1&src=551&Ord=508420584202&Holder=DANIEL LAUNAY&AuthId=&TxTime=2015-03-25 17:52:26.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T09:55:47Z
+RequestParameter:  billNo: 1427277149-19218 | startTime:2015-03-25 09:55:47
+
+2015-03-25T09:55:47Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=DANIEL%20LAUNAY&cardNo=5************897&securityCode=***&epMonth=02&epYear=2018&amount=2000&currCode=978&orderRef=1427277149-19218&remark=
+
+2015-03-25T09:55:50Z
+ResponseParameter:  billNo: 1427277149-19218 | endTime:2015-03-25 09:55:50
+
+2015-03-25T09:55:50Z
+successcode=1&Ref=1427277149-19218&PayRef=6651399&Amt=2000.0&Cur=978&prc=1&src=551&Ord=508420584225&Holder=DANIEL LAUNAY&AuthId=&TxTime=2015-03-25 17:55:48.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:07:54Z
+RequestParameter:  billNo: 1426786968-3179 | startTime:2015-03-25 10:07:54
+
+2015-03-25T10:07:54Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Jjacques%20Roussat&cardNo=5************323&securityCode=***&epMonth=01&epYear=2017&amount=250&currCode=978&orderRef=1426786968-3179&remark=
+
+2015-03-25T10:07:59Z
+ResponseParameter:  billNo: 1426786968-3179 | endTime:2015-03-25 10:07:59
+
+2015-03-25T10:07:59Z
+successcode=1&Ref=1426786968-3179&PayRef=6651458&Amt=250.0&Cur=978&prc=1&src=175&Ord=508421584299&Holder=Jjacques Roussat&AuthId=&TxTime=2015-03-25 18:07:57.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:11:04Z
+RequestParameter:  billNo: 1427278016-9358 | startTime:2015-03-25 10:11:04
+
+2015-03-25T10:11:04Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Mario%20HUTIN&cardNo=5************888&securityCode=***&epMonth=06&epYear=2015&amount=1000&currCode=978&orderRef=1427278016-9358&remark=
+
+2015-03-25T10:11:09Z
+ResponseParameter:  billNo: 1427278016-9358 | endTime:2015-03-25 10:11:09
+
+2015-03-25T10:11:09Z
+successcode=1&Ref=1427278016-9358&PayRef=6651473&Amt=1000.0&Cur=978&prc=1&src=551&Ord=508421584317&Holder=Mario HUTIN&AuthId=&TxTime=2015-03-25 18:11:05.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:12:36Z
+RequestParameter:  billNo: 1427278191-629 | startTime:2015-03-25 10:12:36
+
+2015-03-25T10:12:36Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=JUSTIN%20P%20LIND&cardNo=4************092&securityCode=***&epMonth=04&epYear=2017&amount=150&currCode=978&orderRef=1427278191-629&remark=
+
+2015-03-25T10:12:40Z
+ResponseParameter:  billNo: 1427278191-629 | endTime:2015-03-25 10:12:40
+
+2015-03-25T10:12:40Z
+successcode=0&Ref=1427278191-629&PayRef=6651480&Amt=150.0&Cur=978&prc=0&src=0&Ord=508421584326&Holder=JUSTIN P LIND&AuthId=543960&TxTime=2015-03-25 18:12:38.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T10:14:00Z
+RequestParameter:  billNo: 1427278272-9358 | startTime:2015-03-25 10:14:00
+
+2015-03-25T10:14:00Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Mario%20HUTIN&cardNo=5************888&securityCode=***&epMonth=06&epYear=2015&amount=500&currCode=978&orderRef=1427278272-9358&remark=
+
+2015-03-25T10:14:13Z
+ResponseParameter:  billNo: 1427278272-9358 | endTime:2015-03-25 10:14:13
+
+2015-03-25T10:14:13Z
+successcode=1&Ref=1427278272-9358&PayRef=6651488&Amt=500.0&Cur=978&prc=1&src=551&Ord=508421584339&Holder=Mario HUTIN&AuthId=&TxTime=2015-03-25 18:14:02.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:30:14Z
+RequestParameter:  billNo: 1427279320-19224 | startTime:2015-03-25 10:30:14
+
+2015-03-25T10:30:14Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=JeanClaude%20LARCHER&cardNo=4************162&securityCode=***&epMonth=09&epYear=2017&amount=500&currCode=978&orderRef=1427279320-19224&remark=
+
+2015-03-25T10:30:19Z
+ResponseParameter:  billNo: 1427279320-19224 | endTime:2015-03-25 10:30:19
+
+2015-03-25T10:30:19Z
+successcode=1&Ref=1427279320-19224&PayRef=6651555&Amt=500.0&Cur=978&prc=1&src=205&Ord=508421584412&Holder=JeanClaude LARCHER&AuthId=&TxTime=2015-03-25 18:30:16.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:40:47Z
+RequestParameter:  billNo: 775582655 | startTime:2015-03-25 10:40:47
+
+2015-03-25T10:40:47Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Matteo%20Andreoli&cardNo=4************847&securityCode=***&epMonth=1&epYear=2019&amount=100&currCode=978&orderRef=775582655&remark=
+
+2015-03-25T10:40:50Z
+ResponseParameter:  billNo: 775582655 | endTime:2015-03-25 10:40:50
+
+2015-03-25T10:40:50Z
+successcode=1&Ref=775582655&PayRef=6651611&Amt=100.0&Cur=978&prc=1&src=551&Ord=508421584478&Holder=Matteo Andreoli&AuthId=&TxTime=2015-03-25 18:40:49.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T10:48:23Z
+RequestParameter:  billNo: 1427280129-15859 | startTime:2015-03-25 10:48:23
+
+2015-03-25T10:48:23Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Bernard%20DUSAUSSOY&cardNo=5************025&securityCode=***&epMonth=03&epYear=2018&amount=500&currCode=978&orderRef=1427280129-15859&remark=
+
+2015-03-25T10:48:40Z
+ResponseParameter:  billNo: 1427280129-15859 | endTime:2015-03-25 10:48:40
+
+2015-03-25T10:48:40Z
+successcode=0&Ref=1427280129-15859&PayRef=6651652&Amt=500.0&Cur=978&prc=0&src=0&Ord=508421584509&Holder=Bernard DUSAUSSOY&AuthId=644834&TxTime=2015-03-25 18:48:25.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T10:54:40Z
+RequestParameter:  billNo: 1427280772-2111 | startTime:2015-03-25 10:54:40
+
+2015-03-25T10:54:40Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=fabien%20marby&cardNo=4************722&securityCode=***&epMonth=12&epYear=2016&amount=250&currCode=978&orderRef=1427280772-2111&remark=
+
+2015-03-25T10:54:46Z
+ResponseParameter:  billNo: 1427280772-2111 | endTime:2015-03-25 10:54:46
+
+2015-03-25T10:54:46Z
+successcode=1&Ref=1427280772-2111&PayRef=6651673&Amt=250.0&Cur=978&prc=1&src=551&Ord=508421584539&Holder=fabien marby&AuthId=&TxTime=2015-03-25 18:54:42.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T11:28:10Z
+RequestParameter:  billNo: 1427282737-19081 | startTime:2015-03-25 11:28:10
+
+2015-03-25T11:28:10Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Albert%20Poillion&cardNo=4************929&securityCode=***&epMonth=09&epYear=2016&amount=500&currCode=978&orderRef=1427282737-19081&remark=
+
+2015-03-25T11:28:30Z
+ResponseParameter:  billNo: 1427282737-19081 | endTime:2015-03-25 11:28:30
+
+2015-03-25T11:28:30Z
+successcode=0&Ref=1427282737-19081&PayRef=6651807&Amt=500.0&Cur=978&prc=0&src=0&Ord=508422584706&Holder=Albert Poillion&AuthId=286265&TxTime=2015-03-25 19:28:13.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T11:45:21Z
+RequestParameter:  billNo: 2sK3g1427283921 | startTime:2015-03-25 11:45:21
+
+2015-03-25T11:45:21Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=real%20choquette&cardNo=4************921&securityCode=***&epMonth=07&epYear=2017&amount=500&currCode=978&orderRef=2sK3g1427283921&remark=eDFER
+
+2015-03-25T11:45:25Z
+ResponseParameter:  billNo: 2sK3g1427283921 | endTime:2015-03-25 11:45:25
+
+2015-03-25T11:45:25Z
+successcode=0&Ref=2sK3g1427283921&PayRef=6651879&Amt=500.0&Cur=978&prc=0&src=0&Ord=508422584793&Holder=real choquette&AuthId=057942&TxTime=2015-03-25 19:45:24.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T12:18:02Z
+RequestParameter:  billNo: 450899068 | startTime:2015-03-25 12:18:02
+
+2015-03-25T12:18:02Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Matteo%20Andreoli&cardNo=4************169&securityCode=***&epMonth=6&epYear=2016&amount=100&currCode=978&orderRef=450899068&remark=
+
+2015-03-25T12:18:21Z
+ResponseParameter:  billNo: 450899068 | endTime:2015-03-25 12:18:21
+
+2015-03-25T12:18:21Z
+successcode=1&Ref=450899068&PayRef=6652087&Amt=100.0&Cur=978&prc=1&src=257&Ord=508423584966&Holder=Matteo Andreoli&AuthId=&TxTime=2015-03-25 20:18:04.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T12:27:39Z
+RequestParameter:  billNo: 1427286369-2789 | startTime:2015-03-25 12:27:39
+
+2015-03-25T12:27:39Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Ertus%20KÃ©vin&cardNo=5************371&securityCode=***&epMonth=05&epYear=2017&amount=200&currCode=978&orderRef=1427286369-2789&remark=
+
+2015-03-25T12:27:43Z
+ResponseParameter:  billNo: 1427286369-2789 | endTime:2015-03-25 12:27:43
+
+2015-03-25T12:27:43Z
+successcode=1&Ref=1427286369-2789&PayRef=6652224&Amt=200.0&Cur=978&prc=1&src=551&Ord=508423585009&Holder=Ertus KÃ©vin&AuthId=&TxTime=2015-03-25 20:27:41.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T13:01:57Z
+RequestParameter:  billNo: 109064739 | startTime:2015-03-25 13:01:57
+
+2015-03-25T13:01:57Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Mario%20Galea&cardNo=4************024&securityCode=***&epMonth=4&epYear=2016&amount=895&currCode=978&orderRef=109064739&remark=
+
+2015-03-25T13:02:18Z
+ResponseParameter:  billNo: 109064739 | endTime:2015-03-25 13:02:18
+
+2015-03-25T13:02:18Z
+successcode=0&Ref=109064739&PayRef=6652445&Amt=895.0&Cur=978&prc=0&src=0&Ord=508500585185&Holder=Mario Galea&AuthId=T63749&TxTime=2015-03-25 21:02:00.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T13:27:25Z
+RequestParameter:  billNo: 1427289928-596 | startTime:2015-03-25 13:27:25
+
+2015-03-25T13:27:25Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Perepelitsa%20Aleksei&cardNo=5************128&securityCode=***&epMonth=10&epYear=2016&amount=400&currCode=978&orderRef=1427289928-596&remark=
+
+2015-03-25T13:27:33Z
+ResponseParameter:  billNo: 1427289928-596 | endTime:2015-03-25 13:27:33
+
+2015-03-25T13:27:33Z
+successcode=0&Ref=1427289928-596&PayRef=6652573&Amt=400.0&Cur=978&prc=0&src=0&Ord=508500585318&Holder=Perepelitsa Aleksei&AuthId=385968&TxTime=2015-03-25 21:27:28.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T13:29:18Z
+RequestParameter:  billNo: p5wQ61427290158 | startTime:2015-03-25 13:29:18
+
+2015-03-25T13:29:18Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=DANIEL%20FRANCO&cardNo=4************914&securityCode=***&epMonth=11&epYear=2017&amount=500&currCode=978&orderRef=p5wQ61427290158&remark=W46YW
+
+2015-03-25T13:29:40Z
+ResponseParameter:  billNo: p5wQ61427290158 | endTime:2015-03-25 13:29:40
+
+2015-03-25T13:29:40Z
+successcode=1&Ref=p5wQ61427290158&PayRef=6652580&Amt=500.0&Cur=978&prc=1&src=205&Ord=508500585332&Holder=DANIEL FRANCO&AuthId=&TxTime=2015-03-25 21:29:20.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T13:30:18Z
+RequestParameter:  billNo: Fq3MD1427290218 | startTime:2015-03-25 13:30:18
+
+2015-03-25T13:30:18Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=DANIEL%20FRANCO&cardNo=4************817&securityCode=***&epMonth=11&epYear=2016&amount=500&currCode=978&orderRef=Fq3MD1427290218&remark=W46YW
+
+2015-03-25T13:30:36Z
+ResponseParameter:  billNo: Fq3MD1427290218 | endTime:2015-03-25 13:30:36
+
+2015-03-25T13:30:36Z
+successcode=1&Ref=Fq3MD1427290218&PayRef=6652583&Amt=500.0&Cur=978&prc=1&src=205&Ord=508500585336&Holder=DANIEL FRANCO&AuthId=&TxTime=2015-03-25 21:30:20.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T13:38:07Z
+RequestParameter:  billNo: tBZiY1427290687 | startTime:2015-03-25 13:38:07
+
+2015-03-25T13:38:07Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=nicoletta%20parodi&cardNo=4************241&securityCode=***&epMonth=11&epYear=2018&amount=500&currCode=978&orderRef=tBZiY1427290687&remark=trading
+
+2015-03-25T13:38:43Z
+ResponseParameter:  billNo: tBZiY1427290687 | endTime:2015-03-25 13:38:43
+
+2015-03-25T13:38:43Z
+successcode=0&Ref=tBZiY1427290687&PayRef=6652624&Amt=500.0&Cur=978&prc=0&src=0&Ord=508500585386&Holder=nicoletta parodi&AuthId=B93896&TxTime=2015-03-25 21:38:11.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T13:41:48Z
+RequestParameter:  billNo: YhBr81427290908 | startTime:2015-03-25 13:41:48
+
+2015-03-25T13:41:48Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=nicoletta%20parodi&cardNo=4************241&securityCode=***&epMonth=11&epYear=2018&amount=500&currCode=978&orderRef=YhBr81427290908&remark=trading
+
+2015-03-25T13:42:05Z
+ResponseParameter:  billNo: YhBr81427290908 | endTime:2015-03-25 13:42:05
+
+2015-03-25T13:42:05Z
+successcode=1&Ref=YhBr81427290908&PayRef=6652633&Amt=500.0&Cur=978&prc=1&src=551&Ord=508500585405&Holder=nicoletta parodi&AuthId=&TxTime=2015-03-25 21:41:50.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T13:42:44Z
+RequestParameter:  billNo: gBiRW1427290964 | startTime:2015-03-25 13:42:44
+
+2015-03-25T13:42:44Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=nicoletta%20parodi&cardNo=4************241&securityCode=***&epMonth=11&epYear=2018&amount=200&currCode=978&orderRef=gBiRW1427290964&remark=trading
+
+2015-03-25T13:43:08Z
+ResponseParameter:  billNo: gBiRW1427290964 | endTime:2015-03-25 13:43:08
+
+2015-03-25T13:43:08Z
+successcode=0&Ref=gBiRW1427290964&PayRef=6652637&Amt=200.0&Cur=978&prc=0&src=0&Ord=508500585409&Holder=nicoletta parodi&AuthId=B64365&TxTime=2015-03-25 21:42:46.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T14:10:19Z
+RequestParameter:  billNo: 1427292132-2091 | startTime:2015-03-25 14:10:19
+
+2015-03-25T14:10:19Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=mario%20hutin&cardNo=5************888&securityCode=***&epMonth=06&epYear=2015&amount=500&currCode=978&orderRef=1427292132-2091&remark=
+
+2015-03-25T14:10:28Z
+ResponseParameter:  billNo: 1427292132-2091 | endTime:2015-03-25 14:10:28
+
+2015-03-25T14:10:28Z
+successcode=1&Ref=1427292132-2091&PayRef=6652763&Amt=500.0&Cur=978&prc=1&src=551&Ord=508501585586&Holder=mario hutin&AuthId=&TxTime=2015-03-25 22:10:21.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:19:51Z
+RequestParameter:  billNo: b3b6a5430613476b9993cd414af177f4 | startTime:2015-03-25 14:19:51
+
+2015-03-25T14:19:51Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=clabaut%20giiseppe&cardNo=5************459&securityCode=***&epMonth=02&epYear=2018&amount=200&currCode=978&orderRef=b3b6a5430613476b9993cd414af177f4&remark=
+
+2015-03-25T14:19:59Z
+ResponseParameter:  billNo: b3b6a5430613476b9993cd414af177f4 | endTime:2015-03-25 14:19:59
+
+2015-03-25T14:19:59Z
+successcode=1&Ref=b3b6a5430613476b9993cd414af177f4&PayRef=6652802&Amt=200.0&Cur=978&prc=1&src=205&Ord=508501585629&Holder=clabaut giiseppe&AuthId=&TxTime=2015-03-25 22:19:54.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:20:52Z
+RequestParameter:  billNo: 0b2ce55e76fd4d569b76641c93440371 | startTime:2015-03-25 14:20:52
+
+2015-03-25T14:20:52Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=clabaut%20giiseppe&cardNo=5************459&securityCode=***&epMonth=02&epYear=2018&amount=200&currCode=978&orderRef=0b2ce55e76fd4d569b76641c93440371&remark=
+
+2015-03-25T14:20:55Z
+ResponseParameter:  billNo: 0b2ce55e76fd4d569b76641c93440371 | endTime:2015-03-25 14:20:55
+
+2015-03-25T14:20:55Z
+successcode=1&Ref=0b2ce55e76fd4d569b76641c93440371&PayRef=6652808&Amt=200.0&Cur=978&prc=1&src=205&Ord=508501585635&Holder=clabaut giiseppe&AuthId=&TxTime=2015-03-25 22:20:54.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:27:26Z
+RequestParameter:  billNo: 0c80fd0f9d244562a35859346ffbd1ea | startTime:2015-03-25 14:27:26
+
+2015-03-25T14:27:26Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=ahmed%20hassan&cardNo=4************020&securityCode=***&epMonth=01&epYear=2017&amount=200&currCode=978&orderRef=0c80fd0f9d244562a35859346ffbd1ea&remark=
+
+2015-03-25T14:27:34Z
+ResponseParameter:  billNo: 0c80fd0f9d244562a35859346ffbd1ea | endTime:2015-03-25 14:27:34
+
+2015-03-25T14:27:34Z
+successcode=1&Ref=0c80fd0f9d244562a35859346ffbd1ea&PayRef=6652830&Amt=200.0&Cur=978&prc=1&src=257&Ord=508501585668&Holder=ahmed hassan&AuthId=&TxTime=2015-03-25 22:27:28.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:33:17Z
+RequestParameter:  billNo: OlQ1g1427293997 | startTime:2015-03-25 14:33:17
+
+2015-03-25T14:33:17Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=claudia%20blakaman&cardNo=4************789&securityCode=***&epMonth=09&epYear=2016&amount=300&currCode=978&orderRef=OlQ1g1427293997&remark=fdgfdg
+
+2015-03-25T14:33:36Z
+ResponseParameter:  billNo: OlQ1g1427293997 | endTime:2015-03-25 14:33:36
+
+2015-03-25T14:33:36Z
+successcode=1&Ref=OlQ1g1427293997&PayRef=6652856&Amt=300.0&Cur=978&prc=1&src=257&Ord=508501585694&Holder=claudia blakaman&AuthId=&TxTime=2015-03-25 22:33:20.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:33:47Z
+RequestParameter:  billNo: 0cSDt1427294027 | startTime:2015-03-25 14:33:47
+
+2015-03-25T14:33:47Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=claudia%20blakaman&cardNo=4************789&securityCode=***&epMonth=09&epYear=2016&amount=200&currCode=978&orderRef=0cSDt1427294027&remark=fdgfdg
+
+2015-03-25T14:34:04Z
+ResponseParameter:  billNo: 0cSDt1427294027 | endTime:2015-03-25 14:34:04
+
+2015-03-25T14:34:04Z
+successcode=1&Ref=0cSDt1427294027&PayRef=6652861&Amt=200.0&Cur=978&prc=1&src=257&Ord=508501585697&Holder=claudia blakaman&AuthId=&TxTime=2015-03-25 22:33:49.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:34:58Z
+RequestParameter:  billNo: 43172bb1200146a79159fb1e5a363a7a | startTime:2015-03-25 14:34:58
+
+2015-03-25T14:34:58Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Sebastien%20Monty&cardNo=4************865&securityCode=***&epMonth=11&epYear=2016&amount=200&currCode=978&orderRef=43172bb1200146a79159fb1e5a363a7a&remark=
+
+2015-03-25T14:35:08Z
+ResponseParameter:  billNo: 43172bb1200146a79159fb1e5a363a7a | endTime:2015-03-25 14:35:08
+
+2015-03-25T14:35:08Z
+successcode=1&Ref=43172bb1200146a79159fb1e5a363a7a&PayRef=6652865&Amt=200.0&Cur=978&prc=1&src=551&Ord=508501585704&Holder=Sebastien Monty&AuthId=&TxTime=2015-03-25 22:35:00.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:35:13Z
+RequestParameter:  billNo: a399d7086d2740c68379c70bb27a672f | startTime:2015-03-25 14:35:13
+
+2015-03-25T14:35:13Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=dorian%20dumas&cardNo=4************221&securityCode=***&epMonth=04&epYear=2017&amount=200&currCode=978&orderRef=a399d7086d2740c68379c70bb27a672f&remark=
+
+2015-03-25T14:35:20Z
+ResponseParameter:  billNo: a399d7086d2740c68379c70bb27a672f | endTime:2015-03-25 14:35:20
+
+2015-03-25T14:35:20Z
+successcode=1&Ref=a399d7086d2740c68379c70bb27a672f&PayRef=6652866&Amt=200.0&Cur=978&prc=1&src=205&Ord=508501585705&Holder=dorian dumas&AuthId=&TxTime=2015-03-25 22:35:15.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:40:16Z
+RequestParameter:  billNo: TWZOF1427294415 | startTime:2015-03-25 14:40:16
+
+2015-03-25T14:40:16Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=claudia%20blakaman&cardNo=4************789&securityCode=***&epMonth=09&epYear=2016&amount=100&currCode=978&orderRef=TWZOF1427294415&remark=fdgfdg
+
+2015-03-25T14:40:48Z
+ResponseParameter:  billNo: TWZOF1427294415 | endTime:2015-03-25 14:40:48
+
+2015-03-25T14:40:48Z
+successcode=0&Ref=TWZOF1427294415&PayRef=6652883&Amt=100.0&Cur=978&prc=0&src=0&Ord=508501585719&Holder=claudia blakaman&AuthId=652021&TxTime=2015-03-25 22:40:17.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-03-25T14:42:45Z
+RequestParameter:  billNo: QuaeL1427294565 | startTime:2015-03-25 14:42:45
+
+2015-03-25T14:42:45Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=claudia%20blakaman&cardNo=4************789&securityCode=***&epMonth=09&epYear=2016&amount=100&currCode=978&orderRef=QuaeL1427294565&remark=feaf
+
+2015-03-25T14:43:06Z
+ResponseParameter:  billNo: QuaeL1427294565 | endTime:2015-03-25 14:43:06
+
+2015-03-25T14:43:06Z
+successcode=1&Ref=QuaeL1427294565&PayRef=6652889&Amt=100.0&Cur=978&prc=1&src=257&Ord=508501585725&Holder=claudia blakaman&AuthId=&TxTime=2015-03-25 22:42:47.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-03-25T14:43:57Z
+RequestParameter:  billNo: l3ykz1427294637 | startTime:2015-03-25 14:43:57
+
+2015-03-25T14:43:57Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=claudia%20blakaman&cardNo=4************789&securityCode=***&epMonth=09&epYear=2016&amount=50&currCode=978&orderRef=l3ykz1427294637&remark=feaf
+
+2015-03-25T14:44:18Z
+ResponseParameter:  billNo: l3ykz1427294637 | endTime:2015-03-25 14:44:18
+
+2015-03-25T14:44:18Z
+successcode=1&Ref=l3ykz1427294637&PayRef=6652893&Amt=50.0&Cur=978&prc=1&src=257&Ord=508501585734&Holder=claudia blakaman&AuthId=&TxTime=2015-03-25 22:43:59.0&errMsg=Transaction failed
+
+
+
+
+
+
+

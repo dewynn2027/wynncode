@@ -1,0 +1,96 @@
+2015-10-27T10:14:21Z
+RequestParameter:  billNo: EmgJ81445940859 | startTime:2015-10-27 10:14:21
+
+2015-10-27T10:14:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-27T10:14:21Z
+Array
+(
+    [cid] => 11635
+    [payNo] => EmgJ81445940859
+    [createdAt] => 20151027181419
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 112.198.90.64
+    [signInfo] => ab0363f30151d9081a9409c0b6fdbc05
+    [ccNo] => 4************321
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2018
+    [fName] => Juan
+    [lName] => Tamad
+    [emailAddress] => Juan@mail.com
+    [phoneNo] => 12344567
+    [birth] => 19821001
+    [zip] => 1604
+    [billAddress] => 4173 unit F
+    [billCity] => Makati
+    [billState] => Na
+    [billCountry] => PH
+    [billAmount] => 10
+    [comment] => Test Only
+)
+
+
+2015-10-27T10:14:22Z
+ResponseParameter:  billNo: EmgJ81445940859 | endTime:2015-10-27 10:14:22
+
+2015-10-27T10:14:22Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"EmgJ81445940859","billAmount":"10.00","createdAt":"20151027181423","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"45D83DA7D5562AE607B6A656E8F3CCDE","billingDescriptor":""}
+
+)
+
+
+2015-10-27T16:47:27Z
+RequestParameter:  billNo: 8132-1216_8433 | startTime:2015-10-27 16:47:27
+
+2015-10-27T16:47:27Z
+https://sip.uniques.net/direct/payment
+
+2015-10-27T16:47:27Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 8132-1216_8433
+    [createdAt] => 20151027054724
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 109.66.137.146
+    [signInfo] => 367a4472303ecccacc8a6ea3c4ea169f
+    [ccNo] => 4************818
+    [cvc] => ***
+    [expMonth] => 11
+    [expYear] => 2017
+    [fName] => Patrick
+    [lName] => MASSE
+    [emailAddress] => pm@yahoo.fr
+    [phoneNo] => 0413252945
+    [birth] => 19560119
+    [zip] => 13013
+    [billAddress] => 24 tse du pin sec
+    [billCity] => Marseille
+    [billState] => NA
+    [billCountry] => FR
+    [billAmount] => 220
+    [comment] => 
+)
+
+
+2015-10-27T16:47:33Z
+ResponseParameter:  billNo: 8132-1216_8433 | endTime:2015-10-27 16:47:33
+
+2015-10-27T16:47:33Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"8132-1216_8433","billAmount":"220.00","createdAt":"20151028004734","billCurrency":"EUR","tid":"1163522923591","comment":"Success","signInfo":"11AF02AF1ECFBB1CD2F15A0CC8AF4004","billingDescriptor":"yuyandq2015"}
+
+)
+
+

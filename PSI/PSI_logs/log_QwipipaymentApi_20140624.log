@@ -1,0 +1,532 @@
+2014-06-24T00:02:58Z
+RequestParameter:  referenceId: Ng1w01403568177
+
+2014-06-24T00:02:58Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=Ng1w01403568177&dateTime=20140624080257&currency=USD&language=eng&cardHolderIp=142.196.166.162&md5Info=4914C0D9A971685EE7A3D466C9B1C04E&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=faisal&lastName=hussain&email=gmark6141@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20avenue&city=winter%20park&state=Florida&country=US&amount=50.00&products=2&remark=client%20purchase%20our%20services
+
+2014-06-24T00:02:59Z
+ResponseParameter:  referenceId: Ng1w01403568177
+
+2014-06-24T00:02:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>Ng1w01403568177</billNo><currency>USD</currency><amount>50.00</amount><dateTime>20140624080309</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>D4127EAD4EA68C7AB14841EE5C14D696</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T00:04:06Z
+RequestParameter:  referenceId: BMiET1403568245
+
+2014-06-24T00:04:06Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=BMiET1403568245&dateTime=20140624080405&currency=USD&language=eng&cardHolderIp=142.196.166.162&md5Info=27FFB54437427121F98619C8999BA267&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=faisal&lastName=hussain&email=faze1222@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20avenue&city=winter%20park&state=Florida&country=US&amount=50.00&products=2&remark=client%20purchase%20our%20services
+
+2014-06-24T00:04:07Z
+ResponseParameter:  referenceId: BMiET1403568245
+
+2014-06-24T00:04:07Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>BMiET1403568245</billNo><currency>USD</currency><amount>50.00</amount><dateTime>20140624080416</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>E11EEADF2674DD9D59BAC584B776317A</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T00:04:25Z
+RequestParameter:  referenceId: pVHdT1403568264
+
+2014-06-24T00:04:25Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=pVHdT1403568264&dateTime=20140624080424&currency=USD&language=eng&cardHolderIp=142.196.166.162&md5Info=859549FFC5A47AC25572A754F955A1DC&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=faisal&lastName=hussain&email=faze1222@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20avenue&city=winter%20park&state=fl&country=US&amount=50.00&products=2&remark=client%20purchase%20our%20services
+
+2014-06-24T00:04:29Z
+ResponseParameter:  referenceId: pVHdT1403568264
+
+2014-06-24T00:04:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411292170</paymentOrderNo><billNo>pVHdT1403568264</billNo><currency>USD</currency><amount>50.00</amount><dateTime>20140624080438</dateTime><remark>Transaction declined.</remark><md5Info>30188D04F7DEE50D256B86A6754BD2B6</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T00:27:19Z
+RequestParameter:  referenceId: QHq7z1403569639
+
+2014-06-24T00:27:19Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=QHq7z1403569639&dateTime=20140624082719&currency=USD&language=eng&cardHolderIp=142.196.166.162&md5Info=65FD3745684D74E643E2EB9DFC7C9573&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=faisal&lastName=hussain&email=faze1222@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20avenue&city=winter%20park&state=fl&country=US&amount=35.00&products=2&remark=purchase%20services/product
+
+2014-06-24T00:27:21Z
+ResponseParameter:  referenceId: QHq7z1403569639
+
+2014-06-24T00:27:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411292354</paymentOrderNo><billNo>QHq7z1403569639</billNo><currency>USD</currency><amount>35.00</amount><dateTime>20140624082731</dateTime><remark>Transaction declined.</remark><md5Info>CA1A997030E3991521A805991AD0FB8F</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T03:13:39Z
+RequestParameter:  referenceId: NEMOb1403579619
+
+2014-06-24T03:13:39Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=NEMOb1403579619&dateTime=20140624111339&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=DD065283F6BB244D7102FF4C0B1242B0&cardNum=4024007101715720&cvv2=123&month=01&year=15&birthDate=19620621&firstName=Test&lastName=testme&email=juan@tamad.com&phone=123456789&zipCode=1245&address=juan&city=makati&state=na&country=US&amount=111.00&products=2&remark=Test%20payment
+
+2014-06-24T03:13:41Z
+ResponseParameter:  referenceId: NEMOb1403579619
+
+2014-06-24T03:13:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>NEMOb1403579619</billNo><currency>USD</currency><amount>111.00</amount><dateTime>20140624111350</dateTime><remark>The zip code lenght must be equal 5 for USA</remark><md5Info>E82767B2B6CCAB5BC11D96EF224BBBB8</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T08:10:44Z
+RequestParameter:  referenceId: LTjGF1403597444
+
+2014-06-24T08:10:44Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=LTjGF1403597444&dateTime=20140624161044&currency=USD&language=eng&cardHolderIp=182.64.133.76&md5Info=466B355109602EF7BF05DAD623875EE4&cardNum=5589595752066859&cvv2=351&month=02&year=18&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=10.00&products=2&remark=Test%20Payment
+
+2014-06-24T08:10:46Z
+ResponseParameter:  referenceId: LTjGF1403597444
+
+2014-06-24T08:10:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+
+
+</response>
+
+2014-06-24T08:11:16Z
+RequestParameter:  referenceId: RLIZo1403597476
+
+2014-06-24T08:11:16Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=RLIZo1403597476&dateTime=20140624161116&currency=USD&language=eng&cardHolderIp=182.64.133.76&md5Info=142A3D2B8DC49460D68E1FF15EB7AF9C&cardNum=5589595752066859&cvv2=351&month=02&year=18&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=10.00&products=2&remark=Test%20Payment%20-%201
+
+2014-06-24T08:11:17Z
+ResponseParameter:  referenceId: RLIZo1403597476
+
+2014-06-24T08:11:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+
+
+</response>
+
+2014-06-24T08:21:20Z
+RequestParameter:  referenceId: QfS3L1403598079
+
+2014-06-24T08:21:20Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=QfS3L1403598079&dateTime=20140624162119&currency=USD&language=eng&cardHolderIp=182.64.133.76&md5Info=364B7401EA088F5B18F9E006B44BDD99&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=10.00&products=2&remark=HDFC%20Card%20test%20payment
+
+2014-06-24T08:21:32Z
+ResponseParameter:  referenceId: QfS3L1403598079
+
+2014-06-24T08:21:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>QfS3L1403598079</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20140624162130</dateTime><paymentOrderNo>1078511295856</paymentOrderNo><remark>Payment Success</remark><md5Info>B24E6BB62107AA86C289B2412AA0E1E7</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-24T08:26:29Z
+RequestParameter:  referenceId: 1403598398
+
+2014-06-24T08:26:29Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403598398&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=182.64.133.76&md5Info=9732CF38C84C04027E1724347F83735B&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=05101979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=15.00&products=1&remark=remark
+
+2014-06-24T08:26:30Z
+ResponseParameter:  referenceId: 1403598398
+
+2014-06-24T08:26:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403598398</billNo><currency>USD</currency><amount>15.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Channel not open</remark><md5Info>680C84C8583C268FAFC7A825FD6582BE</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T08:27:38Z
+RequestParameter:  referenceId: 1403598467
+
+2014-06-24T08:27:38Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403598467&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=182.64.133.76&md5Info=87AC26BC7C8678008E0F98935E5ACA4C&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=05101979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=20.00&products=1&remark=remark
+
+2014-06-24T08:27:39Z
+ResponseParameter:  referenceId: 1403598467
+
+2014-06-24T08:27:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403598467</billNo><currency>USD</currency><amount>20.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Channel not open</remark><md5Info>8EEBFBFB5674503A3B9E20027CE7F0A5</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T11:53:19Z
+RequestParameter:  referenceId: 1403610808
+
+2014-06-24T11:53:19Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403610808&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=182.64.191.185&md5Info=C77C1B05A92D1A333DEEC1A6114EF7EE&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=05101979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=20.00&products=1&remark=remark
+
+2014-06-24T11:53:20Z
+ResponseParameter:  referenceId: 1403610808
+
+2014-06-24T11:53:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403610808</billNo><currency>USD</currency><amount>20.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date birth format is wrong</remark><md5Info>80D18D06D7D1F7C2D90E42EEDFA0567A</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T11:54:56Z
+RequestParameter:  referenceId: 1403610904
+
+2014-06-24T11:54:56Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403610904&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=182.64.191.185&md5Info=65D2E472F04C45A9E3BFAF411E6E0CFF&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=20.00&products=1&remark=remark
+
+2014-06-24T11:55:04Z
+ResponseParameter:  referenceId: 1403610904
+
+2014-06-24T11:55:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>1403610904</billNo><currency>USD</currency><amount>20.00</amount><dateTime>20140624195507</dateTime><paymentOrderNo>1078511296990</paymentOrderNo><remark>Payment Success</remark><md5Info>D6651B839B52D996A52F99BE566D598D</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-24T12:02:20Z
+RequestParameter:  referenceId: 1403611349
+
+2014-06-24T12:02:20Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403611349&dateTime=20140624173230&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=E01D45090469CE8B2EF0B38DCC8812A4&cardNum=4111123412341234&cvv2=123&month=02&year=2017&birthDate=19760117&firstName=Naveen&lastName=Bhalla&email=naveen@qpi.in&phone=9990723000&zipCode=12345&address=TA14,%20Third%20Floor%20Crown%20Plaza&city=Faridabad&state=AK&country=US&amount=24.99&products=1&remark=remark
+
+2014-06-24T12:02:23Z
+ResponseParameter:  referenceId: 1403611349
+
+2014-06-24T12:02:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411297015</paymentOrderNo><billNo>1403611349</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140624200232</dateTime><remark>Transaction declined.</remark><md5Info>7ABC2E66FC78B01328CD9177173ACCEC</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T16:06:03Z
+RequestParameter:  referenceId: 1403625971
+
+2014-06-24T16:06:03Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=1403625971&dateTime=201406241265&currency=USD&language=eng&cardHolderIp=68.184.112.139&md5Info=AFA04F9F87D91BC18018BCC3F5D067BB&cardNum=379741163891007&cvv2=7051&month=05&year=2017&birthDate=19380902&firstName=Jose&lastName=Ocampo&email=drjocampo@gmail.com&phone=6785563766&zipCode=30082&address=150%20Concord%20Close%20Circle%20S.E.&city=smyrna&state=GA&country=US&amount=299.99&products=1&remark=remark
+
+2014-06-24T16:06:05Z
+ResponseParameter:  referenceId: 1403625971
+
+2014-06-24T16:06:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>1403625971</billNo><currency>USD</currency><amount>299.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date format is wrong</remark><md5Info>37268F7273A464C9AAD1984C2EBA80DA</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T16:11:31Z
+RequestParameter:  referenceId: XbTth1403626291
+
+2014-06-24T16:11:31Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=XbTth1403626291&dateTime=20140625001131&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=25ACF504A07D9FEB14083AECD8CA38D1&cardNum=379741163891007&cvv2=7051&month=05&year=17&birthDate=19380902&firstName=Jose&lastName=Ocampo&email=drjocampo@gmail.com&phone=6785563766&zipCode=30082&address=150%20Concord%20Close%20Circle&city=Smyrna&state=Georgia&country=US&amount=299.99&products=2&remark=Jose/One%20PC%202%20years
+
+2014-06-24T16:11:32Z
+ResponseParameter:  referenceId: XbTth1403626291
+
+2014-06-24T16:11:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>XbTth1403626291</billNo><currency>USD</currency><amount>299.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>DB0826F36BB05505D43637D7C0C51937</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T16:27:26Z
+RequestParameter:  referenceId: 1403627255
+
+2014-06-24T16:27:26Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403627255&dateTime=20140624122728&currency=USD&language=eng&cardHolderIp=68.184.112.139&md5Info=3EEFF454DB3A33F840BD07E276B2B6F5&cardNum=4744750007427712&cvv2=79&month=08&year=2014&birthDate=19380902&firstName=Jose&lastName=Ocampo&email=drjocampo@gmail.com&phone=6785563766&zipCode=30082&address=150%20Concord%20Close%20Circle%20S.E.&city=smyrna&state=GA&country=US&amount=299.99&products=1&remark=remark
+
+2014-06-24T16:27:31Z
+ResponseParameter:  referenceId: 1403627255
+
+2014-06-24T16:27:31Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411299528</paymentOrderNo><billNo>1403627255</billNo><currency>USD</currency><amount>299.99</amount><dateTime>20140625002741</dateTime><remark>Declined by card issuer. Please, call to your bank to know exact reason.</remark><md5Info>BDEAE75CBFAA41EF5DDCF0D904F73B62</md5Info><billingDescriptor>NFSHOP +44-80-8189-1</billingDescriptor>
+
+</response>
+
+2014-06-24T16:29:51Z
+RequestParameter:  referenceId: 1403627400
+
+2014-06-24T16:29:51Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=1403627400&dateTime=2014062412301&currency=USD&language=eng&cardHolderIp=50.189.167.135&md5Info=309C92EB34F1B2866272209B81C08FFA&cardNum=372737844531019&cvv2=9312&month=07&year=2016&birthDate=19380320&firstName=betty&lastName=diliegro&email=dbettylou@comcast.net&phone=7812892265&zipCode=02151&address=288%20suffolk%20ave&city=revere&state=MA&country=US&amount=99.99&products=1&remark=remark
+
+2014-06-24T16:29:56Z
+ResponseParameter:  referenceId: 1403627400
+
+2014-06-24T16:29:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>1403627400</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140625003002</dateTime><paymentOrderNo>1078611299551</paymentOrderNo><remark>Payment Declined-Bad year.</remark><md5Info>D4E692DCE6BA4E7C4EEB51EECE8920B3</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-24T16:34:25Z
+RequestParameter:  referenceId: ywZV61403627664
+
+2014-06-24T16:34:25Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=ywZV61403627664&dateTime=20140625003424&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=2F4E17BEE1F65357020E6600884E0194&cardNum=4744750007427712&cvv2=79&month=09&year=14&birthDate=19380902&firstName=Jose&lastName=Ocampo&email=drjocampo@gmail.com&phone=6785563766&zipCode=30082&address=150%20Concord%20Close%20Circle&city=Smyrna&state=Georgia&country=US&amount=299.99&products=2&remark=Payment%20@%20Tech%20Live%20Plus
+
+2014-06-24T16:34:25Z
+ResponseParameter:  referenceId: ywZV61403627664
+
+2014-06-24T16:34:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>ywZV61403627664</billNo><currency>USD</currency><amount>299.99</amount><dateTime>20140625003435</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>454B5C9D1C1E7705FF30494C529AD398</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T16:44:33Z
+RequestParameter:  referenceId: 1403628280
+
+2014-06-24T16:44:33Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403628280&dateTime=20140624124510&currency=USD&language=eng&cardHolderIp=71.42.29.33&md5Info=B653C9C4E465FDAA90853DB17FA5C854&cardNum=4744760121878021&cvv2=504&month=01&year=2018&birthDate=19880115&firstName=Robert&lastName=Ashton&email=rashto85@lakers.mercyhurst.edu&phone=4073999137&zipCode=32839&address=3805%20Millenia%20Blvd%20Apt%20309&city=Orlando&state=FL&country=US&amount=299.99&products=1&remark=remark
+
+2014-06-24T16:44:37Z
+ResponseParameter:  referenceId: 1403628280
+
+2014-06-24T16:44:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411299720</paymentOrderNo><billNo>1403628280</billNo><currency>USD</currency><amount>299.99</amount><dateTime>20140625004447</dateTime><remark>Transaction declined.</remark><md5Info>5AD5687751F2D893C009584279CCF9F4</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T16:45:28Z
+RequestParameter:  referenceId: 1403628336
+
+2014-06-24T16:45:28Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403628336&dateTime=2014062412466&currency=USD&language=eng&cardHolderIp=71.42.29.33&md5Info=D7415208F39158CA844B382FBA9C50B9&cardNum=4744760121878021&cvv2=504&month=01&year=2018&birthDate=19880115&firstName=Robert&lastName=Ashton&email=rashto85@lakers.mercyhurst.edu&phone=4073999137&zipCode=32839&address=3805%20Millenia%20Blvd%20Apt%20309&city=Orlando&state=FL&country=US&amount=299.99&products=1&remark=remark
+
+2014-06-24T16:45:30Z
+ResponseParameter:  referenceId: 1403628336
+
+2014-06-24T16:45:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411299730</paymentOrderNo><billNo>1403628336</billNo><currency>USD</currency><amount>299.99</amount><dateTime>20140625004540</dateTime><remark>Transaction declined.</remark><md5Info>6B243CF1EE5A06CAF7236A66EE0D2D73</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T17:29:15Z
+RequestParameter:  referenceId: EhJFm1403630954
+
+2014-06-24T17:29:15Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=EhJFm1403630954&dateTime=20140625012914&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=BD536C11ED88AE2CDC15905AEB30FD89&cardNum=4559502200956086&cvv2=775&month=11&year=16&birthDate=19610808&firstName=Joe&lastName=Gray&email=jdgrey@tds.net&phone=9702703588&zipCode=81320&address=PO%20Box%2088&city=Cahone&state=Colorado&country=US&amount=199.99&products=2&remark=Tech%20Live%20Plus
+
+2014-06-24T17:29:16Z
+ResponseParameter:  referenceId: EhJFm1403630954
+
+2014-06-24T17:29:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>EhJFm1403630954</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140625012926</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>7FE5D9C8D98B23157C4A946227065DF0</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T18:26:27Z
+RequestParameter:  referenceId: DFy8I1403634386
+
+2014-06-24T18:26:27Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=DFy8I1403634386&dateTime=20140625022626&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=AB577A7867B229E3C701A789203BF197&cardNum=4559502200956086&cvv2=775&month=11&year=16&birthDate=19610808&firstName=Joe&lastName=Gray&email=jdgrey@tds.net&phone=9702703588&zipCode=81320&address=PO%20Box%2088&city=Cahone&state=Colarado&country=US&amount=199.99&products=2&remark=Tech%20Live%20Plus
+
+2014-06-24T18:26:29Z
+ResponseParameter:  referenceId: DFy8I1403634386
+
+2014-06-24T18:26:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>DFy8I1403634386</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140625022638</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>35CD990FB4DB6827F8BE235951FAD33D</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T19:51:59Z
+RequestParameter:  referenceId: fslST1403639519
+
+2014-06-24T19:51:59Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=fslST1403639519&dateTime=20140625035159&currency=USD&language=eng&cardHolderIp=142.196.166.162&md5Info=462D99DEC9E5735FBA6ABD17FFC41AF2&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=Faisal&lastName=Hussain&email=faze1222@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20avenue&city=winter%20park&state=fl&country=US&amount=35.00&products=2&remark=service/product
+
+2014-06-24T19:52:03Z
+ResponseParameter:  referenceId: fslST1403639519
+
+2014-06-24T19:52:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411303307</paymentOrderNo><billNo>fslST1403639519</billNo><currency>USD</currency><amount>35.00</amount><dateTime>20140625035213</dateTime><remark>Transaction declined.</remark><md5Info>6816338A7DAD0DE366F63789D88D47B7</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T20:55:43Z
+RequestParameter:  referenceId: yrbLS1403643343
+
+2014-06-24T20:55:43Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=yrbLS1403643343&dateTime=20140625045543&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=FC6179D8572DA9D257B4E22390C144A9&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=11.00&products=2&remark=Test%20payment%20of%2011$
+
+2014-06-24T20:55:51Z
+ResponseParameter:  referenceId: yrbLS1403643343
+
+2014-06-24T20:55:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>yrbLS1403643343</billNo><currency>USD</currency><amount>11.00</amount><dateTime>20140625045554</dateTime><paymentOrderNo>1078511304266</paymentOrderNo><remark>Payment Success</remark><md5Info>C3E0936EA19FE75A9A68D24E95D10AF6</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-24T21:12:45Z
+RequestParameter:  referenceId: b8aSs1403644365
+
+2014-06-24T21:12:45Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=b8aSs1403644365&dateTime=20140625051245&currency=USD&language=eng&cardHolderIp=184.78.56.152&md5Info=2A4F7DBB373112793CFAC0CE2D7005B1&cardNum=4060956462644263&cvv2=664&month=08&year=15&birthDate=19950306&firstName=Catherine&lastName=Peters&email=doctorwhogal15@yahoo.com&phone=9063967530&zipCode=49802&address=228%20Henford%20Ave&city=Kingsford&state=Michigan&country=US&amount=199.99&products=2&remark=Tech%20Live%20Plus
+
+2014-06-24T21:12:46Z
+ResponseParameter:  referenceId: b8aSs1403644365
+
+2014-06-24T21:12:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>b8aSs1403644365</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140625051256</dateTime><remark>Use 2 lettered USPS official abbreviation for state (only for USA)</remark><md5Info>633A25855A28016282BD1C1F77E2C96A</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-24T23:12:51Z
+RequestParameter:  referenceId: Kzb5B1403651571
+
+2014-06-24T23:12:51Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=Kzb5B1403651571&dateTime=20140625071251&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=79B2605833147300A78B74B00BF21A2D&cardNum=4037840058732239&cvv2=527&month=12&year=16&birthDate=19730628&firstName=Rebecca&lastName=Bates&email=rebeccabates3@yahoo.com&phone=4402264541&zipCode=44024&address=9850%20Stukey%20Lane&city=Chardon&state=OH&country=US&amount=99.99&products=2&remark=1%20844%20611%202345%20(Tech%20Live%20Plus%20LLC)
+
+2014-06-24T23:12:55Z
+ResponseParameter:  referenceId: Kzb5B1403651571
+
+2014-06-24T23:12:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>88</resultCode><merNo>10784</merNo><paymentOrderNo>1078411306450</paymentOrderNo><billNo>Kzb5B1403651571</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140625071305</dateTime><remark>Successfull transaction</remark><md5Info>36562E6EE32CA47E1CCD6FBE43782860</md5Info><billingDescriptor>NFSHOP +44-80-8189-1</billingDescriptor>
+
+</response>
+
+2014-06-24T23:19:34Z
+RequestParameter:  referenceId: CJrQ21403651974
+
+2014-06-24T23:19:34Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=CJrQ21403651974&dateTime=20140625071934&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=70C4A0B3A48020B9B974341362D241E4&cardNum=372737844531019&cvv2=9312&month=07&year=16&birthDate=19380320&firstName=Betty&lastName=Diliegro&email=dbettylou@comcast.com&phone=7812892265&zipCode=02151&address=288%20Suffolk%20Ave&city=Revere&state=MA&country=US&amount=99.99&products=2&remark=1%20844%20611%202345%20(Tech%20Live%20Plus%20LLC)
+
+2014-06-24T23:19:44Z
+ResponseParameter:  referenceId: CJrQ21403651974
+
+2014-06-24T23:19:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10786</merNo><billNo>CJrQ21403651974</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140625071945</dateTime><paymentOrderNo>1078611306529</paymentOrderNo><remark>Payment Success</remark><md5Info>109A1E5235B840A72270BE902AF33F44</md5Info><billingDescriptor>cs.951489.com</billingDescriptor>
+
+</response>
+
+2014-06-24T23:41:25Z
+RequestParameter:  referenceId: PLoeD1403653285
+
+2014-06-24T23:41:25Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=PLoeD1403653285&dateTime=20140625074125&currency=USD&language=eng&cardHolderIp=111.68.38.22&md5Info=A34390AB002EF7E49C9C46DCD9DCF413&cardNum=4411042502193961&cvv2=874&month=04&year=17&birthDate=19761222&firstName=Faisal&lastName=Hussain&email=faze1222@gmail.com&phone=7864099049&zipCode=32792&address=4882%20tangerine%20ave&city=winterpark&state=FL&country=US&amount=39.99&products=2&remark=Testing%20by%20Shahid
+
+2014-06-24T23:41:26Z
+ResponseParameter:  referenceId: PLoeD1403653285
+
+2014-06-24T23:41:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>PLoeD1403653285</billNo><currency>USD</currency><amount>39.99</amount><dateTime>20140625074136</dateTime><remark>Too many attempts using this card in 24 hours. Try again later.</remark><md5Info>987AF62DE30E93237D91A555B8E2C2E7</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

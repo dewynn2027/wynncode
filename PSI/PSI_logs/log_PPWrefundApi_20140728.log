@@ -1,0 +1,125 @@
+2014-07-28T08:08:37Z
+RequestParameter:  billNo: BILL0000104
+
+2014-07-28T08:08:37Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=BILL0000104&TransactionType=2&Currency=USD&Amount=10&TransactionID=201407280000144000B9
+
+2014-07-28T08:08:52Z
+ResponseParameter:  billNo: BILL0000104
+
+2014-07-28T08:08:52Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL0000104</Reference>
+<ResponseCode>1003</ResponseCode>
+<ResponseMessage>Later Retry</ResponseMessage>
+<ResponseTime>20140728170918</ResponseTime>
+<TransactionID>201407280000144000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-28T08:09:56Z
+RequestParameter:  billNo: BILL0000104
+
+2014-07-28T08:09:56Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=BILL0000104&TransactionType=2&Currency=USD&Amount=10&TransactionID=201407280000144000B9
+
+2014-07-28T08:09:57Z
+ResponseParameter:  billNo: BILL0000104
+
+2014-07-28T08:09:57Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL0000104</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140728171023</ResponseTime>
+<TransactionID>201407280000144000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-28T08:14:10Z
+RequestParameter:  billNo: BILL0000105
+
+2014-07-28T08:14:10Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=BILL0000105&TransactionType=2&Currency=USD&Amount=10&TransactionID=201407280000145000AD
+
+2014-07-28T08:14:25Z
+ResponseParameter:  billNo: BILL0000105
+
+2014-07-28T08:14:25Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL0000105</Reference>
+<ResponseCode>1003</ResponseCode>
+<ResponseMessage>Later Retry</ResponseMessage>
+<ResponseTime>20140728171451</ResponseTime>
+<TransactionID>201407280000145000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-28T08:15:01Z
+RequestParameter:  billNo: BILL0000105
+
+2014-07-28T08:15:01Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=BILL0000105&TransactionType=2&Currency=USD&Amount=10&TransactionID=201407280000145000AD
+
+2014-07-28T08:15:02Z
+ResponseParameter:  billNo: BILL0000105
+
+2014-07-28T08:15:02Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL0000105</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140728171528</ResponseTime>
+<TransactionID>201407280000145000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-28T16:18:03Z
+RequestParameter:  billNo: T3Xpc1405532974
+
+2014-07-28T16:18:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=T3Xpc1405532974&TransactionType=2&Currency=USD&Amount=498&TransactionID=201407170000025000B9
+
+2014-07-28T16:18:05Z
+ResponseParameter:  billNo: T3Xpc1405532974
+
+2014-07-28T16:18:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>T3Xpc1405532974</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140729011831</ResponseTime>
+<TransactionID>201407170000025000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

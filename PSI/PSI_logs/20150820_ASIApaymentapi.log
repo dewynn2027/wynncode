@@ -1,0 +1,49 @@
+2015-08-20T05:03:42Z
+RequestParameter:  billNo: DAILv1440047019 | startTime:2015-08-20 05:03:42
+
+2015-08-20T05:03:42Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Juan%20Tamad&cardNo=5************111&securityCode=***&epMonth=01&epYear=2099&amount=10&currCode=840&orderRef=DAILv1440047019&remark=this%20is%20a%20test
+
+2015-08-20T05:03:44Z
+ResponseParameter:  billNo: DAILv1440047019 | endTime:2015-08-20 05:03:44
+
+2015-08-20T05:03:44Z
+successcode=1&Ref=DAILv1440047019&PayRef=7793132&Amt=10.0&Cur=840&prc=-8&src=2017&Ord=&Holder=Juan Tamad&AuthId=&TxTime=2015-08-20 13:03:43.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-08-20T10:52:44Z
+RequestParameter:  billNo: 55d5b1793bba5 | startTime:2015-08-20 10:52:44
+
+2015-08-20T10:52:44Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Dimitri%20Camain&cardNo=5132830709040935%20&securityCode=***&epMonth=09&epYear=2016&amount=200&currCode=978&orderRef=55d5b1793bba5&remark=Customer%20Remarks
+
+2015-08-20T10:52:47Z
+ResponseParameter:  billNo: 55d5b1793bba5 | endTime:2015-08-20 10:52:47
+
+2015-08-20T10:52:47Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter cardNo incorrect
+
+
+2015-08-20T16:38:39Z
+RequestParameter:  billNo: d1XL01440088715 | startTime:2015-08-20 16:38:39
+
+2015-08-20T16:38:39Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=MOHANNAD%20%20IBRAHEEM&cardNo=5************047&securityCode=***&epMonth=06&epYear=2017&amount=5000&currCode=840&orderRef=d1XL01440088715&remark=528409
+
+2015-08-20T16:38:44Z
+ResponseParameter:  billNo: d1XL01440088715 | endTime:2015-08-20 16:38:44
+
+2015-08-20T16:38:44Z
+successcode=1&Ref=d1XL01440088715&PayRef=7796753&Amt=5000.0&Cur=840&prc=1&src=7&Ord=&Holder=MOHANNAD  IBRAHEEM&AuthId=&TxTime=2015-08-21 00:38:43.0&errMsg=Transaction failed
+
+
+
+
+
+
+

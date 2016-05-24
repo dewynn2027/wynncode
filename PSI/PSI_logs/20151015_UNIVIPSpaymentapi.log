@@ -1,0 +1,576 @@
+2015-10-15T11:52:58Z
+RequestParameter:  billNo: QC6BU1444909975 | startTime:2015-10-15 11:52:58
+
+2015-10-15T11:52:58Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T11:52:58Z
+Array
+(
+    [cid] => 11635
+    [payNo] => QC6BU1444909975
+    [createdAt] => 20151015195255
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 4fa2c0243397fc33cd9e24ec1c047ef3
+    [ccNo] => 4************020
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Daniel
+    [lName] => Gauthier
+    [emailAddress] => borelion1@gmail.com
+    [phoneNo] => 12584584
+    [birth] => 19671011
+    [zip] => 541188
+    [billAddress] => Lake 765
+    [billCity] => Toronto
+    [billState] => Quebec
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 564932
+)
+
+
+2015-10-15T11:53:10Z
+ResponseParameter:  billNo: QC6BU1444909975 | endTime:2015-10-15 11:53:10
+
+2015-10-15T11:53:10Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"QC6BU1444909975","billAmount":"1500.00","createdAt":"20151015195314","billCurrency":"EUR","tid":"1163522478902","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"AEECD871B3460F71ADA4F4401D53DCDF","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-15T12:05:36Z
+RequestParameter:  billNo: XRHub1444910734 | startTime:2015-10-15 12:05:36
+
+2015-10-15T12:05:36Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T12:05:36Z
+Array
+(
+    [cid] => 11636
+    [payNo] => XRHub1444910734
+    [createdAt] => 20151015200534
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 502a2dca4423ca4150086957fbf31042
+    [ccNo] => 5************747
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => camille
+    [lName] => Miolard
+    [emailAddress] => camiolard@gmail.com
+    [phoneNo] => 33611151114
+    [birth] => 20151007
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => 75008
+    [billCountry] => GP
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-15T12:05:38Z
+ResponseParameter:  billNo: XRHub1444910734 | endTime:2015-10-15 12:05:38
+
+2015-10-15T12:05:38Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-144","cid":"11636","payNo":"XRHub1444910734","billAmount":"200.00","createdAt":"20151015200543","billCurrency":"EUR","tid":"","comment":"Under 18 years old","signInfo":"5446FDC1038E6D57B5A317E830873E1E","billingDescriptor":""}
+
+)
+
+
+2015-10-15T12:06:09Z
+RequestParameter:  billNo: 9F7UW1444910766 | startTime:2015-10-15 12:06:09
+
+2015-10-15T12:06:09Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T12:06:09Z
+Array
+(
+    [cid] => 11636
+    [payNo] => 9F7UW1444910766
+    [createdAt] => 20151015200606
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => e0a50c66ee2c7d990df307b4b032e5c1
+    [ccNo] => 5************747
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => camille
+    [lName] => Miolard
+    [emailAddress] => camiolard@gmail.com
+    [phoneNo] => 33611151114
+    [birth] => 20151007
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => 75008
+    [billCountry] => GP
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-15T12:06:10Z
+ResponseParameter:  billNo: 9F7UW1444910766 | endTime:2015-10-15 12:06:10
+
+2015-10-15T12:06:10Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-144","cid":"11636","payNo":"9F7UW1444910766","billAmount":"200.00","createdAt":"20151015200616","billCurrency":"EUR","tid":"","comment":"Under 18 years old","signInfo":"8F13608BAC911EFBF754B1404D702755","billingDescriptor":""}
+
+)
+
+
+2015-10-15T12:07:46Z
+RequestParameter:  billNo: BwvlC1444910863 | startTime:2015-10-15 12:07:46
+
+2015-10-15T12:07:46Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T12:07:46Z
+Array
+(
+    [cid] => 11636
+    [payNo] => BwvlC1444910863
+    [createdAt] => 20151015200743
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => dcaad76b6112a7f5dac102963cb425b3
+    [ccNo] => 5************747
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => camille
+    [lName] => Miolard
+    [emailAddress] => camiolard@gmail.com
+    [phoneNo] => 33611151114
+    [birth] => 19551007
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => florida
+    [billCountry] => GP
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-15T12:07:47Z
+ResponseParameter:  billNo: BwvlC1444910863 | endTime:2015-10-15 12:07:47
+
+2015-10-15T12:07:47Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-214","cid":"11636","payNo":"BwvlC1444910863","billAmount":"200.00","createdAt":"20151015200752","billCurrency":"EUR","tid":"1163622479172","comment":"Country is not equal to country BIN","signInfo":"16991D7B05007C89E811AC7113EC3FA3","billingDescriptor":""}
+
+)
+
+
+2015-10-15T12:33:00Z
+RequestParameter:  billNo: 4Ucrb1444912378 | startTime:2015-10-15 12:33:00
+
+2015-10-15T12:33:00Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T12:33:00Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 4Ucrb1444912378
+    [createdAt] => 20151015203258
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => d6c95ee6a170cd3e92920a903aa21066
+    [ccNo] => 4************020
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Daniel
+    [lName] => Gauthier
+    [emailAddress] => borelion1@gmail.com
+    [phoneNo] => 1548224825
+    [birth] => 19761005
+    [zip] => 56128
+    [billAddress] => Lake 673
+    [billCity] => Toronto
+    [billState] => Quebec
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 564932
+)
+
+
+2015-10-15T12:33:02Z
+ResponseParameter:  billNo: 4Ucrb1444912378 | endTime:2015-10-15 12:33:02
+
+2015-10-15T12:33:02Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-160","cid":"11635","payNo":"4Ucrb1444912378","billAmount":"1500.00","createdAt":"20151015203307","billCurrency":"EUR","tid":"1163522479605","comment":"The Zip code do not match with country","signInfo":"58628E3CC752F8183DF9B4C8E0E87ACF","billingDescriptor":""}
+
+)
+
+
+2015-10-15T12:35:16Z
+RequestParameter:  billNo: u7Y1Q1444912513 | startTime:2015-10-15 12:35:16
+
+2015-10-15T12:35:16Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T12:35:16Z
+Array
+(
+    [cid] => 11635
+    [payNo] => u7Y1Q1444912513
+    [createdAt] => 20151015203513
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 5d6c344ed9fb3d03fbd2d3a024d393a2
+    [ccNo] => 4************020
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Daniel
+    [lName] => Gauthier
+    [emailAddress] => borelion1@gmail.com
+    [phoneNo] => 14585845425
+    [birth] => 19621010
+    [zip] => 148526
+    [billAddress] => Lake 342
+    [billCity] => Toronto
+    [billState] => Quebec
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 564932
+)
+
+
+2015-10-15T12:35:22Z
+ResponseParameter:  billNo: u7Y1Q1444912513 | endTime:2015-10-15 12:35:22
+
+2015-10-15T12:35:22Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"u7Y1Q1444912513","billAmount":"1500.00","createdAt":"20151015203527","billCurrency":"EUR","tid":"1163522479650","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"336E9F82BAC727F7F371C9E314EB1403","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-15T13:29:17Z
+RequestParameter:  billNo: 8UizX1444915754 | startTime:2015-10-15 13:29:17
+
+2015-10-15T13:29:17Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T13:29:17Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 8UizX1444915754
+    [createdAt] => 20151015212914
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => af6fa8187fdb1e81ccd8d70a63b37f09
+    [ccNo] => 4************020
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2017
+    [fName] => Daniel 
+    [lName] => Gauthier
+    [emailAddress] => borelion1@gmail.com
+    [phoneNo] => 12548589657
+    [birth] => 19651006
+    [zip] => 148526
+    [billAddress] => Lake 342
+    [billCity] => Toronto
+    [billState] => Quebec
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 564932
+)
+
+
+2015-10-15T13:29:18Z
+ResponseParameter:  billNo: 8UizX1444915754 | endTime:2015-10-15 13:29:18
+
+2015-10-15T13:29:18Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-102","cid":"11635","payNo":"8UizX1444915754","billAmount":"1500.00","createdAt":"20151015212924","billCurrency":"EUR","tid":"","comment":"Too many attempts using this card in 24 hours. Try again later.","signInfo":"1FD551B5D590251E65E8BF97A0AE0B68","billingDescriptor":""}
+
+)
+
+
+2015-10-15T13:59:08Z
+RequestParameter:  billNo: nYPIo1444917545 | startTime:2015-10-15 13:59:08
+
+2015-10-15T13:59:08Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T13:59:08Z
+Array
+(
+    [cid] => 11635
+    [payNo] => nYPIo1444917545
+    [createdAt] => 20151015215905
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 299b9f8eb5cba4597076f32a6dcdee0d
+    [ccNo] => 4************007
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2015
+    [fName] => Albert
+    [lName] => Rush
+    [emailAddress] => peko4@tiscali.co.uk
+    [phoneNo] => 441268710042
+    [birth] => 19350506
+    [zip] => 30473
+    [billAddress] => Bond st
+    [billCity] => London
+    [billState] => London
+    [billCountry] => GB
+    [billAmount] => 1500
+    [comment] => TTN 7608
+)
+
+
+2015-10-15T13:59:09Z
+ResponseParameter:  billNo: nYPIo1444917545 | endTime:2015-10-15 13:59:09
+
+2015-10-15T13:59:09Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-160","cid":"11635","payNo":"nYPIo1444917545","billAmount":"1500.00","createdAt":"20151015215915","billCurrency":"EUR","tid":"1163522481251","comment":"The Zip code do not match with country","signInfo":"088F8E05E4EC7515D191D8C2A101C066","billingDescriptor":""}
+
+)
+
+
+2015-10-15T14:07:53Z
+RequestParameter:  billNo: zpFnd1444918070 | startTime:2015-10-15 14:07:53
+
+2015-10-15T14:07:53Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T14:07:53Z
+Array
+(
+    [cid] => 11635
+    [payNo] => zpFnd1444918070
+    [createdAt] => 20151015220750
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 83b331a9f34f4adbd57435fad470d574
+    [ccNo] => 4************007
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2015
+    [fName] => Albert 
+    [lName] => rush 
+    [emailAddress] => peko4@tiscali.co.uk
+    [phoneNo] => 441268710042
+    [birth] => 19300506
+    [zip] => 110
+    [billAddress] => Glebe road 
+    [billCity] => Essex 
+    [billState] => Essex 
+    [billCountry] => GB
+    [billAmount] => 1500
+    [comment] => TTN 7608
+)
+
+
+2015-10-15T14:08:00Z
+ResponseParameter:  billNo: zpFnd1444918070 | endTime:2015-10-15 14:08:00
+
+2015-10-15T14:08:00Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"zpFnd1444918070","billAmount":"1500.00","createdAt":"20151015220806","billCurrency":"EUR","tid":"1163522481439","comment":"Success","signInfo":"067AAA2B216CD5767D1D209B00309CF3","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-15T14:10:38Z
+RequestParameter:  billNo: EYXjy1444918236 | startTime:2015-10-15 14:10:38
+
+2015-10-15T14:10:38Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T14:10:38Z
+Array
+(
+    [cid] => 11635
+    [payNo] => EYXjy1444918236
+    [createdAt] => 20151015221036
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 9228e4ffb3bda325d4b5b7b4f5b9c35a
+    [ccNo] => 4************007
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2015
+    [fName] => Albert 
+    [lName] => rush 
+    [emailAddress] => peko4@tiscali.co.uk
+    [phoneNo] => 441268710042
+    [birth] => 19300506
+    [zip] => 110
+    [billAddress] => Glebe road 
+    [billCity] => Essex 
+    [billState] => Essex 
+    [billCountry] => GB
+    [billAmount] => 1500
+    [comment] => TTN 7608
+)
+
+
+2015-10-15T14:10:44Z
+ResponseParameter:  billNo: EYXjy1444918236 | endTime:2015-10-15 14:10:44
+
+2015-10-15T14:10:44Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"EYXjy1444918236","billAmount":"1500.00","createdAt":"20151015221050","billCurrency":"EUR","tid":"1163522481512","comment":"Success","signInfo":"F0DA3753ED0869158CED379017E66271","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-15T14:12:07Z
+RequestParameter:  billNo: F74y61444918325 | startTime:2015-10-15 14:12:07
+
+2015-10-15T14:12:07Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T14:12:07Z
+Array
+(
+    [cid] => 11635
+    [payNo] => F74y61444918325
+    [createdAt] => 20151015221205
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 6ab333998cb32a7385f7a1419700970c
+    [ccNo] => 4************007
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2015
+    [fName] => Albert 
+    [lName] => rush 
+    [emailAddress] => peko4@tiscali.co.uk
+    [phoneNo] => 441268710042
+    [birth] => 19300506
+    [zip] => 110
+    [billAddress] => Glebe road 
+    [billCity] => Essex 
+    [billState] => Essex 
+    [billCountry] => GB
+    [billAmount] => 1400
+    [comment] => TTN 7608
+)
+
+
+2015-10-15T14:12:13Z
+ResponseParameter:  billNo: F74y61444918325 | endTime:2015-10-15 14:12:13
+
+2015-10-15T14:12:13Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"F74y61444918325","billAmount":"1400.00","createdAt":"20151015221219","billCurrency":"EUR","tid":"1163522481561","comment":"Success","signInfo":"F2142E7974BE5C7C4793828A655165E4","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-15T15:04:25Z
+RequestParameter:  billNo: TQvgU1444921462 | startTime:2015-10-15 15:04:25
+
+2015-10-15T15:04:25Z
+https://sip.uniques.net/direct/payment
+
+2015-10-15T15:04:25Z
+Array
+(
+    [cid] => 11636
+    [payNo] => TQvgU1444921462
+    [createdAt] => 20151015230422
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 554b1b43884064197a2d30a7cc0884b8
+    [ccNo] => 5************068
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Stephen
+    [lName] => Gore
+    [emailAddress] => s81gore@shaw.ca
+    [phoneNo] => 15485862547
+    [birth] => 19551011
+    [zip] => 195862
+    [billAddress] => Goal 521
+    [billCity] => Lakeshore
+    [billState] => Ontario
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 434428
+)
+
+
+2015-10-15T15:04:31Z
+ResponseParameter:  billNo: TQvgU1444921462 | endTime:2015-10-15 15:04:31
+
+2015-10-15T15:04:31Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11636","payNo":"TQvgU1444921462","billAmount":"1500.00","createdAt":"20151015230436","billCurrency":"EUR","tid":"1163622482746","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"90DADA00DC65C7057FF679FF82894B7C","billingDescriptor":"yuyandq2015"}
+
+)
+
+

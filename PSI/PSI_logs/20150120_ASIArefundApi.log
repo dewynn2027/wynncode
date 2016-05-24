@@ -1,0 +1,32 @@
+2015-01-20T01:28:47Z
+RequestParameter:  billNo: YTWI61421717294
+
+2015-01-20T01:28:47Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6235444&amount=10
+
+2015-01-20T01:28:50Z
+ResponseParameter:  billNo: YTWI61421717294
+
+2015-01-20T01:28:50Z
+resultCode=0&orderStatus=Accepted&ref=YTWI61421717294&payRef=6235444&amt=10.0&cur=978&errMsg=Void Successfully.
+
+
+
+
+
+2015-01-20T03:15:25Z
+RequestParameter:  billNo: hlwC91421719149
+
+2015-01-20T03:15:25Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139954&loginId=AllianzMetro1&password=Kaft5mNDjsks29d&actionType=Void&payRef=6235955&amount=10
+
+2015-01-20T03:15:29Z
+ResponseParameter:  billNo: hlwC91421719149
+
+2015-01-20T03:15:29Z
+resultCode=0&orderStatus=Accepted&ref=hlwC91421719149&payRef=6235955&amt=10.0&cur=978&errMsg=Void Successfully.
+
+
+
+
+

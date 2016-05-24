@@ -1,0 +1,595 @@
+2016-03-12T03:57:09Z
+RequestParameter:  billNo: TEST2016031201 | startTime:2016-03-12 03:57:09
+
+2016-03-12T03:57:09Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 112.211.18.77
+    [SESS] => TEST2016031201
+    [ORDR] => TEST2016031201
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => Product Type
+    [PROD_ITEM[0]] => Product Item
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => address
+    [B2CC] => AU
+    [B2CI] => city
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1984-01-01
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 1234567
+)
+
+
+2016-03-12T03:57:10Z
+ResponseParameter:  billNo: TEST2016031201 | endTime:2016-03-12 03:57:10
+
+2016-03-12T03:57:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PKK90VSZRCDK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TEST2016031201</SESS>
+  <ORDR>TEST2016031201</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>88</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>7</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>4</EMAILS>
+  <VELO>86</VELO>
+  <VMAX>45</VMAX>
+  <RULES_TRIGGERED>8</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330716</RULE_ID_2>
+  <RULE_DESCRIPTION_2>PERS_VAR   More than 9 Orders in last 24 hours (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330728</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330744</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score &gt; 80 &amp; &lt; 95 (15pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330386</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Decline Order Velocity &gt;10 within 6 hours (VMAX)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330808</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Order Velocity &gt;20 in 14 days</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330814</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Approve VIP List Email</RULE_DESCRIPTION_7>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>20</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-03-12T04:34:52Z
+RequestParameter:  billNo: TEST2016031202 | startTime:2016-03-12 04:34:52
+
+2016-03-12T04:34:52Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 112.211.18.77
+    [SESS] => TEST2016031202
+    [ORDR] => TEST2016031202
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => Product Type
+    [PROD_ITEM[0]] => Product Item
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => address
+    [B2CC] => AU
+    [B2CI] => city
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1984-01-01
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 1234567
+)
+
+
+2016-03-12T04:34:53Z
+ResponseParameter:  billNo: TEST2016031202 | endTime:2016-03-12 04:34:53
+
+2016-03-12T04:34:53Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PKK407K0HWGP</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TEST2016031202</SESS>
+  <ORDR>TEST2016031202</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>88</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>7</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>4</EMAILS>
+  <VELO>86</VELO>
+  <VMAX>45</VMAX>
+  <RULES_TRIGGERED>8</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330716</RULE_ID_2>
+  <RULE_DESCRIPTION_2>PERS_VAR   More than 9 Orders in last 24 hours (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330728</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330744</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score &gt; 80 &amp; &lt; 95 (15pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330386</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Decline Order Velocity &gt;10 within 6 hours (VMAX)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330808</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Order Velocity &gt;20 in 14 days</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330814</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Approve VIP List Email</RULE_DESCRIPTION_7>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>20</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-03-12T04:40:37Z
+RequestParameter:  billNo: TEST2016031203 | startTime:2016-03-12 04:40:37
+
+2016-03-12T04:40:37Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 112.211.18.77
+    [SESS] => TEST2016031203
+    [ORDR] => TEST2016031203
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => Product Type
+    [PROD_ITEM[0]] => Product Item
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => address
+    [B2CC] => AU
+    [B2CI] => city
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1984-01-01
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 1234567
+)
+
+
+2016-03-12T04:40:39Z
+ResponseParameter:  billNo: TEST2016031203 | endTime:2016-03-12 04:40:39
+
+2016-03-12T04:40:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PKK40Q3Q6Z1S</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TEST2016031203</SESS>
+  <ORDR>TEST2016031203</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>88</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>7</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>4</EMAILS>
+  <VELO>87</VELO>
+  <VMAX>45</VMAX>
+  <RULES_TRIGGERED>8</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330716</RULE_ID_2>
+  <RULE_DESCRIPTION_2>PERS_VAR   More than 9 Orders in last 24 hours (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330728</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330744</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score &gt; 80 &amp; &lt; 95 (15pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330386</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Decline Order Velocity &gt;10 within 6 hours (VMAX)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330808</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Order Velocity &gt;20 in 14 days</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330814</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Approve VIP List Email</RULE_DESCRIPTION_7>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>20</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-03-12T05:05:49Z
+RequestParameter:  billNo: TEST2016031204 | startTime:2016-03-12 05:05:49
+
+2016-03-12T05:05:49Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => TEST2016031204
+    [ORDR] => TEST2016031204
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => Product Type
+    [PROD_ITEM[0]] => Product Item
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => address
+    [B2CC] => AU
+    [B2CI] => city
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1984-01-01
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 1234567
+)
+
+
+2016-03-12T05:05:51Z
+ResponseParameter:  billNo: TEST2016031204 | endTime:2016-03-12 05:05:51
+
+2016-03-12T05:05:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PKK504271T7P</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TEST2016031204</SESS>
+  <ORDR>TEST2016031204</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>88</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>7</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>4</EMAILS>
+  <VELO>86</VELO>
+  <VMAX>45</VMAX>
+  <RULES_TRIGGERED>8</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330716</RULE_ID_2>
+  <RULE_DESCRIPTION_2>PERS_VAR   More than 9 Orders in last 24 hours (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330728</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330744</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score &gt; 80 &amp; &lt; 95 (15pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330386</RULE_ID_5>
+  <RULE_DESCRIPTION_5>Decline Order Velocity &gt;10 within 6 hours (VMAX)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330808</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Order Velocity &gt;20 in 14 days</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330814</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Approve VIP List Email</RULE_DESCRIPTION_7>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>20</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2016-03-12T05:28:07Z
+RequestParameter:  billNo: TEST2016031205 | startTime:2016-03-12 05:28:07
+
+2016-03-12T05:28:07Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => TEST2016031205
+    [ORDR] => TEST2016031205
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 401795RSPUZ2X8FW8UDO
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => Product Type
+    [PROD_ITEM[0]] => Product Item
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Eustace Senese
+    [B2A1] => address
+    [B2CC] => AU
+    [B2CI] => city
+    [B2PC] => 1204
+    [B2PN] => 1234567
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1984-01-01
+    [GENDER] => M
+    [EMAL] => ts@allianzmetro.com
+    [ANID] => 1234567
+)
+
+
+2016-03-12T05:28:08Z
+ResponseParameter:  billNo: TEST2016031205 | endTime:2016-03-12 05:28:08
+
+2016-03-12T05:28:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>PKK50SP3VZSM</TRAN>
+  <MERC>680000</MERC>
+  <SESS>TEST2016031205</SESS>
+  <ORDR>TEST2016031205</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>17</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

@@ -1,0 +1,36 @@
+2015-06-22T08:41:00Z
+RequestParameter:  CardNumber: 497203I1P0Y5H1UU42CN | startTime:2015-06-22 08:41:00
+
+2015-06-22T08:41:00Z
+Array
+(
+    [ptok[4972031011256626]] => D
+)
+
+
+2015-06-22T08:41:02Z
+ResponseParameter:  CardNumber: 497203I1P0Y5H1UU42CN | endTime:2015-06-22 08:41:02
+
+2015-06-22T08:41:02Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+
+2015-06-22T14:53:03Z
+RequestParameter:  CardNumber: 4970449360F0AC2ZLIUT | startTime:2015-06-22 14:53:03
+
+2015-06-22T14:53:03Z
+Array
+(
+    [ptok[4970443532804176]] => D
+)
+
+
+2015-06-22T14:53:05Z
+ResponseParameter:  CardNumber: 4970449360F0AC2ZLIUT | endTime:2015-06-22 14:53:05
+
+2015-06-22T14:53:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+

@@ -1,0 +1,480 @@
+2015-11-04T02:42:29Z
+RequestParameter:  billNo: FcZ6b1446550333 | startTime:2015-11-04 02:42:29
+
+2015-11-04T02:42:29Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T02:42:29Z
+Array
+(
+    [cid] => 11635
+    [payNo] => FcZ6b1446550333
+    [createdAt] => 20151103193516
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 1ac60bebfa0d1f5bae365e5f9effbbfc
+    [ccNo] => 4************09
+    [cvc] => ***
+    [expMonth] => 11
+    [expYear] => 2020
+    [fName] => Juan
+    [lName] => Dela Cruz
+    [emailAddress] => dewynn@transcommglobal.com
+    [phoneNo] => 96567748736
+    [birth] => 19780725
+    [zip] => 4465
+    [billAddress] => 2590470320
+    [billCity] => al- jahra
+    [billState] => kuwait
+    [billCountry] => KW
+    [billAmount] => 10
+    [comment] => TitanTrade
+)
+
+
+2015-11-04T02:42:31Z
+ResponseParameter:  billNo: FcZ6b1446550333 | endTime:2015-11-04 02:42:31
+
+2015-11-04T02:42:31Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"FcZ6b1446550333","billAmount":"10.00","createdAt":"20151104104235","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"C44FE8434183C7489A5EB9620A8EE376","billingDescriptor":""}
+
+)
+
+
+2015-11-04T09:47:41Z
+RequestParameter:  billNo: 1446630461975 | startTime:2015-11-04 09:47:41
+
+2015-11-04T09:47:41Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T09:47:41Z
+Array
+(
+    [cid] => 11633
+    [payNo] => 1446630461975
+    [createdAt] => 20151104094741
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 119.56.115.15
+    [signInfo] => acaccafc4a7acb4ccbc0b99e2c34162f
+    [ccNo] => 5************114
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2020
+    [fName] => Vincent
+    [lName] => Lim
+    [emailAddress] => vinlim2@yahoo.com.sg
+    [phoneNo] => 097654222
+    [birth] => 19801112
+    [zip] => 0NA
+    [billAddress] => NAA
+    [billCity] => NAA
+    [billState] => NAA
+    [billCountry] => SG
+    [billAmount] => 100
+    [comment] => 10630
+)
+
+
+2015-11-04T09:47:47Z
+ResponseParameter:  billNo: 1446630461975 | endTime:2015-11-04 09:47:47
+
+2015-11-04T09:47:47Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11633","payNo":"1446630461975","billAmount":"100.00","createdAt":"20151104174752","billCurrency":"USD","tid":"1163323225641","comment":"Success","signInfo":"6C9C5DA4ED14F2E1200CD55B7F541DFC","billingDescriptor":"FURONGJU"}
+
+)
+
+
+2015-11-04T14:54:30Z
+RequestParameter:  billNo: UIcvl1446648867 | startTime:2015-11-04 14:54:30
+
+2015-11-04T14:54:30Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T14:54:30Z
+Array
+(
+    [cid] => 11635
+    [payNo] => UIcvl1446648867
+    [createdAt] => 20151104225427
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 72e741b1341924047c6035d38b3a79bd
+    [ccNo] => 4************462
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2018
+    [fName] => Shafirah
+    [lName] => Ibrahim
+    [emailAddress] => hiawotharei@yahoo.com
+    [phoneNo] => 44159753658
+    [birth] => 19651102
+    [zip] => 159753
+    [billAddress] => Lake 654
+    [billCity] => London
+    [billState] => London
+    [billCountry] => GB
+    [billAmount] => 1500
+    [comment] => TTN 636042
+)
+
+
+2015-11-04T14:54:37Z
+ResponseParameter:  billNo: UIcvl1446648867 | endTime:2015-11-04 14:54:37
+
+2015-11-04T14:54:37Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"UIcvl1446648867","billAmount":"1500.00","createdAt":"20151104225442","billCurrency":"EUR","tid":"1163523230724","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"B130236DE700462B8A572C7514EE6957","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-11-04T19:43:28Z
+RequestParameter:  billNo: N6DLj1446666205 | startTime:2015-11-04 19:43:28
+
+2015-11-04T19:43:28Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T19:43:28Z
+Array
+(
+    [cid] => 11636
+    [payNo] => N6DLj1446666205
+    [createdAt] => 20151105034325
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 691f8c6b997ef89f2daacfbbef56e53f
+    [ccNo] => 5************462
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2015
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15653258985
+    [birth] => 19641110
+    [zip] => 159753
+    [billAddress] => Hola 454
+    [billCity] => Santiago
+    [billState] => Santiago
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-11-04T19:43:29Z
+ResponseParameter:  billNo: N6DLj1446666205 | endTime:2015-11-04 19:43:29
+
+2015-11-04T19:43:29Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11636","payNo":"N6DLj1446666205","billAmount":"1500.00","createdAt":"20151105034334","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"0189BC85357DCAECCF0CEFF982B32FC1","billingDescriptor":""}
+
+)
+
+
+2015-11-04T19:45:29Z
+RequestParameter:  billNo: cibM41446666326 | startTime:2015-11-04 19:45:29
+
+2015-11-04T19:45:29Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T19:45:29Z
+Array
+(
+    [cid] => 11635
+    [payNo] => cibM41446666326
+    [createdAt] => 20151105034526
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 9ff74baa740df3fa0789d24ee5c7f614
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15975846254
+    [birth] => 19651110
+    [zip] => 753951
+    [billAddress] => Loka 564
+    [billCity] => Santiago
+    [billState] => Chile
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-11-04T19:45:36Z
+ResponseParameter:  billNo: cibM41446666326 | endTime:2015-11-04 19:45:36
+
+2015-11-04T19:45:36Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"cibM41446666326","billAmount":"1500.00","createdAt":"20151105034541","billCurrency":"EUR","tid":"1163523238285","comment":"Insufficient funds","signInfo":"D6C7097CF17B2B3968ECDF713AEB2021","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-11-04T19:51:47Z
+RequestParameter:  billNo: pYCKE1446666704 | startTime:2015-11-04 19:51:47
+
+2015-11-04T19:51:47Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T19:51:47Z
+Array
+(
+    [cid] => 11635
+    [payNo] => pYCKE1446666704
+    [createdAt] => 20151105035144
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 8add7b83a4de7ee808c32c6ee03663ed
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15987562325
+    [birth] => 19631105
+    [zip] => 753951
+    [billAddress] => Lakeshore 597
+    [billCity] => Santiago
+    [billState] => Chile
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-11-04T19:51:55Z
+ResponseParameter:  billNo: pYCKE1446666704 | endTime:2015-11-04 19:51:55
+
+2015-11-04T19:51:55Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"pYCKE1446666704","billAmount":"1500.00","createdAt":"20151105035200","billCurrency":"EUR","tid":"1163523238479","comment":"Insufficient funds","signInfo":"B08A13F118C7E11FB403F6758590A4A4","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-11-04T19:52:19Z
+RequestParameter:  billNo: BPya31446666737 | startTime:2015-11-04 19:52:19
+
+2015-11-04T19:52:19Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T19:52:19Z
+Array
+(
+    [cid] => 11635
+    [payNo] => BPya31446666737
+    [createdAt] => 20151105035217
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => a53340cac8608f3d22797717d56cb9ef
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15987562325
+    [birth] => 19631105
+    [zip] => 753951
+    [billAddress] => Lakeshore 597
+    [billCity] => Santiago
+    [billState] => Chile
+    [billCountry] => CL
+    [billAmount] => 1000
+    [comment] => TTN 390707
+)
+
+
+2015-11-04T19:52:28Z
+ResponseParameter:  billNo: BPya31446666737 | endTime:2015-11-04 19:52:28
+
+2015-11-04T19:52:28Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"BPya31446666737","billAmount":"1000.00","createdAt":"20151105035233","billCurrency":"EUR","tid":"1163523238492","comment":"Success","signInfo":"815E0D968C72F0CD3851E54AF6A22DF9","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-11-04T19:53:50Z
+RequestParameter:  billNo: p9oMq1446666828 | startTime:2015-11-04 19:53:50
+
+2015-11-04T19:53:50Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T19:53:50Z
+Array
+(
+    [cid] => 11635
+    [payNo] => p9oMq1446666828
+    [createdAt] => 20151105035348
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => d4ae6cea40c442723813710b016628f1
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15874562589
+    [birth] => 19661109
+    [zip] => 753951
+    [billAddress] => Loka 543
+    [billCity] => Sanitago
+    [billState] => Chile
+    [billCountry] => CL
+    [billAmount] => 1000
+    [comment] => TTN 390707
+)
+
+
+2015-11-04T19:53:57Z
+ResponseParameter:  billNo: p9oMq1446666828 | endTime:2015-11-04 19:53:57
+
+2015-11-04T19:53:57Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"p9oMq1446666828","billAmount":"1000.00","createdAt":"20151105035402","billCurrency":"EUR","tid":"1163523238539","comment":"Insufficient funds","signInfo":"5CC25452D210F117828E0953B7FD8A05","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-11-04T23:46:22Z
+RequestParameter:  billNo: 1446680784856 | startTime:2015-11-04 23:46:22
+
+2015-11-04T23:46:22Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T23:46:22Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 1446680784856
+    [createdAt] => 20151104234624
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 103.18.0.194
+    [signInfo] => 3a7ef69043a5fc105b1513521aea9326
+    [ccNo] => 4************301
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2018
+    [fName] => Leow
+    [lName] => Hong Tee
+    [emailAddress] => hongtee_leow@hotmail.com
+    [phoneNo] => 0954687156
+    [birth] => 19801112
+    [zip] => 00000
+    [billAddress] => Malaysia
+    [billCity] => malaysia
+    [billState] => NAA
+    [billCountry] => MY
+    [billAmount] => 1500
+    [comment] => 30309
+)
+
+
+2015-11-04T23:46:29Z
+ResponseParameter:  billNo: 1446680784856 | endTime:2015-11-04 23:46:29
+
+2015-11-04T23:46:29Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"1446680784856","billAmount":"1500.00","createdAt":"20151105074634","billCurrency":"USD","tid":"1163123245644","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"F84BFBFED7E436EEFA2C299B71377E03","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-11-04T23:48:16Z
+RequestParameter:  billNo: 1446680898428 | startTime:2015-11-04 23:48:16
+
+2015-11-04T23:48:16Z
+https://sip.uniques.net/direct/payment
+
+2015-11-04T23:48:16Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 1446680898428
+    [createdAt] => 20151104234818
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 103.18.0.194
+    [signInfo] => b4f54f5695e48eee240304cf8acaee1b
+    [ccNo] => 4************301
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2018
+    [fName] => Leow
+    [lName] => Hong Tee
+    [emailAddress] => hongtee_leow@hotmail.com
+    [phoneNo] => 0954687156
+    [birth] => 19801112
+    [zip] => 00000
+    [billAddress] => Malaysia
+    [billCity] => malaysia
+    [billState] => NAA
+    [billCountry] => MY
+    [billAmount] => 1500
+    [comment] => 30309
+)
+
+
+2015-11-04T23:48:22Z
+ResponseParameter:  billNo: 1446680898428 | endTime:2015-11-04 23:48:22
+
+2015-11-04T23:48:22Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"1446680898428","billAmount":"1500.00","createdAt":"20151105074827","billCurrency":"USD","tid":"1163123245717","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"2663F2A9A5B1EA6FB0970400A79058FB","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

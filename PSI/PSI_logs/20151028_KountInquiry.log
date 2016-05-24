@@ -1,0 +1,206 @@
+2015-10-28T13:55:58Z
+RequestParameter:  billNo: pFny31446040558 | startTime:2015-10-28 13:55:58
+
+2015-10-28T13:55:58Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => pFny31446040558
+    [ORDR] => pFny31446040558
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 423686NXRLULYDQ8LUB2
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot pt
+    [PROD_ITEM[0]] => 500
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Harmant Jacques
+    [B2A1] => 31 avenue gevaert 
+    [B2CC] => BE
+    [B2CI] => Genvan
+    [B2PC] => 1332
+    [B2PN] => 3226539504
+    [B2ST] => Belgium
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 1943-03-04
+    [GENDER] => M
+    [EMAL] => Jacques.harmant@gmail.Com
+    [ANID] => 3226539504
+)
+
+
+2015-10-28T13:56:00Z
+ResponseParameter:  billNo: pFny31446040558 | endTime:2015-10-28 13:56:00
+
+2015-10-28T13:56:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33GJ0NT49TZ4</TRAN>
+  <MERC>680000</MERC>
+  <SESS>pFny31446040558</SESS>
+  <ORDR>pFny31446040558</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-28T14:12:30Z
+RequestParameter:  billNo: CRq1I1446041549 | startTime:2015-10-28 14:12:30
+
+2015-10-28T14:12:30Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => CRq1I1446041549
+    [ORDR] => CRq1I1446041549
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 423686NXRLULYDQ8LUB2
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot pt
+    [PROD_ITEM[0]] => 500
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Jacques Harmant
+    [B2A1] => 31 avenue gevaert
+    [B2CC] => BE
+    [B2CI] => Genvan
+    [B2PC] => 1332
+    [B2PN] => 3226539504
+    [B2ST] => belguim
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 1943-10-03
+    [GENDER] => M
+    [EMAL] => Jacques.harmant@gmail.com
+    [ANID] => 3226539504
+)
+
+
+2015-10-28T14:12:31Z
+ResponseParameter:  billNo: CRq1I1446041549 | endTime:2015-10-28 14:12:31
+
+2015-10-28T14:12:31Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33GM0ZGNN05J</TRAN>
+  <MERC>680000</MERC>
+  <SESS>CRq1I1446041549</SESS>
+  <ORDR>CRq1I1446041549</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

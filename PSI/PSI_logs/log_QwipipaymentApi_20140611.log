@@ -1,0 +1,19 @@
+2014-06-11T06:32:12Z
+RequestParameter:  referenceId: CAD-dacfef2fa05f
+
+2014-06-11T06:32:12Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=CAD-dacfef2fa05f&dateTime=20140611120158&currency=USD&language=eng&cardHolderIp=192.168.0.193&md5Info=FD94F3D6E23B9A49EEA1DBDDC7168AE4&cardNum=4100000000000006&cvv2=123&month=12&year=2014&birthDate=19651108&firstName=Gerald&lastName=West&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=city&state=state&country=US&amount=12.00&products=&remark=remark
+
+2014-06-11T06:32:15Z
+ResponseParameter:  referenceId: CAD-dacfef2fa05f
+
+2014-06-11T06:32:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>CAD-dacfef2fa05f</billNo><amount>12.00</amount><currency>USD</currency><dateTime>20140611120158</dateTime><remark>Unexpected Error. Try again later.</remark><md5Info>-</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

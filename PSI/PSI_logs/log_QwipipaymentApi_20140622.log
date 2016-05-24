@@ -1,0 +1,95 @@
+2014-06-22T09:11:32Z
+RequestParameter:  referenceId: 1403428299
+
+2014-06-22T09:11:32Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403428299&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=122.160.83.239&md5Info=E23BDCEDEF0D50B3119AB3B576391427&cardNum=5242160002253416&cvv2=995&month=04&year=2017&birthDate=01061983&firstName=Naveen&lastName=Bhalla&email=naveen@qpi.in&phone=9990723000&zipCode=121007&address=TA14,%20Third%20Floor,%20Crown%20Plaza&city=Faridabad&state=Haryana&country=IN&amount=10.00&products=1&remark=remark
+
+2014-06-22T09:11:34Z
+ResponseParameter:  referenceId: 1403428299
+
+2014-06-22T09:11:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403428299</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date birth format is wrong</remark><md5Info>7F6B1FB647A0C5B11F5FC497EED27A8E</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-22T09:14:07Z
+RequestParameter:  referenceId: 1403428455
+
+2014-06-22T09:14:07Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403428455&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=122.160.83.239&md5Info=6E92EDC8F140D10919975312D552812A&cardNum=5242160002253416&cvv2=995&month=04&year=2017&birthDate=19830417&firstName=Naveen&lastName=Bhalla&email=naveen@qpi.in&phone=9990723000&zipCode=121007&address=TA14,%20Third%20Floor,%20Crown%20Plaza&city=Faridabad&state=Haryana&country=IN&amount=10.00&products=1&remark=remark
+
+2014-06-22T09:14:09Z
+ResponseParameter:  referenceId: 1403428455
+
+2014-06-22T09:14:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403428455</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20140622171417</dateTime><paymentOrderNo>1078511269834</paymentOrderNo><remark>Payment Declined-Bad year.</remark><md5Info>953A43B1EFD057F87DA23BF8701F48AB</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-22T10:41:41Z
+RequestParameter:  referenceId: 1403433709
+
+2014-06-22T10:41:41Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403433709&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=122.177.25.11&md5Info=5EA6A7CF93E08C163DE7D6101B6C79D2&cardNum=5589595752066859&cvv2=351&month=02&year=18&birthDate=19791005&firstName=deepak&lastName=gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=j%2042%20Lajpat%20Nagar%20Part%202&city=new%20Delhi&state=new%20Delhi%20&country=IN&amount=10.00&products=1&remark=remark
+
+2014-06-22T10:41:49Z
+ResponseParameter:  referenceId: 1403433709
+
+2014-06-22T10:41:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>1403433709</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20140622184152</dateTime><paymentOrderNo>1078511270167</paymentOrderNo><remark>Payment Success</remark><md5Info>B7804F9DE39E85D60AC6E4DD921C1022</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-22T17:44:58Z
+RequestParameter:  referenceId: 1403459105
+
+2014-06-22T17:44:58Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403459105&dateTime=20140622231458&currency=USD&language=eng&cardHolderIp=182.67.134.200&md5Info=A633352593C7116F07B2D4575A145C0C&cardNum=4567386906663421&cvv2=8978&month=10&year=2017&birthDate=01221974&firstName=lk&lastName=klkl&email=ksj@kdj.com&phone=8888888888&zipCode=110075&address=skdj&city=klj&state=1&country=1&amount=199.99&products=1&remark=remark
+
+2014-06-22T17:44:59Z
+ResponseParameter:  referenceId: 1403459105
+
+2014-06-22T17:44:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1403459105</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140623014508</dateTime><remark>Billing country is wrong</remark><md5Info>83621F654FB83BF27EA3FFBF05CB73E6</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-22T19:18:57Z
+RequestParameter:  referenceId: 1403464744
+
+2014-06-22T19:18:57Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403464744&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=182.64.211.232&md5Info=AD7993B627A979A6F498B779150C8E74&cardNum=5546199870289006&cvv2=123&month=12&year=15&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=919650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=10.00&products=1&remark=remark
+
+2014-06-22T19:19:04Z
+ResponseParameter:  referenceId: 1403464744
+
+2014-06-22T19:19:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403464744</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20140623031907</dateTime><paymentOrderNo>1078511275425</paymentOrderNo><remark>Payment DeclinedInvalid Card Number</remark><md5Info>67A557387485C5377D89DBE5DE9A7986</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+

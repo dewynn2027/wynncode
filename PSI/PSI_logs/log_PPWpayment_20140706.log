@@ -1,0 +1,50 @@
+2014-07-06T00:20:27Z
+RequestParameter:  referenceId: 1404606041
+
+2014-07-06T00:20:27Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404606041&Currency=USD&Amount=99.99&CardNumber=4264289247034731&ExpiryMM=08&ExpiryYY=15&Csc=421&CardHolder=Jill%20Gibson&ProductName=1
+
+2014-07-06T00:20:29Z
+ResponseParameter:  referenceId: 1404606041
+
+2014-07-06T00:20:29Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404606041</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140706092044</ResponseTime>
+<TransactionID>201407060000021000AD</TransactionID>
+<AuthCode>025067</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-06T15:54:04Z
+RequestParameter:  referenceId: 1404662059
+
+2014-07-06T15:54:04Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404662059&Currency=USD&Amount=199.99&CardNumber=4342580961381183&ExpiryMM=02&ExpiryYY=17&Csc=530&CardHolder=Lynda%20Hibdon&ProductName=1
+
+2014-07-06T15:54:06Z
+ResponseParameter:  referenceId: 1404662059
+
+2014-07-06T15:54:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404662059</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140707005422</ResponseTime>
+<TransactionID>201407070000004000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

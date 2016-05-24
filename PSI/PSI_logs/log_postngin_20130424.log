@@ -1,0 +1,255 @@
+2013-04-24T06:58:42Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T06:58:42Z
+
+
+2013-04-24T06:58:50Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T06:58:50Z
+
+
+2013-04-24T07:08:13Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T07:08:13Z
+
+
+2013-04-24T07:11:52Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T07:11:52Z
+
+
+2013-04-24T07:13:25Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T07:13:26Z
+<response rc='999' message='Field listed (loginName) is/are required!'></response>
+
+2013-04-24T07:14:13Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424143602&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424143602&#60;/billNo&#62;&#60;dateTime&#62;20130424143602&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;YYYYMMDD&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;123456789&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;address&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;1.00&#60;/amount&#62;&#60;products&#62;2&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;xxx&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T07:14:14Z
+<response rc='P907' message='year format should be YYYY.'></response>
+
+2013-04-24T09:37:49Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:37:50Z
+<response rc='999' message='Field listed (cvv2) is/are required!'></response>
+
+2013-04-24T09:38:56Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:38:56Z
+<response rc='P908' message='birthDate format should be YYYYMMDD.'></response>
+
+2013-04-24T09:39:19Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;12&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:39:20Z
+<response rc='P907' message='year format should be YYYY.'></response>
+
+2013-04-24T09:39:42Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:39:43Z
+<response rc='P908' message='birthDate format should be YYYYMMDD.'></response>
+
+2013-04-24T09:40:01Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:40:01Z
+<response rc='P908' message='birthDate format should be YYYYMMDD.'></response>
+
+2013-04-24T09:41:46Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;&#60;/API_username&#62;&#60;API_password&#62;&#60;/API_password&#62;&#60;API_key&#62;&#60;/API_key&#62;&#60;referenceId&#62;&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;&#60;/billNo&#62;&#60;dateTime&#62;&#60;/dateTime&#62;&#60;currency&#62;&#60;/currency&#62;&#60;language&#62;&#60;/language&#62;&#60;cardHolderIp&#62;&#60;/cardHolderIp&#62;&#60;cardNum&#62;&#60;/cardNum&#62;&#60;cvv2&#62;&#60;/cvv2&#62;&#60;month&#62;&#60;/month&#62;&#60;year&#62;&#60;/year&#62;&#60;birthDate&#62;&#60;/birthDate&#62;&#60;firstName&#62;&#60;/firstName&#62;&#60;lastName&#62;&#60;/lastName&#62;&#60;email&#62;&#60;/email&#62;&#60;phone&#62;&#60;/phone&#62;&#60;zipCode&#62;&#60;/zipCode&#62;&#60;address&#62;&#60;/address&#62;&#60;city&#62;&#60;/city&#62;&#60;state&#62;&#60;/state&#62;&#60;country&#62;&#60;/country&#62;&#60;amount&#62;&#60;/amount&#62;&#60;products&#62;&#60;/products&#62;&#60;remark&#62;&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:41:47Z
+<response rc='P901' message='Invalid API Credentials'></response>
+
+2013-04-24T09:41:51Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;1984-02-02&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:41:51Z
+<response rc='P908' message='birthDate format should be YYYYMMDD.'></response>
+
+2013-04-24T09:42:46Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;&#60;/API_username&#62;&#60;API_password&#62;&#60;/API_password&#62;&#60;API_key&#62;&#60;/API_key&#62;&#60;referenceId&#62;&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;&#60;/billNo&#62;&#60;dateTime&#62;&#60;/dateTime&#62;&#60;currency&#62;&#60;/currency&#62;&#60;language&#62;&#60;/language&#62;&#60;cardHolderIp&#62;&#60;/cardHolderIp&#62;&#60;cardNum&#62;&#60;/cardNum&#62;&#60;cvv2&#62;&#60;/cvv2&#62;&#60;month&#62;&#60;/month&#62;&#60;year&#62;&#60;/year&#62;&#60;birthDate&#62;&#60;/birthDate&#62;&#60;firstName&#62;&#60;/firstName&#62;&#60;lastName&#62;&#60;/lastName&#62;&#60;email&#62;&#60;/email&#62;&#60;phone&#62;&#60;/phone&#62;&#60;zipCode&#62;&#60;/zipCode&#62;&#60;address&#62;&#60;/address&#62;&#60;city&#62;&#60;/city&#62;&#60;state&#62;&#60;/state&#62;&#60;country&#62;&#60;/country&#62;&#60;amount&#62;&#60;/amount&#62;&#60;products&#62;&#60;/products&#62;&#60;remark&#62;&#60;/remark&#62;&#60;loginName&#62;&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:42:46Z
+<response rc='P901' message='Invalid API Credentials'></response>
+
+2013-04-24T09:42:57Z
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>paymentapi</methodName>
+<params>
+ <param>
+  <value>
+   <string>&#60;Parameters&#62;&#60;API_username&#62;psiclient&#60;/API_username&#62;&#60;API_password&#62;password&#60;/API_password&#62;&#60;API_key&#62;56c1969665d52f0c211b174fc4e949c1&#60;/API_key&#62;&#60;referenceId&#62;20130424172940&#60;/referenceId&#62;&#60;accountId&#62;&#60;/accountId&#62;&#60;billNo&#62;20130424172940&#60;/billNo&#62;&#60;dateTime&#62;20130424172940&#60;/dateTime&#62;&#60;currency&#62;USD&#60;/currency&#62;&#60;language&#62;ENG&#60;/language&#62;&#60;cardHolderIp&#62;192.168.170.168&#60;/cardHolderIp&#62;&#60;cardNum&#62;4000000000000002&#60;/cardNum&#62;&#60;cvv2&#62;123&#60;/cvv2&#62;&#60;month&#62;12&#60;/month&#62;&#60;year&#62;2012&#60;/year&#62;&#60;birthDate&#62;19840202&#60;/birthDate&#62;&#60;firstName&#62;firstName&#60;/firstName&#62;&#60;lastName&#62;lastName&#60;/lastName&#62;&#60;email&#62;email@mail.com&#60;/email&#62;&#60;phone&#62;1234567&#60;/phone&#62;&#60;zipCode&#62;123456&#60;/zipCode&#62;&#60;address&#62;address&#60;/address&#62;&#60;city&#62;city&#60;/city&#62;&#60;state&#62;state&#60;/state&#62;&#60;country&#62;PH&#60;/country&#62;&#60;amount&#62;10.00&#60;/amount&#62;&#60;products&#62;1&#60;/products&#62;&#60;remark&#62;remark&#60;/remark&#62;&#60;loginName&#62;psiclient&#60;/loginName&#62;&#60;/Parameters&#62;</string>
+  </value>
+ </param>
+</params>
+</methodCall>
+
+
+2013-04-24T09:43:01Z
+<response rc='999' message='Failed'><referenceId>20130424172940</referenceId><billNo>20130424172940</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20130424174303</dateTime><paymentOrderNo>103354668127</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><billingDescriptor>GIFTCC24COMN Gmbh</billingDescriptor></response>
+

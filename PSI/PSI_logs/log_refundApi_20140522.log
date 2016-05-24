@@ -1,0 +1,19 @@
+2014-05-22T00:51:11Z
+RequestParameter:  billNo: oDsAL1400717310
+
+2014-05-22T00:51:11Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078610770310&billNo=oDsAL1400717310&Amount=10.00&refundAmount=10.00
+
+2014-05-22T00:51:14Z
+ResponseParameter:  billNo: oDsAL1400717310
+
+2014-05-22T00:51:14Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078610770310</paymentOrderNo><billNo>oDsAL1400717310</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+

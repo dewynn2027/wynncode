@@ -1,0 +1,175 @@
+2015-03-22T04:19:07Z
+RequestParameter:  billNo: 1426997544-596 | startTime:2015-03-22 04:19:07
+
+2015-03-22T04:19:07Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 81.26.90.188
+    [SESS] => e73ba8bc99d20a5bf82148d48f715680
+    [ORDR] => 1426997544-596
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 546931V52VT1WJD5N76M
+    [IPAD] => 81.26.90.188
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 40000
+    [TOTL] => 40000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERMIA2902
+    [NAME] => Aleksei Perepelitsa Aleksei Perepelitsa
+    [B2A1] => Shahterskay 18323
+    [B2CC] => RU
+    [B2CI] => Norilsk
+    [B2PC] => 663340
+    [B2PN] => 79233433712
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 400
+    [DOB] => 1971-08-14
+    [GENDER] => M
+    [EMAL] => mehanik971@mail.ru
+)
+
+
+2015-03-22T14:12:25Z
+RequestParameter:  billNo: 1427033333-19360 | startTime:2015-03-22 14:12:25
+
+2015-03-22T14:12:25Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 80.12.35.89
+    [SESS] => 838d67ad96357c656eac1cc807243d21
+    [ORDR] => 1427033333-19360
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456233JRJ03VMAP0GMNZ
+    [IPAD] => 80.12.35.89
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERDPASL
+    [NAME] => touet jean noel
+    [B2A1] => les gauberts
+    [B2CC] => FR
+    [B2CI] => COURDEMANCHE72150
+    [B2PC] => 72150
+    [B2PN] => 0673730392
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => 1967-12-24
+    [GENDER] => M
+    [EMAL] => jeannoeltouet@yahoo.fr
+)
+
+
+2015-03-22T14:12:27Z
+ResponseParameter:  billNo: 1427033333-19360 | endTime:2015-03-22 14:12:27
+
+2015-03-22T14:12:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3YSN0T8NBRCZ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>838d67ad96357c656eac1cc807243d21</SESS>
+  <ORDR>1427033333-19360</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>18</SCOR>
+  <GEOX>FR</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>81BBF7770C.C320C5D5F5.F935107B4A.8354684CD2.7A0EE07C4A</DEVICE_LAYERS>
+  <FINGERPRINT>25728AF081BE3D4AB8BF831E7546E61A</FINGERPRINT>
+  <TIMEZONE>1320</TIMEZONE>
+  <LOCALTIME>2015-03-22 16:12</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>FR</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>FR</HTTP_COUNTRY>
+  <LANGUAGE>FR</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>330732</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score less than 25 and Device Data present (-10pts)</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCORD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>-10</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-03-22</DDFS>
+  <DSR>900x1600</DSR>
+  <UAS>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36</UAS>
+  <BROWSER>Chrome 39.0.2171.95</BROWSER>
+  <OS>Linux x86_64</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>80.12.35.89</IP_IPAD>
+  <IP_LAT>48.86</IP_LAT>
+  <IP_LON>2.35</IP_LON>
+  <IP_COUNTRY>FR</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>ORANGE FRANCE WIRELESS</IP_ORG>
+  <WARNING_0>399 BAD_OPTN Field: [UDF], Value: [The value [80.12.35.89] for the label [CUSTOMER_IPAD] is invalid as a NUMBER data type.]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

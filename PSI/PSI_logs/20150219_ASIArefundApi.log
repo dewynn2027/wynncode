@@ -1,0 +1,32 @@
+2015-02-19T04:17:37Z
+RequestParameter:  billNo: gjlnL1424319402
+
+2015-02-19T04:17:37Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139939&loginId=Allianzmetro1&password=xe4WcGL7NVdRAQk&actionType=Void&payRef=6430315&amount=10
+
+2015-02-19T04:17:43Z
+ResponseParameter:  billNo: gjlnL1424319402
+
+2015-02-19T04:17:43Z
+resultCode=0&orderStatus=Accepted&ref=gjlnL1424319402&payRef=6430315&amt=10.0&cur=840&errMsg=Void Successfully.
+
+
+
+
+
+2015-02-19T23:48:40Z
+RequestParameter:  billNo: 0002Y1I
+
+2015-02-19T23:48:40Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?merchantId=18139939&loginId=Allianzmetro1&password=xe4WcGL7NVdRAQk&actionType=Void&payRef=6342419&amount=250
+
+2015-02-19T23:48:42Z
+ResponseParameter:  billNo: 0002Y1I
+
+2015-02-19T23:48:42Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Void failed! The order status must be 'Accepted' and not yet settled in order to void it.
+
+
+
+
+

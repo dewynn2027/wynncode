@@ -1,0 +1,320 @@
+2014-08-15T15:37:29Z
+RequestParameter:  billNo: 20140727081924246
+
+2014-08-15T15:37:29Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140727081924246&TransactionType=2&Currency=USD&Amount=499.98&TransactionID=201407270000092000BB
+
+2014-08-15T15:37:31Z
+ResponseParameter:  billNo: 20140727081924246
+
+2014-08-15T15:37:31Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140727081924246</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140815233805</ResponseTime>
+<TransactionID>201407270000092000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T15:39:21Z
+RequestParameter:  billNo: 20140810085717336
+
+2014-08-15T15:39:21Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140810085717336&TransactionType=2&Currency=USD&Amount=99.97&TransactionID=2014081000000DF000AD
+
+2014-08-15T15:39:24Z
+ResponseParameter:  billNo: 20140810085717336
+
+2014-08-15T15:39:24Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140810085717336</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-15T21:49:09Z
+RequestParameter:  billNo: 2vOTf1407979775
+
+2014-08-15T21:49:09Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=2vOTf1407979775&TransactionType=2&Currency=USD&Amount=4000&TransactionID=2014081400000CE000B9
+
+2014-08-15T21:49:11Z
+ResponseParameter:  billNo: 2vOTf1407979775
+
+2014-08-15T21:49:11Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>2vOTf1407979775</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816054946</ResponseTime>
+<TransactionID>2014081400000CE000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:50:20Z
+RequestParameter:  billNo: YIuh61407945165
+
+2014-08-15T21:50:20Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=YIuh61407945165&TransactionType=2&Currency=USD&Amount=3985&TransactionID=201408140000011000B9
+
+2014-08-15T21:50:22Z
+ResponseParameter:  billNo: YIuh61407945165
+
+2014-08-15T21:50:22Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>YIuh61407945165</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055057</ResponseTime>
+<TransactionID>201408140000011000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:51:19Z
+RequestParameter:  billNo: k7eYC1407871985
+
+2014-08-15T21:51:19Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=k7eYC1407871985&TransactionType=2&Currency=USD&Amount=2000&TransactionID=201408130000057000B9
+
+2014-08-15T21:51:20Z
+ResponseParameter:  billNo: k7eYC1407871985
+
+2014-08-15T21:51:20Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>k7eYC1407871985</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055155</ResponseTime>
+<TransactionID>201408130000057000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:52:37Z
+RequestParameter:  billNo: GgdK01407871623
+
+2014-08-15T21:52:37Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=GgdK01407871623&TransactionType=2&Currency=USD&Amount=4000&TransactionID=201408130000052000B9
+
+2014-08-15T21:52:39Z
+ResponseParameter:  billNo: GgdK01407871623
+
+2014-08-15T21:52:39Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>GgdK01407871623</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055314</ResponseTime>
+<TransactionID>201408130000052000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:53:29Z
+RequestParameter:  billNo: ToO7n1407859211
+
+2014-08-15T21:53:29Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=ToO7n1407859211&TransactionType=2&Currency=USD&Amount=3000&TransactionID=20140813000000A000B9
+
+2014-08-15T21:53:30Z
+ResponseParameter:  billNo: ToO7n1407859211
+
+2014-08-15T21:53:30Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ToO7n1407859211</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055406</ResponseTime>
+<TransactionID>20140813000000A000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:55:05Z
+RequestParameter:  billNo: ru3BX1407796495
+
+2014-08-15T21:55:05Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=ru3BX1407796495&TransactionType=2&Currency=USD&Amount=3015&TransactionID=201408120000093000B9
+
+2014-08-15T21:55:06Z
+ResponseParameter:  billNo: ru3BX1407796495
+
+2014-08-15T21:55:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ru3BX1407796495</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055541</ResponseTime>
+<TransactionID>201408120000093000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:55:55Z
+RequestParameter:  billNo: Y2Xgs1407771401
+
+2014-08-15T21:55:55Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=Y2Xgs1407771401&TransactionType=2&Currency=USD&Amount=1000&TransactionID=201408120000006000B9
+
+2014-08-15T21:55:56Z
+ResponseParameter:  billNo: Y2Xgs1407771401
+
+2014-08-15T21:55:56Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>Y2Xgs1407771401</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055632</ResponseTime>
+<TransactionID>201408120000006000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:56:44Z
+RequestParameter:  billNo: ki5ha1407532568
+
+2014-08-15T21:56:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=ki5ha1407532568&TransactionType=2&Currency=USD&Amount=2500&TransactionID=20140809000006F000B9
+
+2014-08-15T21:56:45Z
+ResponseParameter:  billNo: ki5ha1407532568
+
+2014-08-15T21:56:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ki5ha1407532568</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055720</ResponseTime>
+<TransactionID>20140809000006F000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:57:40Z
+RequestParameter:  billNo: yjh6Q1407531896
+
+2014-08-15T21:57:40Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=yjh6Q1407531896&TransactionType=2&Currency=USD&Amount=1990&TransactionID=20140809000006A000B9
+
+2014-08-15T21:57:41Z
+ResponseParameter:  billNo: yjh6Q1407531896
+
+2014-08-15T21:57:41Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>yjh6Q1407531896</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816055817</ResponseTime>
+<TransactionID>20140809000006A000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T21:59:27Z
+RequestParameter:  billNo: tfJPC1407531450
+
+2014-08-15T21:59:27Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=tfJPC1407531450&TransactionType=2&Currency=USD&Amount=2500&TransactionID=201408090000066000B9
+
+2014-08-15T21:59:28Z
+ResponseParameter:  billNo: tfJPC1407531450
+
+2014-08-15T21:59:28Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>tfJPC1407531450</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816060003</ResponseTime>
+<TransactionID>201408090000066000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-15T22:20:02Z
+RequestParameter:  billNo: dwCz31407531704
+
+2014-08-15T22:20:02Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=dwCz31407531704&TransactionType=2&Currency=USD&Amount=3010&TransactionID=201408090000069000B9
+
+2014-08-15T22:20:03Z
+ResponseParameter:  billNo: dwCz31407531704
+
+2014-08-15T22:20:03Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>dwCz31407531704</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140816062039</ResponseTime>
+<TransactionID>201408090000069000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

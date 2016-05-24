@@ -1,0 +1,270 @@
+2014-08-18T07:34:45Z
+RequestParameter:  billNo: 20140720052800398
+
+2014-08-18T07:34:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140720052800398&TransactionType=2&Currency=USD&Amount=100.78&TransactionID=201407200000099000BB
+
+2014-08-18T07:34:46Z
+ResponseParameter:  billNo: 20140720052800398
+
+2014-08-18T07:34:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140720052800398</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818163523</ResponseTime>
+<TransactionID>201407200000099000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T07:52:23Z
+RequestParameter:  billNo: 20140722075423793
+
+2014-08-18T07:52:23Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140722075423793&TransactionType=2&Currency=USD&Amount=201.61&TransactionID=2014072200000CB000BB
+
+2014-08-18T07:52:25Z
+ResponseParameter:  billNo: 20140722075423793
+
+2014-08-18T07:52:25Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140722075423793</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818165302</ResponseTime>
+<TransactionID>2014072200000CB000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T08:04:13Z
+RequestParameter:  billNo: 2014071820342757
+
+2014-08-18T08:04:13Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=2014071820342757&TransactionType=2&Currency=USD&Amount=201.61&TransactionID=201407190000003000B9
+
+2014-08-18T08:04:15Z
+ResponseParameter:  billNo: 2014071820342757
+
+2014-08-18T08:04:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>2014071820342757</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-18T08:05:03Z
+RequestParameter:  billNo: 20140719173422872
+
+2014-08-18T08:05:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140719173422872&TransactionType=2&Currency=USD&Amount=100.78&TransactionID=20140719000011F000BB
+
+2014-08-18T08:05:05Z
+ResponseParameter:  billNo: 20140719173422872
+
+2014-08-18T08:05:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140719173422872</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818170541</ResponseTime>
+<TransactionID>20140719000011F000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T08:14:47Z
+RequestParameter:  billNo: 20140727091006950
+
+2014-08-18T08:14:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140727091006950&TransactionType=2&Currency=USD&Amount=99.97&TransactionID=201407270000097000BB
+
+2014-08-18T08:14:49Z
+ResponseParameter:  billNo: 20140727091006950
+
+2014-08-18T08:14:49Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140727091006950</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818171525</ResponseTime>
+<TransactionID>201407270000097000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T08:16:54Z
+RequestParameter:  billNo: 20140728051305522
+
+2014-08-18T08:16:54Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140728051305522&TransactionType=2&Currency=USD&Amount=99.98&TransactionID=201407280000080000B9
+
+2014-08-18T08:16:58Z
+ResponseParameter:  billNo: 20140728051305522
+
+2014-08-18T08:16:58Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140728051305522</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-18T08:19:03Z
+RequestParameter:  billNo: 20140728063925529
+
+2014-08-18T08:19:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140728063925529&TransactionType=2&Currency=USD&Amount=99.98&TransactionID=2014072800000E1000B9
+
+2014-08-18T08:19:05Z
+ResponseParameter:  billNo: 20140728063925529
+
+2014-08-18T08:19:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140728063925529</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-18T08:19:46Z
+RequestParameter:  billNo: 20140722021624896
+
+2014-08-18T08:19:46Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140722021624896&TransactionType=2&Currency=USD&Amount=251.99&TransactionID=201407220000059000BB
+
+2014-08-18T08:19:47Z
+ResponseParameter:  billNo: 20140722021624896
+
+2014-08-18T08:19:47Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140722021624896</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818172024</ResponseTime>
+<TransactionID>201407220000059000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T08:22:03Z
+RequestParameter:  billNo: 20140720100850664
+
+2014-08-18T08:22:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140720100850664&TransactionType=2&Currency=USD&Amount=251.99&TransactionID=2014072000000E0000BB
+
+2014-08-18T08:22:05Z
+ResponseParameter:  billNo: 20140720100850664
+
+2014-08-18T08:22:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140720100850664</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140818172241</ResponseTime>
+<TransactionID>2014072000000E0000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-18T08:23:04Z
+RequestParameter:  billNo: 20140729062744676
+
+2014-08-18T08:23:04Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140729062744676&TransactionType=2&Currency=USD&Amount=349.97&TransactionID=2014072900000EA000B9
+
+2014-08-18T08:23:06Z
+ResponseParameter:  billNo: 20140729062744676
+
+2014-08-18T08:23:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140729062744676</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-18T08:23:39Z
+RequestParameter:  billNo: 20140729062909217
+
+2014-08-18T08:23:39Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140729062909217&TransactionType=2&Currency=USD&Amount=149.98&TransactionID=2014072900000EB000B9
+
+2014-08-18T08:23:41Z
+ResponseParameter:  billNo: 20140729062909217
+
+2014-08-18T08:23:41Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140729062909217</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-18T08:24:30Z
+RequestParameter:  billNo: 20140730001953926
+
+2014-08-18T08:24:30Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140730001953926&TransactionType=2&Currency=USD&Amount=199.97&TransactionID=20140730000005D000B9
+
+2014-08-18T08:24:31Z
+ResponseParameter:  billNo: 20140730001953926
+
+2014-08-18T08:24:31Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140730001953926</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+

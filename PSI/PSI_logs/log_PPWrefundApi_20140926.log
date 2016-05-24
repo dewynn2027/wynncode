@@ -1,0 +1,170 @@
+2014-09-26T03:59:44Z
+RequestParameter:  billNo: BILL000568
+
+2014-09-26T03:59:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000568&TransactionType=2&Currency=USD&Amount=2&TransactionID=20140926000018200030
+
+2014-09-26T03:59:45Z
+ResponseParameter:  billNo: BILL000568
+
+2014-09-26T03:59:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>BILL000568</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-26T04:00:00Z
+RequestParameter:  billNo: BILL000568
+
+2014-09-26T04:00:00Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000568&TransactionType=2&Currency=USD&Amount=12&TransactionID=20140926000018200030
+
+2014-09-26T04:00:01Z
+ResponseParameter:  billNo: BILL000568
+
+2014-09-26T04:00:01Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL000568</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926110056</ResponseTime>
+<TransactionID>20140926000018200030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T04:01:03Z
+RequestParameter:  billNo: BILL000569
+
+2014-09-26T04:01:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000569&TransactionType=2&Currency=USD&Amount=12&TransactionID=20140926000018700030
+
+2014-09-26T04:01:03Z
+ResponseParameter:  billNo: BILL000569
+
+2014-09-26T04:01:03Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL000569</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926060159</ResponseTime>
+<TransactionID>20140926000018700030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:48:43Z
+RequestParameter:  billNo: ipaydnatest140926024909
+
+2014-09-26T06:48:43Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=ipaydnatest140926024909&TransactionType=2&Currency=USD&Amount=10&TransactionID=2014092600001B500030
+
+2014-09-26T06:48:44Z
+ResponseParameter:  billNo: ipaydnatest140926024909
+
+2014-09-26T06:48:44Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ipaydnatest140926024909</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926084939</ResponseTime>
+<TransactionID>2014092600001B500030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:50:13Z
+RequestParameter:  billNo: ipaydnatest140926024909
+
+2014-09-26T06:50:13Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=ipaydnatest140926024909&TransactionType=2&Currency=USD&Amount=10&TransactionID=2014092600001B500030
+
+2014-09-26T06:50:14Z
+ResponseParameter:  billNo: ipaydnatest140926024909
+
+2014-09-26T06:50:14Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ipaydnatest140926024909</Reference>
+<ResponseCode>941</ResponseCode>
+<ResponseMessage>Transaction has already been canceled.</ResponseMessage>
+<ResponseTime>20140926135109</ResponseTime>
+<TransactionID>2014092600001B500030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:50:45Z
+RequestParameter:  billNo: ipaydnatest140926025118
+
+2014-09-26T06:50:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=ipaydnatest140926025118&TransactionType=2&Currency=USD&Amount=10&TransactionID=2014092600001B600030
+
+2014-09-26T06:50:46Z
+ResponseParameter:  billNo: ipaydnatest140926025118
+
+2014-09-26T06:50:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ipaydnatest140926025118</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926085141</ResponseTime>
+<TransactionID>2014092600001B600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:52:05Z
+RequestParameter:  billNo: ipaydnatest140926025231
+
+2014-09-26T06:52:05Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=ipaydnatest140926025231&TransactionType=2&Currency=USD&Amount=10&TransactionID=2014092600001B800030
+
+2014-09-26T06:52:06Z
+ResponseParameter:  billNo: ipaydnatest140926025231
+
+2014-09-26T06:52:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>ipaydnatest140926025231</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926085301</ResponseTime>
+<TransactionID>2014092600001B800030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

@@ -1,0 +1,25 @@
+2014-06-30T22:46:34Z
+RequestParameter:  billNo: 1404150163
+
+2014-06-30T22:46:34Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=1404150163&TransactionType=2&Currency=USD&Amount=199.99&TransactionID=201407010000013000AD
+
+2014-06-30T22:46:50Z
+ResponseParameter:  billNo: 1404150163
+
+2014-06-30T22:46:50Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>1404150163</Reference>
+<ResponseCode>1003</ResponseCode>
+<ResponseMessage>잠시후재시도</ResponseMessage>
+<ResponseTime>20140701064702</ResponseTime>
+<TransactionID>201407010000013000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

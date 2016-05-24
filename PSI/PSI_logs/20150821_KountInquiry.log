@@ -1,0 +1,204 @@
+2015-08-21T14:51:29Z
+RequestParameter:  billNo: 55d73af0ec551 | startTime:2015-08-21 14:51:29
+
+2015-08-21T14:51:29Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 188.226.179.179
+    [SESS] => 55d73af0ec551
+    [ORDR] => 55d73af0ec551
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497401QMPH8NK17Z5H53
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Fx Trade
+    [PROD_TYPE[0]] => Fx Trade
+    [PROD_ITEM[0]] => SKU-ANT-FxTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 2000
+    [TOTL] => 2000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERVERSAI1
+    [NAME] => Yaya Victorine
+    [B2A1] => 103 avenue du muguet
+    [B2CC] => FR
+    [B2CI] => Montfermeil
+    [B2PC] => 93370
+    [B2PN] => 0143321269
+    [B2ST] => FR
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 20
+    [DOB] => 1971-03-28
+    [GENDER] => M
+    [EMAL] => yamicvic@yahoo.fr
+    [ANID] => 0143321269
+)
+
+
+2015-08-21T14:51:30Z
+ResponseParameter:  billNo: 55d73af0ec551 | endTime:2015-08-21 14:51:30
+
+2015-08-21T14:51:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>386S0G1GNHYH</TRAN>
+  <MERC>680000</MERC>
+  <SESS>55d73af0ec551</SESS>
+  <ORDR>55d73af0ec551</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-21T14:54:18Z
+RequestParameter:  billNo: 55d73b9a0edfa | startTime:2015-08-21 14:54:18
+
+2015-08-21T14:54:18Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 188.226.179.179
+    [SESS] => 55d73b9a0edfa
+    [ORDR] => 55d73b9a0edfa
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497401QMPH8NK17Z5H53
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Fx Trade
+    [PROD_TYPE[0]] => Fx Trade
+    [PROD_ITEM[0]] => SKU-ANT-FxTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 2000
+    [TOTL] => 2000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERVERSAI1
+    [NAME] => Yaya Victorine
+    [B2A1] => 103 avenue du muguet
+    [B2CC] => FR
+    [B2CI] => Montfermeil
+    [B2PC] => 93370
+    [B2PN] => 0143321269
+    [B2ST] => FR
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 20
+    [DOB] => 1971-03-28
+    [GENDER] => M
+    [EMAL] => yamicvic@yahoo.fr
+    [ANID] => 0143321269
+)
+
+
+2015-08-21T14:54:19Z
+ResponseParameter:  billNo: 55d73b9a0edfa | endTime:2015-08-21 14:54:19
+
+2015-08-21T14:54:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>386S0K5T1RZ1</TRAN>
+  <MERC>680000</MERC>
+  <SESS>55d73b9a0edfa</SESS>
+  <ORDR>55d73b9a0edfa</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

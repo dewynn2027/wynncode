@@ -1,0 +1,165 @@
+2014-08-19T14:22:03Z
+RequestParameter:  billNo: 20140811005818503
+
+2014-08-19T14:22:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140811005818503&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=201408110000038000AD
+
+2014-08-19T14:22:07Z
+ResponseParameter:  billNo: 20140811005818503
+
+2014-08-19T14:22:07Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140811005818503</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:27:11Z
+RequestParameter:  billNo: 20140731131812741
+
+2014-08-19T14:27:11Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140731131812741&TransactionType=2&Currency=USD&Amount=49.97&TransactionID=201407310000170000B9
+
+2014-08-19T14:27:12Z
+ResponseParameter:  billNo: 20140731131812741
+
+2014-08-19T14:27:12Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140731131812741</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140819232750</ResponseTime>
+<TransactionID>201407310000170000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-19T14:33:41Z
+RequestParameter:  billNo: 20140812093731850
+
+2014-08-19T14:33:41Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140812093731850&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=2014081200000F5000AD
+
+2014-08-19T14:33:43Z
+ResponseParameter:  billNo: 20140812093731850
+
+2014-08-19T14:33:43Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140812093731850</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:36:25Z
+RequestParameter:  billNo: 2014081308150355
+
+2014-08-19T14:36:25Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=2014081308150355&TransactionType=2&Currency=USD&Amount=199.97&TransactionID=2014081300000DF000AD
+
+2014-08-19T14:36:26Z
+ResponseParameter:  billNo: 2014081308150355
+
+2014-08-19T14:36:26Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>2014081308150355</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:37:45Z
+RequestParameter:  billNo: 20140813034229824
+
+2014-08-19T14:37:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140813034229824&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=201408130000086000AD
+
+2014-08-19T14:37:48Z
+ResponseParameter:  billNo: 20140813034229824
+
+2014-08-19T14:37:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140813034229824</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:40:35Z
+RequestParameter:  billNo: 20140731222037433
+
+2014-08-19T14:40:35Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140731222037433&TransactionType=2&Currency=USD&Amount=199.99&TransactionID=201408010000021000BA
+
+2014-08-19T14:40:37Z
+ResponseParameter:  billNo: 20140731222037433
+
+2014-08-19T14:40:37Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140731222037433</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:42:49Z
+RequestParameter:  billNo: 20140812235629890
+
+2014-08-19T14:42:49Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140812235629890&TransactionType=2&Currency=USD&Amount=99.97&TransactionID=201408130000040000AD
+
+2014-08-19T14:42:50Z
+ResponseParameter:  billNo: 20140812235629890
+
+2014-08-19T14:42:50Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140812235629890</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-19T14:46:40Z
+RequestParameter:  billNo: 20140813073540910
+
+2014-08-19T14:46:40Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=20140813073540910&TransactionType=2&Currency=USD&Amount=349.99&TransactionID=2014081300000D3000AD
+
+2014-08-19T14:46:42Z
+ResponseParameter:  billNo: 20140813073540910
+
+2014-08-19T14:46:42Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<Reference>20140813073540910</Reference>
+<ResponseCode>917</ResponseCode>
+<ResponseMessage>Original transaction does not exist.</ResponseMessage>
+</ErrorResponse>
+
+

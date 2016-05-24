@@ -1,0 +1,43 @@
+2015-11-18T14:52:26Z
+Access DateTime:2015-11-18 14:52:26
+
+2015-11-18T14:52:26Z
+Array
+(
+    [REDIRECT_HTTPS] => on
+    [REDIRECT_SSL_TLS_SNI] => api.paymentsystemsintegration.com
+    [REDIRECT_STATUS] => 200
+    [HTTPS] => on
+    [SSL_TLS_SNI] => api.paymentsystemsintegration.com
+    [HTTP_HOST] => api.paymentsystemsintegration.com
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.27 Safari/537.36
+    [HTTP_REFERER] => https://connect.lmfx.com/en/trader/funding.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => api.paymentsystemsintegration.com
+    [SERVER_ADDR] => 119.81.70.162
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 212.31.110.34
+    [DOCUMENT_ROOT] => /var/www/html/PSI
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/PSI/index.php
+    [REMOTE_PORT] => 34422
+    [REDIRECT_QUERY_STRING] => /dc/logo.htm
+    [REDIRECT_URL] => /dc/logo.htm
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => m=680000&s=4978042d7e594128b746c3ec0b24e7bf
+    [REQUEST_URI] => /dc/logo.htm?m=680000&s=4978042d7e594128b746c3ec0b24e7bf
+    [SCRIPT_NAME] => /index.php
+    [PHP_SELF] => /index.php
+    [REQUEST_TIME] => 1447858345
+)
+
+

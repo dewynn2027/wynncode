@@ -1,0 +1,28 @@
+2015-10-21T12:08:12Z
+RequestParameter:  CardNumber: 497944VIFVZ41AU2IK53 | startTime:2015-10-21 12:08:12
+
+2015-10-21T12:08:12Z
+ptok[497944VIFVZ41AU2IK53] = D
+
+2015-10-21T12:08:14Z
+ResponseParameter:  CardNumber: 497944VIFVZ41AU2IK53 | endTime:2015-10-21 12:08:14
+
+2015-10-21T12:08:14Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [4979440430982942]</message><scope>4979440430982942</scope></error></errors><result/></response>
+
+
+2015-10-21T12:19:33Z
+RequestParameter:  CardNumber: 456140ZAXUS8X17YS6L8 | startTime:2015-10-21 12:19:33
+
+2015-10-21T12:19:33Z
+ptok[456140ZAXUS8X17YS6L8] = D
+
+2015-10-21T12:19:35Z
+ResponseParameter:  CardNumber: 456140ZAXUS8X17YS6L8 | endTime:2015-10-21 12:19:35
+
+2015-10-21T12:19:35Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+

@@ -1,0 +1,19 @@
+2014-06-22T19:19:48Z
+RequestParameter:  billNo: 1403433709
+
+2014-06-22T19:19:48Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078511270167&billNo=1403433709&Amount=10.00&refundAmount=10.00
+
+2014-06-22T19:19:51Z
+ResponseParameter:  billNo: 1403433709
+
+2014-06-22T19:19:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078511270167</paymentOrderNo><billNo>1403433709</billNo><refundAmount>10</refundAmount><remark>Refund success.</remark>
+
+</response>
+

@@ -1,0 +1,240 @@
+2015-10-25T10:22:09Z
+RequestParameter:  billNo: Uu5AW1445768526 | startTime:2015-10-25 10:22:09
+
+2015-10-25T10:22:09Z
+https://sip.uniques.net/direct/payment
+
+2015-10-25T10:22:09Z
+Array
+(
+    [cid] => 11631
+    [payNo] => Uu5AW1445768526
+    [createdAt] => 20151025182206
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => a37f18a95a784b79c8306fea5991fec7
+    [ccNo] => 4************452
+    [cvc] => ***
+    [expMonth] => 11
+    [expYear] => 2017
+    [fName] => Sultan 
+    [lName] => al qahtany
+    [emailAddress] => sol6an_4444@hotmail.com
+    [phoneNo] => 966554444863
+    [birth] => 19810205
+    [zip] => 21411
+    [billAddress] => makkah
+    [billCity] => makkah
+    [billState] => Saudi Arabia
+    [billCountry] => SA
+    [billAmount] => 250
+    [comment] => IC - 106826
+)
+
+
+2015-10-25T10:22:14Z
+ResponseParameter:  billNo: Uu5AW1445768526 | endTime:2015-10-25 10:22:14
+
+2015-10-25T10:22:14Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"Uu5AW1445768526","billAmount":"250.00","createdAt":"20151025182225","billCurrency":"USD","tid":"1163122846003","comment":"Success","signInfo":"572CD648F08A236FC097BC71AA6F1E0D","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-25T10:44:14Z
+RequestParameter:  billNo: wENol1445769851 | startTime:2015-10-25 10:44:14
+
+2015-10-25T10:44:14Z
+https://sip.uniques.net/direct/payment
+
+2015-10-25T10:44:14Z
+Array
+(
+    [cid] => 11633
+    [payNo] => wENol1445769851
+    [createdAt] => 20151025184411
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => b24235d9bd9fcdfd3af37b3d5cf7a4a9
+    [ccNo] => 5************219
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2020
+    [fName] => yazid 
+    [lName] => chafai
+    [emailAddress] => yazidchafai@gmail.com
+    [phoneNo] => 971527407629
+    [birth] => 19700101
+    [zip] => 21011
+    [billAddress] => dubai
+    [billCity] => dubai
+    [billState] => United Arab Emirates
+    [billCountry] => AE
+    [billAmount] => 250
+    [comment] => IC - 102448
+)
+
+
+2015-10-25T10:44:21Z
+ResponseParameter:  billNo: wENol1445769851 | endTime:2015-10-25 10:44:21
+
+2015-10-25T10:44:21Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11633","payNo":"wENol1445769851","billAmount":"250.00","createdAt":"20151025184431","billCurrency":"USD","tid":"1163322846313","comment":"Insufficient funds","signInfo":"5F85AD2922FEE3050038E5494FDEA87F","billingDescriptor":"JIEKANI"}
+
+)
+
+
+2015-10-25T11:31:12Z
+RequestParameter:  billNo: VWqlD1445772669 | startTime:2015-10-25 11:31:12
+
+2015-10-25T11:31:12Z
+https://sip.uniques.net/direct/payment
+
+2015-10-25T11:31:12Z
+Array
+(
+    [cid] => 11631
+    [payNo] => VWqlD1445772669
+    [createdAt] => 20151025193109
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => f150567c0346ed209dd67442ad61a8e5
+    [ccNo] => 4************511
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2019
+    [fName] => Pravina
+    [lName] => Sami
+    [emailAddress] => pravinal@hotmail.com
+    [phoneNo] => 6799315557
+    [birth] => 19790116
+    [zip] => 3706
+    [billAddress] => presidential vuniku
+    [billCity] => LABASA
+    [billState] => fIJI
+    [billCountry] => FJ
+    [billAmount] => 350
+    [comment] => TitanTrade
+)
+
+
+2015-10-25T11:31:19Z
+ResponseParameter:  billNo: VWqlD1445772669 | endTime:2015-10-25 11:31:19
+
+2015-10-25T11:31:19Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"VWqlD1445772669","billAmount":"350.00","createdAt":"20151025193129","billCurrency":"USD","tid":"1163122847027","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"20D69B5AA55DCFEAC051BDD36620A114","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-25T14:06:42Z
+RequestParameter:  billNo: IBM3S1445781999 | startTime:2015-10-25 14:06:42
+
+2015-10-25T14:06:42Z
+https://sip.uniques.net/direct/payment
+
+2015-10-25T14:06:42Z
+Array
+(
+    [cid] => 11631
+    [payNo] => IBM3S1445781999
+    [createdAt] => 20151025220639
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 19bcd3073b7e91f4af0b990efc1761d7
+    [ccNo] => 4************810
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Rudolff
+    [lName] => Mikula
+    [emailAddress] => rmikula73@gmail.com
+    [phoneNo] => 447552658614
+    [birth] => 19821013
+    [zip] => 4465
+    [billAddress] => Deepdle 5
+    [billCity] => LESTER
+    [billState] => United Kingdom
+    [billCountry] => GB
+    [billAmount] => 350
+    [comment] => TitanTrade
+)
+
+
+2015-10-25T14:06:48Z
+ResponseParameter:  billNo: IBM3S1445781999 | endTime:2015-10-25 14:06:48
+
+2015-10-25T14:06:48Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"IBM3S1445781999","billAmount":"350.00","createdAt":"20151025220658","billCurrency":"USD","tid":"1163122850658","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"E3614684A05C109B5331B91C075B3E38","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-25T15:10:00Z
+RequestParameter:  billNo: gwKnl1445785797 | startTime:2015-10-25 15:10:00
+
+2015-10-25T15:10:00Z
+https://sip.uniques.net/direct/payment
+
+2015-10-25T15:10:00Z
+Array
+(
+    [cid] => 11631
+    [payNo] => gwKnl1445785797
+    [createdAt] => 20151025230957
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 68211fc0054e6936a8aac3fbf3908d61
+    [ccNo] => 4************283
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2018
+    [fName] => Nawaf 
+    [lName] => Assiri
+    [emailAddress] => n-ttc@hotmail.com
+    [phoneNo] => 966557228893
+    [birth] => 19700101
+    [zip] => 365
+    [billAddress] => saudi arabia
+    [billCity] => saudi arabia
+    [billState] => 36541
+    [billCountry] => SA
+    [billAmount] => 250
+    [comment] => IC 72431
+)
+
+
+2015-10-25T15:10:07Z
+ResponseParameter:  billNo: gwKnl1445785797 | endTime:2015-10-25 15:10:07
+
+2015-10-25T15:10:07Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"gwKnl1445785797","billAmount":"250.00","createdAt":"20151025231017","billCurrency":"USD","tid":"1163122852885","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"EE8E2D37B7DA99BF6953C73BE03BE5A5","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

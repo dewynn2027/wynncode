@@ -1,0 +1,25 @@
+2014-07-18T22:45:24Z
+RequestParameter:  billNo: v8pFa1405637508
+
+2014-07-18T22:45:24Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGFELDMAN00011&Password=Z7K1X9OA8J&Reference=v8pFa1405637508&TransactionType=2&Currency=USD&Amount=499&TransactionID=201407180000069000B9
+
+2014-07-18T22:45:26Z
+ResponseParameter:  billNo: v8pFa1405637508
+
+2014-07-18T22:45:26Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGFELDMAN00011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>v8pFa1405637508</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140719074548</ResponseTime>
+<TransactionID>201407180000069000B9</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

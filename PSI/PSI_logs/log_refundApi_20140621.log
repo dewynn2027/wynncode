@@ -1,0 +1,19 @@
+2014-06-21T12:56:14Z
+RequestParameter:  billNo: tRquY1403352618
+
+2014-06-21T12:56:14Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=02&paymentOrderNo=1078511256797&billNo=tRquY1403352618&Amount=24.99&refundAmount=24.99
+
+2014-06-21T12:56:17Z
+ResponseParameter:  billNo: tRquY1403352618
+
+2014-06-21T12:56:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>0</resultCode><paymentOrderNo>1078511256797</paymentOrderNo><billNo>tRquY1403352618</billNo><refundAmount>24.99</refundAmount><remark>Refund success.</remark>
+
+</response>
+

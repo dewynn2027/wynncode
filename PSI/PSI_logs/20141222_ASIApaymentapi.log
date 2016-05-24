@@ -1,0 +1,80 @@
+2014-12-22T02:08:42Z
+RequestParameter:  billNo: WYGrA1419214119 | startTime:2014-12-22 02:08:42
+
+2014-12-22T02:08:42Z
+https://www.pesopay.com/b2c2/eng/merchant/api/orderApi.jsp?payType=N&merchantId=18139939&pMethod=MASTER&lang=E&cardHolder=Jacqueline%20Marum&cardNo=5353161318679174&securityCode=210&epMonth=01&epYear=2017&amount=10&currCode=840&orderRef=WYGrA1419214119&remark=Test%20Transaction
+
+2014-12-22T02:08:42Z
+ResponseParameter:  billNo: WYGrA1419214119 | endTime:2014-12-22 02:08:42
+
+2014-12-22T02:08:42Z
+resultCode=-1&orderStatus=&ref=&payRef=&amt=&cur=&errMsg=Invalid Action Type.
+
+
+2014-12-22T02:41:47Z
+RequestParameter:  billNo: yjTe21419216104 | startTime:2014-12-22 02:41:47
+
+2014-12-22T02:41:47Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=MASTER&lang=E&cardHolder=Jacqueline%20Marum&cardNo=5353161318679174&securityCode=210&epMonth=01&epYear=2017&amount=10&currCode=840&orderRef=yjTe21419216104&remark=Test%20Transaction
+
+2014-12-22T02:41:48Z
+ResponseParameter:  billNo: yjTe21419216104 | endTime:2014-12-22 02:41:48
+
+2014-12-22T02:41:48Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter Payment Method Incorrect
+
+
+2014-12-22T03:35:44Z
+RequestParameter:  billNo: 29TuR1419219341 | startTime:2014-12-22 03:35:44
+
+2014-12-22T03:35:44Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Jacqueline%20Marum&cardNo=5353161318679174&securityCode=210&epMonth=01&epYear=2017&amount=10&currCode=840&orderRef=29TuR1419219341&remark=Test%20Transaction
+
+2014-12-22T03:35:49Z
+ResponseParameter:  billNo: 29TuR1419219341 | endTime:2014-12-22 03:35:49
+
+2014-12-22T03:35:49Z
+successcode=0&Ref=29TuR1419219341&PayRef=6057941&Amt=10.0&Cur=840&prc=0&src=0&Ord=435614599183&Holder=Jacqueline Marum&AuthId=069183&TxTime=2014-12-22 11:35:54.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-12-22T07:16:01Z
+RequestParameter:  billNo: HwnXi1419232558 | startTime:2014-12-22 07:16:01
+
+2014-12-22T07:16:01Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=VISA&lang=E&cardHolder=Eustace%20Senese&cardNo=4017954067957697&securityCode=894&epMonth=04&epYear=2017&amount=10&currCode=840&orderRef=HwnXi1419232558&remark=Test%20Transaction
+
+2014-12-22T07:16:06Z
+ResponseParameter:  billNo: HwnXi1419232558 | endTime:2014-12-22 07:16:06
+
+2014-12-22T07:16:06Z
+successcode=0&Ref=HwnXi1419232558&PayRef=6059263&Amt=10.0&Cur=840&prc=0&src=0&Ord=435618600755&Holder=Eustace Senese&AuthId=911323&TxTime=2014-12-22 15:16:10.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-12-22T23:40:13Z
+RequestParameter:  billNo: RLUBQ1419291610 | startTime:2014-12-22 23:40:13
+
+2014-12-22T23:40:13Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Jacqueline%20Marum&cardNo=5353161318679174&securityCode=210&epMonth=01&epYear=2017&amount=10&currCode=840&orderRef=RLUBQ1419291610&remark=Test%20Transaction
+
+2014-12-22T23:40:18Z
+ResponseParameter:  billNo: RLUBQ1419291610 | endTime:2014-12-22 23:40:18
+
+2014-12-22T23:40:18Z
+successcode=0&Ref=RLUBQ1419291610&PayRef=6065775&Amt=10.0&Cur=840&prc=0&src=0&Ord=435710608931&Holder=Jacqueline Marum&AuthId=034654&TxTime=2014-12-23 07:40:23.0&errMsg=Transaction completed
+
+
+
+
+
+
+

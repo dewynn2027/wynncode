@@ -1,0 +1,104 @@
+2015-09-13T08:44:51Z
+RequestParameter:  billNo: 3a86c7057cbd4f48a5726850382f0c52 | startTime:2015-09-13 08:44:51
+
+2015-09-13T08:44:51Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 82.166.81.81
+    [SESS] => 3a86c7057cbd4f48a5726850382f0c52
+    [ORDR] => 3a86c7057cbd4f48a5726850382f0c52
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497203UXJFKE5WUL4JRA
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HBR-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHIBRO1
+    [NAME] => mohamed errouane
+    [B2A1] => 09 square jean mermoz
+    [B2CC] => FR
+    [B2CI] => nnnn
+    [B2PC] => 11111
+    [B2PN] => 0652661310/0954382854
+    [B2ST] => FR
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 1968-12-13
+    [GENDER] => M
+    [EMAL] => ermoh_68@hotmail.co
+    [ANID] => 0652661310/0954382854
+)
+
+
+2015-09-13T08:44:52Z
+ResponseParameter:  billNo: 3a86c7057cbd4f48a5726850382f0c52 | endTime:2015-09-13 08:44:52
+
+2015-09-13T08:44:52Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>36HS06H5L45K</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3a86c7057cbd4f48a5726850382f0c52</SESS>
+  <ORDR>3a86c7057cbd4f48a5726850382f0c52</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>33</SCOR>
+  <GEOX>FR</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>FR_A8</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>2</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345042</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Email Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

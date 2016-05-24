@@ -1,0 +1,490 @@
+2016-03-08T06:27:55Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308003
+
+2016-03-08T06:27:55Z
+Init RequestParameter:  billNo: TEST20160308003
+
+2016-03-08T06:27:55Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => TEST20160308003
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T06:27:57Z
+Init ResponseParameter:  billNo: TEST20160308003
+
+2016-03-08T06:27:57Z
+Array
+(
+    [rc] => 0
+    [result] => OK:afe2dc5761a173cf404f872e56a4230c5a35bcea
+)
+
+
+2016-03-08T06:27:57Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308003
+
+2016-03-08T06:27:57Z
+Capture RequestParameter:  billNo: TEST20160308003
+
+2016-03-08T06:27:57Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => afe2dc5761a173cf404f872e56a4230c5a35bcea
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T06:27:59Z
+Capture ResponseParameter:  billNo: TEST20160308003
+
+2016-03-08T06:27:59Z
+Array
+(
+    [rc] => 0
+    [result] => ID:afe2dc5761a173cf404f872e56a4230c5a35bcea~Status:Success~MerchantID:TEST20160308003~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:135024~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-03-08T07:18:18Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308004
+
+2016-03-08T07:18:18Z
+Init RequestParameter:  billNo: TEST20160308004
+
+2016-03-08T07:18:18Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => TEST20160308004
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T07:18:20Z
+Init ResponseParameter:  billNo: TEST20160308004
+
+2016-03-08T07:18:20Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c90419c4ed5bf7947f92970adcafffadfd5e7662
+)
+
+
+2016-03-08T07:18:20Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308004
+
+2016-03-08T07:18:20Z
+Capture RequestParameter:  billNo: TEST20160308004
+
+2016-03-08T07:18:20Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => c90419c4ed5bf7947f92970adcafffadfd5e7662
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T07:18:23Z
+Capture ResponseParameter:  billNo: TEST20160308004
+
+2016-03-08T07:18:23Z
+Array
+(
+    [rc] => 0
+    [result] => ID:c90419c4ed5bf7947f92970adcafffadfd5e7662~Status:Success~MerchantID:TEST20160308004~Terminal:Rietumu - non3D~ResultCode:000~ApprovalCode:918394~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-03-08T07:20:36Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308005
+
+2016-03-08T07:20:36Z
+Init RequestParameter:  billNo: TEST20160308005
+
+2016-03-08T07:20:36Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => TEST20160308005
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T07:20:38Z
+Init ResponseParameter:  billNo: TEST20160308005
+
+2016-03-08T07:20:38Z
+Array
+(
+    [rc] => 0
+    [result] => OK:00ad073dcdc621ff36acd12500f492cd5679a9a0
+)
+
+
+2016-03-08T07:20:38Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308005
+
+2016-03-08T07:20:38Z
+Capture RequestParameter:  billNo: TEST20160308005
+
+2016-03-08T07:20:38Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 00ad073dcdc621ff36acd12500f492cd5679a9a0
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T07:20:44Z
+Capture ResponseParameter:  billNo: TEST20160308005
+
+2016-03-08T07:20:44Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=00ad073dcdc621ff36acd12500f492cd5679a9a0
+)
+
+
+2016-03-08T07:31:11Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308006
+
+2016-03-08T07:31:11Z
+Init RequestParameter:  billNo: TEST20160308006
+
+2016-03-08T07:31:11Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => TEST20160308006
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T07:31:14Z
+Init ResponseParameter:  billNo: TEST20160308006
+
+2016-03-08T07:31:14Z
+Array
+(
+    [rc] => 0
+    [result] => OK:ee9b4bcb328086a200de883b3d78303e10737856
+)
+
+
+2016-03-08T07:31:14Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308006
+
+2016-03-08T07:31:14Z
+Capture RequestParameter:  billNo: TEST20160308006
+
+2016-03-08T07:31:14Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => ee9b4bcb328086a200de883b3d78303e10737856
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T07:31:20Z
+Capture ResponseParameter:  billNo: TEST20160308006
+
+2016-03-08T07:31:20Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=ee9b4bcb328086a200de883b3d78303e10737856
+)
+
+
+2016-03-08T08:34:05Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308007
+
+2016-03-08T08:34:05Z
+Init RequestParameter:  billNo: TEST20160308007
+
+2016-03-08T08:34:05Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => TEST20160308007
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T08:34:07Z
+Init ResponseParameter:  billNo: TEST20160308007
+
+2016-03-08T08:34:07Z
+Array
+(
+    [rc] => 0
+    [result] => OK:91ef609c9709e23af82924d7438bd8f64fa13c48
+)
+
+
+2016-03-08T08:34:07Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308007
+
+2016-03-08T08:34:07Z
+Capture RequestParameter:  billNo: TEST20160308007
+
+2016-03-08T08:34:07Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 91ef609c9709e23af82924d7438bd8f64fa13c48
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T08:34:19Z
+Capture ResponseParameter:  billNo: TEST20160308007
+
+2016-03-08T08:34:19Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=91ef609c9709e23af82924d7438bd8f64fa13c48
+)
+
+
+2016-03-08T08:38:47Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308009
+
+2016-03-08T08:38:47Z
+Init RequestParameter:  billNo: TEST20160308009
+
+2016-03-08T08:38:47Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => TEST20160308009
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T08:38:49Z
+Init ResponseParameter:  billNo: TEST20160308009
+
+2016-03-08T08:38:49Z
+Array
+(
+    [rc] => 0
+    [result] => OK:0a20a6ed3f7df4bc0e074a3a939d6ebb66127859
+)
+
+
+2016-03-08T08:38:49Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308009
+
+2016-03-08T08:38:49Z
+Capture RequestParameter:  billNo: TEST20160308009
+
+2016-03-08T08:38:49Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 0a20a6ed3f7df4bc0e074a3a939d6ebb66127859
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T08:38:56Z
+Capture ResponseParameter:  billNo: TEST20160308009
+
+2016-03-08T08:38:56Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=0a20a6ed3f7df4bc0e074a3a939d6ebb66127859
+)
+
+
+2016-03-08T08:41:29Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST20160308010
+
+2016-03-08T08:41:29Z
+Init RequestParameter:  billNo: TEST20160308010
+
+2016-03-08T08:41:29Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM01
+    [merchant_transaction_id] => TEST20160308010
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => JOHNDOEAPPROVE@EXAMPLE.COM
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.vente-privee.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee1/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-08T08:41:30Z
+Init ResponseParameter:  billNo: TEST20160308010
+
+2016-03-08T08:41:30Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c29da0508574840bdf8fd89da3a243612e0ff9bf
+)
+
+
+2016-03-08T08:41:30Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: TEST20160308010
+
+2016-03-08T08:41:30Z
+Capture RequestParameter:  billNo: TEST20160308010
+
+2016-03-08T08:41:30Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => c29da0508574840bdf8fd89da3a243612e0ff9bf
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-03-08T08:41:38Z
+Capture ResponseParameter:  billNo: TEST20160308010
+
+2016-03-08T08:41:38Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=c29da0508574840bdf8fd89da3a243612e0ff9bf
+)
+
+

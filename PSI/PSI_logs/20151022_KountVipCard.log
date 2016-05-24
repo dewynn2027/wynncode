@@ -1,0 +1,56 @@
+2015-10-22T03:42:53Z
+RequestParameter:  CardNumber: 456789XZB3HUW6NYBDBQ | startTime:2015-10-22 03:42:53
+
+2015-10-22T03:42:53Z
+ptok[456789XZB3HUW6NYBDBQ] = D
+
+2015-10-22T03:42:55Z
+ResponseParameter:  CardNumber: 456789XZB3HUW6NYBDBQ | endTime:2015-10-22 03:42:55
+
+2015-10-22T03:42:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [4567890989767890]</message><scope>4567890989767890</scope></error></errors><result/></response>
+
+
+2015-10-22T04:05:39Z
+RequestParameter:  CardNumber: 456789SYWJ7LA58QB8NP | startTime:2015-10-22 04:05:39
+
+2015-10-22T04:05:39Z
+ptok[456789SYWJ7LA58QB8NP] = D
+
+2015-10-22T04:05:41Z
+ResponseParameter:  CardNumber: 456789SYWJ7LA58QB8NP | endTime:2015-10-22 04:05:41
+
+2015-10-22T04:05:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [4567894561234575]</message><scope>4567894561234575</scope></error></errors><result/></response>
+
+
+2015-10-22T12:28:24Z
+RequestParameter:  CardNumber: 488975XEEJVIC2KH76VS | startTime:2015-10-22 12:28:24
+
+2015-10-22T12:28:24Z
+ptok[488975XEEJVIC2KH76VS] = D
+
+2015-10-22T12:28:26Z
+ResponseParameter:  CardNumber: 488975XEEJVIC2KH76VS | endTime:2015-10-22 12:28:26
+
+2015-10-22T12:28:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [488975000007615]</message><scope>488975000007615</scope></error></errors><result/></response>
+
+
+2015-10-22T12:30:43Z
+RequestParameter:  CardNumber: 488975XEEJVIC2KH76VS | startTime:2015-10-22 12:30:43
+
+2015-10-22T12:30:43Z
+ptok[488975XEEJVIC2KH76VS] = D
+
+2015-10-22T12:30:44Z
+ResponseParameter:  CardNumber: 488975XEEJVIC2KH76VS | endTime:2015-10-22 12:30:44
+
+2015-10-22T12:30:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [488975000007615]</message><scope>488975000007615</scope></error></errors><result/></response>
+
+

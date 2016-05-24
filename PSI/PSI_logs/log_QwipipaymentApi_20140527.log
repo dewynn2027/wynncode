@@ -1,0 +1,152 @@
+2014-05-27T00:28:56Z
+RequestParameter:  referenceId: onfTv1401150536
+
+2014-05-27T00:28:56Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=onfTv1401150536&dateTime=20140527082856&currency=USD&language=eng&cardHolderIp=91.239.124.36&md5Info=34745767FEFA269A60A053E7CAC9CE79&cardNum=4011353100406430&cvv2=218&month=01&year=16&birthDate=19391201&firstName=Ellen%20Judith&lastName=Agard&email=Allenjudith@gmail.com&phone=2402643434&zipCode=20707&address=13108%20Brook%20tree%20lane&city=Laurel&state=MD&country=US&amount=989.00&products=2&remark=ok
+
+2014-05-27T00:28:59Z
+ResponseParameter:  referenceId: onfTv1401150536
+
+2014-05-27T00:28:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078410838378</paymentOrderNo><billNo>onfTv1401150536</billNo><currency>USD</currency><amount>989.00</amount><dateTime>20140527082901</dateTime><remark>Transaction declined.</remark><md5Info>10B667FD069759294938EF1BF3C87FDC</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T00:32:38Z
+RequestParameter:  referenceId: wHGB41401150758
+
+2014-05-27T00:32:38Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=wHGB41401150758&dateTime=20140527083238&currency=USD&language=eng&cardHolderIp=91.239.124.36&md5Info=7E8466CB917E409A427119A9B3C9160A&cardNum=4011353100406430&cvv2=218&month=01&year=16&birthDate=19391212&firstName=Ellen&lastName=Agard&email=ellenagard@gmail.com&phone=2402643434&zipCode=20707&address=13108%20Brook%20tree%20lane&city=Laurel&state=MD&country=US&amount=898.00&products=2&remark=ok
+
+2014-05-27T00:32:41Z
+ResponseParameter:  referenceId: wHGB41401150758
+
+2014-05-27T00:32:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078410838435</paymentOrderNo><billNo>wHGB41401150758</billNo><currency>USD</currency><amount>898.00</amount><dateTime>20140527083243</dateTime><remark>Transaction declined.</remark><md5Info>D67C3454444C668850D5083C35833699</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T00:44:55Z
+RequestParameter:  referenceId: QRo9O1401151495
+
+2014-05-27T00:44:55Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=QRo9O1401151495&dateTime=20140527084455&currency=USD&language=eng&cardHolderIp=91.239.124.36&md5Info=7AD471686C1FF4A7BCCA9C789450F47C&cardNum=4530941014034017&cvv2=319&month=03&year=17&birthDate=19590125&firstName=Albert&lastName=Thasan&email=albertoalbert@gmail.com&phone=5143848133&zipCode=216&address=8801%20Rue%20Tolhurst%20&city=Montreal&state=QC&country=CA&amount=699.00&products=2&remark=ok
+
+2014-05-27T00:44:58Z
+ResponseParameter:  referenceId: QRo9O1401151495
+
+2014-05-27T00:44:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078410838589</paymentOrderNo><billNo>QRo9O1401151495</billNo><currency>USD</currency><amount>699.00</amount><dateTime>20140527084500</dateTime><remark>Declined by card issuer. Please, call to your bank to know exact reason.</remark><md5Info>8B799BD5EA00D84D0D421890EFC6E40E</md5Info><billingDescriptor>NFSHOP +44-80-8189-1</billingDescriptor>
+
+</response>
+
+2014-05-27T06:36:00Z
+RequestParameter:  referenceId: 1401172561
+
+2014-05-27T06:36:00Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401172561&dateTime=201405271260&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=D54C06FCA87388D0AC7A0D570AEE99AB&cardNum=1111111111111111&cvv2=1234&month=02&year=2016&birthDate=01031989&firstName=pranav&lastName=kashtwar&email=pranav@qpi.in&phone=9717452778&zipCode=123456&address=TF-14&city=Faridabad&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-27T06:36:02Z
+ResponseParameter:  referenceId: 1401172561
+
+2014-05-27T06:36:02Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401172561</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140527143604</dateTime><remark>Date format is wrong</remark><md5Info>376E53BC1A364DE585D25BFC8C7FC6E1</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T06:40:32Z
+RequestParameter:  referenceId: 1401172833
+
+2014-05-27T06:40:32Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401172833&dateTime=20140527121032&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=BE0FFBE648838C8ED9460C5721A0CFCD&cardNum=1111111111111111&cvv2=1234&month=02&year=2016&birthDate=01031989&firstName=pranav&lastName=kashtwar&email=pranav@qpi.in&phone=1234567890&zipCode=123456&address=TF-14&city=delhi&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-27T06:40:33Z
+ResponseParameter:  referenceId: 1401172833
+
+2014-05-27T06:40:33Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401172833</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140527144035</dateTime><remark>The Card is in black list</remark><md5Info>9509759900F0799B4A9C01EE77F11A0B</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T08:01:28Z
+RequestParameter:  referenceId: 1401177689
+
+2014-05-27T08:01:28Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401177689&dateTime=20140527133128&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=9F114599382333AE6190B03CC478FF0D&cardNum=1231123121123123&cvv2=1234&month=02&year=2017&birthDate=01031989&firstName=pranav&lastName=kashtwar&email=pranav@qpi.in&phone=(123)123%201231&zipCode=123456&address=TF-14&city=delhi&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-27T08:01:29Z
+ResponseParameter:  referenceId: 1401177689
+
+2014-05-27T08:01:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401177689</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140527160132</dateTime><remark>Billing country is wrong</remark><md5Info>2600DCE6311F360C79F4AA93C20B8CB0</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T08:22:10Z
+RequestParameter:  referenceId: 1401178931
+
+2014-05-27T08:22:10Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401178931&dateTime=20140527135210&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=E72D09342186D4884808F8BC001DB548&cardNum=1111111111111111&cvv2=1234&month=02&year=2018&birthDate=01031989&firstName=pranav&lastName=kashtwar&email=pranav@qpi.in&phone=9999999999&zipCode=123456&address=first&city=delhi&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-27T08:22:11Z
+ResponseParameter:  referenceId: 1401178931
+
+2014-05-27T08:22:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401178931</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140527162213</dateTime><remark>The Card is in black list</remark><md5Info>CBB8337629547F4B24D149E125DD0CDA</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-27T10:10:11Z
+RequestParameter:  referenceId: 1401185413
+
+2014-05-27T10:10:11Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401185413&dateTime=20140527154012&currency=USD&language=eng&cardHolderIp=122.160.86.15&md5Info=F7C9846CEAF162BCC8C66CFA011D61E3&cardNum=4111123412341234&cvv2=123&month=01&year=2015&birthDate=01011976&firstName=Naveen&lastName=Bhalla&email=naveen@qpi.in&phone=9990723000&zipCode=12345&address=TA14,%20Third%20Floor%20Crown%20Plaza&city=Faridabad&state=1&country=2&amount=99.99&products=1&remark=remark
+
+2014-05-27T10:10:13Z
+ResponseParameter:  referenceId: 1401185413
+
+2014-05-27T10:10:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401185413</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140527181015</dateTime><remark>Billing country is wrong</remark><md5Info>EB4BC7429F4CDE9512776AE2A9244661</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

@@ -1,0 +1,672 @@
+2015-08-20T07:55:25Z
+RequestParameter:  billNo: LiDZp1440057322 | startTime:2015-08-20 07:55:25
+
+2015-08-20T07:55:25Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => LiDZp1440057322
+    [referenceId] => LiDZp1440057322
+    [dateTime] => 20150820155522
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 02
+    [year] => 17
+    [firstName] => juan pangalan
+    [lastName] => juan apelyido
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T07:55:25Z
+ResponseParameter:  billNo: LiDZp1440057322 | endTime:2015-08-20 07:55:25
+
+2015-08-20T07:55:25Z
+successcode=-1&Ref=LiDZp1440057322&PayRef=150820150825&Amt=10&Cur=840&prc=1&src=14&Ord=150820150825&Holder=&AuthId=0825&TxTime=15-08-20 15:08:25&errMsg=Error: invalid expiry month, invalid firstName, invalid lastName, Parameter currency incorrect
+
+2015-08-20T07:56:39Z
+RequestParameter:  billNo: JX4xw1440057397 | startTime:2015-08-20 07:56:39
+
+2015-08-20T07:56:39Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => JX4xw1440057397
+    [referenceId] => JX4xw1440057397
+    [dateTime] => 20150820155637
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 02
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ 
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T07:56:39Z
+ResponseParameter:  billNo: JX4xw1440057397 | endTime:2015-08-20 07:56:39
+
+2015-08-20T07:56:39Z
+successcode=-1&Ref=JX4xw1440057397&PayRef=150820150839&Amt=10&Cur=840&prc=1&src=14&Ord=150820150839&Holder=&AuthId=0839&TxTime=15-08-20 15:08:39&errMsg=Error: invalid expiry month, invalid lastName, Parameter currency incorrect
+
+2015-08-20T07:57:17Z
+RequestParameter:  billNo: dFo4X1440057435 | startTime:2015-08-20 07:57:17
+
+2015-08-20T07:57:17Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => dFo4X1440057435
+    [referenceId] => dFo4X1440057435
+    [dateTime] => 20150820155715
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ 
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T07:57:18Z
+ResponseParameter:  billNo: dFo4X1440057435 | endTime:2015-08-20 07:57:18
+
+2015-08-20T07:57:18Z
+successcode=-1&Ref=dFo4X1440057435&PayRef=150820150817&Amt=10&Cur=840&prc=1&src=14&Ord=150820150817&Holder=&AuthId=0817&TxTime=15-08-20 15:08:17&errMsg=Error: invalid lastName, Parameter currency incorrect
+
+2015-08-20T07:58:29Z
+RequestParameter:  billNo: HrlC71440057507 | startTime:2015-08-20 07:58:29
+
+2015-08-20T07:58:29Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => HrlC71440057507
+    [referenceId] => HrlC71440057507
+    [dateTime] => 20150820155827
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ 
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T07:58:29Z
+ResponseParameter:  billNo: HrlC71440057507 | endTime:2015-08-20 07:58:29
+
+2015-08-20T07:58:29Z
+successcode=-1&Ref=HrlC71440057507&PayRef=150820150829&Amt=10&Cur=840&prc=1&src=14&Ord=150820150829&Holder=&AuthId=0829&TxTime=15-08-20 15:08:29&errMsg=Error: invalid lastName, Parameter currency incorrect
+
+2015-08-20T07:58:40Z
+RequestParameter:  billNo: 0NYMf1440057518 | startTime:2015-08-20 07:58:40
+
+2015-08-20T07:58:40Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 0NYMf1440057518
+    [referenceId] => 0NYMf1440057518
+    [dateTime] => 20150820155838
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ 
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T07:58:40Z
+ResponseParameter:  billNo: 0NYMf1440057518 | endTime:2015-08-20 07:58:40
+
+2015-08-20T07:58:40Z
+successcode=-1&Ref=0NYMf1440057518&PayRef=150820150840&Amt=10&Cur=840&prc=1&src=41&Ord=150820150840&Holder=&AuthId=0840&TxTime=15-08-20 15:08:40&errMsg=Error: invalid lastName
+
+2015-08-20T08:01:48Z
+RequestParameter:  billNo: qwv1u1440057706 | startTime:2015-08-20 08:01:48
+
+2015-08-20T08:01:48Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => qwv1u1440057706
+    [referenceId] => qwv1u1440057706
+    [dateTime] => 20150820160146
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195006
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T08:01:49Z
+ResponseParameter:  billNo: qwv1u1440057706 | endTime:2015-08-20 08:01:49
+
+2015-08-20T08:01:49Z
+successcode=-1&Ref=qwv1u1440057706&PayRef=150820160848&Amt=10&Cur=840&prc=-8&src=2001&Ord=150820160848&Holder=&AuthId=0848&TxTime=15-08-20 16:08:48&errMsg=Error: invalid cardNumber
+
+2015-08-20T08:02:59Z
+RequestParameter:  billNo: fAE8T1440057777 | startTime:2015-08-20 08:02:59
+
+2015-08-20T08:02:59Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => LOOPBACK
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => fAE8T1440057777
+    [referenceId] => fAE8T1440057777
+    [dateTime] => 20150820160257
+    [cardHolderIp] => 119.94.80.86
+    [cardNum] => 4918914107195006
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => JUAN
+    [lastName] => DELA CRUZ
+    [gender] => M
+    [email] => testingjuan@gmail.com
+    [birthDate] => 20020807
+    [phone] => 121212
+    [zipCode] => 1102
+    [address] => makati
+    [city] => makati
+    [state] => makati
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => this is a test please ignore
+    [currency] => USD
+    [productItem] => Sku 123
+    [productType] => tv
+    [productDesc] => this is a test
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 200-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-08-20T08:03:00Z
+ResponseParameter:  billNo: fAE8T1440057777 | endTime:2015-08-20 08:03:00
+
+2015-08-20T08:03:00Z
+successcode=0&Ref=fAE8T1440057777&PayRef=150820160859&Amt=10&Cur=840&prc=0&src=0&Ord=150820160859&Holder=&AuthId=0859&TxTime=15-08-20 16:08:59&errMsg=Transaction Completed
+

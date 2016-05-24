@@ -1,0 +1,25 @@
+2014-08-22T03:39:33Z
+RequestParameter:  billNo: 20140815135751308
+
+2014-08-22T03:39:33Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140815135751308&TransactionType=2&Currency=USD&Amount=54.97&TransactionID=201408150000144000BB
+
+2014-08-22T03:39:34Z
+ResponseParameter:  billNo: 20140815135751308
+
+2014-08-22T03:39:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140815135751308</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140822124013</ResponseTime>
+<TransactionID>201408150000144000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

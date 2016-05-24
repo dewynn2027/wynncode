@@ -1,0 +1,1008 @@
+2015-10-22T03:42:51Z
+RequestParameter:  billNo: Bv82b1445485369 | startTime:2015-10-22 03:42:51
+
+2015-10-22T03:42:51Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T03:42:51Z
+Array
+(
+    [cid] => 11635
+    [payNo] => Bv82b1445485369
+    [createdAt] => 20151022114249
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 121.54.44.91
+    [signInfo] => 6eb67d93ad98388d40e632969a595e83
+    [ccNo] => 4************890
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2016
+    [fName] => Juan
+    [lName] => Dela Cruz
+    [emailAddress] => rivera.dewynn@gmail.com
+    [phoneNo] => 123456789
+    [birth] => 19841001
+    [zip] => 12345
+    [billAddress] => 4173 Unit F
+    [billCity] => Makati City
+    [billState] => NA
+    [billCountry] => PH
+    [billAmount] => 10
+    [comment] => fsdfdsfsdfdsf dsfsdf sdf
+)
+
+
+2015-10-22T03:42:52Z
+ResponseParameter:  billNo: Bv82b1445485369 | endTime:2015-10-22 03:42:52
+
+2015-10-22T03:42:52Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"Bv82b1445485369","billAmount":"10.00","createdAt":"20151022114302","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"42AA84815785A0D0771A0D43A256448D","billingDescriptor":""}
+
+)
+
+
+2015-10-22T04:05:36Z
+RequestParameter:  billNo: GEoum1445486734 | startTime:2015-10-22 04:05:36
+
+2015-10-22T04:05:36Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T04:05:36Z
+Array
+(
+    [cid] => 11635
+    [payNo] => GEoum1445486734
+    [createdAt] => 20151022120534
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 121.54.44.88
+    [signInfo] => abcef096f675a6087be6c21052ec5a71
+    [ccNo] => 4************575
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Dela Cruz
+    [emailAddress] => dewynn@transcommglobal.com
+    [phoneNo] => 234567
+    [birth] => 19781001
+    [zip] => 12346
+    [billAddress] => 123 St.
+    [billCity] => Makati City
+    [billState] => NA
+    [billCountry] => PH
+    [billAmount] => 10
+    [comment] => Testing only
+)
+
+
+2015-10-22T04:05:38Z
+ResponseParameter:  billNo: GEoum1445486734 | endTime:2015-10-22 04:05:38
+
+2015-10-22T04:05:38Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"GEoum1445486734","billAmount":"10.00","createdAt":"20151022120547","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"581467E0B644E719C2815DAF849729F5","billingDescriptor":""}
+
+)
+
+
+2015-10-22T08:35:01Z
+RequestParameter:  billNo: lExMZ1445502899 | startTime:2015-10-22 08:35:01
+
+2015-10-22T08:35:01Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T08:35:01Z
+Array
+(
+    [cid] => 11635
+    [payNo] => lExMZ1445502899
+    [createdAt] => 20151022163459
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => e80f456514f1b4d6c980ee725b7e4fd3
+    [ccNo] => 4************913
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2016
+    [fName] => Frederic
+    [lName] => Chartier
+    [emailAddress] => Jc2015@gmail.com
+    [phoneNo] => 0684542111
+    [birth] => 19691024
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot pt
+)
+
+
+2015-10-22T08:35:11Z
+ResponseParameter:  billNo: lExMZ1445502899 | endTime:2015-10-22 08:35:11
+
+2015-10-22T08:35:11Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"lExMZ1445502899","billAmount":"1000.00","createdAt":"20151022163519","billCurrency":"EUR","tid":"1163522730624","comment":"Insufficient funds","signInfo":"352B69B7E87D48A69B300E3F3B4AADF7","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T12:28:21Z
+RequestParameter:  billNo: kMs8r1445516898 | startTime:2015-10-22 12:28:21
+
+2015-10-22T12:28:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:28:21Z
+Array
+(
+    [cid] => 11635
+    [payNo] => kMs8r1445516898
+    [createdAt] => 20151022202818
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 005b35f3e2d5c00767cb8eac07b47642
+    [ccNo] => 4************15
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Dian
+    [lName] => Warep
+    [emailAddress] => dian2ff@gmail.com
+    [phoneNo] => 33684542111
+    [birth] => 19551006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => PG
+    [billAmount] => 500
+    [comment] => depot pt
+)
+
+
+2015-10-22T12:28:23Z
+ResponseParameter:  billNo: kMs8r1445516898 | endTime:2015-10-22 12:28:23
+
+2015-10-22T12:28:23Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"kMs8r1445516898","billAmount":"500.00","createdAt":"20151022202832","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"0646855442308C5D6A9D580CFB9B04C1","billingDescriptor":""}
+
+)
+
+
+2015-10-22T12:30:40Z
+RequestParameter:  billNo: 42cdx1445517038 | startTime:2015-10-22 12:30:40
+
+2015-10-22T12:30:40Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:30:40Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 42cdx1445517038
+    [createdAt] => 20151022203038
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 6bf79e3cf3c11e0dc0f0afb087ccd29d
+    [ccNo] => 4************15
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Dian
+    [lName] => Warep
+    [emailAddress] => dian2ff@gmail.com
+    [phoneNo] => 33684542111
+    [birth] => 19551006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => PG
+    [billAmount] => 500
+    [comment] => depot pt
+)
+
+
+2015-10-22T12:30:42Z
+ResponseParameter:  billNo: 42cdx1445517038 | endTime:2015-10-22 12:30:42
+
+2015-10-22T12:30:42Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11635","payNo":"42cdx1445517038","billAmount":"500.00","createdAt":"20151022203051","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"DC4DAC64ED9419DC608D39DEDD3BC5B2","billingDescriptor":""}
+
+)
+
+
+2015-10-22T12:34:16Z
+RequestParameter:  billNo: RQVBS1445517254 | startTime:2015-10-22 12:34:16
+
+2015-10-22T12:34:16Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:34:16Z
+Array
+(
+    [cid] => 11635
+    [payNo] => RQVBS1445517254
+    [createdAt] => 20151022203414
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => e04a421db1f7cf798aee881f5cf509be
+    [ccNo] => 4************190
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => wendy
+    [lName] => assakia
+    [emailAddress] => dian2ff@gmail.com
+    [phoneNo] => 33684542111
+    [birth] => 19551006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => PG
+    [billAmount] => 1000
+    [comment] => depot pt
+)
+
+
+2015-10-22T12:34:18Z
+ResponseParameter:  billNo: RQVBS1445517254 | endTime:2015-10-22 12:34:18
+
+2015-10-22T12:34:18Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-214","cid":"11635","payNo":"RQVBS1445517254","billAmount":"1000.00","createdAt":"20151022203427","billCurrency":"EUR","tid":"1163522733631","comment":"Country is not equal to country BIN","signInfo":"63760F066DA480051795B05E25F52B62","billingDescriptor":""}
+
+)
+
+
+2015-10-22T12:34:40Z
+RequestParameter:  billNo: KxudE1445517277 | startTime:2015-10-22 12:34:40
+
+2015-10-22T12:34:40Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:34:40Z
+Array
+(
+    [cid] => 11635
+    [payNo] => KxudE1445517277
+    [createdAt] => 20151022203437
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 1ab1a8ba1745c3cad4f749fc5f4c9be3
+    [ccNo] => 4************190
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => wendy
+    [lName] => assakia
+    [emailAddress] => dian2ff@gmail.com
+    [phoneNo] => 33684542111
+    [birth] => 19551006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot pt
+)
+
+
+2015-10-22T12:34:47Z
+ResponseParameter:  billNo: KxudE1445517277 | endTime:2015-10-22 12:34:47
+
+2015-10-22T12:34:47Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"KxudE1445517277","billAmount":"1000.00","createdAt":"20151022203456","billCurrency":"EUR","tid":"1163522733642","comment":"Success","signInfo":"322B472AB431AA8FF4E4BC7B3D15F5ED","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T12:36:36Z
+RequestParameter:  billNo: zahIX1445517393 | startTime:2015-10-22 12:36:36
+
+2015-10-22T12:36:36Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:36:36Z
+Array
+(
+    [cid] => 11635
+    [payNo] => zahIX1445517393
+    [createdAt] => 20151022203633
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => e3e835f533c0af5f450bde1199402d5f
+    [ccNo] => 4************190
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => wendy
+    [lName] => assakia
+    [emailAddress] => wendyassakiaa@gmail.com
+    [phoneNo] => 336484542111
+    [birth] => 19861017
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot pt
+)
+
+
+2015-10-22T12:36:42Z
+ResponseParameter:  billNo: zahIX1445517393 | endTime:2015-10-22 12:36:42
+
+2015-10-22T12:36:42Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"zahIX1445517393","billAmount":"1000.00","createdAt":"20151022203651","billCurrency":"EUR","tid":"1163522733675","comment":"Success","signInfo":"03196BC7EFBF6A0B38811F204067AC8B","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T12:54:27Z
+RequestParameter:  billNo: ETt3Z1445518465 | startTime:2015-10-22 12:54:27
+
+2015-10-22T12:54:27Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:54:27Z
+Array
+(
+    [cid] => 11636
+    [payNo] => ETt3Z1445518465
+    [createdAt] => 20151022205425
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 65c0e269f9660d7e69903f0c7dcaee18
+    [ccNo] => 5************53
+    [cvc] => ***
+    [expMonth] => 05
+    [expYear] => 2018
+    [fName] => Dian
+    [lName] => Warep
+    [emailAddress] => dwarep2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441019
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => PG
+    [billAmount] => 500
+    [comment] => depot p t
+)
+
+
+2015-10-22T12:54:32Z
+ResponseParameter:  billNo: ETt3Z1445518465 | endTime:2015-10-22 12:54:32
+
+2015-10-22T12:54:32Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"71","cid":"11636","payNo":"ETt3Z1445518465","billAmount":"500.00","createdAt":"20151022205440","billCurrency":"EUR","tid":"1163622733980","comment":"Invalid Issuer","signInfo":"3DB15B03F746C1C9D6936F77BC37EC87","billingDescriptor":""}
+
+)
+
+
+2015-10-22T12:57:43Z
+RequestParameter:  billNo: yHsw51445518660 | startTime:2015-10-22 12:57:43
+
+2015-10-22T12:57:43Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T12:57:43Z
+Array
+(
+    [cid] => 11636
+    [payNo] => yHsw51445518660
+    [createdAt] => 20151022205740
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 73d92c0cf67551316957a1448805c21a
+    [ccNo] => 5************53
+    [cvc] => ***
+    [expMonth] => 05
+    [expYear] => 2018
+    [fName] => dian
+    [lName] => warep
+    [emailAddress] => dwarep2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441019
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => PG
+    [billAmount] => 500
+    [comment] => depot p t
+)
+
+
+2015-10-22T12:57:48Z
+ResponseParameter:  billNo: yHsw51445518660 | endTime:2015-10-22 12:57:48
+
+2015-10-22T12:57:48Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"71","cid":"11636","payNo":"yHsw51445518660","billAmount":"500.00","createdAt":"20151022205756","billCurrency":"EUR","tid":"1163622734035","comment":"Invalid Issuer","signInfo":"9CB681C44E895F0D33FE95CA3E3F396A","billingDescriptor":""}
+
+)
+
+
+2015-10-22T13:46:18Z
+RequestParameter:  billNo: bq4dw1445521575 | startTime:2015-10-22 13:46:18
+
+2015-10-22T13:46:18Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T13:46:18Z
+Array
+(
+    [cid] => 11635
+    [payNo] => bq4dw1445521575
+    [createdAt] => 20151022214615
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 1d0c2466659777787474e00d0713a579
+    [ccNo] => 4************190
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => Wendy
+    [lName] => Assakia
+    [emailAddress] => eerree2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441019
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot p t
+)
+
+
+2015-10-22T13:46:26Z
+ResponseParameter:  billNo: bq4dw1445521575 | endTime:2015-10-22 13:46:26
+
+2015-10-22T13:46:26Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"bq4dw1445521575","billAmount":"1000.00","createdAt":"20151022214634","billCurrency":"EUR","tid":"1163522734939","comment":"Insufficient funds","signInfo":"E298C42E3E5DA33984EB5BD51AE81429","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T13:47:04Z
+RequestParameter:  billNo: MuCe31445521622 | startTime:2015-10-22 13:47:04
+
+2015-10-22T13:47:04Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T13:47:04Z
+Array
+(
+    [cid] => 11635
+    [payNo] => MuCe31445521622
+    [createdAt] => 20151022214702
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 4168db6a4afb01ff2c8339d36d402201
+    [ccNo] => 4************190
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => Wendy
+    [lName] => Assakia
+    [emailAddress] => eerree2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441019
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 500
+    [comment] => depot p t
+)
+
+
+2015-10-22T13:47:18Z
+ResponseParameter:  billNo: MuCe31445521622 | endTime:2015-10-22 13:47:18
+
+2015-10-22T13:47:18Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"65","cid":"11635","payNo":"MuCe31445521622","billAmount":"500.00","createdAt":"20151022214726","billCurrency":"EUR","tid":"1163522734949","comment":"Card is limited by issuing bank,call your bank to whitelist","signInfo":"98D2BD3284A9CAE45E40175A6AE4EEC1","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T14:30:06Z
+RequestParameter:  billNo: a6WVh1445524203 | startTime:2015-10-22 14:30:06
+
+2015-10-22T14:30:06Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T14:30:06Z
+Array
+(
+    [cid] => 11636
+    [payNo] => a6WVh1445524203
+    [createdAt] => 20151022223003
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => f2024542e57ae798ebde45d32cf6d39a
+    [ccNo] => 5************518
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Jean Francois
+    [lName] => Stole
+    [emailAddress] => eerreerr2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 250
+    [comment] => depot p t
+)
+
+
+2015-10-22T14:30:14Z
+ResponseParameter:  billNo: a6WVh1445524203 | endTime:2015-10-22 14:30:14
+
+2015-10-22T14:30:14Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11636","payNo":"a6WVh1445524203","billAmount":"250.00","createdAt":"20151022223022","billCurrency":"EUR","tid":"1163622735901","comment":"Insufficient funds","signInfo":"36D21E87E83029D9C7E4E939D869723D","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T14:47:33Z
+RequestParameter:  billNo: o1Vnl1445525250 | startTime:2015-10-22 14:47:33
+
+2015-10-22T14:47:33Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T14:47:33Z
+Array
+(
+    [cid] => 11636
+    [payNo] => o1Vnl1445525250
+    [createdAt] => 20151022224730
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 7b07ecb995273d3785028ec477e80ad3
+    [ccNo] => 5************572
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2018
+    [fName] => Delphine
+    [lName] => Lepatin
+    [emailAddress] => eerreerr2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 100
+    [comment] => depot p t
+)
+
+
+2015-10-22T14:47:40Z
+ResponseParameter:  billNo: o1Vnl1445525250 | endTime:2015-10-22 14:47:40
+
+2015-10-22T14:47:40Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11636","payNo":"o1Vnl1445525250","billAmount":"100.00","createdAt":"20151022224749","billCurrency":"EUR","tid":"1163622736261","comment":"Success","signInfo":"78C28541292313E8C7A278E39A7733B5","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:05:53Z
+RequestParameter:  billNo: yJx8P1445526351 | startTime:2015-10-22 15:05:53
+
+2015-10-22T15:05:53Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:05:53Z
+Array
+(
+    [cid] => 11636
+    [payNo] => yJx8P1445526351
+    [createdAt] => 20151022230551
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => c9eb63af52b0c3ebc6a0438cc84b7fa0
+    [ccNo] => 5************682
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2018
+    [fName] => Marc Antoine
+    [lName] => Caron
+    [emailAddress] => caron2@gmail.com
+    [phoneNo] => 336845121111
+    [birth] => 19431014
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => quebec
+    [billCountry] => CA
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-22T15:06:02Z
+ResponseParameter:  billNo: yJx8P1445526351 | endTime:2015-10-22 15:06:02
+
+2015-10-22T15:06:02Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"59","cid":"11636","payNo":"yJx8P1445526351","billAmount":"200.00","createdAt":"20151022230610","billCurrency":"EUR","tid":"1163622736658","comment":"Transaction declined. call your bank to verify.","signInfo":"5B96153B12A171D47095ED4082EA3B17","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:07:42Z
+RequestParameter:  billNo: Yqpnk1445526460 | startTime:2015-10-22 15:07:42
+
+2015-10-22T15:07:42Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:07:42Z
+Array
+(
+    [cid] => 11635
+    [payNo] => Yqpnk1445526460
+    [createdAt] => 20151022230740
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => fd07d441c00d4d55df94c24a9a15436e
+    [ccNo] => 4************543
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2018
+    [fName] => Dominique
+    [lName] => Mellac
+    [emailAddress] => mellac2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot p t
+)
+
+
+2015-10-22T15:07:54Z
+ResponseParameter:  billNo: Yqpnk1445526460 | endTime:2015-10-22 15:07:54
+
+2015-10-22T15:07:54Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"Yqpnk1445526460","billAmount":"1000.00","createdAt":"20151022230804","billCurrency":"EUR","tid":"1163522736695","comment":"Success","signInfo":"488CF4C046EC0C4F195D33A6BE61C461","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:08:15Z
+RequestParameter:  billNo: M0yUz1445526493 | startTime:2015-10-22 15:08:15
+
+2015-10-22T15:08:15Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:08:15Z
+Array
+(
+    [cid] => 11635
+    [payNo] => M0yUz1445526493
+    [createdAt] => 20151022230813
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => a10e975276d4365ac9b02bace858bbb0
+    [ccNo] => 4************543
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2018
+    [fName] => Dominique
+    [lName] => Mellac
+    [emailAddress] => mellac2@gmail.com
+    [phoneNo] => 3364851111
+    [birth] => 19441006
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => depot p t
+)
+
+
+2015-10-22T15:08:22Z
+ResponseParameter:  billNo: M0yUz1445526493 | endTime:2015-10-22 15:08:22
+
+2015-10-22T15:08:22Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"M0yUz1445526493","billAmount":"1000.00","createdAt":"20151022230831","billCurrency":"EUR","tid":"1163522736704","comment":"Success","signInfo":"FCCC7582EB24964E1FCD7576B08F60A5","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:10:08Z
+RequestParameter:  billNo: MPINA1445526606 | startTime:2015-10-22 15:10:08
+
+2015-10-22T15:10:08Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:10:08Z
+Array
+(
+    [cid] => 11635
+    [payNo] => MPINA1445526606
+    [createdAt] => 20151022231006
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 081611d9f360bca500523f48f12fc105
+    [ccNo] => 4************902
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2017
+    [fName] => Paullette
+    [lName] => Chanson
+    [emailAddress] => chansonpaul@gmail.com
+    [phoneNo] => 33211512111
+    [birth] => 19471021
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => France
+    [billCountry] => FR
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-22T15:10:16Z
+ResponseParameter:  billNo: MPINA1445526606 | endTime:2015-10-22 15:10:16
+
+2015-10-22T15:10:16Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"MPINA1445526606","billAmount":"200.00","createdAt":"20151022231025","billCurrency":"EUR","tid":"1163522736735","comment":"Success","signInfo":"3FFF6E30A6DBB98556EFC2B2CD5E2E20","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:24:08Z
+RequestParameter:  billNo: tLKyT1445527446 | startTime:2015-10-22 15:24:08
+
+2015-10-22T15:24:08Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:24:08Z
+Array
+(
+    [cid] => 11635
+    [payNo] => tLKyT1445527446
+    [createdAt] => 20151022232406
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 44d87c4c4e5054cc94722c772c1a6159
+    [ccNo] => 4************586
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Thomas
+    [lName] => Perre
+    [emailAddress] => Perre2@gmail.com
+    [phoneNo] => 3368454511
+    [birth] => 19561025
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 200
+    [comment] => depot pt
+)
+
+
+2015-10-22T15:24:14Z
+ResponseParameter:  billNo: tLKyT1445527446 | endTime:2015-10-22 15:24:14
+
+2015-10-22T15:24:14Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"tLKyT1445527446","billAmount":"200.00","createdAt":"20151022232424","billCurrency":"EUR","tid":"1163522737030","comment":"Success","signInfo":"F8493C4D691FB459ACE73130F72A64EF","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T15:30:37Z
+RequestParameter:  billNo: wPUEh1445527835 | startTime:2015-10-22 15:30:37
+
+2015-10-22T15:30:37Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T15:30:37Z
+Array
+(
+    [cid] => 11636
+    [payNo] => wPUEh1445527835
+    [createdAt] => 20151022233035
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 2ef837351762223aaf520e0d33fad510
+    [ccNo] => 5************750
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2018
+    [fName] => Pascal
+    [lName] => Loncle
+    [emailAddress] => lonclep@gmail.com
+    [phoneNo] => 3364845111
+    [birth] => 19541014
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 300
+    [comment] => depot pt
+)
+
+
+2015-10-22T15:30:45Z
+ResponseParameter:  billNo: wPUEh1445527835 | endTime:2015-10-22 15:30:45
+
+2015-10-22T15:30:45Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11636","payNo":"wPUEh1445527835","billAmount":"300.00","createdAt":"20151022233054","billCurrency":"EUR","tid":"1163622737192","comment":"Insufficient funds","signInfo":"A2E7B32564462A913E3C481054EA50D8","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-22T16:29:32Z
+RequestParameter:  billNo: 1VsvU1445531369 | startTime:2015-10-22 16:29:32
+
+2015-10-22T16:29:32Z
+https://sip.uniques.net/direct/payment
+
+2015-10-22T16:29:32Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 1VsvU1445531369
+    [createdAt] => 20151023002929
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 9bd1fb0fa02be7d63fb03d2ff50b8401
+    [ccNo] => 4************858
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Rachel
+    [lName] => Setshwane
+    [emailAddress] => rachel_setshwane@yahoo.com
+    [phoneNo] => 26775753636
+    [birth] => 19790720
+    [zip] => 00267
+    [billAddress] => mabodisa
+    [billCity] => gaborone
+    [billState] => botswana
+    [billCountry] => BW
+    [billAmount] => 1000
+    [comment] => Deposit
+)
+
+
+2015-10-22T16:29:39Z
+ResponseParameter:  billNo: 1VsvU1445531369 | endTime:2015-10-22 16:29:39
+
+2015-10-22T16:29:39Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"1VsvU1445531369","billAmount":"1000.00","createdAt":"20151023002947","billCurrency":"USD","tid":"1163122738439","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"E46295F1DF4DF9F1BEB10DED9F33F6CF","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

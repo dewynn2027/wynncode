@@ -1,0 +1,80 @@
+2015-01-07T16:22:12Z
+RequestParameter:  billNo: 6778-1450_2419 | startTime:2015-01-07 16:22:12
+
+2015-01-07T16:22:12Z
+?payType=N&merchantId=&pMethod=VISA&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=4580240101455394&securityCode=256&epMonth=08&epYear=2018&amount=10&currCode=978&orderRef=6778-1450_2419&remark=
+
+2015-01-07T16:22:12Z
+ResponseParameter:  billNo: 6778-1450_2419 | endTime:2015-01-07 16:22:12
+
+2015-01-07T16:22:12Z
+
+
+2015-01-07T16:26:08Z
+RequestParameter:  billNo: 8373-9446_5497 | startTime:2015-01-07 16:26:08
+
+2015-01-07T16:26:08Z
+?payType=N&merchantId=&pMethod=VISA&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=4580240101455394&securityCode=256&epMonth=08&epYear=2018&amount=10&currCode=978&orderRef=8373-9446_5497&remark=
+
+2015-01-07T16:26:08Z
+ResponseParameter:  billNo: 8373-9446_5497 | endTime:2015-01-07 16:26:08
+
+2015-01-07T16:26:08Z
+
+
+2015-01-07T16:28:23Z
+RequestParameter:  billNo: 6969-3350_6506 | startTime:2015-01-07 16:28:23
+
+2015-01-07T16:28:23Z
+?payType=N&merchantId=&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5304460500243066&securityCode=072&epMonth=03&epYear=2018&amount=10&currCode=978&orderRef=6969-3350_6506&remark=
+
+2015-01-07T16:28:23Z
+ResponseParameter:  billNo: 6969-3350_6506 | endTime:2015-01-07 16:28:23
+
+2015-01-07T16:28:23Z
+
+
+2015-01-07T16:31:12Z
+RequestParameter:  billNo: 7524-7482_2878 | startTime:2015-01-07 16:31:12
+
+2015-01-07T16:31:12Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5304460500243066&securityCode=072&epMonth=03&epYear=2018&amount=10&currCode=978&orderRef=7524-7482_2878&remark=
+
+2015-01-07T16:31:13Z
+ResponseParameter:  billNo: 7524-7482_2878 | endTime:2015-01-07 16:31:13
+
+2015-01-07T16:31:13Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-01-07T16:32:33Z
+RequestParameter:  billNo: 341-9637_5788 | startTime:2015-01-07 16:32:33
+
+2015-01-07T16:32:33Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5304460500243066&securityCode=072&epMonth=03&epYear=2018&amount=10&currCode=978&orderRef=341-9637_5788&remark=
+
+2015-01-07T16:32:35Z
+ResponseParameter:  billNo: 341-9637_5788 | endTime:2015-01-07 16:32:35
+
+2015-01-07T16:32:35Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-01-07T16:38:47Z
+RequestParameter:  billNo: 511-9675_2619 | startTime:2015-01-07 16:38:47
+
+2015-01-07T16:38:47Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5304460500243066&securityCode=072&epMonth=03&epYear=2018&amount=10&currCode=840&orderRef=511-9675_2619&remark=
+
+2015-01-07T16:38:54Z
+ResponseParameter:  billNo: 511-9675_2619 | endTime:2015-01-07 16:38:54
+
+2015-01-07T16:38:54Z
+successcode=0&Ref=511-9675_2619&PayRef=6160672&Amt=10.0&Cur=840&prc=0&src=0&Ord=500803408335&Holder=Illiam GIOMIS&AuthId=624524&TxTime=2015-01-08 00:39:05.0&errMsg=Transaction completed
+
+
+
+
+
+
+

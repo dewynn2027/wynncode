@@ -1,0 +1,96 @@
+2015-10-05T09:24:48Z
+RequestParameter:  billNo: 2015100506 | startTime:2015-10-05 09:24:48
+
+2015-10-05T09:24:48Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T09:24:48Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100506
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => f773ca5b831aae885199082cac6d630e
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T09:24:50Z
+ResponseParameter:  billNo: 2015100506 | endTime:2015-10-05 09:24:50
+
+2015-10-05T09:24:50Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"2015100506","billAmount":"10.00","createdAt":"20151005172450","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"5AC6C382846B4957C2CDF26645A95CA4","billingDescriptor":""}
+
+)
+
+
+2015-10-05T09:25:35Z
+RequestParameter:  billNo: 12015100502 | startTime:2015-10-05 09:25:35
+
+2015-10-05T09:25:35Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T09:25:35Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 12015100502
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 7aca16bb92c4397d983217a1090a20d9
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T09:25:36Z
+ResponseParameter:  billNo: 12015100502 | endTime:2015-10-05 09:25:36
+
+2015-10-05T09:25:36Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"12015100502","billAmount":"10.00","createdAt":"20151005172536","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"5003A232AFF8004CA491711EE0F4B4FA","billingDescriptor":""}
+
+)
+
+

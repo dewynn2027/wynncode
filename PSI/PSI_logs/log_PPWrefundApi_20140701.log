@@ -1,0 +1,20 @@
+2014-07-01T21:09:32Z
+RequestParameter:  billNo: 1404233214
+
+2014-07-01T21:09:32Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=1404233214&TransactionType=2&Currency=USD&Amount=200.00&TransactionID=20140702000000C000AD
+
+2014-07-01T21:09:34Z
+ResponseParameter:  billNo: 1404233214
+
+2014-07-01T21:09:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<Reference>1404233214</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+

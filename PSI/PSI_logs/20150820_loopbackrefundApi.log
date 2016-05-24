@@ -1,0 +1,30 @@
+2015-08-20T08:03:37Z
+RequestParameter:  billNo: fAE8T1440057777
+
+2015-08-20T08:03:37Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNum] => 4918914107195006
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [API_username] => 200-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150820160859
+    [billNo] => fAE8T1440057777
+    [amount] => 10.00
+    [refundAmount] => 10.00
+    [refundType] => 1
+    [remark] => This is a test|adminRemarks|_|This is a test
+    [type] => 2
+)
+
+
+2015-08-20T08:03:37Z
+ResponseParameter:  billNo: fAE8T1440057777
+
+2015-08-20T08:03:37Z
+resultCode=0&orderStatus=Accepted&ref=fAE8T1440057777&payRef=040837&amt=10.00&cur=608&errMsg=Void Successfully.
+

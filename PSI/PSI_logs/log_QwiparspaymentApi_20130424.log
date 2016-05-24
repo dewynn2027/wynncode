@@ -1,0 +1,18 @@
+2013-04-24T09:42:57Z
+RequestParameter:  referenceId: 20130424172940
+
+2013-04-24T09:42:57Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130424172940&dateTime=20130424172940&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=CFFC6AB24652E54646B6479941F76401&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840202&firstName=firstName&lastName=lastName&email=email@mail.com&phone=1234567&zipCode=123456&address=address&city=city&state=state&country=PH&amount=10.00&products=1&remark=remark
+
+2013-04-24T09:43:01Z
+ResponseParameter:  referenceId: 20130424172940
+
+2013-04-24T09:43:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130424172940</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20130424174303</dateTime><paymentOrderNo>103354668127</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><md5Info>4B85F767479C9EC36D628690846DD451</md5Info><billingDescriptor>GIFTCC24COMN Gmbh</billingDescriptor>
+
+</response>
+

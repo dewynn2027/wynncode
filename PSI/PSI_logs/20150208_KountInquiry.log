@@ -1,0 +1,200 @@
+2015-02-08T10:59:27Z
+RequestParameter:  billNo: 0002YVA | startTime:2015-02-08 10:59:27
+
+2015-02-08T10:59:27Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 0002YVA
+    [ORDR] => 0002YVA
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 450766PRV17WHYOG40ZK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-PBN-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 100000
+    [TOTL] => 100000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERLBINARY
+    [NAME] => ibrahim almutawa
+    [B2A1] => alihsaa 9219 9219
+    [B2CC] => SA
+    [B2CI] => alihsaa
+    [B2PC] => 31982
+    [B2PN] => 966505936973
+    [B2ST] => saudi arabia
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1000
+    [DOB] => 1979-09-16
+    [GENDER] => M
+    [EMAL] => mui8499@hotmail.com
+    [ANID] => 966505936973
+)
+
+
+2015-02-08T10:59:30Z
+ResponseParameter:  billNo: 0002YVA | endTime:2015-02-08 10:59:30
+
+2015-02-08T10:59:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3WPG04NHRT7N</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0002YVA</SESS>
+  <ORDR>0002YVA</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>19</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-02-08T11:35:34Z
+RequestParameter:  billNo: 0002YVS | startTime:2015-02-08 11:35:34
+
+2015-02-08T11:35:34Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 0002YVS
+    [ORDR] => 0002YVS
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 450766PRV17WHYOG40ZK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-PBN-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERLBINARY
+    [NAME] => ibrahim almutawa
+    [B2A1] => alihsaa 9219 9219
+    [B2CC] => SA
+    [B2CI] => alihsaa
+    [B2PC] => 31982
+    [B2PN] => 966505936973
+    [B2ST] => saudi arabia
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 1979-09-16
+    [GENDER] => M
+    [EMAL] => mui8499@hotmail.com
+    [ANID] => 966505936973
+)
+
+
+2015-02-08T11:35:37Z
+ResponseParameter:  billNo: 0002YVS | endTime:2015-02-08 11:35:37
+
+2015-02-08T11:35:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3WPG0K1B6LK6</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0002YVS</SESS>
+  <ORDR>0002YVS</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>19</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

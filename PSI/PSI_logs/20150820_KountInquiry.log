@@ -1,0 +1,1344 @@
+2015-08-20T05:03:39Z
+RequestParameter:  billNo: DAILv1440047019 | startTime:2015-08-20 05:03:39
+
+2015-08-20T05:03:39Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.93.247.43
+    [SESS] => DAILv1440047019
+    [ORDR] => DAILv1440047019
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 511122TJ14C2429A387D
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => SKu11
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Tamad
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 123423
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2006-08-15
+    [GENDER] => M
+    [EMAL] => testing@gmail.com
+    [ANID] => 123423
+)
+
+
+2015-08-20T05:03:41Z
+ResponseParameter:  billNo: DAILv1440047019 | endTime:2015-08-20 05:03:41
+
+2015-08-20T05:03:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388J083J0Y1B</TRAN>
+  <MERC>680000</MERC>
+  <SESS>DAILv1440047019</SESS>
+  <ORDR>DAILv1440047019</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>24</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:55:23Z
+RequestParameter:  billNo: LiDZp1440057322 | startTime:2015-08-20 07:55:23
+
+2015-08-20T07:55:23Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => LiDZp1440057322
+    [ORDR] => LiDZp1440057322
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => juan pangalan juan apelyido
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:55:24Z
+ResponseParameter:  billNo: LiDZp1440057322 | endTime:2015-08-20 07:55:24
+
+2015-08-20T07:55:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G0G5STRKL</TRAN>
+  <MERC>680000</MERC>
+  <SESS>LiDZp1440057322</SESS>
+  <ORDR>LiDZp1440057322</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:56:38Z
+RequestParameter:  billNo: JX4xw1440057397 | startTime:2015-08-20 07:56:38
+
+2015-08-20T07:56:38Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => JX4xw1440057397
+    [ORDR] => JX4xw1440057397
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ 
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:56:39Z
+ResponseParameter:  billNo: JX4xw1440057397 | endTime:2015-08-20 07:56:39
+
+2015-08-20T07:56:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G0GL4NKB7</TRAN>
+  <MERC>680000</MERC>
+  <SESS>JX4xw1440057397</SESS>
+  <ORDR>JX4xw1440057397</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:57:16Z
+RequestParameter:  billNo: dFo4X1440057435 | startTime:2015-08-20 07:57:16
+
+2015-08-20T07:57:16Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => dFo4X1440057435
+    [ORDR] => dFo4X1440057435
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ 
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:57:17Z
+ResponseParameter:  billNo: dFo4X1440057435 | endTime:2015-08-20 07:57:17
+
+2015-08-20T07:57:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G00WKWP29</TRAN>
+  <MERC>680000</MERC>
+  <SESS>dFo4X1440057435</SESS>
+  <ORDR>dFo4X1440057435</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:58:28Z
+RequestParameter:  billNo: HrlC71440057507 | startTime:2015-08-20 07:58:28
+
+2015-08-20T07:58:28Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => HrlC71440057507
+    [ORDR] => HrlC71440057507
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ 
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:58:29Z
+ResponseParameter:  billNo: HrlC71440057507 | endTime:2015-08-20 07:58:29
+
+2015-08-20T07:58:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G0956R0SK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>HrlC71440057507</SESS>
+  <ORDR>HrlC71440057507</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:58:38Z
+RequestParameter:  billNo: 0NYMf1440057518 | startTime:2015-08-20 07:58:38
+
+2015-08-20T07:58:38Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => 0NYMf1440057518
+    [ORDR] => 0NYMf1440057518
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ 
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:58:39Z
+ResponseParameter:  billNo: 0NYMf1440057518 | endTime:2015-08-20 07:58:39
+
+2015-08-20T07:58:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G030Q2LDP</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0NYMf1440057518</SESS>
+  <ORDR>0NYMf1440057518</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T07:59:03Z
+RequestParameter:  billNo: 28iOg1440057542 | startTime:2015-08-20 07:59:03
+
+2015-08-20T07:59:03Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => 28iOg1440057542
+    [ORDR] => 28iOg1440057542
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T07:59:04Z
+ResponseParameter:  billNo: 28iOg1440057542 | endTime:2015-08-20 07:59:04
+
+2015-08-20T07:59:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388G0X9DDMSR</TRAN>
+  <MERC>680000</MERC>
+  <SESS>28iOg1440057542</SESS>
+  <ORDR>28iOg1440057542</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330812</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline VIP List</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T08:01:47Z
+RequestParameter:  billNo: qwv1u1440057706 | startTime:2015-08-20 08:01:47
+
+2015-08-20T08:01:47Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => qwv1u1440057706
+    [ORDR] => qwv1u1440057706
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 491891H7Y5N52EQS1XJF
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T08:01:48Z
+ResponseParameter:  billNo: qwv1u1440057706 | endTime:2015-08-20 08:01:48
+
+2015-08-20T08:01:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388X0224SW9P</TRAN>
+  <MERC>680000</MERC>
+  <SESS>qwv1u1440057706</SESS>
+  <ORDR>qwv1u1440057706</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>37</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>2</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T08:02:58Z
+RequestParameter:  billNo: fAE8T1440057777 | startTime:2015-08-20 08:02:58
+
+2015-08-20T08:02:58Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 119.94.80.86
+    [SESS] => fAE8T1440057777
+    [ORDR] => fAE8T1440057777
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 491891H7Y5N52EQS1XJF
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => this is a test
+    [PROD_TYPE[0]] => tv
+    [PROD_ITEM[0]] => Sku 123
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => JUAN DELA CRUZ
+    [B2A1] => makati
+    [B2CC] => PH
+    [B2CI] => makati
+    [B2PC] => 1102
+    [B2PN] => 121212
+    [B2ST] => makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2002-08-07
+    [GENDER] => M
+    [EMAL] => testingjuan@gmail.com
+    [ANID] => 121212
+)
+
+
+2015-08-20T08:02:59Z
+ResponseParameter:  billNo: fAE8T1440057777 | endTime:2015-08-20 08:02:59
+
+2015-08-20T08:02:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388X0889NDNJ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>fAE8T1440057777</SESS>
+  <ORDR>fAE8T1440057777</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>37</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>2</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T10:52:42Z
+RequestParameter:  billNo: 55d5b1793bba5 | startTime:2015-08-20 10:52:42
+
+2015-08-20T10:52:42Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 178.62.188.56
+    [SESS] => 55d5b1793bba5
+    [ORDR] => 55d5b1793bba5
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5132833AQQUO7JZ20J8K
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Fx Trade
+    [PROD_TYPE[0]] => Fx Trade
+    [PROD_ITEM[0]] => SKU-ANT-FxTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 20000
+    [TOTL] => 20000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERLAMBER1
+    [NAME] => Dimitri Camain
+    [B2A1] => 10 avenue emile gouna
+    [B2CC] => FR
+    [B2CI] => Sainte maure de touraine
+    [B2PC] => 37400
+    [B2PN] => 0632625734
+    [B2ST] => FR
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 200
+    [DOB] => 1976-03-20
+    [GENDER] => M
+    [EMAL] => dimcam1@aol.com
+    [ANID] => 0632625734
+)
+
+
+2015-08-20T10:52:43Z
+ResponseParameter:  billNo: 55d5b1793bba5 | endTime:2015-08-20 10:52:43
+
+2015-08-20T10:52:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>38840VK2P1MK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>55d5b1793bba5</SESS>
+  <ORDR>55d5b1793bba5</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T11:56:37Z
+RequestParameter:  billNo: f053f3790584489a867806c6cb6323e9 | startTime:2015-08-20 11:56:37
+
+2015-08-20T11:56:37Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 31.168.171.166
+    [SESS] => 3fc465bfb6134d4faa25d312eaf566ce
+    [ORDR] => f053f3790584489a867806c6cb6323e9
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4402573WQBNO5KG9Q4I6
+    [IPAD] => 31.168.171.166
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HBR-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 30000
+    [TOTL] => 30000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHIBRO
+    [NAME] => Burkhan Zholtayev
+    [B2A1] => karaganda
+    [B2CC] => RU
+    [B2CI] => karaganda
+    [B2PC] => 53241
+    [B2PN] => +77784601412
+    [B2ST] => RU
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 300
+    [DOB] => 2001-01-01
+    [GENDER] => M
+    [EMAL] => burhan@mail.ru
+)
+
+
+2015-08-20T11:56:38Z
+ResponseParameter:  billNo: f053f3790584489a867806c6cb6323e9 | endTime:2015-08-20 11:56:38
+
+2015-08-20T11:56:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>38850TV828CM</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3fc465bfb6134d4faa25d312eaf566ce</SESS>
+  <ORDR>f053f3790584489a867806c6cb6323e9</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>95</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IL_02</REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>5</CARDS>
+  <DEVICES>3</DEVICES>
+  <EMAILS>4</EMAILS>
+  <VELO>22</VELO>
+  <VMAX>15</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>1E46F64B89.062DB1B0A8.B2DB8D0F13.D300F3BD95.75AC59FC95</DEVICE_LAYERS>
+  <FINGERPRINT>A764D613B5740816505864310DD91C08</FINGERPRINT>
+  <TIMEZONE>1260</TIMEZONE>
+  <LOCALTIME>2015-08-20 14:56</LOCALTIME>
+  <REGION>IL_02</REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>8</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330722</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330724</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330730</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330734</RULE_ID_5>
+  <RULE_DESCRIPTION_5>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330386</RULE_ID_6>
+  <RULE_DESCRIPTION_6>Decline Order Velocity &gt;10 within 6 hours (VMAX)</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330808</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Decline Order Velocity &gt;20 in 14 days</RULE_DESCRIPTION_7>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>4</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-04-22</DDFS>
+  <DSR>1080x1920</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36</UAS>
+  <BROWSER>Chrome 44.0.2403.155</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>31.168.171.166</IP_IPAD>
+  <IP_LAT>32.3329</IP_LAT>
+  <IP_LON>34.8599</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>HaMerkaz</IP_REGION>
+  <IP_CITY>Netanya</IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-08-20T16:38:36Z
+RequestParameter:  billNo: d1XL01440088715 | startTime:2015-08-20 16:38:36
+
+2015-08-20T16:38:36Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 46.151.209.201
+    [SESS] => d1XL01440088715
+    [ORDR] => d1XL01440088715
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 54825539NXD044AFMPES
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => 528409
+    [PROD_TYPE[0]] => alfa
+    [PROD_ITEM[0]] => alfa
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 500000
+    [TOTL] => 500000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERTITTRD
+    [NAME] => MOHANNAD  IBRAHEEM
+    [B2A1] => sa
+    [B2CC] => SA
+    [B2CI] => sa
+    [B2PC] => 5521
+    [B2PN] => 564100051
+    [B2ST] => sa
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 5000
+    [DOB] => 2015-08-10
+    [GENDER] => M
+    [EMAL] => muhanad11@hotmail.com
+    [ANID] => 564100051
+)
+
+
+2015-08-20T16:38:37Z
+ResponseParameter:  billNo: d1XL01440088715 | endTime:2015-08-20 16:38:37
+
+2015-08-20T16:38:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>388Y08124S6P</TRAN>
+  <MERC>680000</MERC>
+  <SESS>d1XL01440088715</SESS>
+  <ORDR>d1XL01440088715</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>19</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

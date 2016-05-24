@@ -1,0 +1,20 @@
+2016-03-21T04:12:11Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIVerifyEnrollmentXML
+
+2016-03-21T04:12:11Z
+Verify RequestParameter:  billNo: TEST2016032101
+
+2016-03-21T04:12:11Z
+<EPG><MESSAGE id='TEST2016032101' version='1.02'><MPI><mid>VENTEPRIVEE</mid><name>Cameron Senese</name><pan>5353165288936357</pan><expiry>1710</expiry><currency>978</currency><amount>1000</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.5</httpAcceptLanguage><trackid>TEST2016032101</trackid></MPI></MESSAGE></EPG>
+
+2016-03-21T04:12:16Z
+Verify ResponseParameter:  billNo: TEST2016032101
+
+2016-03-21T04:12:16Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="TEST2016032101" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdU11vqkAQfTfpf9jweoO7y4dis2zTVtprc/Wq9aP1jayDcitgFzDqr78LimITHnbOnMmcOTOwh320QTuQaZjErkabREMQi2QZxitXm05edEd74HcNNllLgO47iFwCbyDE+pCm/gpQuHQ12K78jkHajmPqNAChWy3L1x3qB7pFbBEI0+nYZqAVhap0+DiG79NbRefmXPVuGgxXYZXugxRrP84qQEG++H7qDbhtmS1iMnwOr/kIZK/LbWK3OpRQi+ETcCEgFvsR8Jk3mHhoOO7NPI/hEqpRRJLHmTxwwyYMV0Etn8sNX2fZ9h4ryXEG+laGO4CmSCKGi2Q1AP45ARvmBZDetNuHSz4w3taL7ui4+PeZ9Y/eYRESMphPj38mXy7DBaNWsPQz4AahygKDImLfU0N9DJd4jedHhXbuTceIkiZRw5yRGmdbCHo8wZQUnDpSNyWXUp3HgXfajnKlimoM2G+TWPnBlZTLuy4bUsE9/TmJ1FIEoMoLJbzIXJkX+366xZ5/38wnRKaWu5vvP7zN68f76jWwZvOvX87fF3v02X0aCbc4kZJ0qzNUC6VtSkqh4XW7DFcdVPPqVIs1lgfPGwzf/Ax3jf+vy+KX</pareq><url>https://thepaymentsplace.com.au/acspage/cap?RID=1095&VAA=A</url><trackid>TEST2016032101</trackid></Response></MESSAGE></EPG>
+)
+
+

@@ -1,0 +1,192 @@
+2015-10-08T09:50:15Z
+RequestParameter:  billNo: 1444297813643 | startTime:2015-10-08 09:50:15
+
+2015-10-08T09:50:15Z
+https://sip.uniques.net/direct/payment
+
+2015-10-08T09:50:15Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 1444297813643
+    [createdAt] => 20151008095013
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 82.81.20.45
+    [signInfo] => f403f817f32f01e658f728f169f68347
+    [ccNo] => 4************967
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2018
+    [fName] => Alessandro
+    [lName] => Sepich
+    [emailAddress] => test@aslabs.com
+    [phoneNo] => 9999999999
+    [birth] => 19801016
+    [zip] => 512563
+    [billAddress] => Mystreet avenue
+    [billCity] => New York
+    [billState] => NY
+    [billCountry] => US
+    [billAmount] => 10
+    [comment] => 10002
+)
+
+
+2015-10-08T09:50:17Z
+ResponseParameter:  billNo: 1444297813643 | endTime:2015-10-08 09:50:17
+
+2015-10-08T09:50:17Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-214","cid":"11631","payNo":"1444297813643","billAmount":"10.00","createdAt":"20151008175018","billCurrency":"USD","tid":"1163122222268","comment":"Country is not equal to country BIN","signInfo":"836F2687A25DCF36E27027325FD58D4C","billingDescriptor":""}
+
+)
+
+
+2015-10-08T09:52:50Z
+RequestParameter:  billNo: 1444297969409 | startTime:2015-10-08 09:52:50
+
+2015-10-08T09:52:50Z
+https://sip.uniques.net/direct/payment
+
+2015-10-08T09:52:50Z
+Array
+(
+    [cid] => 11633
+    [payNo] => 1444297969409
+    [createdAt] => 20151008095249
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 82.81.20.45
+    [signInfo] => 521fdf33f660fcbd80f7590b720e1748
+    [ccNo] => 5************125
+    [cvc] => ***
+    [expMonth] => 3
+    [expYear] => 2018
+    [fName] => Alessandro
+    [lName] => Sepich
+    [emailAddress] => test@aslabs.com
+    [phoneNo] => 9999999999
+    [birth] => 19801016
+    [zip] => 512563
+    [billAddress] => Mystreet avenue
+    [billCity] => New York
+    [billState] => NY
+    [billCountry] => US
+    [billAmount] => 10
+    [comment] => 10002
+)
+
+
+2015-10-08T09:52:51Z
+ResponseParameter:  billNo: 1444297969409 | endTime:2015-10-08 09:52:51
+
+2015-10-08T09:52:51Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"92","cid":"11633","payNo":"1444297969409","billAmount":"10.00","createdAt":"20151008175253","billCurrency":"USD","tid":"","comment":"Expired card","signInfo":"A42CDF45F0B79007ACDD39E4F60C9986","billingDescriptor":""}
+
+)
+
+
+2015-10-08T11:21:51Z
+RequestParameter:  billNo: bill635799000265663757 | startTime:2015-10-08 11:21:51
+
+2015-10-08T11:21:51Z
+https://sip.uniques.net/direct/payment
+
+2015-10-08T11:21:51Z
+Array
+(
+    [cid] => 11635
+    [payNo] => bill635799000265663757
+    [createdAt] => 20151008112154
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => d8b983c712c37f8355ad0c293e7ad10a
+    [ccNo] => 4************108
+    [cvc] => ***
+    [expMonth] => 4
+    [expYear] => 2018
+    [fName] => Denise
+    [lName] => Entraygues
+    [emailAddress] => 19blanche@gmail.com
+    [phoneNo] => 33 555230823
+    [birth] => 
+    [zip] => 19
+    [billAddress] => 15 rue de l ourcq
+    [billCity] => coreze
+    [billState] => MH
+    [billCountry] => FR
+    [billAmount] => 275
+    [comment] => 
+)
+
+
+2015-10-08T11:21:53Z
+ResponseParameter:  billNo: bill635799000265663757 | endTime:2015-10-08 11:21:53
+
+2015-10-08T11:21:53Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"92","cid":"11635","payNo":"bill635799000265663757","billAmount":"275.00","createdAt":"20151008192154","billCurrency":"EUR","tid":"","comment":"Expired card","signInfo":"26F81577D392859DAF8E0871726E288D","billingDescriptor":""}
+
+)
+
+
+2015-10-08T13:50:32Z
+RequestParameter:  billNo: bill635799089987826131 | startTime:2015-10-08 13:50:32
+
+2015-10-08T13:50:32Z
+https://sip.uniques.net/direct/payment
+
+2015-10-08T13:50:32Z
+Array
+(
+    [cid] => 11636
+    [payNo] => bill635799089987826131
+    [createdAt] => 20151008015035
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 22c1aaa69cf46540c14d48bac65bd910
+    [ccNo] => 5************907
+    [cvc] => ***
+    [expMonth] => 9
+    [expYear] => 2018
+    [fName] => Simon
+    [lName] => Serge
+    [emailAddress] => fasaclo42@live.fr
+    [phoneNo] => 33 468280630
+    [birth] => 
+    [zip] => 75018
+    [billAddress] => 1 rue charles de gaulle
+    [billCity] => paris
+    [billState] => MH
+    [billCountry] => FR
+    [billAmount] => 218
+    [comment] => 
+)
+
+
+2015-10-08T13:50:34Z
+ResponseParameter:  billNo: bill635799089987826131 | endTime:2015-10-08 13:50:34
+
+2015-10-08T13:50:34Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"92","cid":"11636","payNo":"bill635799089987826131","billAmount":"218.00","createdAt":"20151008215035","billCurrency":"EUR","tid":"","comment":"Expired card","signInfo":"49E1761972B68F205720148A8982BC48","billingDescriptor":""}
+
+)
+
+

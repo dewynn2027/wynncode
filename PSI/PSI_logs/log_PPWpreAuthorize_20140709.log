@@ -1,0 +1,50 @@
+2014-07-09T09:04:44Z
+RequestParameter:  referenceId: tS6y21404896684
+
+2014-07-09T09:04:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=3&Reference=tS6y21404896684&Currency=USD&Amount=231&CardNumber=5547470986070090&ExpiryMM=01&ExpiryYY=16&Csc=251&CardHolder=nova%20patingo&ProductName=2
+
+2014-07-09T09:04:46Z
+ResponseParameter:  referenceId: tS6y21404896684
+
+2014-07-09T09:04:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>3</TransactionType>
+<Reference>tS6y21404896684</Reference>
+<ResponseCode>902</ResponseCode>
+<ResponseMessage></ResponseMessage>
+<ResponseTime>20140709180503</ResponseTime>
+<TransactionID>201407090000060000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-09T09:05:01Z
+RequestParameter:  referenceId: UZGlb1404896701
+
+2014-07-09T09:05:01Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=3&Reference=UZGlb1404896701&Currency=USD&Amount=231&CardNumber=5547470986070090&ExpiryMM=01&ExpiryYY=16&Csc=251&CardHolder=nova%20patingo&ProductName=2
+
+2014-07-09T09:05:04Z
+ResponseParameter:  referenceId: UZGlb1404896701
+
+2014-07-09T09:05:04Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>3</TransactionType>
+<Reference>UZGlb1404896701</Reference>
+<ResponseCode>902</ResponseCode>
+<ResponseMessage></ResponseMessage>
+<ResponseTime>20140709180521</ResponseTime>
+<TransactionID>201407090000061000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

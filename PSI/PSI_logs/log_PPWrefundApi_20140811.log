@@ -1,0 +1,25 @@
+2014-08-11T19:51:26Z
+RequestParameter:  billNo: 1407774414
+
+2014-08-11T19:51:26Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGPAYME00014&Password=599RPN5T7M&Reference=1407774414&TransactionType=2&Currency=USD&Amount=199.99&TransactionID=20140812000000C000BC
+
+2014-08-11T19:51:41Z
+ResponseParameter:  billNo: 1407774414
+
+2014-08-11T19:51:41Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGPAYME00014</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>1407774414</Reference>
+<ResponseCode>1003</ResponseCode>
+<ResponseMessage>Later Retry</ResponseMessage>
+<ResponseTime>20140812045214</ResponseTime>
+<TransactionID>20140812000000C000BC</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

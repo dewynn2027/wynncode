@@ -1,0 +1,618 @@
+2015-10-26T14:30:23Z
+RequestParameter:  billNo: GmY8x1445869822 | startTime:2015-10-26 14:30:23
+
+2015-10-26T14:30:23Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => GmY8x1445869822
+    [ORDR] => GmY8x1445869822
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 467895OSDEIFWPCK5T5I
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => IC - 107045
+    [PROD_TYPE[0]] => IC - 107045
+    [PROD_ITEM[0]] => IC - 107045
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 150000
+    [TOTL] => 150000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERICOPTN
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Said  Abu Hamad
+    [B2A1] => doha
+    [B2CC] => QA
+    [B2CI] => doha
+    [B2PC] => 54646
+    [B2PN] => 97455296241
+    [B2ST] => Qatar
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1500
+    [DOB] => 1978-10-05
+    [GENDER] => M
+    [EMAL] => s.al_alhassani@hotmail.com
+    [ANID] => 97455296241
+)
+
+
+2015-10-26T14:30:24Z
+ResponseParameter:  billNo: GmY8x1445869822 | endTime:2015-10-26 14:30:24
+
+2015-10-26T14:30:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33J40L1840R8</TRAN>
+  <MERC>680000</MERC>
+  <SESS>GmY8x1445869822</SESS>
+  <ORDR>GmY8x1445869822</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-26T14:33:09Z
+RequestParameter:  billNo: w29Cl1445869988 | startTime:2015-10-26 14:33:09
+
+2015-10-26T14:33:09Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => w29Cl1445869988
+    [ORDR] => w29Cl1445869988
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 467895OSDEIFWPCK5T5I
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => IC - 107045
+    [PROD_TYPE[0]] => IC - 107045
+    [PROD_ITEM[0]] => IC - 107045
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 120000
+    [TOTL] => 120000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERICOPTN
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Said  Abu Hamad
+    [B2A1] => doha
+    [B2CC] => QA
+    [B2CI] => doha
+    [B2PC] => 45646
+    [B2PN] => 97455296241
+    [B2ST] => Qatar
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1200
+    [DOB] => 1968-10-03
+    [GENDER] => M
+    [EMAL] => s.al_alhassani@hotmail.com
+    [ANID] => 97455296241
+)
+
+
+2015-10-26T14:33:10Z
+ResponseParameter:  billNo: w29Cl1445869988 | endTime:2015-10-26 14:33:10
+
+2015-10-26T14:33:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33J406J0QSYM</TRAN>
+  <MERC>680000</MERC>
+  <SESS>w29Cl1445869988</SESS>
+  <ORDR>w29Cl1445869988</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-26T15:10:45Z
+RequestParameter:  billNo: GZQw41445872244 | startTime:2015-10-26 15:10:45
+
+2015-10-26T15:10:45Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => GZQw41445872244
+    [ORDR] => GZQw41445872244
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 484162RCPHEDOOLAB5T6
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Deposit
+    [PROD_TYPE[0]] => TTN 593381
+    [PROD_ITEM[0]] => TTN 593981
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 35000
+    [TOTL] => 35000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERTITTRD
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] =>  nkosinathi nkosi
+    [B2A1] => ngwenyama st 9741
+    [B2CC] => ZA
+    [B2CI] => johnesberg
+    [B2PC] => 1841
+    [B2PN] => 27719846669
+    [B2ST] => johnesberg
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 350
+    [DOB] => 1983-10-30
+    [GENDER] => M
+    [EMAL] => emmanulnkosi322@gmail.com
+    [ANID] => 27719846669
+)
+
+
+2015-10-26T15:10:46Z
+ResponseParameter:  billNo: GZQw41445872244 | endTime:2015-10-26 15:10:46
+
+2015-10-26T15:10:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33J50NC4NHD3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>GZQw41445872244</SESS>
+  <ORDR>GZQw41445872244</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>20</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-26T15:13:54Z
+RequestParameter:  billNo: jYTz31445872433 | startTime:2015-10-26 15:13:54
+
+2015-10-26T15:13:54Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => jYTz31445872433
+    [ORDR] => jYTz31445872433
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 531801CTYOQ9ASF4OHMR
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => IC 64701
+    [PROD_TYPE[0]] => IC 64701
+    [PROD_ITEM[0]] => IC 64701
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERICOPTN
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => MOHAMMAD  HARIRI
+    [B2A1] => main st
+    [B2CC] => QA
+    [B2CI] => QATAR
+    [B2PC] => 125669
+    [B2PN] => 97433269598
+    [B2ST] => QATAR
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 1930-11-01
+    [GENDER] => M
+    [EMAL] => rafek-harriri@hotmail.fr
+    [ANID] => 97433269598
+)
+
+
+2015-10-26T15:13:55Z
+ResponseParameter:  billNo: jYTz31445872433 | endTime:2015-10-26 15:13:55
+
+2015-10-26T15:13:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33J50W469PG9</TRAN>
+  <MERC>680000</MERC>
+  <SESS>jYTz31445872433</SESS>
+  <ORDR>jYTz31445872433</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-26T17:16:55Z
+RequestParameter:  billNo: zBt2q1445879814 | startTime:2015-10-26 17:16:55
+
+2015-10-26T17:16:55Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => zBt2q1445879814
+    [ORDR] => zBt2q1445879814
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 521729AD4NR8HY6NEZMK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => TitanTrade
+    [PROD_TYPE[0]] => TTN 624443
+    [PROD_ITEM[0]] => TTN 624443
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 35000
+    [TOTL] => 35000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERTITTRD
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Nelson  Eaton
+    [B2A1] => river point blv 6
+    [B2CC] => AU
+    [B2CI] => Brisbane
+    [B2PC] => 4074
+    [B2PN] => 61468702162
+    [B2ST] => Queensland
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 350
+    [DOB] => 1979-11-28
+    [GENDER] => M
+    [EMAL] => nkaimax@gmail.com
+    [ANID] => 61468702162
+)
+
+
+2015-10-26T17:16:56Z
+ResponseParameter:  billNo: zBt2q1445879814 | endTime:2015-10-26 17:16:56
+
+2015-10-26T17:16:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33JV04ZYN190</TRAN>
+  <MERC>680000</MERC>
+  <SESS>zBt2q1445879814</SESS>
+  <ORDR>zBt2q1445879814</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>17</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-26T17:27:35Z
+RequestParameter:  billNo: 80cn21445880454 | startTime:2015-10-26 17:27:35
+
+2015-10-26T17:27:35Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 63.217.170.10
+    [SESS] => 80cn21445880454
+    [ORDR] => 80cn21445880454
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 467895OSDEIFWPCK5T5I
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => IC - 107045
+    [PROD_TYPE[0]] => IC - 107045
+    [PROD_ITEM[0]] => IC - 107045
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 120000
+    [TOTL] => 120000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERICOPTN
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Said  Abu Hamad
+    [B2A1] => doha
+    [B2CC] => QA
+    [B2CI] => doha
+    [B2PC] => 779798
+    [B2PN] => 97455296241
+    [B2ST] => Qatar
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1200
+    [DOB] => 1976-10-07
+    [GENDER] => M
+    [EMAL] => s.al_alhassani@hotmail.com
+    [ANID] => 97455296241
+)
+
+
+2015-10-26T17:27:36Z
+ResponseParameter:  billNo: 80cn21445880454 | endTime:2015-10-26 17:27:36
+
+2015-10-26T17:27:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33JV0YXR2QM8</TRAN>
+  <MERC>680000</MERC>
+  <SESS>80cn21445880454</SESS>
+  <ORDR>80cn21445880454</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

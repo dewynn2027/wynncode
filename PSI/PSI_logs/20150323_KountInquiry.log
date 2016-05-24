@@ -1,0 +1,1721 @@
+2015-03-23T11:50:34Z
+RequestParameter:  billNo: B0yL51427111433 | startTime:2015-03-23 11:50:34
+
+2015-03-23T11:50:34Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => B0yL51427111433
+    [ORDR] => B0yL51427111433
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:50:48Z
+RequestParameter:  billNo: s5Elr1427111448 | startTime:2015-03-23 11:50:48
+
+2015-03-23T11:50:48Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => s5Elr1427111448
+    [ORDR] => s5Elr1427111448
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:50:50Z
+ResponseParameter:  billNo: s5Elr1427111448 | endTime:2015-03-23 11:50:50
+
+2015-03-23T11:50:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YSP0Q5DX7DX</TRAN>
+  <MERC>680000</MERC>
+  <SESS>s5Elr1427111448</SESS>
+  <ORDR>s5Elr1427111448</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>25</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <RULE_ID_2>345042</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:51:35Z
+RequestParameter:  billNo: DYz251427111495 | startTime:2015-03-23 11:51:35
+
+2015-03-23T11:51:35Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => DYz251427111495
+    [ORDR] => DYz251427111495
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:51:42Z
+RequestParameter:  billNo: PemUW1427111502 | startTime:2015-03-23 11:51:42
+
+2015-03-23T11:51:42Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => PemUW1427111502
+    [ORDR] => PemUW1427111502
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:51:46Z
+RequestParameter:  billNo: wRYnM1427111506 | startTime:2015-03-23 11:51:46
+
+2015-03-23T11:51:46Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => wRYnM1427111506
+    [ORDR] => wRYnM1427111506
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:51:52Z
+RequestParameter:  billNo: HsYev1427111512 | startTime:2015-03-23 11:51:52
+
+2015-03-23T11:51:52Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => HsYev1427111512
+    [ORDR] => HsYev1427111512
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:52:16Z
+RequestParameter:  billNo: WaGAE1427111536 | startTime:2015-03-23 11:52:16
+
+2015-03-23T11:52:16Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => WaGAE1427111536
+    [ORDR] => WaGAE1427111536
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Dela Cruz
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => JUANDC@EXAMPLE.COM
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:52:18Z
+ResponseParameter:  billNo: WaGAE1427111536 | endTime:2015-03-23 11:52:18
+
+2015-03-23T11:52:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YSP0N8WW5YG</TRAN>
+  <MERC>680000</MERC>
+  <SESS>WaGAE1427111536</SESS>
+  <ORDR>WaGAE1427111536</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>25</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>3</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <RULE_ID_2>345042</RULE_ID_2>
+  <RULE_DESCRIPTION_2>Decline Customer Email Validation</RULE_DESCRIPTION_2>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:53:20Z
+RequestParameter:  billNo: uE4Vf1427111600 | startTime:2015-03-23 11:53:20
+
+2015-03-23T11:53:20Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => uE4Vf1427111600
+    [ORDR] => uE4Vf1427111600
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 421585I510X6D1GRWSUA
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@yahoo.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T11:53:23Z
+ResponseParameter:  billNo: uE4Vf1427111600 | endTime:2015-03-23 11:53:23
+
+2015-03-23T11:53:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YSP0KCJWKZB</TRAN>
+  <MERC>680000</MERC>
+  <SESS>uE4Vf1427111600</SESS>
+  <ORDR>uE4Vf1427111600</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>25</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:59:54Z
+RequestParameter:  billNo: m3ykn1427111994 | startTime:2015-03-23 11:59:54
+
+2015-03-23T11:59:54Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => m3ykn1427111994
+    [ORDR] => m3ykn1427111994
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:00:04Z
+RequestParameter:  billNo: UT2Sj1427112003 | startTime:2015-03-23 12:00:04
+
+2015-03-23T12:00:04Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => UT2Sj1427112003
+    [ORDR] => UT2Sj1427112003
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:00:08Z
+RequestParameter:  billNo: PuHtg1427112008 | startTime:2015-03-23 12:00:08
+
+2015-03-23T12:00:08Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => PuHtg1427112008
+    [ORDR] => PuHtg1427112008
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:00:10Z
+ResponseParameter:  billNo: PuHtg1427112008 | endTime:2015-03-23 12:00:10
+
+2015-03-23T12:00:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS70NJ96Y62</TRAN>
+  <MERC>680000</MERC>
+  <SESS>PuHtg1427112008</SESS>
+  <ORDR>PuHtg1427112008</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T12:02:07Z
+RequestParameter:  billNo: J6SGV1427112127 | startTime:2015-03-23 12:02:07
+
+2015-03-23T12:02:07Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => J6SGV1427112127
+    [ORDR] => J6SGV1427112127
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:02:10Z
+ResponseParameter:  billNo: J6SGV1427112127 | endTime:2015-03-23 12:02:10
+
+2015-03-23T12:02:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS700N24VCL</TRAN>
+  <MERC>680000</MERC>
+  <SESS>J6SGV1427112127</SESS>
+  <ORDR>J6SGV1427112127</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T12:03:10Z
+RequestParameter:  billNo: Qg5x21427112190 | startTime:2015-03-23 12:03:10
+
+2015-03-23T12:03:10Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => Qg5x21427112190
+    [ORDR] => Qg5x21427112190
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 437507YYWQB4C4QAONKB
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:03:12Z
+ResponseParameter:  billNo: Qg5x21427112190 | endTime:2015-03-23 12:03:12
+
+2015-03-23T12:03:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS708D84GMG</TRAN>
+  <MERC>680000</MERC>
+  <SESS>Qg5x21427112190</SESS>
+  <ORDR>Qg5x21427112190</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T12:05:03Z
+RequestParameter:  billNo: MTaSs1427112303 | startTime:2015-03-23 12:05:03
+
+2015-03-23T12:05:03Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => MTaSs1427112303
+    [ORDR] => MTaSs1427112303
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:05:04Z
+ResponseParameter:  billNo: MTaSs1427112303 | endTime:2015-03-23 12:05:04
+
+2015-03-23T12:05:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS70P7N4HBJ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>MTaSs1427112303</SESS>
+  <ORDR>MTaSs1427112303</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T12:05:37Z
+RequestParameter:  billNo: fJNwq1427112337 | startTime:2015-03-23 12:05:37
+
+2015-03-23T12:05:37Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => fJNwq1427112337
+    [ORDR] => fJNwq1427112337
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4215856EW0UBNZ4S374N
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:05:39Z
+ResponseParameter:  billNo: fJNwq1427112337 | endTime:2015-03-23 12:05:39
+
+2015-03-23T12:05:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS70ZKH2Y0Q</TRAN>
+  <MERC>680000</MERC>
+  <SESS>fJNwq1427112337</SESS>
+  <ORDR>fJNwq1427112337</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T12:09:22Z
+RequestParameter:  billNo: 8WJAC1427112562 | startTime:2015-03-23 12:09:22
+
+2015-03-23T12:09:22Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => 8WJAC1427112562
+    [ORDR] => 8WJAC1427112562
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5286677UDYFB3AIY5390
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:09:31Z
+RequestParameter:  billNo: swtvc1427112571 | startTime:2015-03-23 12:09:31
+
+2015-03-23T12:09:31Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 114.108.239.103
+    [SESS] => swtvc1427112571
+    [ORDR] => swtvc1427112571
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5286677UDYFB3AIY5390
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Test
+    [PROD_TYPE[0]] => TV
+    [PROD_ITEM[0]] => 1
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Shahid Tanveer
+    [B2A1] => 2620E
+    [B2CC] => PH
+    [B2CI] => Makati
+    [B2PC] => 1200
+    [B2PN] => 93398277
+    [B2ST] => Manila
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-03-05
+    [GENDER] => M
+    [EMAL] => st@gmail.com
+    [ANID] => 93398277
+)
+
+
+2015-03-23T12:09:33Z
+ResponseParameter:  billNo: swtvc1427112571 | endTime:2015-03-23 12:09:33
+
+2015-03-23T12:09:33Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>P</MODE>
+  <TRAN>3YS70X4V41PP</TRAN>
+  <MERC>680000</MERC>
+  <SESS>swtvc1427112571</SESS>
+  <ORDR>swtvc1427112571</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>IQ</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN>IQ_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>58</CARDS>
+  <DEVICES>10</DEVICES>
+  <EMAILS>26</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330734</RULE_ID_0>
+  <RULE_DESCRIPTION_0>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330810</RULE_ID_1>
+  <RULE_DESCRIPTION_1>Decline GEOX High-Risk Countries</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>1</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>FRAUD_SCRD</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>20</COUNTER_VALUE_0>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T15:56:25Z
+RequestParameter:  billNo: 372384295 | startTime:2015-03-23 15:56:25
+
+2015-03-23T15:56:25Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 94.23.156.253
+    [SESS] => 372384295
+    [ORDR] => 372384295
+    [CURR] => PHP
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 458019U5LR62OX7QCICU
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HGL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHFTGRP
+    [NAME] => Bruces Tasers
+    [B2A1] => rehov hertzl
+    [B2CC] => FR
+    [B2CI] => Natanya
+    [B2PC] => 26558
+    [B2PN] => 01236598
+    [B2ST] => Natanya
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1997-02-12
+    [GENDER] => 
+    [EMAL] => JUANDCDECLINE@EXAMPLE.COM
+    [ANID] => 01236598
+)
+
+
+2015-03-23T16:51:42Z
+RequestParameter:  billNo: 208019684 | startTime:2015-03-23 16:51:42
+
+2015-03-23T16:51:42Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 94.23.156.253
+    [SESS] => 208019684
+    [ORDR] => 208019684
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 415479UD0RL0J8YX352F
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HGL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHFTGRP
+    [NAME] => Bruces Tasers
+    [B2A1] => rehov hertzl
+    [B2CC] => FR
+    [B2CI] => Natanya
+    [B2PC] => 26558
+    [B2PN] => 01236598
+    [B2ST] => Natanya
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1997-02-12
+    [GENDER] => 
+    [EMAL] => bruce@hftpro.com
+    [ANID] => 01236598
+)
+
+
+2015-03-23T17:20:37Z
+RequestParameter:  billNo: 239923380 | startTime:2015-03-23 17:20:37
+
+2015-03-23T17:20:37Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 94.23.156.253
+    [SESS] => 239923380
+    [ORDR] => 239923380
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 415479UD0RL0J8YX352F
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-HGL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1100
+    [TOTL] => 1100
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERHFTGRP
+    [NAME] => Bruces Tasers
+    [B2A1] => rehov hertzl
+    [B2CC] => FR
+    [B2CI] => Natanya
+    [B2PC] => 26558
+    [B2PN] => 01236598
+    [B2ST] => Natanya
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 11
+    [DOB] => 1997-02-12
+    [GENDER] => 
+    [EMAL] => bruce@hftpro.com
+    [ANID] => 01236598
+)
+
+
+2015-03-23T17:34:43Z
+RequestParameter:  billNo: 1427119649-13050 | startTime:2015-03-23 17:34:43
+
+2015-03-23T17:34:43Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 195.222.75.21
+    [SESS] => 0beb2ee45925146beb11f8d1eecbcf68
+    [ORDR] => 1427119649-13050
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 41775321U45U7632FEM4
+    [IPAD] => 195.222.75.21
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Tamad
+    [B2A1] => Odintsova 11
+    [B2CC] => BY
+    [B2CI] => Minsk
+    [B2PC] => 220018
+    [B2PN] => 375 445567126
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 1977-03-16
+    [GENDER] => M
+    [EMAL] => juan@mail.ru
+)
+
+
+2015-03-23T17:37:06Z
+RequestParameter:  billNo: 1427119649-130511 | startTime:2015-03-23 17:37:06
+
+2015-03-23T17:37:06Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 195.222.75.21
+    [SESS] => 0beb2ee45925146beb11f8d1eecbcf68
+    [ORDR] => 1427119649-130511
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 41775321U45U7632FEM4
+    [IPAD] => 195.222.75.21
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Tamad
+    [B2A1] => Odintsova 11
+    [B2CC] => BY
+    [B2CI] => Minsk
+    [B2PC] => 220018
+    [B2PN] => 375 445567126
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 1977-03-16
+    [GENDER] => M
+    [EMAL] => juan@mail.ru
+)
+
+
+2015-03-23T17:42:09Z
+RequestParameter:  billNo: 1427119649-130512 | startTime:2015-03-23 17:42:09
+
+2015-03-23T17:42:09Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 195.222.75.21
+    [SESS] => 0beb2ee45925146beb11f8d1eecbcf68
+    [ORDR] => 1427119649-130512
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 41775321U45U7632FEM4
+    [IPAD] => 195.222.75.21
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-MIA-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Tamad
+    [B2A1] => Odintsova 11
+    [B2CC] => BY
+    [B2CI] => Minsk
+    [B2PC] => 220018
+    [B2PN] => 375 445567126
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 1977-03-16
+    [GENDER] => M
+    [EMAL] => juan@mail.ru
+)
+
+

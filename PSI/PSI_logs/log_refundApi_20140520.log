@@ -1,0 +1,38 @@
+2014-05-20T16:23:36Z
+RequestParameter:  billNo: ZWIMh1400586821
+
+2014-05-20T16:23:36Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=2&paymentOrderNo=111111&billNo=ZWIMh1400586821&Amount=10.00&refundAmount=10
+
+2014-05-20T16:23:37Z
+ResponseParameter:  billNo: ZWIMh1400586821
+
+2014-05-20T16:23:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>2</resultCode><paymentOrderNo>111111</paymentOrderNo><billNo>ZWIMh1400586821</billNo><refundAmount>10</refundAmount><remark></remark>
+
+</response>
+
+2014-05-20T16:24:31Z
+RequestParameter:  billNo: ZWIMh1400586821
+
+2014-05-20T16:24:31Z
+https://secure.qwipi.com/ars/refunds.jsp?operation=2&paymentOrderNo=111111&billNo=ZWIMh1400586821&Amount=10&refundAmount=10
+
+2014-05-20T16:24:32Z
+ResponseParameter:  billNo: ZWIMh1400586821
+
+2014-05-20T16:24:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>02</operation><resultCode>2</resultCode><paymentOrderNo>111111</paymentOrderNo><billNo>ZWIMh1400586821</billNo><refundAmount>10</refundAmount><remark></remark>
+
+</response>
+

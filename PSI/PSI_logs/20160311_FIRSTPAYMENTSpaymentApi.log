@@ -1,0 +1,42 @@
+2016-03-11T03:15:05Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: TEST2016031101
+
+2016-03-11T03:15:05Z
+Init RequestParameter:  billNo: TEST2016031101
+
+2016-03-11T03:15:05Z
+Array
+(
+    [guid] => GCDE-9764-OE5N-5F36
+    [pwd] => 525680738893276ea44476439a2e7f30881581d4
+    [rs] => VS01
+    [merchant_transaction_id] => TEST2016031101
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 542288
+    [merchant_site_url] => http://www.vente-privee-int.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/venteprivee001/002?billNo=ZZZZZZZ
+)
+
+
+2016-03-11T03:15:07Z
+Init ResponseParameter:  billNo: TEST2016031101
+
+2016-03-11T03:15:07Z
+Array
+(
+    [rc] => 0
+    [result] => ERROR:1457666108:Init failed: bad access data:
+)
+
+

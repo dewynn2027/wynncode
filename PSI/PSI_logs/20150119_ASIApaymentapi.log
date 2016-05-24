@@ -1,0 +1,170 @@
+2015-01-19T08:22:59Z
+RequestParameter:  billNo: 1421655697-12353 | startTime:2015-01-19 08:22:59
+
+2015-01-19T08:22:59Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=remaud%20bernard&cardNo=5854830327423122&securityCode=095b&epMonth=09&epYear=2016&amount=2500&currCode=978&orderRef=1421655697-12353&remark=
+
+2015-01-19T08:23:00Z
+ResponseParameter:  billNo: 1421655697-12353 | endTime:2015-01-19 08:23:00
+
+2015-01-19T08:23:00Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Invalid Card Verification Number
+
+
+2015-01-19T08:24:27Z
+RequestParameter:  billNo: 1421655804-12353 | startTime:2015-01-19 08:24:27
+
+2015-01-19T08:24:27Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=remaud%20bernard&cardNo=5854830327423122&securityCode=095&epMonth=09&epYear=2016&amount=2500&currCode=978&orderRef=1421655804-12353&remark=
+
+2015-01-19T08:24:28Z
+ResponseParameter:  billNo: 1421655804-12353 | endTime:2015-01-19 08:24:28
+
+2015-01-19T08:24:28Z
+successcode=1&Ref=1421655804-12353&PayRef=6232680&Amt=2500.0&Cur=978&prc=-8&src=2017&Ord=&Holder=remaud bernard&AuthId=&TxTime=2015-01-19 16:24:49.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-19T08:36:35Z
+RequestParameter:  billNo: 1421656398-9973 | startTime:2015-01-19 08:36:35
+
+2015-01-19T08:36:35Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=JOSE.%20.HOARAU&cardNo=4978311707358306&securityCode=336&epMonth=11&epYear=2017&amount=800&currCode=978&orderRef=1421656398-9973&remark=
+
+2015-01-19T08:36:41Z
+ResponseParameter:  billNo: 1421656398-9973 | endTime:2015-01-19 08:36:41
+
+2015-01-19T08:36:41Z
+successcode=0&Ref=1421656398-9973&PayRef=6232727&Amt=800.0&Cur=978&prc=0&src=0&Ord=501919413637&Holder=JOSE. .HOARAU&AuthId=122352&TxTime=2015-01-19 16:36:58.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-19T08:39:34Z
+RequestParameter:  billNo: 1421656522-5138 | startTime:2015-01-19 08:39:34
+
+2015-01-19T08:39:34Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=LITZLER%20Corinne%20.&cardNo=5131657211474863&securityCode=040&epMonth=06&epYear=2017&amount=2000&currCode=978&orderRef=1421656522-5138&remark=
+
+2015-01-19T08:39:36Z
+ResponseParameter:  billNo: 1421656522-5138 | endTime:2015-01-19 08:39:36
+
+2015-01-19T08:39:36Z
+successcode=1&Ref=1421656522-5138&PayRef=6232737&Amt=2000.0&Cur=978&prc=-8&src=2017&Ord=&Holder=LITZLER Corinne .&AuthId=&TxTime=2015-01-19 16:39:57.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-19T08:42:46Z
+RequestParameter:  billNo: 1421656800-5138 | startTime:2015-01-19 08:42:46
+
+2015-01-19T08:42:46Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Corinne%20Litzler&cardNo=5131657211474869&securityCode=040&epMonth=06&epYear=2017&amount=2000&currCode=978&orderRef=1421656800-5138&remark=
+
+2015-01-19T08:43:08Z
+ResponseParameter:  billNo: 1421656800-5138 | endTime:2015-01-19 08:43:08
+
+2015-01-19T08:43:08Z
+successcode=0&Ref=1421656800-5138&PayRef=6232747&Amt=2000.0&Cur=978&prc=0&src=0&Ord=501919414653&Holder=Corinne Litzler&AuthId=335621&TxTime=2015-01-19 16:43:08.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-19T09:13:58Z
+RequestParameter:  billNo: 1421658730-14670 | startTime:2015-01-19 09:13:58
+
+2015-01-19T09:13:58Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Jean%20.DERIN&cardNo=5136250023361204&securityCode=125&epMonth=10&epYear=2017&amount=2000&currCode=978&orderRef=1421658730-14670&remark=
+
+2015-01-19T09:14:03Z
+ResponseParameter:  billNo: 1421658730-14670 | endTime:2015-01-19 09:14:03
+
+2015-01-19T09:14:03Z
+successcode=0&Ref=1421658730-14670&PayRef=6232887&Amt=2000.0&Cur=978&prc=0&src=0&Ord=501920414980&Holder=Jean .DERIN&AuthId=878221&TxTime=2015-01-19 17:14:22.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-19T09:50:33Z
+RequestParameter:  billNo: 1421660771-2075 | startTime:2015-01-19 09:50:33
+
+2015-01-19T09:50:33Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=lezin%20%20jean%20pierre&cardNo=5137704508269976&securityCode=529&epMonth=09&epYear=2017&amount=600&currCode=978&orderRef=1421660771-2075&remark=
+
+2015-01-19T09:50:39Z
+ResponseParameter:  billNo: 1421660771-2075 | endTime:2015-01-19 09:50:39
+
+2015-01-19T09:50:39Z
+successcode=0&Ref=1421660771-2075&PayRef=6233033&Amt=600.0&Cur=978&prc=0&src=0&Ord=501920415166&Holder=lezin  jean pierre&AuthId=239316&TxTime=2015-01-19 17:50:56.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-19T10:30:22Z
+RequestParameter:  billNo: 1421663318-1302 | startTime:2015-01-19 10:30:22
+
+2015-01-19T10:30:22Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Christophe%20ROUYAR&cardNo=5135360302145755&securityCode=907&epMonth=09&epYear=2017&amount=500&currCode=978&orderRef=1421663318-1302&remark=
+
+2015-01-19T10:30:29Z
+ResponseParameter:  billNo: 1421663318-1302 | endTime:2015-01-19 10:30:29
+
+2015-01-19T10:30:29Z
+successcode=1&Ref=1421663318-1302&PayRef=6233177&Amt=500.0&Cur=978&prc=1&src=205&Ord=501921415377&Holder=Christophe ROUYAR&AuthId=&TxTime=2015-01-19 18:30:45.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-19T13:36:35Z
+RequestParameter:  billNo: 5288-9382_2320 | startTime:2015-01-19 13:36:35
+
+2015-01-19T13:36:35Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5326101313589832&securityCode=248&epMonth=07&epYear=2017&amount=10&currCode=978&orderRef=5288-9382_2320&remark=
+
+2015-01-19T13:36:48Z
+ResponseParameter:  billNo: 5288-9382_2320 | endTime:2015-01-19 13:36:48
+
+2015-01-19T13:36:48Z
+successcode=0&Ref=5288-9382_2320&PayRef=6233743&Amt=10.0&Cur=978&prc=0&src=0&Ord=502000416160&Holder=Illiam GIOMIS&AuthId=323416&TxTime=2015-01-19 21:36:59.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-19T23:29:37Z
+RequestParameter:  billNo: 139-6009_50661 | startTime:2015-01-19 23:29:37
+
+2015-01-19T23:29:37Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=Master&lang=E&cardHolder=Illiam%20GIOMIS&cardNo=5235648975642066&securityCode=072&epMonth=03&epYear=2018&amount=10&currCode=840&orderRef=139-6009_50661&remark=Test%20payment
+
+2015-01-19T23:29:38Z
+ResponseParameter:  billNo: 139-6009_50661 | endTime:2015-01-19 23:29:38
+
+2015-01-19T23:29:38Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+

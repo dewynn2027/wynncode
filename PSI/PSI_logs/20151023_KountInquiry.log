@@ -1,0 +1,543 @@
+2015-10-23T07:23:26Z
+RequestParameter:  billNo: jxIl51445585005 | startTime:2015-10-23 07:23:26
+
+2015-10-23T07:23:26Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => jxIl51445585005
+    [ORDR] => jxIl51445585005
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513379I2JD8MIW81NAYN
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot pt
+    [PROD_ITEM[0]] => depot pt
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Jean francois Stole
+    [B2A1] => 32 boulevard Haussman
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75008
+    [B2PN] => 3361214541
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => 1954-10-14
+    [GENDER] => M
+    [EMAL] => jfranc@live.com
+    [ANID] => 3361214541
+)
+
+
+2015-10-23T07:23:27Z
+ResponseParameter:  billNo: jxIl51445585005 | endTime:2015-10-23 07:23:27
+
+2015-10-23T07:23:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33K905Y9PJKY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>jxIl51445585005</SESS>
+  <ORDR>jxIl51445585005</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>7</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>9</EMAILS>
+  <VELO>7</VELO>
+  <VMAX>5</VMAX>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330712</RULE_ID_0>
+  <RULE_DESCRIPTION_0>PERS_VAR More than 3 unique Email Addresses on Single Device (1 pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330714</RULE_ID_1>
+  <RULE_DESCRIPTION_1>PERS_VAR More than 4 unique Credit Cards on Single Device (1 pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330734</RULE_ID_2>
+  <RULE_DESCRIPTION_2>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330728</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD PERS_VAR Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>PERS_VAR</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>2</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>25</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-23T08:14:05Z
+RequestParameter:  billNo: D637Y1445588044 | startTime:2015-10-23 08:14:05
+
+2015-10-23T08:14:05Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => D637Y1445588044
+    [ORDR] => D637Y1445588044
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 544056GS4EJBBEHEZQGH
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot pt
+    [PROD_ITEM[0]] => depot pt
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Ronald Dom
+    [B2A1] => 32 rue de la paix
+    [B2CC] => BE
+    [B2CI] => anvers
+    [B2PC] => 75008
+    [B2PN] => 3361221111
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 1954-10-13
+    [GENDER] => M
+    [EMAL] => drom@gmail.com
+    [ANID] => 3361221111
+)
+
+
+2015-10-23T08:14:06Z
+ResponseParameter:  billNo: D637Y1445588044 | endTime:2015-10-23 08:14:06
+
+2015-10-23T08:14:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33K40D8Q9K1G</TRAN>
+  <MERC>680000</MERC>
+  <SESS>D637Y1445588044</SESS>
+  <ORDR>D637Y1445588044</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-23T08:14:44Z
+RequestParameter:  billNo: ATRVN1445588084 | startTime:2015-10-23 08:14:44
+
+2015-10-23T08:14:44Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => ATRVN1445588084
+    [ORDR] => ATRVN1445588084
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 544056GS4EJBBEHEZQGH
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot pt
+    [PROD_ITEM[0]] => depot pt
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 50000
+    [TOTL] => 50000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => Ronald Dom
+    [B2A1] => 32 rue de la paix
+    [B2CC] => BE
+    [B2CI] => anvers
+    [B2PC] => 75008
+    [B2PN] => 3361221111
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 500
+    [DOB] => 1954-10-13
+    [GENDER] => M
+    [EMAL] => drom@gmail.com
+    [ANID] => 3361221111
+)
+
+
+2015-10-23T08:14:45Z
+ResponseParameter:  billNo: ATRVN1445588084 | endTime:2015-10-23 08:14:45
+
+2015-10-23T08:14:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33K407H52ZHP</TRAN>
+  <MERC>680000</MERC>
+  <SESS>ATRVN1445588084</SESS>
+  <ORDR>ATRVN1445588084</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-23T11:00:17Z
+RequestParameter:  billNo: qRsWa1445598017 | startTime:2015-10-23 11:00:17
+
+2015-10-23T11:00:17Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => qRsWa1445598017
+    [ORDR] => qRsWa1445598017
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 453091QUFOC4DOLV6KYH
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot pt
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 35000
+    [TOTL] => 35000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => ghislain baker
+    [B2A1] => 32 boulevard Haussman
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75008
+    [B2PN] => 331211121111
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 350
+    [DOB] => 1963-10-08
+    [GENDER] => M
+    [EMAL] => ghislain_baker@outlook.com
+    [ANID] => 331211121111
+)
+
+
+2015-10-23T11:00:19Z
+ResponseParameter:  billNo: qRsWa1445598017 | endTime:2015-10-23 11:00:19
+
+2015-10-23T11:00:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33KV0X3BBMLL</TRAN>
+  <MERC>680000</MERC>
+  <SESS>qRsWa1445598017</SESS>
+  <ORDR>qRsWa1445598017</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>383608</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-23T11:00:53Z
+RequestParameter:  billNo: UcPb91445598052 | startTime:2015-10-23 11:00:53
+
+2015-10-23T11:00:53Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => UcPb91445598052
+    [ORDR] => UcPb91445598052
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 453091QUFOC4DOLV6KYH
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => depot pt
+    [PROD_TYPE[0]] => depot
+    [PROD_ITEM[0]] => depot pt
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 35000
+    [TOTL] => 35000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [UDF[MERCHANT_PRVDR]] => UVP-11631,11633,11635,11635-FP-USD,EUR-VSA,MAS
+    [NAME] => ghislain baker
+    [B2A1] => 32 boulevard Haussman
+    [B2CC] => CA
+    [B2CI] => paris
+    [B2PC] => 75008
+    [B2PN] => 331211121111
+    [B2ST] => france
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 350
+    [DOB] => 1963-10-08
+    [GENDER] => M
+    [EMAL] => ghislain_baker@outlook.com
+    [ANID] => 331211121111
+)
+
+
+2015-10-23T11:00:54Z
+ResponseParameter:  billNo: UcPb91445598052 | endTime:2015-10-23 11:00:54
+
+2015-10-23T11:00:54Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>33KV0BN5BWQQ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>UcPb91445598052</SESS>
+  <ORDR>UcPb91445598052</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>29</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>383608</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

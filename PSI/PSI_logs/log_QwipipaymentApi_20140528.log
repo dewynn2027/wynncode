@@ -1,0 +1,152 @@
+2014-05-28T11:35:40Z
+RequestParameter:  referenceId: 1401276942
+
+2014-05-28T11:35:40Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401276942&dateTime=2014052817541&currency=USD&language=eng&cardHolderIp=182.71.1.17&md5Info=51DD423B67E629C5E17933F17CDF6712&cardNum=4440000404040400&cvv2=1222&month=01&year=2017&birthDate=01291950&firstName=dsf&lastName=dsafasf&email=asjkh@dsfh.com&phone=1002222222&zipCode=dsfj&address=dsfljl&city=dsfkj&state=1&country=1&amount=99.99&products=1&remark=remark
+
+2014-05-28T11:35:42Z
+ResponseParameter:  referenceId: 1401276942
+
+2014-05-28T11:35:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401276942</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140528193545</dateTime><remark>Billing country is wrong</remark><md5Info>93877AEDE78FA906F05C5586887CBBFE</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-28T11:36:05Z
+RequestParameter:  referenceId: 1401276967
+
+2014-05-28T11:36:05Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401276967&dateTime=201405281766&currency=USD&language=eng&cardHolderIp=182.71.1.17&md5Info=A72A0806435BFC11CAD4154466096802&cardNum=4440000404040400&cvv2=122&month=01&year=2017&birthDate=01291950&firstName=dsf&lastName=dsafasf&email=asjkh@dsfh.com&phone=1002222222&zipCode=dsfj&address=dsfljl&city=dsfkj&state=1&country=1&amount=99.99&products=1&remark=remark
+
+2014-05-28T11:36:06Z
+ResponseParameter:  referenceId: 1401276967
+
+2014-05-28T11:36:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401276967</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140528193609</dateTime><remark>Date format is wrong</remark><md5Info>A2B00FE4542AC40521BF6EFAB1743BBD</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-28T11:53:57Z
+RequestParameter:  referenceId: 1401278039
+
+2014-05-28T11:53:57Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401278039&dateTime=20140528172357&currency=USD&language=eng&cardHolderIp=182.71.1.17&md5Info=8883FC3AA2EC3AC766AB79928E87EE4E&cardNum=4440000404040400&cvv2=122&month=01&year=2017&birthDate=01291950&firstName=dsf&lastName=dsafasf&email=asjkh@dsfh.com&phone=1002222222&zipCode=dsfj&address=dsfljl&city=dsfkj&state=1&country=1&amount=99.99&products=1&remark=remark
+
+2014-05-28T11:53:58Z
+ResponseParameter:  referenceId: 1401278039
+
+2014-05-28T11:53:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401278039</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140528195401</dateTime><remark>Billing country is wrong</remark><md5Info>74629E55B6EB8F64203CE257217FB3EE</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-05-28T12:55:16Z
+RequestParameter:  referenceId: 1401281717
+
+2014-05-28T12:55:16Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=1401281717&dateTime=20140528165519&currency=USD&language=eng&cardHolderIp=83.111.206.94&md5Info=6DDB53BD1AA7AED43A432155B7E313DE&cardNum=3442243243243243&cvv2=344&month=04&year=2016&birthDate=01211999&firstName=Rama&lastName=Dasari&email=ramdasari@hotmail.com&phone=5555555555&zipCode=1907&address=Test&city=test&state=9&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-28T12:55:17Z
+ResponseParameter:  referenceId: 1401281717
+
+2014-05-28T12:55:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>1401281717</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>8BC5F4451586EB45449801D75B0E9EFB</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-28T12:55:53Z
+RequestParameter:  referenceId: 1401281755
+
+2014-05-28T12:55:53Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=1401281755&dateTime=20140528165557&currency=USD&language=eng&cardHolderIp=83.111.206.94&md5Info=3ECC495A464E9B77E9DEEFAE6E13CC63&cardNum=3442243243243243&cvv2=344&month=04&year=2016&birthDate=01211999&firstName=Rama&lastName=Dasari&email=ramdasari@hotmail.com&phone=5555555555&zipCode=1907&address=Test&city=test&state=9&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-28T12:55:54Z
+ResponseParameter:  referenceId: 1401281755
+
+2014-05-28T12:55:54Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>1401281755</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>D217B60DCCC7B3E18CD23CB0CD778B81</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-28T14:58:14Z
+RequestParameter:  referenceId: 1401289096
+
+2014-05-28T14:58:14Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1401289096&dateTime=2014052820283&currency=USD&language=eng&cardHolderIp=106.204.150.120&md5Info=05A569D0D43ED453685AC56E853B8882&cardNum=5243681100490724&cvv2=939&month=10&year=2015&birthDate=10051979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-28T14:58:15Z
+ResponseParameter:  referenceId: 1401289096
+
+2014-05-28T14:58:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1401289096</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>C04D4A7E2FDE86302089EBAE55A79F44</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-28T15:12:33Z
+RequestParameter:  referenceId: 1401289955
+
+2014-05-28T15:12:33Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1401289955&dateTime=20140528204221&currency=USD&language=eng&cardHolderIp=106.204.150.120&md5Info=FA7A5A99909B899195C8F18A78CEDFC0&cardNum=5243681100490724&cvv2=939&month=10&year=2015&birthDate=10051979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-28T15:12:34Z
+ResponseParameter:  referenceId: 1401289955
+
+2014-05-28T15:12:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1401289955</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>05D14F33DD6BFFBBAB9C0340758A5535</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-28T15:21:26Z
+RequestParameter:  referenceId: 1401290488
+
+2014-05-28T15:21:26Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1401290488&dateTime=20140528205115&currency=USD&language=eng&cardHolderIp=106.204.150.120&md5Info=0E7EA7E02125ABD607D8C1A02B264F02&cardNum=4085404008717492&cvv2=861&month=05&year=2017&birthDate=08271973&firstName=Dasari&lastName=Shekar&email=ramdasari@hotmail.com&phone=8009208597&zipCode=19806&address=Trolley%20Square,%20Suite%2020%20C,%20Wilmington&city=New%20Castle&state=9&country=1&amount=24.99&products=1&remark=remark
+
+2014-05-28T15:21:27Z
+ResponseParameter:  referenceId: 1401290488
+
+2014-05-28T15:21:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1401290488</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140528232130</dateTime><remark>Billing country is wrong</remark><md5Info>7733930C8B3A7A0018487B7BAB03377A</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

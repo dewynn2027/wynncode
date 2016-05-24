@@ -1,0 +1,76 @@
+2014-06-21T12:10:19Z
+RequestParameter:  referenceId: tRquY1403352618
+
+2014-06-21T12:10:19Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=tRquY1403352618&dateTime=20140621201018&currency=USD&language=eng&cardHolderIp=182.64.211.232&md5Info=20ECDF93BB9089CDE868C46A338256DD&cardNum=5243681100490724&cvv2=939&month=10&year=15&birthDate=19791005&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=DELHI&country=IN&amount=24.99&products=2&remark=One%20time%20Payment%20for%20testing%20purposes
+
+2014-06-21T12:10:27Z
+ResponseParameter:  referenceId: tRquY1403352618
+
+2014-06-21T12:10:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>tRquY1403352618</billNo><currency>USD</currency><amount>24.99</amount><dateTime>20140621201028</dateTime><paymentOrderNo>1078511256797</paymentOrderNo><remark>Payment Success</remark><md5Info>35AFB8028BE7BB397D019648419D2DB9</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-21T12:13:15Z
+RequestParameter:  referenceId: 1403352802
+
+2014-06-21T12:13:15Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403352802&dateTime=20140621174316&currency=USD&language=eng&cardHolderIp=182.64.211.232&md5Info=29B9418CC658D4ACA050E7A4A4492988&cardNum=5243681100490724&cvv2=939&month=10&year=2015&birthDate=10051979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9196501115&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-06-21T12:13:16Z
+ResponseParameter:  referenceId: 1403352802
+
+2014-06-21T12:13:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403352802</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>28CE16192B149AB79EB7E849EC5FD714</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-21T12:49:44Z
+RequestParameter:  referenceId: 1403354991
+
+2014-06-21T12:49:44Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403354991&dateTime=20140621181945&currency=USD&language=eng&cardHolderIp=182.64.211.232&md5Info=3B4260D8F5B982502B5B0E7A9261A061&cardNum=5243681100490724&cvv2=939&month=10&year=2015&birthDate=10051979&firstName=Deepak&lastName=Gera&email=deepakgera05@gmail.com&phone=9650111501&zipCode=110024&address=J-42,%20LAJPAT%20NAGAR,%20PART%20-%202&city=NEW%20DELHI&state=1&country=1&amount=24.99&products=1&remark=remark
+
+2014-06-21T12:49:46Z
+ResponseParameter:  referenceId: 1403354991
+
+2014-06-21T12:49:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403354991</billNo><currency>USD</currency><amount>24.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Billing country is wrong</remark><md5Info>1A3FF086B7294800BBE33FB48C24197E</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-21T13:53:57Z
+RequestParameter:  referenceId: 1403358845
+
+2014-06-21T13:53:57Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403358845&dateTime=20140621124040&currency=USD&language=eng&cardHolderIp=120.12.1.1&md5Info=A6FB856CE51694F3C7076DE72C8601E4&cardNum=5242160002253416&cvv2=123&month=04&year=2017&birthDate=01061983&firstName=Naveen&lastName=Bhalla&email=naveen@qpi.in&phone=9990723000&zipCode=121007&address=TA14,%20Third%20Floor,%20Crown%20Plaza&city=FARIDABAD&state=Haryana&country=IN&amount=10.00&products=1&remark=remark
+
+2014-06-21T13:53:59Z
+ResponseParameter:  referenceId: 1403358845
+
+2014-06-21T13:53:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403358845</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date birth format is wrong</remark><md5Info>E7AF4FD61BF7546A312E62B8059302DB</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

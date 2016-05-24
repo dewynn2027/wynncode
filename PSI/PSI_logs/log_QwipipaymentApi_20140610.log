@@ -1,0 +1,19 @@
+2014-06-10T17:55:57Z
+RequestParameter:  referenceId: 1402422959
+
+2014-06-10T17:55:57Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1402422959&dateTime=2014061023268&currency=USD&language=eng&cardHolderIp=14.141.31.202&md5Info=EE6127D166FEAAA1A713D2ED22EC6B59&cardNum=4111111111111111&cvv2=123&month=11&year=2020&birthDate=01011982&firstName=imbrett&lastName=smith&email=im.brett.smith@gmail.com&phone=3581886924&zipCode=14602&address=Suite%2032,%20100%20EAST&city=jersey%20city&state=32&country=1&amount=799.99&products=1&remark=remark
+
+2014-06-10T17:55:58Z
+ResponseParameter:  referenceId: 1402422959
+
+2014-06-10T17:55:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>1402422959</billNo><currency>USD</currency><amount>799.99</amount><dateTime>20140611015601</dateTime><remark>The Card is in black list</remark><md5Info>2802E6563675C775F96F713D32C559CD</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

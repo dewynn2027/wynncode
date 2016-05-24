@@ -1,0 +1,67 @@
+2015-02-27T08:34:39Z
+RequestParameter:  billNo: 1424968054-18081 | startTime:2015-02-27 08:34:39
+
+2015-02-27T08:34:39Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Miguel%20Castillejos%20Gomez&cardNo=4030512724525019&securityCode=401&epMonth=03&epYear=2017&amount=500&currCode=978&orderRef=1424968054-18081&remark=
+
+2015-02-27T08:34:50Z
+ResponseParameter:  billNo: 1424968054-18081 | endTime:2015-02-27 08:34:50
+
+2015-02-27T08:34:50Z
+successcode=0&Ref=1424968054-18081&PayRef=6483860&Amt=500.0&Cur=978&prc=0&src=0&Ord=505819376277&Holder=Miguel Castillejos Gomez&AuthId=383860&TxTime=2015-02-27 16:35:22.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-02-27T09:59:57Z
+RequestParameter:  billNo: 1424971820-40432 | startTime:2015-02-27 09:59:57
+
+2015-02-27T09:59:57Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Dominique%20.LEHEN&cardNo=4978864053844618&securityCode=400&epMonth=02&epYear=2018&amount=500&currCode=978&orderRef=1424971820-40432&remark=
+
+2015-02-27T10:00:04Z
+ResponseParameter:  billNo: 1424971820-40432 | endTime:2015-02-27 10:00:04
+
+2015-02-27T10:00:04Z
+successcode=0&Ref=1424971820-40432&PayRef=6484348&Amt=500.0&Cur=978&prc=0&src=0&Ord=505821379279&Holder=Dominique .LEHEN&AuthId=838064&TxTime=2015-02-27 18:00:39.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-02-27T10:27:55Z
+RequestParameter:  billNo: 1424958441-3328 | startTime:2015-02-27 10:27:55
+
+2015-02-27T10:27:55Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=nathan%20agnes&cardNo=4976960006091737&securityCode=672&epMonth=09&epYear=2016&amount=1707&currCode=978&orderRef=1424958441-3328&remark=
+
+2015-02-27T10:28:05Z
+ResponseParameter:  billNo: 1424958441-3328 | endTime:2015-02-27 10:28:05
+
+2015-02-27T10:28:05Z
+successcode=1&Ref=1424958441-3328&PayRef=6484488&Amt=1707.0&Cur=978&prc=1&src=205&Ord=505821379509&Holder=nathan agnes&AuthId=&TxTime=2015-02-27 18:28:36.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-02-27T10:53:02Z
+RequestParameter:  billNo: 1425030205-5242 | startTime:2015-02-27 10:53:02
+
+2015-02-27T10:53:02Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=ATINSOUNON%20Claude&cardNo=497404142592232&securityCode=913&epMonth=02&epYear=2017&amount=500&currCode=978&orderRef=1425030205-5242&remark=
+
+2015-02-27T10:53:03Z
+ResponseParameter:  billNo: 1425030205-5242 | endTime:2015-02-27 10:53:03
+
+2015-02-27T10:53:03Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter cardNo incorrect
+
+

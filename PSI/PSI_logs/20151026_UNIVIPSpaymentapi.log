@@ -1,0 +1,288 @@
+2015-10-26T14:30:25Z
+RequestParameter:  billNo: GmY8x1445869822 | startTime:2015-10-26 14:30:25
+
+2015-10-26T14:30:25Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T14:30:25Z
+Array
+(
+    [cid] => 11631
+    [payNo] => GmY8x1445869822
+    [createdAt] => 20151026223022
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => c744a6250f6ac715d538dec52aacba7b
+    [ccNo] => 4************468
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Said 
+    [lName] => Abu Hamad
+    [emailAddress] => s.al_alhassani@hotmail.com
+    [phoneNo] => 97455296241
+    [birth] => 19781005
+    [zip] => 54646
+    [billAddress] => doha
+    [billCity] => doha
+    [billState] => Qatar
+    [billCountry] => QA
+    [billAmount] => 1500
+    [comment] => IC - 107045
+)
+
+
+2015-10-26T14:30:32Z
+ResponseParameter:  billNo: GmY8x1445869822 | endTime:2015-10-26 14:30:32
+
+2015-10-26T14:30:32Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"GmY8x1445869822","billAmount":"1500.00","createdAt":"20151026223043","billCurrency":"USD","tid":"1163122888275","comment":"Success","signInfo":"61B49A1C8FA8DBFB4E849DC7DE6F8B78","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-26T14:33:11Z
+RequestParameter:  billNo: w29Cl1445869988 | startTime:2015-10-26 14:33:11
+
+2015-10-26T14:33:11Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T14:33:11Z
+Array
+(
+    [cid] => 11631
+    [payNo] => w29Cl1445869988
+    [createdAt] => 20151026223308
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 994c880c81c926f0f047dc1c6b0f76e2
+    [ccNo] => 4************468
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Said 
+    [lName] => Abu Hamad
+    [emailAddress] => s.al_alhassani@hotmail.com
+    [phoneNo] => 97455296241
+    [birth] => 19681003
+    [zip] => 45646
+    [billAddress] => doha
+    [billCity] => doha
+    [billState] => Qatar
+    [billCountry] => QA
+    [billAmount] => 1200
+    [comment] => IC - 107045
+)
+
+
+2015-10-26T14:33:18Z
+ResponseParameter:  billNo: w29Cl1445869988 | endTime:2015-10-26 14:33:18
+
+2015-10-26T14:33:18Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"w29Cl1445869988","billAmount":"1200.00","createdAt":"20151026223328","billCurrency":"USD","tid":"1163122888348","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"9617356E176D430647C7BF9C0C89949B","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-26T15:10:47Z
+RequestParameter:  billNo: GZQw41445872244 | startTime:2015-10-26 15:10:47
+
+2015-10-26T15:10:47Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T15:10:47Z
+Array
+(
+    [cid] => 11631
+    [payNo] => GZQw41445872244
+    [createdAt] => 20151026231044
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 17437a5dff352b4b0bfb1a8449e43250
+    [ccNo] => 4************505
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2017
+    [fName] =>  nkosinathi
+    [lName] => nkosi
+    [emailAddress] => emmanulnkosi322@gmail.com
+    [phoneNo] => 27719846669
+    [birth] => 19831030
+    [zip] => 1841
+    [billAddress] => ngwenyama st 9741
+    [billCity] => johnesberg
+    [billState] => johnesberg
+    [billCountry] => ZA
+    [billAmount] => 350
+    [comment] => TitanTrade
+)
+
+
+2015-10-26T15:10:55Z
+ResponseParameter:  billNo: GZQw41445872244 | endTime:2015-10-26 15:10:55
+
+2015-10-26T15:10:55Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"GZQw41445872244","billAmount":"350.00","createdAt":"20151026231106","billCurrency":"USD","tid":"1163122889039","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"CFC24BEB3F673FF1347B6A473BC1260B","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-26T15:13:56Z
+RequestParameter:  billNo: jYTz31445872433 | startTime:2015-10-26 15:13:56
+
+2015-10-26T15:13:56Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T15:13:56Z
+Array
+(
+    [cid] => 11633
+    [payNo] => jYTz31445872433
+    [createdAt] => 20151026231353
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => c690e7233b48dce748b7e99fd5eecf73
+    [ccNo] => 5************009
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2018
+    [fName] => MOHAMMAD 
+    [lName] => HARIRI
+    [emailAddress] => rafek-harriri@hotmail.fr
+    [phoneNo] => 97433269598
+    [birth] => 19301101
+    [zip] => 125669
+    [billAddress] => main st
+    [billCity] => QATAR
+    [billState] => QATAR
+    [billCountry] => QA
+    [billAmount] => 250
+    [comment] => IC 64701
+)
+
+
+2015-10-26T15:14:01Z
+ResponseParameter:  billNo: jYTz31445872433 | endTime:2015-10-26 15:14:01
+
+2015-10-26T15:14:01Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"59","cid":"11633","payNo":"jYTz31445872433","billAmount":"250.00","createdAt":"20151026231411","billCurrency":"USD","tid":"1163322889098","comment":"Transaction declined. call your bank to verify.","signInfo":"53AB833CF236D50CEB04521D73A72D87","billingDescriptor":"JIEKANI"}
+
+)
+
+
+2015-10-26T17:16:58Z
+RequestParameter:  billNo: zBt2q1445879814 | startTime:2015-10-26 17:16:58
+
+2015-10-26T17:16:58Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T17:16:58Z
+Array
+(
+    [cid] => 11633
+    [payNo] => zBt2q1445879814
+    [createdAt] => 20151027011654
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 952b09e21ba8ad9be1aba8c9785be0fc
+    [ccNo] => 5************609
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2016
+    [fName] => Nelson 
+    [lName] => Eaton
+    [emailAddress] => nkaimax@gmail.com
+    [phoneNo] => 61468702162
+    [birth] => 19791128
+    [zip] => 4074
+    [billAddress] => river point blv 6
+    [billCity] => Brisbane
+    [billState] => Queensland
+    [billCountry] => AU
+    [billAmount] => 350
+    [comment] => TitanTrade
+)
+
+
+2015-10-26T17:17:05Z
+ResponseParameter:  billNo: zBt2q1445879814 | endTime:2015-10-26 17:17:05
+
+2015-10-26T17:17:05Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"71","cid":"11633","payNo":"zBt2q1445879814","billAmount":"350.00","createdAt":"20151027011704","billCurrency":"USD","tid":"1163322891774","comment":"Invalid Issuer","signInfo":"F2DDDC03289AA61725E17BB1DFB541E6","billingDescriptor":"JIEKANI"}
+
+)
+
+
+2015-10-26T17:27:36Z
+RequestParameter:  billNo: 80cn21445880454 | startTime:2015-10-26 17:27:36
+
+2015-10-26T17:27:36Z
+https://sip.uniques.net/direct/payment
+
+2015-10-26T17:27:36Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 80cn21445880454
+    [createdAt] => 20151027012734
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => be0815809cc68e854fb7c27a99df9584
+    [ccNo] => 4************468
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Said 
+    [lName] => Abu Hamad
+    [emailAddress] => s.al_alhassani@hotmail.com
+    [phoneNo] => 97455296241
+    [birth] => 19761007
+    [zip] => 779798
+    [billAddress] => doha
+    [billCity] => doha
+    [billState] => Qatar
+    [billCountry] => QA
+    [billAmount] => 1200
+    [comment] => IC - 107045
+)
+
+
+2015-10-26T17:27:43Z
+ResponseParameter:  billNo: 80cn21445880454 | endTime:2015-10-26 17:27:43
+
+2015-10-26T17:27:43Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"65","cid":"11631","payNo":"80cn21445880454","billAmount":"1200.00","createdAt":"20151027012742","billCurrency":"USD","tid":"1163122892019","comment":"Card is limited by issuing bank,call your bank to whitelist","signInfo":"BEB328921E216AA54897CEE61DCF1331","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

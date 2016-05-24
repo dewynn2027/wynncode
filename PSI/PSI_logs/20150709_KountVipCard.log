@@ -1,0 +1,36 @@
+2015-07-09T10:41:19Z
+RequestParameter:  CardNumber: 4970405NK4A17I9TT219 | startTime:2015-07-09 10:41:19
+
+2015-07-09T10:41:19Z
+Array
+(
+    [ptok[4970402683113225]] => D
+)
+
+
+2015-07-09T10:41:21Z
+ResponseParameter:  CardNumber: 4970405NK4A17I9TT219 | endTime:2015-07-09 10:41:21
+
+2015-07-09T10:41:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+
+2015-07-09T12:37:09Z
+RequestParameter:  CardNumber: 5133792XTP3JPLMMOP35 | startTime:2015-07-09 12:37:09
+
+2015-07-09T12:37:09Z
+Array
+(
+    [ptok[5133790075228200]] => D
+)
+
+
+2015-07-09T12:37:10Z
+ResponseParameter:  CardNumber: 5133792XTP3JPLMMOP35 | endTime:2015-07-09 12:37:10
+
+2015-07-09T12:37:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+

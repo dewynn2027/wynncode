@@ -1,0 +1,340 @@
+2014-12-03T07:14:47Z
+RequestParameter:  billNo: 20141203151209 | startTime:2014-12-03 07:14:47
+
+2014-12-03T07:14:47Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qkj4nr2e1tgr5jbbcd4udjsom6
+    [ORDR] => 20141203151209
+    [CURR] => 
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456789BRSLJER272NO8P
+    [IPAD] => 
+    [MACK] => Y
+    [PROD_DESC[0]] => 
+    [PROD_TYPE[0]] => 
+    [PROD_ITEM[0]] => 
+    [PROD_QUANT[0]] => 
+    [PROD_PRICE[0]] => 0
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER2
+    [NAME] =>  
+    [B2A1] => 
+    [B2CC] => 
+    [B2CI] => 
+    [B2PC] => 
+    [B2PN] => 
+    [B2ST] => 
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => 
+)
+
+
+2014-12-03T07:14:48Z
+ResponseParameter:  billNo: 20141203151209 | endTime:2014-12-03 07:14:48
+
+2014-12-03T07:14:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>211</ERRO>
+  <ERROR_0>211 MISSING_CURR Cause: [value was empty], Field: [CURR], Value: []</ERROR_0>
+  <ERROR_1>221 MISSING_EMAL Cause: [Non-empty value was required in this case], Field: [EMAL], Value: []</ERROR_1>
+  <ERROR_2>241 MISSING_IPAD Cause: [value was empty], Field: [IPAD], Value: []</ERROR_2>
+  <ERROR_3>271 MISSING_PROD_TYPE Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_TYPE], Value: [0=&gt;]</ERROR_3>
+  <ERROR_4>272 MISSING_PROD_ITEM Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_ITEM], Value: [0=&gt;]</ERROR_4>
+  <ERROR_5>274 MISSING_PROD_QUANT Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_QUANT], Value: [0=&gt;]</ERROR_5>
+  <ERROR_COUNT>6</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-03T07:14:58Z
+RequestParameter:  billNo: 20141203151209 | startTime:2014-12-03 07:14:58
+
+2014-12-03T07:14:58Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qkj4nr2e1tgr5jbbcd4udjsom6
+    [ORDR] => 20141203151209
+    [CURR] => 
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456789BRSLJER272NO8P
+    [IPAD] => 
+    [MACK] => Y
+    [PROD_DESC[0]] => 
+    [PROD_TYPE[0]] => 
+    [PROD_ITEM[0]] => 
+    [PROD_QUANT[0]] => 
+    [PROD_PRICE[0]] => 0
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER2
+    [NAME] =>  
+    [B2A1] => 
+    [B2CC] => 
+    [B2CI] => 
+    [B2PC] => 
+    [B2PN] => 
+    [B2ST] => 
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => 
+)
+
+
+2014-12-03T07:14:59Z
+ResponseParameter:  billNo: 20141203151209 | endTime:2014-12-03 07:14:59
+
+2014-12-03T07:14:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>211</ERRO>
+  <ERROR_0>211 MISSING_CURR Cause: [value was empty], Field: [CURR], Value: []</ERROR_0>
+  <ERROR_1>221 MISSING_EMAL Cause: [Non-empty value was required in this case], Field: [EMAL], Value: []</ERROR_1>
+  <ERROR_2>241 MISSING_IPAD Cause: [value was empty], Field: [IPAD], Value: []</ERROR_2>
+  <ERROR_3>271 MISSING_PROD_TYPE Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_TYPE], Value: [0=&gt;]</ERROR_3>
+  <ERROR_4>272 MISSING_PROD_ITEM Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_ITEM], Value: [0=&gt;]</ERROR_4>
+  <ERROR_5>274 MISSING_PROD_QUANT Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_QUANT], Value: [0=&gt;]</ERROR_5>
+  <ERROR_COUNT>6</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-03T07:15:12Z
+RequestParameter:  billNo: 20141203151209 | startTime:2014-12-03 07:15:12
+
+2014-12-03T07:15:12Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qkj4nr2e1tgr5jbbcd4udjsom6
+    [ORDR] => 20141203151209
+    [CURR] => 
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456789BRSLJER272NO8P
+    [IPAD] => 
+    [MACK] => Y
+    [PROD_DESC[0]] => 
+    [PROD_TYPE[0]] => 
+    [PROD_ITEM[0]] => 
+    [PROD_QUANT[0]] => 
+    [PROD_PRICE[0]] => 0
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER2
+    [NAME] =>  
+    [B2A1] => 
+    [B2CC] => 
+    [B2CI] => 
+    [B2PC] => 
+    [B2PN] => 
+    [B2ST] => 
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => 
+)
+
+
+2014-12-03T07:15:14Z
+ResponseParameter:  billNo: 20141203151209 | endTime:2014-12-03 07:15:14
+
+2014-12-03T07:15:14Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>211</ERRO>
+  <ERROR_0>211 MISSING_CURR Cause: [value was empty], Field: [CURR], Value: []</ERROR_0>
+  <ERROR_1>221 MISSING_EMAL Cause: [Non-empty value was required in this case], Field: [EMAL], Value: []</ERROR_1>
+  <ERROR_2>241 MISSING_IPAD Cause: [value was empty], Field: [IPAD], Value: []</ERROR_2>
+  <ERROR_3>271 MISSING_PROD_TYPE Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_TYPE], Value: [0=&gt;]</ERROR_3>
+  <ERROR_4>272 MISSING_PROD_ITEM Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_ITEM], Value: [0=&gt;]</ERROR_4>
+  <ERROR_5>274 MISSING_PROD_QUANT Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_QUANT], Value: [0=&gt;]</ERROR_5>
+  <ERROR_COUNT>6</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-03T07:21:26Z
+RequestParameter:  billNo: 20141203151209 | startTime:2014-12-03 07:21:26
+
+2014-12-03T07:21:26Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qkj4nr2e1tgr5jbbcd4udjsom6
+    [ORDR] => 20141203151209
+    [CURR] => 
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456789BRSLJER272NO8P
+    [IPAD] => 
+    [MACK] => Y
+    [PROD_DESC[0]] => 
+    [PROD_TYPE[0]] => 
+    [PROD_ITEM[0]] => 
+    [PROD_QUANT[0]] => 
+    [PROD_PRICE[0]] => 0
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER2
+    [NAME] =>  
+    [B2A1] => 
+    [B2CC] => 
+    [B2CI] => 
+    [B2PC] => 
+    [B2PN] => 
+    [B2ST] => 
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => 
+)
+
+
+2014-12-03T07:21:28Z
+ResponseParameter:  billNo: 20141203151209 | endTime:2014-12-03 07:21:28
+
+2014-12-03T07:21:28Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>211</ERRO>
+  <ERROR_0>211 MISSING_CURR Cause: [value was empty], Field: [CURR], Value: []</ERROR_0>
+  <ERROR_1>221 MISSING_EMAL Cause: [Non-empty value was required in this case], Field: [EMAL], Value: []</ERROR_1>
+  <ERROR_2>241 MISSING_IPAD Cause: [value was empty], Field: [IPAD], Value: []</ERROR_2>
+  <ERROR_3>271 MISSING_PROD_TYPE Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_TYPE], Value: [0=&gt;]</ERROR_3>
+  <ERROR_4>272 MISSING_PROD_ITEM Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_ITEM], Value: [0=&gt;]</ERROR_4>
+  <ERROR_5>274 MISSING_PROD_QUANT Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_QUANT], Value: [0=&gt;]</ERROR_5>
+  <ERROR_COUNT>6</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-03T07:22:28Z
+RequestParameter:  billNo: 20141203151209 | startTime:2014-12-03 07:22:28
+
+2014-12-03T07:22:28Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qkj4nr2e1tgr5jbbcd4udjsom6
+    [ORDR] => 20141203151209
+    [CURR] => 
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 456789BRSLJER272NO8P
+    [IPAD] => 
+    [MACK] => Y
+    [PROD_DESC[0]] => 
+    [PROD_TYPE[0]] => 
+    [PROD_ITEM[0]] => 
+    [PROD_QUANT[0]] => 
+    [PROD_PRICE[0]] => 0
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERPBNMER2
+    [NAME] =>  
+    [B2A1] => 
+    [B2CC] => 
+    [B2CI] => 
+    [B2PC] => 
+    [B2PN] => 
+    [B2ST] => 
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => 
+)
+
+
+2014-12-03T07:22:29Z
+ResponseParameter:  billNo: 20141203151209 | endTime:2014-12-03 07:22:29
+
+2014-12-03T07:22:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>211</ERRO>
+  <ERROR_0>211 MISSING_CURR Cause: [value was empty], Field: [CURR], Value: []</ERROR_0>
+  <ERROR_1>221 MISSING_EMAL Cause: [Non-empty value was required in this case], Field: [EMAL], Value: []</ERROR_1>
+  <ERROR_2>241 MISSING_IPAD Cause: [value was empty], Field: [IPAD], Value: []</ERROR_2>
+  <ERROR_3>271 MISSING_PROD_TYPE Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_TYPE], Value: [0=&gt;]</ERROR_3>
+  <ERROR_4>272 MISSING_PROD_ITEM Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_ITEM], Value: [0=&gt;]</ERROR_4>
+  <ERROR_5>274 MISSING_PROD_QUANT Cause: [Array index [0] Non-empty value was required in this case], Field: [PROD_QUANT], Value: [0=&gt;]</ERROR_5>
+  <ERROR_COUNT>6</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

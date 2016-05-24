@@ -1,0 +1,240 @@
+2015-10-29T08:00:06Z
+RequestParameter:  billNo: QqnAO1446105604 | startTime:2015-10-29 08:00:06
+
+2015-10-29T08:00:06Z
+https://sip.uniques.net/direct/payment
+
+2015-10-29T08:00:06Z
+Array
+(
+    [cid] => 11631
+    [payNo] => QqnAO1446105604
+    [createdAt] => 20151029160004
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => e71d36a09141cf22316f06c021410bce
+    [ccNo] => 4************448
+    [cvc] => ***
+    [expMonth] => 06
+    [expYear] => 2016
+    [fName] => Hammoud 
+    [lName] => asiri
+    [emailAddress] => hmood2016h@hotmail.com
+    [phoneNo] => 966597692353
+    [birth] => 19651014
+    [zip] => 42413
+    [billAddress] => 35st
+    [billCity] => riad
+    [billState] => Saudi Arabia
+    [billCountry] => SA
+    [billAmount] => 250
+    [comment] => IC - 42413
+)
+
+
+2015-10-29T08:00:20Z
+ResponseParameter:  billNo: QqnAO1446105604 | endTime:2015-10-29 08:00:20
+
+2015-10-29T08:00:20Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11631","payNo":"QqnAO1446105604","billAmount":"250.00","createdAt":"20151029160020","billCurrency":"USD","tid":"1163122983686","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"38D0C33F96C055B538F546833BBD35F5","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-29T14:36:04Z
+RequestParameter:  billNo: 7463-6718_7757 | startTime:2015-10-29 14:36:04
+
+2015-10-29T14:36:04Z
+https://sip.uniques.net/direct/payment
+
+2015-10-29T14:36:04Z
+Array
+(
+    [cid] => 11636
+    [payNo] => 7463-6718_7757
+    [createdAt] => 20151029033601
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 46.105.137.33
+    [signInfo] => 0fe3fc63f94be1a749ebc226fe92fe00
+    [ccNo] => 5************462
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => HART
+    [lName] => Virginia
+    [emailAddress] => vnh52@shaw.ca
+    [phoneNo] => 2042544601
+    [birth] => 19310812
+    [zip] => R2N3X6
+    [billAddress] => apt 202 815 st. Anne s road
+    [billCity] => Winnipeg 
+    [billState] => NA
+    [billCountry] => CA
+    [billAmount] => 1000
+    [comment] => 
+)
+
+
+2015-10-29T14:36:13Z
+ResponseParameter:  billNo: 7463-6718_7757 | endTime:2015-10-29 14:36:13
+
+2015-10-29T14:36:13Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"59","cid":"11636","payNo":"7463-6718_7757","billAmount":"1000.00","createdAt":"20151029223613","billCurrency":"EUR","tid":"1163622989755","comment":"Transaction declined. call your bank to verify.","signInfo":"824F8444E38FEB7B59B6C526AC9F1C34","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-29T18:32:21Z
+RequestParameter:  billNo: tFu5x1446143538 | startTime:2015-10-29 18:32:21
+
+2015-10-29T18:32:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-29T18:32:21Z
+Array
+(
+    [cid] => 11635
+    [payNo] => tFu5x1446143538
+    [createdAt] => 20151030023218
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 8168e47f650b94d6edf156b74e2f84c3
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica 
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15558452654
+    [birth] => 19541012
+    [zip] => 753951
+    [billAddress] => Holi 99
+    [billCity] => Santiago
+    [billState] => Santiago
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-10-29T18:32:31Z
+ResponseParameter:  billNo: tFu5x1446143538 | endTime:2015-10-29 18:32:31
+
+2015-10-29T18:32:31Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"tFu5x1446143538","billAmount":"1500.00","createdAt":"20151030023233","billCurrency":"EUR","tid":"1163522995636","comment":"Success","signInfo":"D9F9DFEBD7B2C0C99062F1749A8802F0","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-29T18:35:04Z
+RequestParameter:  billNo: xrZj01446143701 | startTime:2015-10-29 18:35:04
+
+2015-10-29T18:35:04Z
+https://sip.uniques.net/direct/payment
+
+2015-10-29T18:35:04Z
+Array
+(
+    [cid] => 11635
+    [payNo] => xrZj01446143701
+    [createdAt] => 20151030023501
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 66b5b923fbc608615fe1e2360286c767
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15857859654
+    [birth] => 19581003
+    [zip] => 753951
+    [billAddress] => Hola 87
+    [billCity] => Santiago
+    [billState] => Santiago
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-10-29T18:35:14Z
+ResponseParameter:  billNo: xrZj01446143701 | endTime:2015-10-29 18:35:14
+
+2015-10-29T18:35:14Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"xrZj01446143701","billAmount":"1500.00","createdAt":"20151030023515","billCurrency":"EUR","tid":"1163522995722","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"D4CB65A730DFF19224E57B07D9EACCC9","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-29T19:24:05Z
+RequestParameter:  billNo: qpIVr1446146643 | startTime:2015-10-29 19:24:05
+
+2015-10-29T19:24:05Z
+https://sip.uniques.net/direct/payment
+
+2015-10-29T19:24:05Z
+Array
+(
+    [cid] => 11635
+    [payNo] => qpIVr1446146643
+    [createdAt] => 20151030032403
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => c203d7fe90bda349abbcf89a5e9b15ff
+    [ccNo] => 4************622
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2020
+    [fName] => Monica
+    [lName] => Dabike
+    [emailAddress] => mdabike@gmail.com
+    [phoneNo] => 15857859654
+    [birth] => 19651006
+    [zip] => 753951
+    [billAddress] => Lora 568
+    [billCity] => Santiago
+    [billState] => Santiago
+    [billCountry] => CL
+    [billAmount] => 1500
+    [comment] => TTN 390707
+)
+
+
+2015-10-29T19:24:19Z
+ResponseParameter:  billNo: qpIVr1446146643 | endTime:2015-10-29 19:24:19
+
+2015-10-29T19:24:19Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11635","payNo":"qpIVr1446146643","billAmount":"1500.00","createdAt":"20151030032419","billCurrency":"EUR","tid":"1163522997118","comment":"Insufficient funds","signInfo":"3FB2BCB69FBA41E2A4386A95DCAC437B","billingDescriptor":"yuyandq2015"}
+
+)
+
+

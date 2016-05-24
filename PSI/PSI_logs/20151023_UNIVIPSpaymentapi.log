@@ -1,0 +1,240 @@
+2015-10-23T07:23:28Z
+RequestParameter:  billNo: jxIl51445585005 | startTime:2015-10-23 07:23:28
+
+2015-10-23T07:23:28Z
+https://sip.uniques.net/direct/payment
+
+2015-10-23T07:23:28Z
+Array
+(
+    [cid] => 11636
+    [payNo] => jxIl51445585005
+    [createdAt] => 20151023152325
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 5dd019cb8a944ac7c6326ab9169f2a6a
+    [ccNo] => 5************518
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2017
+    [fName] => Jean francois
+    [lName] => Stole
+    [emailAddress] => jfranc@live.com
+    [phoneNo] => 3361214541
+    [birth] => 19541014
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 250
+    [comment] => depot pt
+)
+
+
+2015-10-23T07:23:36Z
+ResponseParameter:  billNo: jxIl51445585005 | endTime:2015-10-23 07:23:36
+
+2015-10-23T07:23:36Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"87","cid":"11636","payNo":"jxIl51445585005","billAmount":"250.00","createdAt":"20151023152344","billCurrency":"EUR","tid":"1163622764420","comment":"Insufficient funds","signInfo":"3D0B0754E05A87320EB6A616CC5F8276","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-23T08:14:07Z
+RequestParameter:  billNo: D637Y1445588044 | startTime:2015-10-23 08:14:07
+
+2015-10-23T08:14:07Z
+https://sip.uniques.net/direct/payment
+
+2015-10-23T08:14:07Z
+Array
+(
+    [cid] => 11636
+    [payNo] => D637Y1445588044
+    [createdAt] => 20151023161404
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 28918616bd1ff1e020f99ed2ebf6b9c8
+    [ccNo] => 5************131
+    [cvc] => ***
+    [expMonth] => 05
+    [expYear] => 2020
+    [fName] => Ronald
+    [lName] => Dom
+    [emailAddress] => drom@gmail.com
+    [phoneNo] => 3361221111
+    [birth] => 19541013
+    [zip] => 75008
+    [billAddress] => 32 rue de la paix
+    [billCity] => anvers
+    [billState] => france
+    [billCountry] => BE
+    [billAmount] => 500
+    [comment] => depot pt
+)
+
+
+2015-10-23T08:14:08Z
+ResponseParameter:  billNo: D637Y1445588044 | endTime:2015-10-23 08:14:08
+
+2015-10-23T08:14:08Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11636","payNo":"D637Y1445588044","billAmount":"500.00","createdAt":"20151023161418","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"6ADCE45D08AD6D7A8859010915D1A347","billingDescriptor":""}
+
+)
+
+
+2015-10-23T08:14:46Z
+RequestParameter:  billNo: ATRVN1445588084 | startTime:2015-10-23 08:14:46
+
+2015-10-23T08:14:46Z
+https://sip.uniques.net/direct/payment
+
+2015-10-23T08:14:46Z
+Array
+(
+    [cid] => 11636
+    [payNo] => ATRVN1445588084
+    [createdAt] => 20151023161444
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 3c3b55510190025ecd385bcd684bd366
+    [ccNo] => 5************131
+    [cvc] => ***
+    [expMonth] => 05
+    [expYear] => 2020
+    [fName] => Ronald
+    [lName] => Dom
+    [emailAddress] => drom@gmail.com
+    [phoneNo] => 3361221111
+    [birth] => 19541013
+    [zip] => 75008
+    [billAddress] => 32 rue de la paix
+    [billCity] => anvers
+    [billState] => france
+    [billCountry] => BE
+    [billAmount] => 500
+    [comment] => depot pt
+)
+
+
+2015-10-23T08:14:47Z
+ResponseParameter:  billNo: ATRVN1445588084 | endTime:2015-10-23 08:14:47
+
+2015-10-23T08:14:47Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"90","cid":"11636","payNo":"ATRVN1445588084","billAmount":"500.00","createdAt":"20151023161457","billCurrency":"EUR","tid":"","comment":"Invalid card number","signInfo":"52DBACEBDC8BAE8AFFBC715226F84289","billingDescriptor":""}
+
+)
+
+
+2015-10-23T11:00:19Z
+RequestParameter:  billNo: qRsWa1445598017 | startTime:2015-10-23 11:00:19
+
+2015-10-23T11:00:19Z
+https://sip.uniques.net/direct/payment
+
+2015-10-23T11:00:19Z
+Array
+(
+    [cid] => 11635
+    [payNo] => qRsWa1445598017
+    [createdAt] => 20151023190017
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => 551678230bf4834266c5335d1a26f6b3
+    [ccNo] => 4************013
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => ghislain
+    [lName] => baker
+    [emailAddress] => ghislain_baker@outlook.com
+    [phoneNo] => 331211121111
+    [birth] => 19631008
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 350
+    [comment] => depot
+)
+
+
+2015-10-23T11:00:21Z
+ResponseParameter:  billNo: qRsWa1445598017 | endTime:2015-10-23 11:00:21
+
+2015-10-23T11:00:21Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-214","cid":"11635","payNo":"qRsWa1445598017","billAmount":"350.00","createdAt":"20151023190031","billCurrency":"EUR","tid":"1163522767295","comment":"Country is not equal to country BIN","signInfo":"4E7396C5BA299C29CD3C62DA7D653AB9","billingDescriptor":""}
+
+)
+
+
+2015-10-23T11:00:55Z
+RequestParameter:  billNo: UcPb91445598052 | startTime:2015-10-23 11:00:55
+
+2015-10-23T11:00:55Z
+https://sip.uniques.net/direct/payment
+
+2015-10-23T11:00:55Z
+Array
+(
+    [cid] => 11635
+    [payNo] => UcPb91445598052
+    [createdAt] => 20151023190052
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.95.130.186
+    [signInfo] => d6dbaf95b812c02df5388f1744879e4a
+    [ccNo] => 4************013
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2017
+    [fName] => ghislain
+    [lName] => baker
+    [emailAddress] => ghislain_baker@outlook.com
+    [phoneNo] => 331211121111
+    [birth] => 19631008
+    [zip] => 75008
+    [billAddress] => 32 boulevard Haussman
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => CA
+    [billAmount] => 350
+    [comment] => depot
+)
+
+
+2015-10-23T11:01:08Z
+ResponseParameter:  billNo: UcPb91445598052 | endTime:2015-10-23 11:01:08
+
+2015-10-23T11:01:08Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"UcPb91445598052","billAmount":"350.00","createdAt":"20151023190117","billCurrency":"EUR","tid":"1163522767304","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"D6832E0E1C92FDC95A15EA0D41DACE34","billingDescriptor":"yuyandq2015"}
+
+)
+
+

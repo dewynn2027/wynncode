@@ -1,0 +1,36 @@
+2015-08-23T14:27:43Z
+RequestParameter:  billNo: 979a2549fcfb4c9494fa67f6dbacd38d | startTime:2015-08-23 14:27:43
+
+2015-08-23T14:27:43Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139939&pMethod=Master&lang=E&cardHolder=PETR%20SHOBOLOV&cardNo=5************539&securityCode=***&epMonth=02&epYear=2017&amount=200&currCode=840&orderRef=979a2549fcfb4c9494fa67f6dbacd38d&remark=
+
+2015-08-23T14:27:46Z
+ResponseParameter:  billNo: 979a2549fcfb4c9494fa67f6dbacd38d | endTime:2015-08-23 14:27:46
+
+2015-08-23T14:27:46Z
+successcode=1&Ref=979a2549fcfb4c9494fa67f6dbacd38d&PayRef=7819864&Amt=200.0&Cur=840&prc=1&src=7&Ord=&Holder=PETR SHOBOLOV&AuthId=&TxTime=2015-08-23 22:27:46.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-08-23T17:55:43Z
+RequestParameter:  billNo: 1440352541198 | startTime:2015-08-23 17:55:43
+
+2015-08-23T17:55:43Z
+https://www.pesopay.com/b2c2/eng/directPay/payComp.jsp?payType=N&merchantId=18139954&pMethod=VISA&lang=E&cardHolder=Pietro%20Casula&cardNo=4************814&securityCode=***&epMonth=1&epYear=2016&amount=500&currCode=978&orderRef=1440352541198&remark=10778
+
+2015-08-23T17:55:47Z
+ResponseParameter:  billNo: 1440352541198 | endTime:2015-08-23 17:55:47
+
+2015-08-23T17:55:47Z
+successcode=1&Ref=1440352541198&PayRef=7822856&Amt=500.0&Cur=978&prc=1&src=7&Ord=&Holder=Pietro Casula&AuthId=&TxTime=2015-08-24 01:55:47.0&errMsg=Transaction failed
+
+
+
+
+
+
+

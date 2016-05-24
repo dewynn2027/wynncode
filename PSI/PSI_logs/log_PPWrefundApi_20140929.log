@@ -1,0 +1,120 @@
+2014-09-29T00:37:12Z
+RequestParameter:  billNo: BILL2014092901
+
+2014-09-29T00:37:12Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL2014092901&TransactionType=2&Currency=USD&Amount=1&TransactionID=20140929000017700030
+
+2014-09-29T00:37:14Z
+ResponseParameter:  billNo: BILL2014092901
+
+2014-09-29T00:37:14Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>BILL2014092901</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-29T00:37:23Z
+RequestParameter:  billNo: BILL2014092901
+
+2014-09-29T00:37:23Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL2014092901&TransactionType=2&Currency=USD&Amount=12&TransactionID=20140929000017700030
+
+2014-09-29T00:37:23Z
+ResponseParameter:  billNo: BILL2014092901
+
+2014-09-29T00:37:23Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL2014092901</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929023820</ResponseTime>
+<TransactionID>20140929000017700030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T04:58:28Z
+RequestParameter:  billNo: BILL000570
+
+2014-09-29T04:58:28Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000570&TransactionType=2&Currency=USD&Amount=12&TransactionID=2014092900001AD00030
+
+2014-09-29T04:58:29Z
+ResponseParameter:  billNo: BILL000570
+
+2014-09-29T04:58:29Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL000570</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929065925</ResponseTime>
+<TransactionID>2014092900001AD00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T05:13:06Z
+RequestParameter:  billNo: BILL000571
+
+2014-09-29T05:13:06Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000571&TransactionType=2&Currency=USD&Amount=12&TransactionID=2014092900001AE00030
+
+2014-09-29T05:13:07Z
+ResponseParameter:  billNo: BILL000571
+
+2014-09-29T05:13:07Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL000571</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929141404</ResponseTime>
+<TransactionID>2014092900001AE00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-29T05:23:14Z
+RequestParameter:  billNo: BILL000572
+
+2014-09-29T05:23:14Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=BILL000572&TransactionType=2&Currency=USD&Amount=12&TransactionID=2014092900001B800030
+
+2014-09-29T05:23:15Z
+ResponseParameter:  billNo: BILL000572
+
+2014-09-29T05:23:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>BILL000572</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140929142411</ResponseTime>
+<TransactionID>2014092900001B800030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

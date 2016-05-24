@@ -1,0 +1,768 @@
+2015-10-12T07:53:50Z
+RequestParameter:  billNo: 2015101201 | startTime:2015-10-12 07:53:50
+
+2015-10-12T07:53:50Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T07:53:50Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 2015101201
+    [createdAt] => 20151012150730
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 750df9e5cb3e9e681913a4b8a91f442a
+    [ccNo] => 4************697
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-12T07:53:55Z
+ResponseParameter:  billNo: 2015101201 | endTime:2015-10-12 07:53:55
+
+2015-10-12T07:53:55Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"2015101201","billAmount":"10.00","createdAt":"20151012155359","billCurrency":"USD","tid":"1163122383967","comment":"Success","signInfo":"9AEC53874C8FBDF6358DC8D78BDB68A8","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-12T07:59:10Z
+RequestParameter:  billNo: 2015101202 | startTime:2015-10-12 07:59:10
+
+2015-10-12T07:59:10Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T07:59:10Z
+Array
+(
+    [cid] => 11633
+    [payNo] => 2015101202
+    [createdAt] => 20150919123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => a95e3d04e17a9abd309be1f82691952e
+    [ccNo] => 5************357
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-12T07:59:14Z
+ResponseParameter:  billNo: 2015101202 | endTime:2015-10-12 07:59:14
+
+2015-10-12T07:59:14Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11633","payNo":"2015101202","billAmount":"10.00","createdAt":"20151012155918","billCurrency":"USD","tid":"1163322384044","comment":"Success","signInfo":"7352239458415F7202831E70DFB0CE89","billingDescriptor":"JIEKANI"}
+
+)
+
+
+2015-10-12T08:01:16Z
+RequestParameter:  billNo: 2015101203 | startTime:2015-10-12 08:01:16
+
+2015-10-12T08:01:16Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T08:01:16Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 2015101203
+    [createdAt] => 20151012150730
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 59f059d35813d719cdc38b0af6006832
+    [ccNo] => 4************697
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-12T08:01:22Z
+ResponseParameter:  billNo: 2015101203 | endTime:2015-10-12 08:01:22
+
+2015-10-12T08:01:22Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"2015101203","billAmount":"10.00","createdAt":"20151012160126","billCurrency":"EUR","tid":"1163522384088","comment":"Success","signInfo":"2361FA3D0062E85EFE01BFC1279A65A9","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T08:02:39Z
+RequestParameter:  billNo: 2015101204 | startTime:2015-10-12 08:02:39
+
+2015-10-12T08:02:39Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T08:02:39Z
+Array
+(
+    [cid] => 11636
+    [payNo] => 2015101204
+    [createdAt] => 20150919123132
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 7d8640e8998c8a555f7d0618016e85c4
+    [ccNo] => 5************357
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-12T08:02:50Z
+ResponseParameter:  billNo: 2015101204 | endTime:2015-10-12 08:02:50
+
+2015-10-12T08:02:50Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11636","payNo":"2015101204","billAmount":"10.00","createdAt":"20151012160254","billCurrency":"EUR","tid":"1163622384111","comment":"Success","signInfo":"123F6CA98F7600C6CBCA787A3233971A","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T09:46:52Z
+RequestParameter:  billNo: gqx1M1444643209 | startTime:2015-10-12 09:46:52
+
+2015-10-12T09:46:52Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T09:46:52Z
+Array
+(
+    [cid] => 11635
+    [payNo] => gqx1M1444643209
+    [createdAt] => 20151012174649
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => 8d2860253f3d11aa6844913c045c3666
+    [ccNo] => 4************842
+    [cvc] => ***
+    [expMonth] => 03
+    [expYear] => 2016
+    [fName] => Marie Jeanne
+    [lName] => Boulanger
+    [emailAddress] => boulanger232@hotmail.fr
+    [phoneNo] => 0670017090
+    [birth] => 19801014
+    [zip] => 7500
+    [billAddress] => 12 rue de la Paix
+    [billCity] => PARIS
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => Binary Trade
+)
+
+
+2015-10-12T09:47:03Z
+ResponseParameter:  billNo: gqx1M1444643209 | endTime:2015-10-12 09:47:03
+
+2015-10-12T09:47:03Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"gqx1M1444643209","billAmount":"1000.00","createdAt":"20151012174707","billCurrency":"EUR","tid":"1163522385561","comment":"Success","signInfo":"DAFA69A296D3C9724E257CA2C481DAD1","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T09:59:42Z
+RequestParameter:  billNo: 5rKfu1444643979 | startTime:2015-10-12 09:59:42
+
+2015-10-12T09:59:42Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T09:59:42Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 5rKfu1444643979
+    [createdAt] => 20151012175939
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => d35328aaf6851229581f224ebd290721
+    [ccNo] => 4************360
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2016
+    [fName] => Michelle
+    [lName] => Paulette
+    [emailAddress] => paule29432@free.fr
+    [phoneNo] => 0642788678
+    [birth] => 19571015
+    [zip] => 75009
+    [billAddress] => 12 rue de Maubeuge
+    [billCity] => paris
+    [billState] => France
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => Binary Trade
+)
+
+
+2015-10-12T09:59:49Z
+ResponseParameter:  billNo: 5rKfu1444643979 | endTime:2015-10-12 09:59:49
+
+2015-10-12T09:59:49Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"5rKfu1444643979","billAmount":"1000.00","createdAt":"20151012175953","billCurrency":"EUR","tid":"1163522385740","comment":"Success","signInfo":"7D4C56FBD651E5ADB017195D30AA392D","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T10:08:00Z
+RequestParameter:  billNo: NJ5Dp1444644477 | startTime:2015-10-12 10:08:00
+
+2015-10-12T10:08:00Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T10:08:00Z
+Array
+(
+    [cid] => 11635
+    [payNo] => NJ5Dp1444644477
+    [createdAt] => 20151012180757
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => 44656b37fdd0a0c5970cbbb6499b3af8
+    [ccNo] => 4************934
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2016
+    [fName] => Rene
+    [lName] => Collibaut
+    [emailAddress] => collibaultrenee@hotmail.com
+    [phoneNo] => 0611216977
+    [birth] => 19661018
+    [zip] => 75000
+    [billAddress] => 12 rue de la tuile
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => Binary Trade
+)
+
+
+2015-10-12T10:08:07Z
+ResponseParameter:  billNo: NJ5Dp1444644477 | endTime:2015-10-12 10:08:07
+
+2015-10-12T10:08:07Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"NJ5Dp1444644477","billAmount":"1000.00","createdAt":"20151012180811","billCurrency":"EUR","tid":"1163522385863","comment":"Success","signInfo":"2193C3394042D826C91A2C4E241C0948","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T10:31:46Z
+RequestParameter:  billNo: eowbB1444645902 | startTime:2015-10-12 10:31:46
+
+2015-10-12T10:31:46Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T10:31:46Z
+Array
+(
+    [cid] => 11636
+    [payNo] => eowbB1444645902
+    [createdAt] => 20151012183142
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => 9ba4c5666fdadf71b56304a5c05ca59e
+    [ccNo] => 5************422
+    [cvc] => ***
+    [expMonth] => 01
+    [expYear] => 2018
+    [fName] => BERNARD
+    [lName] => COLAS
+    [emailAddress] => cocacolas124@orange.fr
+    [phoneNo] => 0543448643
+    [birth] => 19570812
+    [zip] => 75016
+    [billAddress] => 16 rue de la pompe
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => BINARY TRADE
+)
+
+
+2015-10-12T10:31:57Z
+ResponseParameter:  billNo: eowbB1444645902 | endTime:2015-10-12 10:31:57
+
+2015-10-12T10:31:57Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11636","payNo":"eowbB1444645902","billAmount":"1000.00","createdAt":"20151012183200","billCurrency":"EUR","tid":"1163622386176","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"09E8FC16CA62B78C8D996490341038D2","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T10:33:46Z
+RequestParameter:  billNo: tlZvL1444646023 | startTime:2015-10-12 10:33:46
+
+2015-10-12T10:33:46Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T10:33:46Z
+Array
+(
+    [cid] => 11635
+    [payNo] => tlZvL1444646023
+    [createdAt] => 20151012183343
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => dfc68e4447dc9e8b47fc742a1c937e0c
+    [ccNo] => 4************309
+    [cvc] => ***
+    [expMonth] => 06
+    [expYear] => 2017
+    [fName] => Patrick
+    [lName] => rozad
+    [emailAddress] => rosardpat75@hotmail.fr
+    [phoneNo] => 0543448643
+    [birth] => 19570812
+    [zip] => 75016
+    [billAddress] => 16 rue de la pompe
+    [billCity] => paris
+    [billState] => france
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => BINARY TRADE
+)
+
+
+2015-10-12T10:33:52Z
+ResponseParameter:  billNo: tlZvL1444646023 | endTime:2015-10-12 10:33:52
+
+2015-10-12T10:33:52Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"tlZvL1444646023","billAmount":"1000.00","createdAt":"20151012183356","billCurrency":"EUR","tid":"1163522386196","comment":"Success","signInfo":"CFE01E97B6F677F6BAD3E145DDC39E3A","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T11:05:14Z
+RequestParameter:  billNo: 82rGy1444647911 | startTime:2015-10-12 11:05:14
+
+2015-10-12T11:05:14Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T11:05:14Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 82rGy1444647911
+    [createdAt] => 20151012190511
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => c733f47c55c05947ce68b8e94767e213
+    [ccNo] => 4************106
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2018
+    [fName] => Christopher
+    [lName] => djenadi
+    [emailAddress] => djeenadichris@hotmail.fr
+    [phoneNo] => 0677232910
+    [birth] => 19731015
+    [zip] => 75000
+    [billAddress] => 28 RUE DES FRANCS 
+    [billCity] => PARIS
+    [billState] => FRANCE
+    [billCountry] => FR
+    [billAmount] => 1000
+    [comment] => BINARY TRADE
+)
+
+
+2015-10-12T11:05:28Z
+ResponseParameter:  billNo: 82rGy1444647911 | endTime:2015-10-12 11:05:28
+
+2015-10-12T11:05:28Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"82rGy1444647911","billAmount":"1000.00","createdAt":"20151012190530","billCurrency":"EUR","tid":"1163522386562","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"2C2B3D307DD44DB54F4DED7C8540C9C7","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T11:05:46Z
+RequestParameter:  billNo: oSC9k1444647944 | startTime:2015-10-12 11:05:46
+
+2015-10-12T11:05:46Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T11:05:46Z
+Array
+(
+    [cid] => 11635
+    [payNo] => oSC9k1444647944
+    [createdAt] => 20151012190544
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 84.94.205.121
+    [signInfo] => efc2cfc98e5f7a7fca2637b86cdacb93
+    [ccNo] => 4************106
+    [cvc] => ***
+    [expMonth] => 02
+    [expYear] => 2018
+    [fName] => Christopher
+    [lName] => djenadi
+    [emailAddress] => djeenadichris@hotmail.fr
+    [phoneNo] => 0677232910
+    [birth] => 19731015
+    [zip] => 75000
+    [billAddress] => 28 RUE DES FRANCS 
+    [billCity] => PARIS
+    [billState] => FRANCE
+    [billCountry] => FR
+    [billAmount] => 500
+    [comment] => BINARY TRADE
+)
+
+
+2015-10-12T11:05:55Z
+ResponseParameter:  billNo: oSC9k1444647944 | endTime:2015-10-12 11:05:55
+
+2015-10-12T11:05:55Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"oSC9k1444647944","billAmount":"500.00","createdAt":"20151012190557","billCurrency":"EUR","tid":"1163522386574","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"7EE08A71A757F992B6A4618D79FFA48D","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-12T14:13:50Z
+RequestParameter:  billNo: tfh3D1444659227 | startTime:2015-10-12 14:13:50
+
+2015-10-12T14:13:50Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T14:13:50Z
+Array
+(
+    [cid] => 11631
+    [payNo] => tfh3D1444659227
+    [createdAt] => 20151012221347
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 33271a9154dda893f9b654843f4dc618
+    [ccNo] => 4************016
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2019
+    [fName] => richard
+    [lName] => ramsey
+    [emailAddress] => b_yte_me@shaw.ca
+    [phoneNo] => 12507547317
+    [birth] => 19741010
+    [zip] => 12345
+    [billAddress] => 1917 Cinnabar Drive
+    [billCity] => Nanaimo
+    [billState] => canada
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 438721
+)
+
+
+2015-10-12T14:13:52Z
+ResponseParameter:  billNo: tfh3D1444659227 | endTime:2015-10-12 14:13:52
+
+2015-10-12T14:13:52Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-160","cid":"11631","payNo":"tfh3D1444659227","billAmount":"1500.00","createdAt":"20151012221356","billCurrency":"USD","tid":"1163122389450","comment":"The Zip code do not match with country","signInfo":"5201D6BCDB112FEC55BCDEAB23B9CB6C","billingDescriptor":""}
+
+)
+
+
+2015-10-12T14:16:59Z
+RequestParameter:  billNo: vqBZT1444659416 | startTime:2015-10-12 14:16:59
+
+2015-10-12T14:16:59Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T14:16:59Z
+Array
+(
+    [cid] => 11631
+    [payNo] => vqBZT1444659416
+    [createdAt] => 20151012221656
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => b3691fc2ccfdee80518fedbdfb19f8de
+    [ccNo] => 4************016
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2019
+    [fName] => RICHARD 
+    [lName] => ramsey
+    [emailAddress] => b_yte_me@shaw.ca
+    [phoneNo] => 12507547317
+    [birth] => 19741010
+    [zip] => 913
+    [billAddress] => 1917 Cinnabar Drive
+    [billCity] => Nanaimo
+    [billState] => canada
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 438721 
+)
+
+
+2015-10-12T14:17:03Z
+ResponseParameter:  billNo: vqBZT1444659416 | endTime:2015-10-12 14:17:03
+
+2015-10-12T14:17:03Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"vqBZT1444659416","billAmount":"1500.00","createdAt":"20151012221707","billCurrency":"USD","tid":"1163122389512","comment":"Success","signInfo":"D68D7A932B46010BE667D63F70592219","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-12T14:20:24Z
+RequestParameter:  billNo: ru0LC1444659621 | startTime:2015-10-12 14:20:24
+
+2015-10-12T14:20:24Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T14:20:24Z
+Array
+(
+    [cid] => 11631
+    [payNo] => ru0LC1444659621
+    [createdAt] => 20151012222021
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 7e758e287edbc600e80445d5e0f72267
+    [ccNo] => 4************016
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2019
+    [fName] => RICHARD 
+    [lName] => RAMSEY
+    [emailAddress] => b_yte_me@shaw.ca
+    [phoneNo] => 12507547317
+    [birth] => 19741010
+    [zip] => 913
+    [billAddress] => 1917 Cinnabar Drive
+    [billCity] => Nanaimo
+    [billState] => canada
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 438721
+)
+
+
+2015-10-12T14:20:29Z
+ResponseParameter:  billNo: ru0LC1444659621 | endTime:2015-10-12 14:20:29
+
+2015-10-12T14:20:29Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"ru0LC1444659621","billAmount":"1500.00","createdAt":"20151012222033","billCurrency":"USD","tid":"1163122389565","comment":"Success","signInfo":"C64CD216744B1496FF6FDD3916C59F5C","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-12T14:21:55Z
+RequestParameter:  billNo: muYVB1444659712 | startTime:2015-10-12 14:21:55
+
+2015-10-12T14:21:55Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T14:21:55Z
+Array
+(
+    [cid] => 11631
+    [payNo] => muYVB1444659712
+    [createdAt] => 20151012222152
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 2a6ad7ac4f286c4d4836bcad9811b36f
+    [ccNo] => 4************016
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2019
+    [fName] => RICHARD 
+    [lName] => RAMSEY
+    [emailAddress] => b_yte_me@shaw.ca
+    [phoneNo] => 12507547317
+    [birth] => 19741010
+    [zip] => 913
+    [billAddress] => 1917 Cinnabar Drive 
+    [billCity] => Nanaimo
+    [billState] => canada
+    [billCountry] => CA
+    [billAmount] => 1500
+    [comment] => TTN 438721
+)
+
+
+2015-10-12T14:22:00Z
+ResponseParameter:  billNo: muYVB1444659712 | endTime:2015-10-12 14:22:00
+
+2015-10-12T14:22:00Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"muYVB1444659712","billAmount":"1500.00","createdAt":"20151012222204","billCurrency":"USD","tid":"1163122389598","comment":"Success","signInfo":"CB2805032DEBA90B08550C954534EA6F","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+
+2015-10-12T14:23:53Z
+RequestParameter:  billNo: TSVzG1444659831 | startTime:2015-10-12 14:23:53
+
+2015-10-12T14:23:53Z
+https://sip.uniques.net/direct/payment
+
+2015-10-12T14:23:53Z
+Array
+(
+    [cid] => 11631
+    [payNo] => TSVzG1444659831
+    [createdAt] => 20151012222351
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 63.217.170.10
+    [signInfo] => 5c28007cca8209b08f8feb96577f05e4
+    [ccNo] => 4************016
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2019
+    [fName] => RICHARD 
+    [lName] => RAMSEY
+    [emailAddress] => b_yte_me@shaw.ca
+    [phoneNo] => 12507547317
+    [birth] => 19741010
+    [zip] => 913
+    [billAddress] => 1917 Cinnabar Drive 
+    [billCity] => Nanaimo
+    [billState] => canada
+    [billCountry] => CA
+    [billAmount] => 500
+    [comment] => TTN 438721
+)
+
+
+2015-10-12T14:23:58Z
+ResponseParameter:  billNo: TSVzG1444659831 | endTime:2015-10-12 14:23:58
+
+2015-10-12T14:23:58Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"TSVzG1444659831","billAmount":"500.00","createdAt":"20151012222402","billCurrency":"USD","tid":"1163122389644","comment":"Success","signInfo":"63900000460D57EF166C8C22051E4469","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

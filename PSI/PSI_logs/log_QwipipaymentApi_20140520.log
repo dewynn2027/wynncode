@@ -1,0 +1,459 @@
+2014-05-20T06:14:50Z
+RequestParameter:  referenceId: 2014052033
+
+2014-05-20T06:14:50Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=2014052033&dateTime=20121105151137&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=86C7B6C45359F1859F6CF2EFBE98E761&cardNum=50000000000000006&cvv2=123&month=12&year=14&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-05-20T06:14:51Z
+ResponseParameter:  referenceId: 2014052033
+
+2014-05-20T06:14:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>2014052033</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>D5898EF8499B22EDB4ED4265E5A3FBE4</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T06:27:24Z
+RequestParameter:  referenceId: CU9Wf1400567244
+
+2014-05-20T06:27:24Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=CU9Wf1400567244&dateTime=20140520142724&currency=EURO&language=eng&cardHolderIp=114.108.239.103&md5Info=B5BCBAFEA8FB92C60DA1D62B3AF89D75&cardNum=5564381137955934&cvv2=1650&month=11&year=1971&birthDate=19950516&firstName=Irene&lastName=Franco&email=zagoqim@gmail.com&phone=4449353&zipCode=40046&address=Nisi%20enim%20et%20ipsa%20voluptatum%20culpa%20sunt%20aut%20proident%20voluptatem%20commodo%20non%20quas%20quos&city=In%20consequatur%20enim%20quia%20culpa%20consectetur%20magni&state=Vel%20ea%20praesentium%20neque%20est%20corporis%20animi&country=BB&amount=137.00&products=2&remark=Corrupti,%20consectetur%20consequatur,%20quae%20ea%20voluptatem%20pariatur?%20Aspernatur%20quis%20veniam,%20est,%20veniam,%20non%20voluptatibus%20beatae%20assumenda%20ullam%20sit.
+
+2014-05-20T06:27:25Z
+ResponseParameter:  referenceId: CU9Wf1400567244
+
+2014-05-20T06:27:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>CU9Wf1400567244</billNo><currency>EURO</currency><amount>137.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>5C09B5F056B7C328C020C42F7D3E98BE</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T07:58:04Z
+RequestParameter:  referenceId: BP5cw1400572684
+
+2014-05-20T07:58:04Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=BP5cw1400572684&dateTime=20140520155804&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=6E8BEADD871C3F16D3056BB313103B84&cardNum=123454543543543&cvv2=1234&month=07&year=2014&birthDate=19980513&firstName=okyo&lastName=okyo&email=okyo@gmal.com&phone=124111&zipCode=1244&address=dsadsad&city=dsadsa&state=dasd&country=DZ&amount=12.00&products=2&remark=uh
+
+2014-05-20T07:58:05Z
+ResponseParameter:  referenceId: BP5cw1400572684
+
+2014-05-20T07:58:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>BP5cw1400572684</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>E58C7FA2A9C3DF20896C59F6AD05A4D1</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T07:59:46Z
+RequestParameter:  referenceId: CmHPf1400572786
+
+2014-05-20T07:59:46Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=CmHPf1400572786&dateTime=20140520155946&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=FDE2B5AB4DBB522C0D69946139A4D0FE&cardNum=123454543543543&cvv2=1234&month=07&year=2014&birthDate=19980513&firstName=okyo&lastName=okyo&email=okyo@gmal.com&phone=124111&zipCode=1244&address=dsadsad&city=dsadsa&state=dasd&country=DZ&amount=12.00&products=2&remark=uh
+
+2014-05-20T07:59:47Z
+ResponseParameter:  referenceId: CmHPf1400572786
+
+2014-05-20T07:59:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>CmHPf1400572786</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>C21F1CE0E1053BDDDA238E2A1FAC0705</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T08:26:29Z
+RequestParameter:  referenceId: 2014052040
+
+2014-05-20T08:26:29Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=2014052040&dateTime=20121105151173&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=331510A7B639927D4AF92824A61F1F04&cardNum=50000000000000006&cvv2=123&month=12&year=14&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-05-20T08:26:30Z
+ResponseParameter:  referenceId: 2014052040
+
+2014-05-20T08:26:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>2014052040</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>B79F44034E8DFEC74B25BFAC67C37A11</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T08:38:01Z
+RequestParameter:  referenceId: Nnbqm1400575081
+
+2014-05-20T08:38:01Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=Nnbqm1400575081&dateTime=20140520163801&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=5646F6D65B5A8EEDC1B3795EC9D3E6BB&cardNum=213123213213213&cvv2=124&month=01&year=2015&birthDate=19840510&firstName=yuna&lastName=yuna&email=yuna@gmail.com&phone=124124&zipCode=31231&address=fdssfdfds&city=fsd&state=fds&country=AO&amount=12.00&products=2&remark=sdas
+
+2014-05-20T08:38:03Z
+ResponseParameter:  referenceId: Nnbqm1400575081
+
+2014-05-20T08:38:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>Nnbqm1400575081</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>3F71B1E269D7D2E87DC9417B5339F0FB</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T08:57:20Z
+RequestParameter:  referenceId: 2014052041
+
+2014-05-20T08:57:20Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=2014052041&dateTime=20121105151173&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=146A72CB0D9A644AEB0DD79F06F175A1&cardNum=50000000000000006&cvv2=123&month=12&year=14&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-05-20T08:57:21Z
+ResponseParameter:  referenceId: 2014052041
+
+2014-05-20T08:57:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>2014052041</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>898DBFB8B6381BE0FA167951050B1DEF</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:04:45Z
+RequestParameter:  referenceId: 8gXaF1400576685
+
+2014-05-20T09:04:45Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=8gXaF1400576685&dateTime=20140520170445&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B0AA24AD0F3D37156CA2CF1F7AF72CEE&cardNum=554433345123456&cvv2=1234&month=06&year=2014&birthDate=19850503&firstName=kardin&lastName=karfin&email=karding@gmail.com&phone=1234455&zipCode=233&address=dsfadsfs&city=dfdf&state=dsfdsf&country=BS&amount=12.00&products=2&remark=last%20na
+
+2014-05-20T09:04:46Z
+ResponseParameter:  referenceId: 8gXaF1400576685
+
+2014-05-20T09:04:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>8gXaF1400576685</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>E4D6A63B7EF9485D88E8DF631D8C7ED5</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:06:36Z
+RequestParameter:  referenceId: UBTCN1400576796
+
+2014-05-20T09:06:36Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=UBTCN1400576796&dateTime=20140520170636&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=E416D846EB1E78DAD5D079C9492C713B&cardNum=4929771637550150&cvv2=1234&month=02&year=2015&birthDate=19850517&firstName=shoti&lastName=shoti&email=shoti@yahoo.com&phone=123456&zipCode=1234&address=sdaasd&city=dsad&state=dsad&country=AZ&amount=331.00&products=2&remark=asedsadsa
+
+2014-05-20T09:06:37Z
+ResponseParameter:  referenceId: UBTCN1400576796
+
+2014-05-20T09:06:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>UBTCN1400576796</billNo><currency>USD</currency><amount>331.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>98D80EFD145D1AD018169031E19F9598</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:08:49Z
+RequestParameter:  referenceId: krO9p1400576929
+
+2014-05-20T09:08:49Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=krO9p1400576929&dateTime=20140520170849&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=2E692AF8182E60AFE722F713664CD3A5&cardNum=379537620808018&cvv2=1223&month=06&year=2014&birthDate=20010515&firstName=sadas&lastName=adad&email=dad@yahoo.com&phone=121334343&zipCode=1234&address=asdasdas&city=asdad&state=adda&country=BH&amount=40.00&products=2&remark=sadadasfdafasa
+
+2014-05-20T09:08:50Z
+ResponseParameter:  referenceId: krO9p1400576929
+
+2014-05-20T09:08:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>krO9p1400576929</billNo><currency>USD</currency><amount>40.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>69E734E5C5DF972E17A76F68355F5927</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:11:26Z
+RequestParameter:  referenceId: eKkOh1400577086
+
+2014-05-20T09:11:26Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=eKkOh1400577086&dateTime=20140520171126&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=07273AAE5D3C83C8BFD69F074939A3EE&cardNum=379537620808018&cvv2=2445&month=07&year=2014&birthDate=19850516&firstName=palos&lastName=palos&email=palos@yahoo.com&phone=2321321&zipCode=3123&address=sadsdfdsf&city=sdafdsfds&state=fasdf&country=AZ&amount=234.00&products=2&remark=sadasdsadsa
+
+2014-05-20T09:11:27Z
+ResponseParameter:  referenceId: eKkOh1400577086
+
+2014-05-20T09:11:27Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>eKkOh1400577086</billNo><currency>USD</currency><amount>234.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>1C4D936B845C2B976008CAF2608A2F77</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:41:20Z
+RequestParameter:  referenceId: KEi041400578880
+
+2014-05-20T09:41:20Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=KEi041400578880&dateTime=20140520174120&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=019902303A8EF56B1C8EAFC0CDECEFFC&cardNum=377823936808765&cvv2=1234&month=06&year=2014&birthDate=19800507&firstName=aljen&lastName=wasik&email=alwasii@yahoo.com&phone=3213213&zipCode=1234&address=sdadsadsa&city=sadsadsa&state=sad&country=BD&amount=123.00&products=2&remark=ok%20na%20
+
+2014-05-20T09:41:21Z
+ResponseParameter:  referenceId: KEi041400578880
+
+2014-05-20T09:41:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>KEi041400578880</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>97EEED70D63E96A4617314B8CD0C5694</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:46:18Z
+RequestParameter:  referenceId: TZJF31400579178
+
+2014-05-20T09:46:18Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=TZJF31400579178&dateTime=20140520174618&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=89E8C657A88052E083F011FCA0992C02&cardNum=5547470986070090&cvv2=5842&month=06&year=2014&birthDate=20140514&firstName=lucy&lastName=lucy&email=lucy@gmail.com&phone=123333&zipCode=12334&address=dsdadsad&city=sadasdsad&state=sadasd&country=AL&amount=123.00&products=2&remark=dsadsa
+
+2014-05-20T09:46:19Z
+ResponseParameter:  referenceId: TZJF31400579178
+
+2014-05-20T09:46:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>TZJF31400579178</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>588DC7787D2B92FF65513A4E1B2A013A</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T09:47:22Z
+RequestParameter:  referenceId: vzo6a1400579242
+
+2014-05-20T09:47:22Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=vzo6a1400579242&dateTime=20140520174722&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=24D177B5DE3C37634B9767EB037CBF05&cardNum=4485489068677210&cvv2=7856&month=09&year=2014&birthDate=19850517&firstName=popoy&lastName=popoy&email=popoy@gmail.com&phone=12345676&zipCode=34556&address=adasd&city=fdsa&state=sdfa&country=BD&amount=345.00&products=2&remark=visa
+
+2014-05-20T09:47:23Z
+ResponseParameter:  referenceId: vzo6a1400579242
+
+2014-05-20T09:47:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>vzo6a1400579242</billNo><currency>USD</currency><amount>345.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>91AF5600B6DC28A16577A6D8810AACA1</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T10:57:36Z
+RequestParameter:  referenceId: XMxy11400583456
+
+2014-05-20T10:57:36Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=XMxy11400583456&dateTime=20140520185736&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=DA47DC335A558ED9CB96A4AFC336A3E8&cardNum=371268667918019&cvv2=5286&month=05&year=2014&birthDate=19890510&firstName=RED&lastName=red&email=redd@gmail.com&phone=123123&zipCode=123&address=saddsad&city=dsadsad&state=asdasd&country=BH&amount=321.00&products=2&remark=ok
+
+2014-05-20T10:57:37Z
+ResponseParameter:  referenceId: XMxy11400583456
+
+2014-05-20T10:57:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>XMxy11400583456</billNo><currency>USD</currency><amount>321.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>82B6F8005EEDA93739902877254FF05A</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T10:59:28Z
+RequestParameter:  referenceId: DRUKP1400583568
+
+2014-05-20T10:59:28Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=DRUKP1400583568&dateTime=20140520185928&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=361E8069005FBA7A22742F102B43E8C1&cardNum=5209091653474960&cvv2=4551&month=01&year=2015&birthDate=19840509&firstName=yot&lastName=yot&email=yot@gmailc.com&phone=55231321&zipCode=123&address=dasdsad&city=dasdsad&state=dsad&country=BR&amount=456.00&products=2&remark=ok..
+
+2014-05-20T10:59:29Z
+ResponseParameter:  referenceId: DRUKP1400583568
+
+2014-05-20T10:59:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>DRUKP1400583568</billNo><currency>USD</currency><amount>456.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>5D1A90848861EE30B87F95BFBBF9BD19</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T11:00:20Z
+RequestParameter:  referenceId: NmDsB1400583620
+
+2014-05-20T11:00:20Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=NmDsB1400583620&dateTime=20140520190020&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=0E1E3B91776DC352301C887A09ACE432&cardNum=4556537890428140&cvv2=5236&month=03&year=2015&birthDate=19780511&firstName=bay&lastName=bay&email=bay@gmail.com&phone=123213123&zipCode=1234&address=asasdsa&city=fasf&state=fasfa&country=AG&amount=432.00&products=2&remark=wasik1
+
+2014-05-20T11:00:21Z
+ResponseParameter:  referenceId: NmDsB1400583620
+
+2014-05-20T11:00:21Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>NmDsB1400583620</billNo><currency>USD</currency><amount>432.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>3D733752E73C6CB087A53CC293FB220C</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T11:36:09Z
+RequestParameter:  referenceId: BILL000004
+
+2014-05-20T11:36:09Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=BILL000004&dateTime=20121105151137&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=ED75CDE81E96E21DC93222A77A9746EF&cardNum=50000000000000006&cvv2=123&month=12&year=14&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-05-20T11:36:10Z
+ResponseParameter:  referenceId: BILL000004
+
+2014-05-20T11:36:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>BILL000004</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>62083E5FE9FF11FCF79958AAABF22995</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T11:53:41Z
+RequestParameter:  referenceId: ZWIMh1400586821
+
+2014-05-20T11:53:41Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=ZWIMh1400586821&dateTime=20140520195341&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=62A0A35908E019BD3758A8A93E145DBD&cardNum=4567890987676545&cvv2=232&month=02&year=2016&birthDate=20140507&firstName=Shahid%20Test&lastName=T%20Test&email=shahid@test.com&phone=9193398277&zipCode=3223&address=adfsa&city=ad&state=adf&country=US&amount=10.00&products=2&remark=test%20by%20shahid
+
+2014-05-20T11:53:42Z
+ResponseParameter:  referenceId: ZWIMh1400586821
+
+2014-05-20T11:53:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>ZWIMh1400586821</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>618A632E2B2F6CC326020F1621F3A5BE</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T16:26:09Z
+RequestParameter:  referenceId: LQmwS1400603168
+
+2014-05-20T16:26:09Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10786&md5Key=49292F24C5804A639711B9BB16F9DD1C&billNo=LQmwS1400603168&dateTime=20140521002608&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B881B1BCD598CE5F797F5A29D8F128C5&cardNum=349961831761435&cvv2=234&month=07&year=2015&birthDate=19840517&firstName=kanor&lastName=kanor&email=kanor@gmail.com&phone=1234345&zipCode=123&address=sdfsdafasdf&city=sadffsda&state=sdfa&country=AW&amount=234.00&products=2&remark=yan%20na
+
+2014-05-20T16:26:10Z
+ResponseParameter:  referenceId: LQmwS1400603168
+
+2014-05-20T16:26:10Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10786</merNo><billNo>LQmwS1400603168</billNo><currency>USD</currency><amount>234.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>First name cannot be the same as last name</remark><md5Info>55722465EAF5188DFC099EF5FFB4C762</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T18:57:42Z
+RequestParameter:  referenceId: Fw9DA1400612260
+
+2014-05-20T18:57:42Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=Fw9DA1400612260&dateTime=20140521025740&currency=USD&language=eng&cardHolderIp=97.68.20.10&md5Info=F17974CE8A069DCAABF86A584EE30716&cardNum=5121071832047918&cvv2=227&month=08&year=2016&birthDate=19401016&firstName=Patricia&lastName=Constant&email=PatriciaC@aol.com&phone=2155473719&zipCode=19030&address=618%20Iva%20Ln&city=Fairless%20Hills&state=PA&country=US&amount=998.00&products=2&remark=MMM:%20Sullivan
+Next%20tues%20@%202:30
+
+2014-05-20T18:57:48Z
+ResponseParameter:  referenceId: Fw9DA1400612260
+
+2014-05-20T18:57:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>Fw9DA1400612260</billNo><currency>USD</currency><amount>998.00</amount><dateTime>20140521025746</dateTime><paymentOrderNo>1078510752224</paymentOrderNo><remark>Transaction declined.</remark><md5Info>5C91441BF0E652F4B99BE9BDC99CC314</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T19:07:56Z
+RequestParameter:  referenceId: eXjhZ1400612876
+
+2014-05-20T19:07:56Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=eXjhZ1400612876&dateTime=20140521030756&currency=USD&language=eng&cardHolderIp=97.68.20.10&md5Info=5DC31782E5B3D32D6A315A5DBB083D72&cardNum=5121071832047918&cvv2=227&month=08&year=2016&birthDate=19461016&firstName=Patricia&lastName=Constant&email=PatriciaC@aol.com&phone=2155473719&zipCode=19030&address=618%20Iva%20Ln&city=Fairless%20Hills&state=PA&country=US&amount=998.00&products=2&remark=MMM:%20Sullivan
+Next%20tues%20@%202:30
+
+2014-05-20T19:07:59Z
+ResponseParameter:  referenceId: eXjhZ1400612876
+
+2014-05-20T19:07:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>eXjhZ1400612876</billNo><currency>USD</currency><amount>998.00</amount><dateTime>20140521030800</dateTime><paymentOrderNo>1078510752344</paymentOrderNo><remark>Transaction declined.</remark><md5Info>72CF632DE8513C69088C432B24073C06</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-05-20T19:34:37Z
+RequestParameter:  referenceId: nz5Xm1400614477
+
+2014-05-20T19:34:37Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=nz5Xm1400614477&dateTime=20140521033437&currency=USD&language=eng&cardHolderIp=97.68.20.10&md5Info=E35BB8E692EA7D8A91AB86855F6DAADF&cardNum=4246315122675315&cvv2=206&month=08&year=2015&birthDate=19580715&firstName=Kimberly&lastName=Chavis&email=KimC@aol.com&phone=8506754700&zipCode=32565&address=3675%20Hazel%20Godwin%20Rd&city=Jay&state=FL&country=US&amount=2,995.00&products=2&remark=MMM:%20Chetly
+Monday%20@%2011:00%20am
+
+2014-05-20T19:34:39Z
+ResponseParameter:  referenceId: nz5Xm1400614477
+
+2014-05-20T19:34:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+
+
+</response>
+
+2014-05-20T23:38:01Z
+RequestParameter:  referenceId: y0tjJ1400629081
+
+2014-05-20T23:38:01Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=y0tjJ1400629081&dateTime=20140521073801&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=1A1954ECC4E9740DE7F9C9E673390147&cardNum=4345456532343234&cvv2=334&month=03&year=2016&birthDate=20140514&firstName=d&lastName=y&email=ada@adl.com&phone=9323&zipCode=23&address=23&city=23&state=23&country=BE&amount=10.00&products=2&remark=test%202
+
+2014-05-20T23:38:03Z
+ResponseParameter:  referenceId: y0tjJ1400629081
+
+2014-05-20T23:38:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10784</merNo><billNo>y0tjJ1400629081</billNo><currency>USD</currency><amount>10.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>The First Name field is too short (must contain more than one letter)</remark><md5Info>03B3885E51B0BD0FBF5876DCE3A0EF68</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

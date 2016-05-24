@@ -1,0 +1,119 @@
+2014-11-27T06:47:07Z
+RequestParameter:  billNo: d40DW1417070824 | startTime:2014-11-27 06:47:07
+
+2014-11-27T06:47:07Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=15&amount=10&currCode=840&orderRef=d40DW1417070824&remark=Test
+
+2014-11-27T06:47:08Z
+ResponseParameter:  billNo: d40DW1417070824 | endTime:2014-11-27 06:47:08
+
+2014-11-27T06:47:08Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter expiry year incorrect
+
+
+2014-11-27T06:51:20Z
+RequestParameter:  billNo: SkNpv1417071078 | startTime:2014-11-27 06:51:20
+
+2014-11-27T06:51:20Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Test%20Name&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=15&amount=10&currCode=840&orderRef=SkNpv1417071078&remark=test
+
+2014-11-27T06:51:20Z
+ResponseParameter:  billNo: SkNpv1417071078 | endTime:2014-11-27 06:51:20
+
+2014-11-27T06:51:20Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter expiry year incorrect
+
+
+2014-11-27T06:56:45Z
+RequestParameter:  billNo: ANMsc1417071404 | startTime:2014-11-27 06:56:45
+
+2014-11-27T06:56:45Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Test%20Name&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=10&currCode=840&orderRef=ANMsc1417071404&remark=Test
+
+2014-11-27T06:56:46Z
+ResponseParameter:  billNo: ANMsc1417071404 | endTime:2014-11-27 06:56:46
+
+2014-11-27T06:56:46Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2014-11-27T07:00:44Z
+RequestParameter:  billNo: nB69L1417071643 | startTime:2014-11-27 07:00:44
+
+2014-11-27T07:00:44Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Test%20%20Name&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=nB69L1417071643&remark=Test
+
+2014-11-27T07:00:45Z
+ResponseParameter:  billNo: nB69L1417071643 | endTime:2014-11-27 07:00:45
+
+2014-11-27T07:00:45Z
+successcode=0&Ref=nB69L1417071643&PayRef=1210067293&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Test  Name&AuthId=067293&TxTime=2014-11-27 15:01:13.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-11-27T07:31:32Z
+RequestParameter:  billNo: DcseE1417073491 | startTime:2014-11-27 07:31:32
+
+2014-11-27T07:31:32Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=MASTER&lang=E&cardHolder=Test%20Name&cardNo=5309700000000001&securityCode=467&epMonth=12&epYear=2015&amount=10&currCode=608&orderRef=DcseE1417073491&remark=Test
+
+2014-11-27T07:31:33Z
+ResponseParameter:  billNo: DcseE1417073491 | endTime:2014-11-27 07:31:33
+
+2014-11-27T07:31:33Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter Payment Method Incorrect
+
+
+2014-11-27T07:33:16Z
+RequestParameter:  billNo: iGl6C1417073595 | startTime:2014-11-27 07:33:16
+
+2014-11-27T07:33:16Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=MASTER&lang=E&cardHolder=Test%20Name&cardNo=5309700000000001&securityCode=467&epMonth=01&epYear=2015&amount=10&currCode=608&orderRef=iGl6C1417073595&remark=Test
+
+2014-11-27T07:33:16Z
+ResponseParameter:  billNo: iGl6C1417073595 | endTime:2014-11-27 07:33:16
+
+2014-11-27T07:33:16Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter Payment Method Incorrect
+
+
+2014-11-27T07:39:30Z
+RequestParameter:  billNo: iDlJx1417073969 | startTime:2014-11-27 07:39:30
+
+2014-11-27T07:39:30Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Test%20Name&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=iDlJx1417073969&remark=Test
+
+2014-11-27T07:39:31Z
+ResponseParameter:  billNo: iDlJx1417073969 | endTime:2014-11-27 07:39:31
+
+2014-11-27T07:39:31Z
+successcode=0&Ref=iDlJx1417073969&PayRef=1210067297&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Test Name&AuthId=067297&TxTime=2014-11-27 15:39:59.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2014-11-27T07:42:03Z
+RequestParameter:  billNo: DF4311417074122 | startTime:2014-11-27 07:42:03
+
+2014-11-27T07:42:03Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Test%20Name&cardNo=4215850023025845&securityCode=914&epMonth=02&epYear=2017&amount=10&currCode=608&orderRef=DF4311417074122&remark=Test
+
+2014-11-27T07:42:04Z
+ResponseParameter:  billNo: DF4311417074122 | endTime:2014-11-27 07:42:04
+
+2014-11-27T07:42:04Z
+successcode=1&Ref=DF4311417074122&PayRef=1210067300&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Test Name&AuthId=&TxTime=2014-11-27 15:42:32.0&errMsg=Transaction failed
+
+
+
+
+
+
+

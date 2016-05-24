@@ -1,0 +1,888 @@
+2015-10-08T09:50:13Z
+RequestParameter:  billNo: 1444297813643 | startTime:2015-10-08 09:50:13
+
+2015-10-08T09:50:13Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 82.81.20.45
+    [SESS] => f97ddab8f5f3ee2b4ad35ca8ebaa4828
+    [ORDR] => 1444297813643
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 455744TBIJ4X9WAVBTBB
+    [IPAD] => 82.81.20.45
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ACI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERACIM1
+    [NAME] => Alessandro Sepich
+    [B2A1] => Mystreet avenue
+    [B2CC] => US
+    [B2CI] => New York
+    [B2PC] => 512563
+    [B2PN] => 9999999999
+    [B2ST] => NY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-10-16
+    [GENDER] => M
+    [EMAL] => test@aslabs.com
+)
+
+
+2015-10-08T09:50:14Z
+ResponseParameter:  billNo: 1444297813643 | endTime:2015-10-08 09:50:14
+
+2015-10-08T09:50:14Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>31WT0KQXDRPQ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>f97ddab8f5f3ee2b4ad35ca8ebaa4828</SESS>
+  <ORDR>1444297813643</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>30</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>87FF197DF2.6E76FC957E.7656EFA79E.D300F3BD95.4107CA5D56</DEVICE_LAYERS>
+  <FINGERPRINT>C97D2B4529F52B347053EC35225763F0</FINGERPRINT>
+  <TIMEZONE>1260</TIMEZONE>
+  <LOCALTIME>2015-10-08 12:50</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330724</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330730</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-10-08</DDFS>
+  <DSR>1080x1920</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</UAS>
+  <BROWSER>Chrome 45.0.2454.101</BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>82.81.20.45</IP_IPAD>
+  <IP_LAT>31.5</IP_LAT>
+  <IP_LON>34.75</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T09:52:48Z
+RequestParameter:  billNo: 1444297969409 | startTime:2015-10-08 09:52:48
+
+2015-10-08T09:52:48Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 82.81.20.45
+    [SESS] => a2b62c1e745312728a9dd57bba6bfe56
+    [ORDR] => 1444297969409
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 532610Q9PVZ1K64UOHWA
+    [IPAD] => 82.81.20.45
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-ACI-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERACIM1
+    [NAME] => Alessandro Sepich
+    [B2A1] => Mystreet avenue
+    [B2CC] => US
+    [B2CI] => New York
+    [B2PC] => 512563
+    [B2PN] => 9999999999
+    [B2ST] => NY
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-10-16
+    [GENDER] => M
+    [EMAL] => test@aslabs.com
+)
+
+
+2015-10-08T09:52:49Z
+ResponseParameter:  billNo: 1444297969409 | endTime:2015-10-08 09:52:49
+
+2015-10-08T09:52:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>31WT0H76K9V8</TRAN>
+  <MERC>680000</MERC>
+  <SESS>a2b62c1e745312728a9dd57bba6bfe56</SESS>
+  <ORDR>1444297969409</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>35</SCOR>
+  <GEOX>IL</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>2</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>87FF197DF2.6E76FC957E.7656EFA79E.D300F3BD95.4107CA5D56</DEVICE_LAYERS>
+  <FINGERPRINT>C97D2B4529F52B347053EC35225763F0</FINGERPRINT>
+  <TIMEZONE>1260</TIMEZONE>
+  <LOCALTIME>2015-10-08 12:52</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>IL</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>4</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330724</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330730</RULE_ID_3>
+  <RULE_DESCRIPTION_3>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_3>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>3</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-10-08</DDFS>
+  <DSR>1080x1920</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</UAS>
+  <BROWSER>Chrome 45.0.2454.101</BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>82.81.20.45</IP_IPAD>
+  <IP_LAT>31.5</IP_LAT>
+  <IP_LON>34.75</IP_LON>
+  <IP_COUNTRY>IL</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>BEZEQ INTERNATIONAL</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T11:21:49Z
+RequestParameter:  billNo: bill635799000265663757 | startTime:2015-10-08 11:21:49
+
+2015-10-08T11:21:49Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => bill635799000265663757
+    [ORDR] => bill635799000265663757
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497203USNZEL0SDC4NK5
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 27500
+    [TOTL] => 27500
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Denise Entraygues
+    [B2A1] => 15 rue de l ourcq
+    [B2CC] => FR
+    [B2CI] => coreze
+    [B2PC] => 19
+    [B2PN] => 33 555230823
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 275
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => 19blanche@gmail.com
+    [ANID] => 33 555230823
+)
+
+
+2015-10-08T11:21:51Z
+ResponseParameter:  billNo: bill635799000265663757 | endTime:2015-10-08 11:21:51
+
+2015-10-08T11:21:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31WH0Z9MSDRY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799000265663757</SESS>
+  <ORDR>bill635799000265663757</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T11:35:34Z
+RequestParameter:  billNo: bill635799003418325235 | startTime:2015-10-08 11:35:34
+
+2015-10-08T11:35:34Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 62.34.13.226
+    [SESS] => bill635799003418325235
+    [ORDR] => bill635799003418325235
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162MXQ1OO0GVWC5IK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 21800
+    [TOTL] => 21800
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Simon Serge_
+    [B2A1] => nc
+    [B2CC] => FR
+    [B2CI] => saint hippolyte
+    [B2PC] => 66510
+    [B2PN] => 33 468280630
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 218
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => fasaclo42@live.fr
+    [ANID] => 33 468280630
+)
+
+
+2015-10-08T11:35:35Z
+ResponseParameter:  billNo: bill635799003418325235 | endTime:2015-10-08 11:35:35
+
+2015-10-08T11:35:35Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31WH0R6R09V0</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799003418325235</SESS>
+  <ORDR>bill635799003418325235</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345044</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Name Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T12:10:54Z
+RequestParameter:  billNo: bill635799030110944825 | startTime:2015-10-08 12:10:54
+
+2015-10-08T12:10:54Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => bill635799030110944825
+    [ORDR] => bill635799030110944825
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162MXQ1OO0GVWC5IK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 21800
+    [TOTL] => 21800
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Simon Serge_
+    [B2A1] => nc
+    [B2CC] => FR
+    [B2CI] => nc
+    [B2PC] => nc
+    [B2PN] => 33 468280630
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 218
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => fasaclo42@live.fr
+    [ANID] => 33 468280630
+)
+
+
+2015-10-08T12:10:56Z
+ResponseParameter:  billNo: bill635799030110944825 | endTime:2015-10-08 12:10:56
+
+2015-10-08T12:10:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31W00YBDZKTH</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799030110944825</SESS>
+  <ORDR>bill635799030110944825</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345044</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Name Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T13:40:46Z
+RequestParameter:  billNo: bill635799084123931397 | startTime:2015-10-08 13:40:46
+
+2015-10-08T13:40:46Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => bill635799084123931397
+    [ORDR] => bill635799084123931397
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162MXQ1OO0GVWC5IK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 21800
+    [TOTL] => 21800
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Simon Serge_
+    [B2A1] => nc
+    [B2CC] => FR
+    [B2CI] => nc
+    [B2PC] => nc
+    [B2PN] => 33 468280630
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 218
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => fasaclo42@live.fr
+    [ANID] => 33 468280630
+)
+
+
+2015-10-08T13:40:48Z
+ResponseParameter:  billNo: bill635799084123931397 | endTime:2015-10-08 13:40:48
+
+2015-10-08T13:40:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31WC0P1XJTGW</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799084123931397</SESS>
+  <ORDR>bill635799084123931397</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>2</VELO>
+  <VMAX>2</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345044</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Name Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T13:48:14Z
+RequestParameter:  billNo: bill635799088656351547 | startTime:2015-10-08 13:48:14
+
+2015-10-08T13:48:14Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => bill635799088656351547
+    [ORDR] => bill635799088656351547
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162MXQ1OO0GVWC5IK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 21800
+    [TOTL] => 21800
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Simon Serge_
+    [B2A1] => 1 rue charles de gaulle
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75018
+    [B2PN] => 33 468280630
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 218
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => fasaclo42@live.fr
+    [ANID] => 33 468280630
+)
+
+
+2015-10-08T13:48:15Z
+ResponseParameter:  billNo: bill635799088656351547 | endTime:2015-10-08 13:48:15
+
+2015-10-08T13:48:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31WC0HZQB692</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799088656351547</SESS>
+  <ORDR>bill635799088656351547</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>3</VELO>
+  <VMAX>3</VMAX>
+  <RULES_TRIGGERED>1</RULES_TRIGGERED>
+  <RULE_ID_0>345044</RULE_ID_0>
+  <RULE_DESCRIPTION_0>Decline Customer Name Validation</RULE_DESCRIPTION_0>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-08T13:50:30Z
+RequestParameter:  billNo: bill635799089987826131 | startTime:2015-10-08 13:50:30
+
+2015-10-08T13:50:30Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 84.95.130.186
+    [SESS] => bill635799089987826131
+    [ORDR] => bill635799089987826131
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 513162MXQ1OO0GVWC5IK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 21800
+    [TOTL] => 21800
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => Simon Serge
+    [B2A1] => 1 rue charles de gaulle
+    [B2CC] => FR
+    [B2CI] => paris
+    [B2PC] => 75018
+    [B2PN] => 33 468280630
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 218
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => fasaclo42@live.fr
+    [ANID] => 33 468280630
+)
+
+
+2015-10-08T13:50:32Z
+ResponseParameter:  billNo: bill635799089987826131 | endTime:2015-10-08 13:50:32
+
+2015-10-08T13:50:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31WC02KLX9TW</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bill635799089987826131</SESS>
+  <ORDR>bill635799089987826131</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>4</VELO>
+  <VMAX>4</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

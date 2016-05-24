@@ -1,0 +1,320 @@
+2014-08-20T07:01:42Z
+RequestParameter:  billNo: 20140731222037433
+
+2014-08-20T07:01:42Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGCSGLOBAL00012&Password=AZFR8L71EV&Reference=20140731222037433&TransactionType=2&Currency=USD&Amount=199.99&TransactionID=201408010000021000BA
+
+2014-08-20T07:01:43Z
+ResponseParameter:  billNo: 20140731222037433
+
+2014-08-20T07:01:43Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGCSGLOBAL00012</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140731222037433</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820160220</ResponseTime>
+<TransactionID>201408010000021000BA</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:08:00Z
+RequestParameter:  billNo: 20140811005818503
+
+2014-08-20T07:08:00Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140811005818503&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=201408110000038000AD
+
+2014-08-20T07:08:02Z
+ResponseParameter:  billNo: 20140811005818503
+
+2014-08-20T07:08:02Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140811005818503</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820160839</ResponseTime>
+<TransactionID>201408110000038000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:08:57Z
+RequestParameter:  billNo: 20140812035728198
+
+2014-08-20T07:08:57Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140812035728198&TransactionType=2&Currency=USD&Amount=349.98&TransactionID=20140812000009A000AD
+
+2014-08-20T07:08:58Z
+ResponseParameter:  billNo: 20140812035728198
+
+2014-08-20T07:08:58Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140812035728198</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820160935</ResponseTime>
+<TransactionID>20140812000009A000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:11:40Z
+RequestParameter:  billNo: 20140812093731850
+
+2014-08-20T07:11:40Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140812093731850&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=2014081200000F5000AD
+
+2014-08-20T07:11:41Z
+ResponseParameter:  billNo: 20140812093731850
+
+2014-08-20T07:11:41Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140812093731850</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161218</ResponseTime>
+<TransactionID>2014081200000F5000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:12:35Z
+RequestParameter:  billNo: 20140812235629890
+
+2014-08-20T07:12:35Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140812235629890&TransactionType=2&Currency=USD&Amount=99.97&TransactionID=201408130000040000AD
+
+2014-08-20T07:12:36Z
+ResponseParameter:  billNo: 20140812235629890
+
+2014-08-20T07:12:36Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140812235629890</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161314</ResponseTime>
+<TransactionID>201408130000040000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:13:38Z
+RequestParameter:  billNo: 20140813073540910
+
+2014-08-20T07:13:38Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140813073540910&TransactionType=2&Currency=USD&Amount=349.99&TransactionID=2014081300000D3000AD
+
+2014-08-20T07:13:39Z
+ResponseParameter:  billNo: 20140813073540910
+
+2014-08-20T07:13:39Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140813073540910</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161416</ResponseTime>
+<TransactionID>2014081300000D3000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:14:37Z
+RequestParameter:  billNo: 2014081308150355
+
+2014-08-20T07:14:37Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=2014081308150355&TransactionType=2&Currency=USD&Amount=199.97&TransactionID=2014081300000DF000AD
+
+2014-08-20T07:14:38Z
+ResponseParameter:  billNo: 2014081308150355
+
+2014-08-20T07:14:38Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>2014081308150355</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161515</ResponseTime>
+<TransactionID>2014081300000DF000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:15:43Z
+RequestParameter:  billNo: 20140813034229824
+
+2014-08-20T07:15:43Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&Reference=20140813034229824&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=201408130000086000AD
+
+2014-08-20T07:15:44Z
+ResponseParameter:  billNo: 20140813034229824
+
+2014-08-20T07:15:44Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140813034229824</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161622</ResponseTime>
+<TransactionID>201408130000086000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:17:15Z
+RequestParameter:  billNo: 20140814192917414
+
+2014-08-20T07:17:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140814192917414&TransactionType=2&Currency=USD&Amount=54.98&TransactionID=20140814000012E000BB
+
+2014-08-20T07:17:16Z
+ResponseParameter:  billNo: 20140814192917414
+
+2014-08-20T07:17:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140814192917414</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161753</ResponseTime>
+<TransactionID>20140814000012E000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T07:17:55Z
+RequestParameter:  billNo: 20140815110532542
+
+2014-08-20T07:17:55Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140815110532542&TransactionType=2&Currency=USD&Amount=49.97&TransactionID=201408150000136000BB
+
+2014-08-20T07:17:56Z
+ResponseParameter:  billNo: 20140815110532542
+
+2014-08-20T07:17:56Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140815110532542</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140820161833</ResponseTime>
+<TransactionID>201408150000136000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T16:49:08Z
+RequestParameter:  billNo: 20140815135751308
+
+2014-08-20T16:49:08Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140815135751308&TransactionType=2&Currency=USD&Amount=55.11&TransactionID=201408150000144000BB
+
+2014-08-20T16:49:10Z
+ResponseParameter:  billNo: 20140815135751308
+
+2014-08-20T16:49:10Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<Reference>20140815135751308</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-08-20T19:56:26Z
+RequestParameter:  billNo: 20140814170823986
+
+2014-08-20T19:56:26Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140814170823986&TransactionType=2&Currency=USD&Amount=49.99&TransactionID=20140814000011E000BB
+
+2014-08-20T19:59:26Z
+ResponseParameter:  billNo: 20140814170823986
+
+2014-08-20T19:59:26Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140814170823986</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140821050003</ResponseTime>
+<TransactionID>20140814000011E000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-20T20:02:45Z
+RequestParameter:  billNo: 20140815132828562
+
+2014-08-20T20:02:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGMYPERSON00013&Password=ZBDA2Z4WVC&Reference=20140815132828562&TransactionType=2&Currency=USD&Amount=69.98&TransactionID=201408150000141000BB
+
+2014-08-20T20:02:46Z
+ResponseParameter:  billNo: 20140815132828562
+
+2014-08-20T20:02:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGMYPERSON00013</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20140815132828562</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140821050324</ResponseTime>
+<TransactionID>201408150000141000BB</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

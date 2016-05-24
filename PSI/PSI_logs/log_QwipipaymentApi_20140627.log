@@ -1,0 +1,57 @@
+2014-06-27T01:00:56Z
+RequestParameter:  referenceId: QKIlt1403830856
+
+2014-06-27T01:00:56Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=QKIlt1403830856&dateTime=20140627090056&currency=USD&language=eng&cardHolderIp=166.147.108.30&md5Info=D6FF9E692B5B24875E6E5091E316275E&cardNum=5348600000664901&cvv2=78&month=03&year=18&birthDate=19840630&firstName=David%20&lastName=Rivas&email=Carcs@live.com&phone=2399896018&zipCode=32804&address=832%20Carlson%20&city=Orlando%20&state=Fl&country=US&amount=49.99&products=2&remark=None
+
+2014-06-27T01:01:01Z
+ResponseParameter:  referenceId: QKIlt1403830856
+
+2014-06-27T01:01:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>QKIlt1403830856</billNo><currency>USD</currency><amount>49.99</amount><dateTime>20140627090108</dateTime><paymentOrderNo>1078511337571</paymentOrderNo><remark>Transaction declined.</remark><md5Info>46B82FC6624F0262B103A93211E3CA7F</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-27T14:48:47Z
+RequestParameter:  referenceId: 1403880537
+
+2014-06-27T14:48:47Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403880537&dateTime=2014062794856&currency=USD&language=eng&cardHolderIp=98.163.204.93&md5Info=CD75C99496EC81F64D73D5AFB4578C75&cardNum=5455348242668798&cvv2=745&month=01&year=15&birthDate=19471130&firstName=Veronica&lastName=Hunter&email=frogvhunter@aol.com&phone=5042242301&zipCode=70122&address=2346%20wisteria%20st&city=New%20Orleans&state=LA&country=US&amount=199.99&products=1&remark=remark
+
+2014-06-27T14:48:48Z
+ResponseParameter:  referenceId: 1403880537
+
+2014-06-27T14:48:48Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>1403880537</billNo><currency>USD</currency><amount>199.99</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date format is wrong</remark><md5Info>DA6E228E6E30082A71B9A3193E614DDA</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-27T14:59:46Z
+RequestParameter:  referenceId: z7QXc1403881186
+
+2014-06-27T14:59:46Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=z7QXc1403881186&dateTime=20140627225946&currency=USD&language=eng&cardHolderIp=180.151.8.226&md5Info=AADF1D82DEE52EAEF3692B543E87F55C&cardNum=5455348242668798&cvv2=745&month=01&year=15&birthDate=19471130&firstName=Veronica&lastName=Hunter&email=frogvhunter@aol.com&phone=5044224230&zipCode=70122&address=2346%20Wisteria&city=New%20Orleans&state=LA&country=US&amount=199.99&products=2&remark=Tech%20Live%20Plus%20LLC
+
+2014-06-27T14:59:56Z
+ResponseParameter:  referenceId: z7QXc1403881186
+
+2014-06-27T14:59:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>z7QXc1403881186</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140627225958</dateTime><paymentOrderNo>1078511343749</paymentOrderNo><remark>Payment Success</remark><md5Info>E821EB8FEE27788A5F057036D6C0812D</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+

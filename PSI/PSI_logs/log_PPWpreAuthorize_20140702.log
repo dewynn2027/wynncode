@@ -1,0 +1,50 @@
+2014-07-02T09:13:07Z
+RequestParameter:  referenceId: luP581404291345
+
+2014-07-02T09:13:07Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=3&Reference=luP581404291345&Currency=USD&Amount=123&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=karding%20dsad&ProductName=2
+
+2014-07-02T09:13:08Z
+ResponseParameter:  referenceId: luP581404291345
+
+2014-07-02T09:13:08Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>3</TransactionType>
+<Reference>luP581404291345</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140702181322</ResponseTime>
+<TransactionID>20140702000005500030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-02T09:19:22Z
+RequestParameter:  referenceId: vsoud1404292761
+
+2014-07-02T09:19:22Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=3&Reference=vsoud1404292761&Currency=USD&Amount=563&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=aljen%20patingo&ProductName=2
+
+2014-07-02T09:19:22Z
+ResponseParameter:  referenceId: vsoud1404292761
+
+2014-07-02T09:19:22Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>3</TransactionType>
+<Reference>vsoud1404292761</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140702181936</ResponseTime>
+<TransactionID>20140702000005600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

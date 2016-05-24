@@ -1,0 +1,288 @@
+2015-10-19T14:45:57Z
+RequestParameter:  billNo: 8146-5941_1429 | startTime:2015-10-19 14:45:57
+
+2015-10-19T14:45:57Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T14:45:57Z
+Array
+(
+    [cid] => 11636
+    [payNo] => 8146-5941_1429
+    [createdAt] => 20151019044559
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 46.105.137.33
+    [signInfo] => 7c7973945f5269310fd6c409d3ea2bbc
+    [ccNo] => 5************633
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2016
+    [fName] => Philippe
+    [lName] => LAGRANGE
+    [emailAddress] => lagrangephil@free.fr
+    [phoneNo] => 0607415012
+    [birth] => 19540721
+    [zip] => 70140
+    [billAddress] => 60 rue T MARTIN
+    [billCity] => LA RESIE SAINT MARTIN
+    [billState] => NA
+    [billCountry] => FR
+    [billAmount] => 500
+    [comment] => 
+)
+
+
+2015-10-19T14:46:03Z
+ResponseParameter:  billNo: 8146-5941_1429 | endTime:2015-10-19 14:46:03
+
+2015-10-19T14:46:03Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11636","payNo":"8146-5941_1429","billAmount":"500.00","createdAt":"20151019224611","billCurrency":"EUR","tid":"1163622645969","comment":"Success","signInfo":"822CA4B692A1514B9A7DA910EE199AFE","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-19T15:35:51Z
+RequestParameter:  billNo: 3778-6565_6206 | startTime:2015-10-19 15:35:51
+
+2015-10-19T15:35:51Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T15:35:51Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 3778-6565_6206
+    [createdAt] => 20151019053555
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 46.105.137.33
+    [signInfo] => 8abd336bd04684259810b8eff1119b0e
+    [ccNo] => 4************574
+    [cvc] => ***
+    [expMonth] => 09
+    [expYear] => 2018
+    [fName] => Brelaud
+    [lName] => Gilbert
+    [emailAddress] => gilbert_surf@msn.com
+    [phoneNo] => 662791458
+    [birth] => 19551020
+    [zip] => 75012
+    [billAddress] => 1 rue du trotoire
+    [billCity] => Paris
+    [billState] => NA
+    [billCountry] => FR
+    [billAmount] => 100
+    [comment] => 
+)
+
+
+2015-10-19T15:35:58Z
+ResponseParameter:  billNo: 3778-6565_6206 | endTime:2015-10-19 15:35:58
+
+2015-10-19T15:35:58Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"3778-6565_6206","billAmount":"100.00","createdAt":"20151019233606","billCurrency":"EUR","tid":"1163522646950","comment":"Success","signInfo":"C3B30AAE00F1F88DD6D1D4419815BECB","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-19T23:13:29Z
+RequestParameter:  billNo: 8538-5040_7448 | startTime:2015-10-19 23:13:29
+
+2015-10-19T23:13:29Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T23:13:29Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 8538-5040_7448
+    [createdAt] => 20151020011333
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 66.103.57.33
+    [signInfo] => d768135c040b93aeb11f2f29349aa8f1
+    [ccNo] => 4************012
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2019
+    [fName] => ALWAY
+    [lName] => DAVID
+    [emailAddress] => alwaylogistics@gmail.com
+    [phoneNo] => 0015194101006
+    [birth] => 19580213
+    [zip] => N3Y4X2
+    [billAddress] => 38 Carriage Road
+    [billCity] => Simcoe
+    [billState] => NA
+    [billCountry] => CA
+    [billAmount] => 250
+    [comment] => 
+)
+
+
+2015-10-19T23:13:35Z
+ResponseParameter:  billNo: 8538-5040_7448 | endTime:2015-10-19 23:13:35
+
+2015-10-19T23:13:35Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"8538-5040_7448","billAmount":"250.00","createdAt":"20151020071343","billCurrency":"EUR","tid":"1163522658984","comment":"Success","signInfo":"06C2116DDC57E8D30772B1DF106B813A","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-19T23:39:32Z
+RequestParameter:  billNo: 7531-2395_3920 | startTime:2015-10-19 23:39:32
+
+2015-10-19T23:39:32Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T23:39:32Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 7531-2395_3920
+    [createdAt] => 20151020013936
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 66.103.57.33
+    [signInfo] => bffd2f12f14e5798a01909c90a2f1482
+    [ccNo] => 4************012
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2019
+    [fName] => ALWAY
+    [lName] => DAVID
+    [emailAddress] => alwaylogistics@gmail.com
+    [phoneNo] => 0015194101006
+    [birth] => 19000101
+    [zip] => N3Y4X2
+    [billAddress] => 38 Carriage Road
+    [billCity] => Simcoe
+    [billState] => NA
+    [billCountry] => CA
+    [billAmount] => 400
+    [comment] => 
+)
+
+
+2015-10-19T23:39:39Z
+ResponseParameter:  billNo: 7531-2395_3920 | endTime:2015-10-19 23:39:39
+
+2015-10-19T23:39:39Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"7531-2395_3920","billAmount":"400.00","createdAt":"20151020073946","billCurrency":"EUR","tid":"1163522659917","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"36D45FDEA10DC9E1429705C479214FA5","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-19T23:40:01Z
+RequestParameter:  billNo: 6305-9269_2463 | startTime:2015-10-19 23:40:01
+
+2015-10-19T23:40:01Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T23:40:01Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 6305-9269_2463
+    [createdAt] => 20151020014006
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 66.103.57.33
+    [signInfo] => ac0be63958742f876506dea8bdbae077
+    [ccNo] => 4************012
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2019
+    [fName] => ALWAY
+    [lName] => DAVID
+    [emailAddress] => alwaylogistics@gmail.com
+    [phoneNo] => 0015194101006
+    [birth] => 19000101
+    [zip] => N3Y4X2
+    [billAddress] => 38 Carriage Road
+    [billCity] => Simcoe
+    [billState] => NA
+    [billCountry] => CA
+    [billAmount] => 250
+    [comment] => 
+)
+
+
+2015-10-19T23:40:07Z
+ResponseParameter:  billNo: 6305-9269_2463 | endTime:2015-10-19 23:40:07
+
+2015-10-19T23:40:07Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"6305-9269_2463","billAmount":"250.00","createdAt":"20151020074015","billCurrency":"EUR","tid":"1163522659942","comment":"Success","signInfo":"529AFB0C03105CA46FC86DA2B971BF43","billingDescriptor":"yuyandq2015"}
+
+)
+
+
+2015-10-19T23:49:59Z
+RequestParameter:  billNo: 8198-2705_657 | startTime:2015-10-19 23:49:59
+
+2015-10-19T23:49:59Z
+https://sip.uniques.net/direct/payment
+
+2015-10-19T23:49:59Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 8198-2705_657
+    [createdAt] => 20151020015001
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 66.103.57.33
+    [signInfo] => 8a41c77eaf7125f28fb62c6232f6bff5
+    [ccNo] => 4************012
+    [cvc] => ***
+    [expMonth] => 07
+    [expYear] => 2019
+    [fName] => ALWAY
+    [lName] => DAVID
+    [emailAddress] => alwaylogistics@gmail.com
+    [phoneNo] => 0015194101006
+    [birth] => 19000101
+    [zip] => N3Y4X2
+    [billAddress] => 38 Carriage Road
+    [billCity] => Simcoe
+    [billState] => NA
+    [billCountry] => CA
+    [billAmount] => 100
+    [comment] => 
+)
+
+
+2015-10-19T23:50:06Z
+ResponseParameter:  billNo: 8198-2705_657 | endTime:2015-10-19 23:50:06
+
+2015-10-19T23:50:06Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"57","cid":"11635","payNo":"8198-2705_657","billAmount":"100.00","createdAt":"20151020075013","billCurrency":"EUR","tid":"1163522660312","comment":"Payment declined by card issuer. Please contact your bank and retry","signInfo":"E780530236E8AF9B045B65E2B47F0772","billingDescriptor":"yuyandq2015"}
+
+)
+
+

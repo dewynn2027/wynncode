@@ -1,0 +1,900 @@
+2014-06-30T14:02:14Z
+RequestParameter:  referenceId: 1404136946
+
+2014-06-30T14:02:14Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404136946&Currency=USD&Amount=199.99&CardNumber=5421632541257896&ExpiryMM=02&ExpiryYY=17&Csc=254&CardHolder=deepak%20gera&ProductName=1
+
+2014-06-30T14:02:16Z
+ResponseParameter:  referenceId: 1404136946
+
+2014-06-30T14:02:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404136946</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140630160229</ResponseTime>
+<TransactionID>20140630000001C000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T14:02:34Z
+RequestParameter:  referenceId: 1404136965
+
+2014-06-30T14:02:34Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404136965&Currency=USD&Amount=199.99&CardNumber=5421632541257896&ExpiryMM=02&ExpiryYY=17&Csc=254&CardHolder=deepak%20gera&ProductName=1
+
+2014-06-30T14:02:35Z
+ResponseParameter:  referenceId: 1404136965
+
+2014-06-30T14:02:35Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404136965</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140630220248</ResponseTime>
+<TransactionID>20140630000001D000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T15:04:15Z
+RequestParameter:  referenceId: 1404140667
+
+2014-06-30T15:04:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404140667&Currency=USD&Amount=199.99&CardNumber=372526112151000&ExpiryMM=12&ExpiryYY=15&Csc=4755&CardHolder=Daniel%20Murphy&ProductName=1
+
+2014-06-30T15:04:16Z
+ResponseParameter:  referenceId: 1404140667
+
+2014-06-30T15:04:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404140667</Reference>
+<ResponseCode>933</ResponseCode>
+<ResponseMessage>Invalid Card Type</ResponseMessage>
+<ResponseTime>20140630230429</ResponseTime>
+<TransactionID>201407010000001000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T15:07:51Z
+RequestParameter:  referenceId: 1404140883
+
+2014-06-30T15:07:51Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404140883&Currency=USD&Amount=199.99&CardNumber=4616081102583257&ExpiryMM=12&ExpiryYY=14&Csc=959&CardHolder=Daniel%20Murphy&ProductName=1
+
+2014-06-30T15:08:02Z
+ResponseParameter:  referenceId: 1404140883
+
+2014-06-30T15:08:02Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404140883</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140630230814</ResponseTime>
+<TransactionID>201407010000002000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T15:39:39Z
+RequestParameter:  referenceId: 1404142790
+
+2014-06-30T15:39:39Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404142790&Currency=USD&Amount=199.99&CardNumber=5491237336055580&ExpiryMM=01&ExpiryYY=16&Csc=577&CardHolder=Cynthia%20Cheeseman&ProductName=1
+
+2014-06-30T15:39:49Z
+RequestParameter:  referenceId: 1404142800
+
+2014-06-30T15:39:49Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404142800&Currency=USD&Amount=199.99&CardNumber=4342571000335553&ExpiryMM=04&ExpiryYY=16&Csc=710&CardHolder=Rozan%20Kerr&ProductName=1
+
+2014-06-30T15:39:50Z
+ResponseParameter:  referenceId: 1404142800
+
+2014-06-30T15:39:50Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404142800</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140630234003</ResponseTime>
+<TransactionID>201407010000004000AD</TransactionID>
+<AuthCode>951463</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T15:39:50Z
+ResponseParameter:  referenceId: 1404142790
+
+2014-06-30T15:39:50Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404142790</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140630234003</ResponseTime>
+<TransactionID>201407010000003000AD</TransactionID>
+<AuthCode>03041Z</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:19:57Z
+RequestParameter:  referenceId: 1404145209
+
+2014-06-30T16:19:57Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404145209&Currency=USD&Amount=99.99&CardNumber=5582508643601351&ExpiryMM=05&ExpiryYY=17&Csc=906&CardHolder=larry%20waters&ProductName=1
+
+2014-06-30T16:20:00Z
+ResponseParameter:  referenceId: 1404145209
+
+2014-06-30T16:20:00Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404145209</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701002013</ResponseTime>
+<TransactionID>201407010000007000AD</TransactionID>
+<AuthCode>00408C</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:22:18Z
+RequestParameter:  referenceId: carij1404145337
+
+2014-06-30T16:22:18Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=carij1404145337&Currency=USD&Amount=199.99&CardNumber=4677260107697785&ExpiryMM=06&ExpiryYY=15&Csc=939&CardHolder=Debbie%20Newton&ProductName=2
+
+2014-06-30T16:22:20Z
+ResponseParameter:  referenceId: carij1404145337
+
+2014-06-30T16:22:20Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>carij1404145337</Reference>
+<ResponseCode>920</ResponseCode>
+<ResponseMessage>Card limit exceeded</ResponseMessage>
+<ResponseTime>20140701002232</ResponseTime>
+<TransactionID>201407010000008000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:22:51Z
+RequestParameter:  referenceId: CL7ay1404145371
+
+2014-06-30T16:22:51Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=CL7ay1404145371&Currency=USD&Amount=190.99&CardNumber=4677260107697785&ExpiryMM=06&ExpiryYY=15&Csc=939&CardHolder=Debbie%20Newton&ProductName=2
+
+2014-06-30T16:22:53Z
+ResponseParameter:  referenceId: CL7ay1404145371
+
+2014-06-30T16:22:53Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>CL7ay1404145371</Reference>
+<ResponseCode>920</ResponseCode>
+<ResponseMessage>Card limit exceeded</ResponseMessage>
+<ResponseTime>20140701002306</ResponseTime>
+<TransactionID>201407010000009000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:23:35Z
+RequestParameter:  referenceId: tYKeS1404145415
+
+2014-06-30T16:23:35Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=tYKeS1404145415&Currency=USD&Amount=170.99&CardNumber=4677260107697785&ExpiryMM=06&ExpiryYY=15&Csc=939&CardHolder=Debbie%20Newton&ProductName=2
+
+2014-06-30T16:23:37Z
+ResponseParameter:  referenceId: tYKeS1404145415
+
+2014-06-30T16:23:37Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>tYKeS1404145415</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140630182349</ResponseTime>
+<TransactionID>20140701000000A000AD</TransactionID>
+<AuthCode>001157</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:27:16Z
+RequestParameter:  referenceId: 1404145648
+
+2014-06-30T16:27:16Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404145648&Currency=USD&Amount=199.99&CardNumber=5460648200315289&ExpiryMM=05&ExpiryYY=17&Csc=846&CardHolder=Joseph%20McHugh&ProductName=1
+
+2014-06-30T16:27:18Z
+ResponseParameter:  referenceId: 1404145648
+
+2014-06-30T16:27:18Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404145648</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701002730</ResponseTime>
+<TransactionID>20140701000000B000AD</TransactionID>
+<AuthCode>202237</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:37:28Z
+RequestParameter:  referenceId: 1404146260
+
+2014-06-30T16:37:28Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404146260&Currency=USD&Amount=199.99&CardNumber=371745683321013&ExpiryMM=05&ExpiryYY=17&Csc=9397&CardHolder=Nondas%20Baxley&ProductName=1
+
+2014-06-30T16:37:29Z
+ResponseParameter:  referenceId: 1404146260
+
+2014-06-30T16:37:29Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404146260</Reference>
+<ResponseCode>933</ResponseCode>
+<ResponseMessage>Invalid Card Type</ResponseMessage>
+<ResponseTime>20140701003742</ResponseTime>
+<TransactionID>20140701000000D000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T16:40:29Z
+RequestParameter:  referenceId: 1404146441
+
+2014-06-30T16:40:29Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404146441&Currency=USD&Amount=199.99&CardNumber=5520300091460026&ExpiryMM=08&ExpiryYY=14&Csc=439&CardHolder=Nondas%20Baxley&ProductName=1
+
+2014-06-30T16:40:32Z
+ResponseParameter:  referenceId: 1404146441
+
+2014-06-30T16:40:32Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404146441</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701004045</ResponseTime>
+<TransactionID>20140701000000E000AD</TransactionID>
+<AuthCode>R6683B</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T17:00:53Z
+RequestParameter:  referenceId: 1404147665
+
+2014-06-30T17:00:53Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404147665&Currency=USD&Amount=299.99&CardNumber=4356436007459165&ExpiryMM=07&ExpiryYY=16&Csc=632&CardHolder=Paul%20Hilson&ProductName=1
+
+2014-06-30T17:00:55Z
+ResponseParameter:  referenceId: 1404147665
+
+2014-06-30T17:00:55Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404147665</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140701010108</ResponseTime>
+<TransactionID>201407010000010000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T17:03:15Z
+RequestParameter:  referenceId: 1404147807
+
+2014-06-30T17:03:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404147807&Currency=USD&Amount=299.99&CardNumber=4264289830032274&ExpiryMM=03&ExpiryYY=15&Csc=864&CardHolder=Paul%20Hilson&ProductName=1
+
+2014-06-30T17:03:17Z
+ResponseParameter:  referenceId: 1404147807
+
+2014-06-30T17:03:17Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404147807</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701010329</ResponseTime>
+<TransactionID>201407010000011000AD</TransactionID>
+<AuthCode>005333</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T17:42:32Z
+RequestParameter:  referenceId: 1404150163
+
+2014-06-30T17:42:32Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404150163&Currency=USD&Amount=199.99&CardNumber=4207670058646954&ExpiryMM=04&ExpiryYY=17&Csc=493&CardHolder=Viviene%20Welch&ProductName=1
+
+2014-06-30T17:42:34Z
+ResponseParameter:  referenceId: 1404150163
+
+2014-06-30T17:42:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404150163</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701014247</ResponseTime>
+<TransactionID>201407010000013000AD</TransactionID>
+<AuthCode>074213</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T17:58:15Z
+RequestParameter:  referenceId: 8Q7b51404151095
+
+2014-06-30T17:58:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=8Q7b51404151095&Currency=USD&Amount=24.99&CardNumber=376534642621001&ExpiryMM=06&ExpiryYY=18&Csc=4235&CardHolder=Deepak%20Gera&ProductName=2
+
+2014-06-30T17:58:16Z
+ResponseParameter:  referenceId: 8Q7b51404151095
+
+2014-06-30T17:58:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>8Q7b51404151095</Reference>
+<ResponseCode>933</ResponseCode>
+<ResponseMessage>Invalid Card Type</ResponseMessage>
+<ResponseTime>20140701015828</ResponseTime>
+<TransactionID>201407010000014000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T17:58:44Z
+RequestParameter:  referenceId: 1404151136
+
+2014-06-30T17:58:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404151136&Currency=USD&Amount=24.99&CardNumber=4111123412341234&ExpiryMM=01&ExpiryYY=16&Csc=123&CardHolder=Naveen%20Bhalla&ProductName=1
+
+2014-06-30T17:58:45Z
+ResponseParameter:  referenceId: 1404151136
+
+2014-06-30T17:58:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404151136</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140630195858</ResponseTime>
+<TransactionID>201407010000015000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T18:01:25Z
+RequestParameter:  referenceId: 1404151296
+
+2014-06-30T18:01:25Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404151296&Currency=USD&Amount=24.99&CardNumber=4111123412341234&ExpiryMM=01&ExpiryYY=16&Csc=123&CardHolder=Naveen%20Bhalla&ProductName=1
+
+2014-06-30T18:01:26Z
+ResponseParameter:  referenceId: 1404151296
+
+2014-06-30T18:01:26Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404151296</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140701020138</ResponseTime>
+<TransactionID>201407010000017000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T18:13:13Z
+RequestParameter:  referenceId: 1404152005
+
+2014-06-30T18:13:13Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404152005&Currency=USD&Amount=99.99&CardNumber=4111123412341234&ExpiryMM=01&ExpiryYY=15&Csc=123&CardHolder=Naveen%20Bhalla&ProductName=1
+
+2014-06-30T18:13:15Z
+ResponseParameter:  referenceId: 1404152005
+
+2014-06-30T18:13:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404152005</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140701021327</ResponseTime>
+<TransactionID>201407010000018000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T18:27:06Z
+RequestParameter:  referenceId: 1404152838
+
+2014-06-30T18:27:06Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404152838&Currency=USD&Amount=99.99&CardNumber=4111123412341234&ExpiryMM=01&ExpiryYY=15&Csc=123&CardHolder=Naveen%20Bhalla&ProductName=1
+
+2014-06-30T18:27:07Z
+ResponseParameter:  referenceId: 1404152838
+
+2014-06-30T18:27:07Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404152838</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140701022720</ResponseTime>
+<TransactionID>201407010000019000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T18:59:53Z
+RequestParameter:  referenceId: 1404154805
+
+2014-06-30T18:59:53Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404154805&Currency=USD&Amount=99.99&CardNumber=5121072745173510&ExpiryMM=01&ExpiryYY=17&Csc=409&CardHolder=Stephen%20Skapik&ProductName=1
+
+2014-06-30T18:59:56Z
+ResponseParameter:  referenceId: 1404154805
+
+2014-06-30T18:59:56Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404154805</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701030009</ResponseTime>
+<TransactionID>20140701000001B000AD</TransactionID>
+<AuthCode>03018B</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T19:19:20Z
+RequestParameter:  referenceId: 1404155972
+
+2014-06-30T19:19:20Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404155972&Currency=USD&Amount=199.99&CardNumber=4802137108840051&ExpiryMM=05&ExpiryYY=17&Csc=821&CardHolder=David%20Koning&ProductName=1
+
+2014-06-30T19:19:23Z
+ResponseParameter:  referenceId: 1404155972
+
+2014-06-30T19:19:23Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404155972</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701031936</ResponseTime>
+<TransactionID>20140701000001C000AD</TransactionID>
+<AuthCode>081235</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T19:31:07Z
+RequestParameter:  referenceId: 1404156678
+
+2014-06-30T19:31:07Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404156678&Currency=USD&Amount=199.99&CardNumber=4782009991015303&ExpiryMM=11&ExpiryYY=16&Csc=232&CardHolder=edward%20mangara&ProductName=1
+
+2014-06-30T19:31:08Z
+ResponseParameter:  referenceId: 1404156678
+
+2014-06-30T19:31:08Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404156678</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140701033121</ResponseTime>
+<TransactionID>20140701000001D000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T19:32:54Z
+RequestParameter:  referenceId: 1404156786
+
+2014-06-30T19:32:54Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404156786&Currency=USD&Amount=199.99&CardNumber=4782009991015303&ExpiryMM=11&ExpiryYY=16&Csc=232&CardHolder=edward%20mangara&ProductName=1
+
+2014-06-30T19:32:55Z
+ResponseParameter:  referenceId: 1404156786
+
+2014-06-30T19:32:55Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404156786</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140701033308</ResponseTime>
+<TransactionID>20140701000001E000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T19:34:30Z
+RequestParameter:  referenceId: 1404156882
+
+2014-06-30T19:34:30Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404156882&Currency=USD&Amount=199.99&CardNumber=5424180591899916&ExpiryMM=10&ExpiryYY=14&Csc=876&CardHolder=edward%20mangara&ProductName=1
+
+2014-06-30T19:34:34Z
+ResponseParameter:  referenceId: 1404156882
+
+2014-06-30T19:34:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404156882</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701033446</ResponseTime>
+<TransactionID>20140701000001F000AD</TransactionID>
+<AuthCode>26452B</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T20:27:19Z
+RequestParameter:  referenceId: 1404160050
+
+2014-06-30T20:27:19Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404160050&Currency=USD&Amount=99.99&CardNumber=4862362529646013&ExpiryMM=08&ExpiryYY=14&Csc=163&CardHolder=richard%20bergfors&ProductName=1
+
+2014-06-30T20:27:21Z
+ResponseParameter:  referenceId: 1404160050
+
+2014-06-30T20:27:21Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404160050</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701042733</ResponseTime>
+<TransactionID>201407010000022000AD</TransactionID>
+<AuthCode>02039A</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T20:28:38Z
+RequestParameter:  referenceId: 1404160130
+
+2014-06-30T20:28:38Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404160130&Currency=USD&Amount=299.99&CardNumber=4512106822114839&ExpiryMM=03&ExpiryYY=17&Csc=308&CardHolder=Sylvia%20Leifso&ProductName=1
+
+2014-06-30T20:28:40Z
+ResponseParameter:  referenceId: 1404160130
+
+2014-06-30T20:28:40Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404160130</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701042852</ResponseTime>
+<TransactionID>201407010000023000AD</TransactionID>
+<AuthCode>056209</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T21:43:02Z
+RequestParameter:  referenceId: 1404164593
+
+2014-06-30T21:43:02Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404164593&Currency=USD&Amount=99.99&CardNumber=5524754000977999&ExpiryMM=09&ExpiryYY=16&Csc=389&CardHolder=terri%20ambrose&ProductName=1
+
+2014-06-30T21:43:05Z
+ResponseParameter:  referenceId: 1404164593
+
+2014-06-30T21:43:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404164593</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701054317</ResponseTime>
+<TransactionID>201407010000028000AD</TransactionID>
+<AuthCode>09559P</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T22:19:21Z
+RequestParameter:  referenceId: 1404166773
+
+2014-06-30T22:19:21Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404166773&Currency=USD&Amount=99.99&CardNumber=4039955403819867&ExpiryMM=11&ExpiryYY=16&Csc=741&CardHolder=Grace%20Adams&ProductName=1
+
+2014-06-30T22:19:24Z
+ResponseParameter:  referenceId: 1404166773
+
+2014-06-30T22:19:24Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404166773</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701061936</ResponseTime>
+<TransactionID>20140701000002B000AD</TransactionID>
+<AuthCode>000041</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T22:20:13Z
+RequestParameter:  referenceId: 1404166825
+
+2014-06-30T22:20:13Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404166825&Currency=USD&Amount=99.99&CardNumber=4079685040019230&ExpiryMM=11&ExpiryYY=14&Csc=535&CardHolder=Arnold%20Nupen&ProductName=1
+
+2014-06-30T22:20:15Z
+ResponseParameter:  referenceId: 1404166825
+
+2014-06-30T22:20:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404166825</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701062027</ResponseTime>
+<TransactionID>20140701000002C000AD</TransactionID>
+<AuthCode>006365</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T22:25:04Z
+RequestParameter:  referenceId: 1404167116
+
+2014-06-30T22:25:04Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404167116&Currency=USD&Amount=99.99&CardNumber=4079685040019230&ExpiryMM=11&ExpiryYY=14&Csc=535&CardHolder=Arnold%20Nupen&ProductName=1
+
+2014-06-30T22:25:05Z
+ResponseParameter:  referenceId: 1404167116
+
+2014-06-30T22:25:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404167116</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701062517</ResponseTime>
+<TransactionID>20140701000002D000AD</TransactionID>
+<AuthCode>005320</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T22:27:38Z
+RequestParameter:  referenceId: wLBG91404167258
+
+2014-06-30T22:27:38Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=wLBG91404167258&Currency=USD&Amount=299.99&CardNumber=4207670058646954&ExpiryMM=04&ExpiryYY=17&Csc=493&CardHolder=Viviene%20Welch&ProductName=2
+
+2014-06-30T22:27:40Z
+ResponseParameter:  referenceId: wLBG91404167258
+
+2014-06-30T22:27:40Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>wLBG91404167258</Reference>
+<ResponseCode>931</ResponseCode>
+<ResponseMessage>Please contact your card issuer.</ResponseMessage>
+<ResponseTime>20140701062752</ResponseTime>
+<TransactionID>20140701000002E000AD</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T22:44:17Z
+RequestParameter:  referenceId: PlGRk1404168257
+
+2014-06-30T22:44:17Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=PlGRk1404168257&Currency=USD&Amount=299.99&CardNumber=4207670058646954&ExpiryMM=04&ExpiryYY=17&Csc=493&CardHolder=Viviene%20Welch&ProductName=2
+
+2014-06-30T22:44:19Z
+ResponseParameter:  referenceId: PlGRk1404168257
+
+2014-06-30T22:44:19Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>PlGRk1404168257</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701004432</ResponseTime>
+<TransactionID>20140701000002F000AD</TransactionID>
+<AuthCode>024418</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T23:56:17Z
+RequestParameter:  referenceId: 9RYbp1404172577
+
+2014-06-30T23:56:17Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=9RYbp1404172577&Currency=USD&Amount=199.99&CardNumber=5491237323391048&ExpiryMM=05&ExpiryYY=16&Csc=243&CardHolder=%20Jim%20Harrison&ProductName=2
+
+2014-06-30T23:56:20Z
+ResponseParameter:  referenceId: 9RYbp1404172577
+
+2014-06-30T23:56:20Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>9RYbp1404172577</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701075632</ResponseTime>
+<TransactionID>201407010000034000AD</TransactionID>
+<AuthCode>03000B</AuthCode>
+</TransactionResponse>
+
+
+
+2014-06-30T23:58:11Z
+RequestParameter:  referenceId: 1404172703
+
+2014-06-30T23:58:11Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=YTGGARCIACOM00008&Password=F5IPJGLYQ6&TransactionType=1&Reference=1404172703&Currency=USD&Amount=99.99&CardNumber=4888936169365388&ExpiryMM=07&ExpiryYY=17&Csc=532&CardHolder=Cynthia%20Maxa&ProductName=1
+
+2014-06-30T23:58:12Z
+ResponseParameter:  referenceId: 1404172703
+
+2014-06-30T23:58:12Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>YTGGARCIACOM00008</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1404172703</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140701075825</ResponseTime>
+<TransactionID>201407010000035000AD</TransactionID>
+<AuthCode>055826</AuthCode>
+</TransactionResponse>
+
+
+

@@ -1,0 +1,48 @@
+2015-11-18T05:11:47Z
+RequestParameter:  billNo: 144124561 | startTime:2015-11-18 05:11:47
+
+2015-11-18T05:11:47Z
+https://sip.uniques.net/direct/payment
+
+2015-11-18T05:11:47Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 144124561
+    [createdAt] => 20151105000707
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 103.18.0.194
+    [signInfo] => 77400585637c60757111193610948d86
+    [ccNo] => 4************845
+    [cvc] => ***
+    [expMonth] => 11
+    [expYear] => 2017
+    [fName] => Leow
+    [lName] => Hong Tee
+    [emailAddress] => hongtee_leow@hotmail.com
+    [phoneNo] => 0954687156
+    [birth] => 19801113
+    [zip] => 00000
+    [billAddress] => Malaysia
+    [billCity] => malaysia
+    [billState] => NAA
+    [billCountry] => PH
+    [billAmount] => 10
+    [comment] => 30309
+)
+
+
+2015-11-18T05:11:56Z
+ResponseParameter:  billNo: 144124561 | endTime:2015-11-18 05:11:56
+
+2015-11-18T05:11:56Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"99N7","cid":"11635","payNo":"144124561","billAmount":"10.00","createdAt":"20151118131209","billCurrency":"EUR","tid":"1163523801474","comment":"Payment DeclinedCSC Validation Error.","signInfo":"D823A47A40BA1BD1F23251E24A5C5367","billingDescriptor":"SDBTradingCo.,Ltd"}
+
+)
+
+

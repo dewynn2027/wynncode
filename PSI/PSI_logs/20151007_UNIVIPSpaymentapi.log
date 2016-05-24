@@ -1,0 +1,288 @@
+2015-10-07T00:58:37Z
+RequestParameter:  billNo: 2015100702 | startTime:2015-10-07 00:58:37
+
+2015-10-07T00:58:37Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T00:58:37Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100702
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => eea4af52d032ff414f60d2415b364a23
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-07T00:58:38Z
+ResponseParameter:  billNo: 2015100702 | endTime:2015-10-07 00:58:38
+
+2015-10-07T00:58:38Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"2015100702","billAmount":"10.00","createdAt":"20151007085839","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"C320463E8C96CC4C6CAFD010A8F033A5","billingDescriptor":""}
+
+)
+
+
+2015-10-07T01:35:53Z
+RequestParameter:  billNo: 2015100703 | startTime:2015-10-07 01:35:53
+
+2015-10-07T01:35:53Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T01:35:53Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 2015100703
+    [createdAt] => 20151001123132
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => be7ad925c323e381108d8b8f89347d27
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-07T01:35:54Z
+ResponseParameter:  billNo: 2015100703 | endTime:2015-10-07 01:35:54
+
+2015-10-07T01:35:54Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"11635","payNo":"2015100703","billAmount":"10.00","createdAt":"20151007093555","billCurrency":"EUR","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"B385A3523601BA0B2754D2E7F84E6BF9","billingDescriptor":""}
+
+)
+
+
+2015-10-07T05:41:02Z
+RequestParameter:  billNo: 20151007101 | startTime:2015-10-07 05:41:02
+
+2015-10-07T05:41:02Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T05:41:02Z
+Array
+(
+    [cid] => 11633
+    [payNo] => 20151007101
+    [createdAt] => 20150919123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 659e02535f625a49c714f46fd4b6cc1f
+    [ccNo] => 5************357
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [surName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-07T05:41:06Z
+ResponseParameter:  billNo: 20151007101 | endTime:2015-10-07 05:41:06
+
+2015-10-07T05:41:06Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11633","payNo":"20151007101","billAmount":"10.00","createdAt":"20151007134107","billCurrency":"USD","tid":"1163322187018","comment":"Success","signInfo":"7EA0959D6AA6E0B4A6FA4E83D97A3B95","billingDescriptor":"JIEKANI"}
+
+)
+
+
+2015-10-07T06:06:27Z
+RequestParameter:  billNo: 20151007102 | startTime:2015-10-07 06:06:27
+
+2015-10-07T06:06:27Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T06:06:27Z
+Array
+(
+    [cid] => 11636
+    [payNo] => 20151007102
+    [createdAt] => 201510120520
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 7846248176a1045ed527a89fd3f481d0
+    [ccNo] => 5************357
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-07T06:06:33Z
+ResponseParameter:  billNo: 20151007102 | endTime:2015-10-07 06:06:33
+
+2015-10-07T06:06:33Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11636","payNo":"20151007102","billAmount":"10.00","createdAt":"20151007140634","billCurrency":"EUR","tid":"1163622187705","comment":"Success","signInfo":"1608A7863EA67F32AAB98C11156A5055","billingDescriptor":"SHIDANLI"}
+
+)
+
+
+2015-10-07T07:09:30Z
+RequestParameter:  billNo: 20151007103 | startTime:2015-10-07 07:09:30
+
+2015-10-07T07:09:30Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T07:09:30Z
+Array
+(
+    [cid] => 11635
+    [payNo] => 20151007103
+    [createdAt] => 20151007150720
+    [billCurrency] => EUR
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 2d8ea1948b32c1f95516ee847bc1f842
+    [ccNo] => 4************697
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-07T07:09:42Z
+ResponseParameter:  billNo: 20151007103 | endTime:2015-10-07 07:09:42
+
+2015-10-07T07:09:42Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11635","payNo":"20151007103","billAmount":"10.00","createdAt":"20151007150943","billCurrency":"EUR","tid":"1163522188827","comment":"Success","signInfo":"42E8369720677B02847AEB09AC5E3837","billingDescriptor":"SHIDANLI"}
+
+)
+
+
+2015-10-07T07:12:01Z
+RequestParameter:  billNo: 20151007104 | startTime:2015-10-07 07:12:01
+
+2015-10-07T07:12:01Z
+https://sip.uniques.net/direct/payment
+
+2015-10-07T07:12:01Z
+Array
+(
+    [cid] => 11631
+    [payNo] => 20151007104
+    [createdAt] => 20151007150730
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 828aef54d5c404c77409070e482dc4ef
+    [ccNo] => 4************697
+    [cvc] => ***
+    [expMonth] => 04
+    [expYear] => 2017
+    [fName] => Cameron
+    [lName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-07T07:12:08Z
+ResponseParameter:  billNo: 20151007104 | endTime:2015-10-07 07:12:08
+
+2015-10-07T07:12:08Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"20151007104","billAmount":"10.00","createdAt":"20151007151209","billCurrency":"USD","tid":"1163122188856","comment":"Success","signInfo":"AD31AFEAD6BE0F2088D2852A485C9C28","billingDescriptor":"BOOKXPERTS"}
+
+)
+
+

@@ -1,0 +1,768 @@
+2015-10-07T00:57:57Z
+RequestParameter:  billNo: 2015100701 | startTime:2015-10-07 00:57:57
+
+2015-10-07T00:57:57Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 3kqdvu9c7hkaqma5r1e9gpvov3
+    [ORDR] => 2015100701
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000IL8HQJJ6DV4YOS
+    [IPAD] => 27.32.198.143
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Juan Tamad
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 1234
+    [B2PN] => 12345678
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 2000-09-01
+    [GENDER] => M
+    [EMAL] => JUANDCAPPROVE@EXAMPLE.COM
+)
+
+
+2015-10-07T00:57:58Z
+ResponseParameter:  billNo: 2015100701 | endTime:2015-10-07 00:57:58
+
+2015-10-07T00:57:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>31VX0ZVP28P0</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3kqdvu9c7hkaqma5r1e9gpvov3</SESS>
+  <ORDR>2015100701</ORDR>
+  <AUTO>D</AUTO>
+  <SCOR>99</SCOR>
+  <GEOX>PH</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>A</NETW>
+  <KAPT>Y</KAPT>
+  <CARDS>8</CARDS>
+  <DEVICES>50</DEVICES>
+  <EMAILS>53</EMAILS>
+  <VELO>4</VELO>
+  <VMAX>4</VMAX>
+  <SITE>VERT999</SITE>
+  <DEVICE_LAYERS>5904919657.F1A10C3507.FB551326E7.A80EBD4F24.B948BDD298</DEVICE_LAYERS>
+  <FINGERPRINT>10FDE4B120ADECD86F6FB47F7C7794DB</FINGERPRINT>
+  <TIMEZONE>960</TIMEZONE>
+  <LOCALTIME>2015-10-07 08:57</LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY>PH</COUNTRY>
+  <PROXY>N</PROXY>
+  <JAVASCRIPT>Y</JAVASCRIPT>
+  <FLASH>Y</FLASH>
+  <COOKIES>Y</COOKIES>
+  <HTTP_COUNTRY>US</HTTP_COUNTRY>
+  <LANGUAGE>EN</LANGUAGE>
+  <MOBILE_DEVICE>N</MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER>N</MOBILE_FORWARDER>
+  <VOICE_DEVICE>N</VOICE_DEVICE>
+  <PC_REMOTE>N</PC_REMOTE>
+  <RULES_TRIGGERED>9</RULES_TRIGGERED>
+  <RULE_ID_0>330718</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; Device Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330720</RULE_ID_1>
+  <RULE_DESCRIPTION_1>GEO  Distance from Device to Billing &gt; 1000km (1pt)</RULE_DESCRIPTION_1>
+  <RULE_ID_2>330722</RULE_ID_2>
+  <RULE_DESCRIPTION_2>GEO BIN and Device Country not equal (1pt)</RULE_DESCRIPTION_2>
+  <RULE_ID_3>330724</RULE_ID_3>
+  <RULE_DESCRIPTION_3>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_3>
+  <RULE_ID_4>330734</RULE_ID_4>
+  <RULE_DESCRIPTION_4>FRAUD_SCRD Score 95 or greater (20pts)</RULE_DESCRIPTION_4>
+  <RULE_ID_5>330730</RULE_ID_5>
+  <RULE_DESCRIPTION_5>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_5>
+  <RULE_ID_6>330740</RULE_ID_6>
+  <RULE_DESCRIPTION_6>FRAUD_SCRD Non-Normal Network Type (10pts)</RULE_DESCRIPTION_6>
+  <RULE_ID_7>330748</RULE_ID_7>
+  <RULE_DESCRIPTION_7>Decline if FRAUD_SCRD Counter &gt; 25</RULE_DESCRIPTION_7>
+  <RULE_ID_8>345042</RULE_ID_8>
+  <RULE_DESCRIPTION_8>Decline Customer Email Validation</RULE_DESCRIPTION_8>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>4</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>35</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS>2015-10-05</DDFS>
+  <DSR>800x1280</DSR>
+  <UAS>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0</UAS>
+  <BROWSER>Firefox 41.0</BROWSER>
+  <OS>Windows 7</OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD>121.54.44.88</IP_IPAD>
+  <IP_LAT>14.5833</IP_LAT>
+  <IP_LON>120.9667</IP_LON>
+  <IP_COUNTRY>PH</IP_COUNTRY>
+  <IP_REGION>UNKNOWN</IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG>SMART BROADBAND</IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T05:40:11Z
+RequestParameter:  billNo: 20151007101 | startTime:2015-10-07 05:40:11
+
+2015-10-07T05:40:11Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007101
+    [ORDR] => 20151007101
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T05:40:12Z
+ResponseParameter:  billNo: 20151007101 | endTime:2015-10-07 05:40:12
+
+2015-10-07T05:40:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VV0JTRJMD1</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007101</SESS>
+  <ORDR>20151007101</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>17</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T05:41:00Z
+RequestParameter:  billNo: 20151007101 | startTime:2015-10-07 05:41:00
+
+2015-10-07T05:41:00Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007101
+    [ORDR] => 20151007101
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T05:41:01Z
+ResponseParameter:  billNo: 20151007101 | endTime:2015-10-07 05:41:01
+
+2015-10-07T05:41:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VV025GX3B4</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007101</SESS>
+  <ORDR>20151007101</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>17</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T06:06:25Z
+RequestParameter:  billNo: 20151007102 | startTime:2015-10-07 06:06:25
+
+2015-10-07T06:06:25Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007102
+    [ORDR] => 20151007102
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 5353160N1WIQF95DPVQ1
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T06:06:26Z
+ResponseParameter:  billNo: 20151007102 | endTime:2015-10-07 06:06:26
+
+2015-10-07T06:06:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VW0Q8L1XBY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007102</SESS>
+  <ORDR>20151007102</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>17</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>1</VELO>
+  <VMAX>1</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T07:04:50Z
+RequestParameter:  billNo: 20151007103 | startTime:2015-10-07 07:04:50
+
+2015-10-07T07:04:50Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007103
+    [ORDR] => 20151007103
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 543578YVIUFZ3UGKMLZQ
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T07:04:51Z
+ResponseParameter:  billNo: 20151007103 | endTime:2015-10-07 07:04:51
+
+2015-10-07T07:04:51Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VT04CKRMP7</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007103</SESS>
+  <ORDR>20151007103</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>25</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>MSTR</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>2</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>2</VELO>
+  <VMAX>2</VMAX>
+  <RULES_TRIGGERED>2</RULES_TRIGGERED>
+  <RULE_ID_0>330724</RULE_ID_0>
+  <RULE_DESCRIPTION_0>GEO Billing &lt;&gt; BIN Country (1pt)</RULE_DESCRIPTION_0>
+  <RULE_ID_1>330730</RULE_ID_1>
+  <RULE_DESCRIPTION_1>FRAUD_SCRD GEO Counter Triggered (5pts)</RULE_DESCRIPTION_1>
+  <COUNTERS_TRIGGERED>2</COUNTERS_TRIGGERED>
+  <COUNTER_NAME_0>GEO</COUNTER_NAME_0>
+  <COUNTER_VALUE_0>1</COUNTER_VALUE_0>
+  <COUNTER_NAME_1>FRAUD_SCRD</COUNTER_NAME_1>
+  <COUNTER_VALUE_1>5</COUNTER_VALUE_1>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T07:09:28Z
+RequestParameter:  billNo: 20151007103 | startTime:2015-10-07 07:09:28
+
+2015-10-07T07:09:28Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007103
+    [ORDR] => 20151007103
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 401795RSPUZ2X8FW8UDO
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T07:09:30Z
+ResponseParameter:  billNo: 20151007103 | endTime:2015-10-07 07:09:30
+
+2015-10-07T07:09:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VT0KG4PLDD</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007103</SESS>
+  <ORDR>20151007103</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>28</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>3</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>3</VELO>
+  <VMAX>3</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-10-07T07:12:00Z
+RequestParameter:  billNo: 20151007104 | startTime:2015-10-07 07:12:00
+
+2015-10-07T07:12:00Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 27.32.198.143
+    [SESS] => 20151007104
+    [ORDR] => 20151007104
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 401795RSPUZ2X8FW8UDO
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Product
+    [PROD_TYPE[0]] => Product
+    [PROD_ITEM[0]] => Product
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => PSIMERCH999
+
+    [NAME] => Cameron Senese
+    [B2A1] => Address
+    [B2CC] => AU
+    [B2CI] => City
+    [B2PC] => 2234
+    [B2PN] => 7117112
+    [B2ST] => State
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1980-09-09
+    [GENDER] => M
+    [EMAL] => cs@allianzmetro.com
+    [ANID] => 7117112
+)
+
+
+2015-10-07T07:12:01Z
+ResponseParameter:  billNo: 20151007104 | endTime:2015-10-07 07:12:01
+
+2015-10-07T07:12:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>P</MODE>
+  <TRAN>31VT0H15TK3Y</TRAN>
+  <MERC>680000</MERC>
+  <SESS>20151007104</SESS>
+  <ORDR>20151007104</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>28</SCOR>
+  <GEOX>US</GEOX>
+  <BRND>VISA</BRND>
+  <REGN></REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>3</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>4</VELO>
+  <VMAX>4</VMAX>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

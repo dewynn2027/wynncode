@@ -1,0 +1,57 @@
+2014-05-24T17:30:57Z
+RequestParameter:  referenceId: 10vdl1400952656
+
+2014-05-24T17:30:57Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=10vdl1400952656&dateTime=20140525013056&currency=USD&language=eng&cardHolderIp=184.5.222.69&md5Info=E3FE3E86CB216A06E79E8DF10D75F7A5&cardNum=5178058401033686&cvv2=299&month=01&year=16&birthDate=19261213&firstName=Esther&lastName=Ross&email=eross26@outlook.com&phone=2545825437&zipCode=76645&address=723%20FM%201947&city=Hillsboro&state=TX&country=US&amount=995.00&products=2&remark=Tool%20Kit%201
+
+2014-05-24T17:31:05Z
+ResponseParameter:  referenceId: 10vdl1400952656
+
+2014-05-24T17:31:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>10vdl1400952656</billNo><currency>USD</currency><amount>995.00</amount><dateTime>20140525013059</dateTime><paymentOrderNo>1078510806872</paymentOrderNo><remark>Payment DeclinedDo not honor</remark><md5Info>1941B2B1AFC8322C2DCD0C78D15630E4</md5Info><billingDescriptor>billtous.com</billingDescriptor>
+
+</response>
+
+2014-05-24T17:52:01Z
+RequestParameter:  referenceId: TCUkI1400953921
+
+2014-05-24T17:52:01Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=TCUkI1400953921&dateTime=20140525015201&currency=USD&language=eng&cardHolderIp=184.5.222.69&md5Info=7EFF5B69EA2516617E83B6E7BF586305&cardNum=5178058401033686&cvv2=299&month=01&year=16&birthDate=19261213&firstName=Esther%20&lastName=Ross&email=eross26@outlook.com&phone=2545825437&zipCode=76645&address=723%20FM%201947&city=Hillsboro&state=tx&country=US&amount=300.00&products=2&remark=Tool%20Kit%201
+
+2014-05-24T17:52:09Z
+ResponseParameter:  referenceId: TCUkI1400953921
+
+2014-05-24T17:52:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10785</merNo><billNo>TCUkI1400953921</billNo><currency>USD</currency><amount>300.00</amount><dateTime>20140525015203</dateTime><paymentOrderNo>1078510807110</paymentOrderNo><remark>Payment DeclinedDo not honor</remark><md5Info>4CAE9DE29F43F1E5D438875DFE6C489A</md5Info><billingDescriptor>billtous.com</billingDescriptor>
+
+</response>
+
+2014-05-24T18:33:29Z
+RequestParameter:  referenceId: x7ITK1400956409
+
+2014-05-24T18:33:29Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=x7ITK1400956409&dateTime=20140525023329&currency=USD&language=eng&cardHolderIp=184.5.222.69&md5Info=333DBED77BB1AF69A77FFA0174D77422&cardNum=4313072286048056&cvv2=767&month=05&year=16&birthDate=19411018&firstName=Bobbie%20L.&lastName=Lariscy&email=lariscy41@outlook.com&phone=3524861770&zipCode=32621&address=10151%20N.%20E.%2072%20nd%20Street&city=Bronson&state=FL&country=US&amount=998.00&products=2&remark=Tool%20Kit%201
+
+2014-05-24T18:33:35Z
+ResponseParameter:  referenceId: x7ITK1400956409
+
+2014-05-24T18:33:35Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078410807653</paymentOrderNo><billNo>x7ITK1400956409</billNo><currency>USD</currency><amount>998.00</amount><dateTime>20140525023335</dateTime><remark>Transaction declined.</remark><md5Info>73302E43E5E920016FF2FBA40217C90D</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

@@ -1,0 +1,240 @@
+2015-04-05T23:02:43Z
+RequestParameter:  billNo: bill635638715151633228 | startTime:2015-04-05 23:02:43
+
+2015-04-05T23:02:43Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 188.53.12.15
+    [SESS] => sess635638715151633228
+    [ORDR] => bill635638715151633228
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 405433TOHI4SSWEQ6M9D
+    [IPAD] => 188.53.12.15
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => salman alanzan
+    [B2A1] => jeddah
+    [B2CC] => SA
+    [B2CI] => jeddah
+    [B2PC] => 21213
+    [B2PN] => 966 567555543
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => salman1ooo1@yahoo.com
+)
+
+
+2015-04-05T23:02:44Z
+ResponseParameter:  billNo: bill635638715151633228 | endTime:2015-04-05 23:02:44
+
+2015-04-05T23:02:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3YP50PJSP6S2</TRAN>
+  <MERC>680000</MERC>
+  <SESS>sess635638715151633228</SESS>
+  <ORDR>bill635638715151633228</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>26</SCOR>
+  <GEOX>SA</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>SA_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>....</DEVICE_LAYERS>
+  <FINGERPRINT></FINGERPRINT>
+  <TIMEZONE></TIMEZONE>
+  <LOCALTIME> </LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY></COUNTRY>
+  <PROXY></PROXY>
+  <JAVASCRIPT></JAVASCRIPT>
+  <FLASH></FLASH>
+  <COOKIES></COOKIES>
+  <HTTP_COUNTRY></HTTP_COUNTRY>
+  <LANGUAGE></LANGUAGE>
+  <MOBILE_DEVICE></MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER></MOBILE_FORWARDER>
+  <VOICE_DEVICE></VOICE_DEVICE>
+  <PC_REMOTE></PC_REMOTE>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2015-04-05T23:05:42Z
+RequestParameter:  billNo: bill635638716857344032 | startTime:2015-04-05 23:05:42
+
+2015-04-05T23:05:42Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 188.53.12.15
+    [SESS] => sess635638716857344032
+    [ORDR] => bill635638716857344032
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 405433TOHI4SSWEQ6M9D
+    [IPAD] => 188.53.12.15
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BML-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 10000
+    [TOTL] => 10000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 20001MERBIOSTRADV
+    [NAME] => salman alanzan
+    [B2A1] => jeddah
+    [B2CC] => SA
+    [B2CI] => jeddah
+    [B2PC] => 21213
+    [B2PN] => 966 567555543
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 100
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => salman1ooo1@yahoo.com
+)
+
+
+2015-04-05T23:05:43Z
+ResponseParameter:  billNo: bill635638716857344032 | endTime:2015-04-05 23:05:43
+
+2015-04-05T23:05:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>Q</MODE>
+  <TRAN>3YP505S1Y6L3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>sess635638716857344032</SESS>
+  <ORDR>bill635638716857344032</ORDR>
+  <AUTO>A</AUTO>
+  <SCOR>26</SCOR>
+  <GEOX>SA</GEOX>
+  <BRND>VISA</BRND>
+  <REGN>SA_14</REGN>
+  <NETW>N</NETW>
+  <KAPT>N</KAPT>
+  <CARDS>1</CARDS>
+  <DEVICES>1</DEVICES>
+  <EMAILS>1</EMAILS>
+  <VELO>0</VELO>
+  <VMAX>0</VMAX>
+  <SITE>VERT001</SITE>
+  <DEVICE_LAYERS>....</DEVICE_LAYERS>
+  <FINGERPRINT></FINGERPRINT>
+  <TIMEZONE></TIMEZONE>
+  <LOCALTIME> </LOCALTIME>
+  <REGION></REGION>
+  <COUNTRY></COUNTRY>
+  <PROXY></PROXY>
+  <JAVASCRIPT></JAVASCRIPT>
+  <FLASH></FLASH>
+  <COOKIES></COOKIES>
+  <HTTP_COUNTRY></HTTP_COUNTRY>
+  <LANGUAGE></LANGUAGE>
+  <MOBILE_DEVICE></MOBILE_DEVICE>
+  <MOBILE_TYPE></MOBILE_TYPE>
+  <MOBILE_FORWARDER></MOBILE_FORWARDER>
+  <VOICE_DEVICE></VOICE_DEVICE>
+  <PC_REMOTE></PC_REMOTE>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <DDFS></DDFS>
+  <DSR></DSR>
+  <UAS></UAS>
+  <BROWSER></BROWSER>
+  <OS></OS>
+  <PIP_IPAD></PIP_IPAD>
+  <PIP_LAT></PIP_LAT>
+  <PIP_LON></PIP_LON>
+  <PIP_COUNTRY></PIP_COUNTRY>
+  <PIP_REGION></PIP_REGION>
+  <PIP_CITY></PIP_CITY>
+  <PIP_ORG></PIP_ORG>
+  <IP_IPAD></IP_IPAD>
+  <IP_LAT></IP_LAT>
+  <IP_LON></IP_LON>
+  <IP_COUNTRY></IP_COUNTRY>
+  <IP_REGION></IP_REGION>
+  <IP_CITY></IP_CITY>
+  <IP_ORG></IP_ORG>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

@@ -1,0 +1,36 @@
+2013-06-25T02:19:46Z
+RequestParameter:  referenceId: 20130625101913
+
+2013-06-25T02:19:46Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130625101913&dateTime=20130625101913&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=0DA487F11E3D30F1D972A3E1AFCF1CC0&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=11.00&products=2&remark=remark
+
+2013-06-25T02:19:49Z
+ResponseParameter:  referenceId: 20130625101913
+
+2013-06-25T02:19:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130625101913</billNo><currency>USD</currency><amount>11.00</amount><dateTime>20130625102337</dateTime><paymentOrderNo>103355789228</paymentOrderNo><remark>Payment Declined(Your card was declined several times, please use different card or deposit in 24 hours.Thank you)</remark><md5Info>B957DD9E057ED9ED75DF957B50E8EE33</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2013-06-25T06:42:44Z
+RequestParameter:  referenceId: 20130625143912
+
+2013-06-25T06:42:44Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130625143912&dateTime=20130625143912&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=E8E6C396808F3DBAA4983F633726C38E&cardNum=4000000000000002&cvv2=123&month=12&year=0&birthDate=03311980&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=13.00&products=2&remark=remark
+
+2013-06-25T06:42:46Z
+ResponseParameter:  referenceId: 20130625143912
+
+2013-06-25T06:42:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130625143912</billNo><currency>USD</currency><amount>13.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Date birth format is wrong</remark><md5Info>9DD5D77532DA1034426E99AFECF9825F</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

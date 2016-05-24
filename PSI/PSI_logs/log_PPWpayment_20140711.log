@@ -1,0 +1,395 @@
+2014-07-11T05:20:50Z
+RequestParameter:  referenceId: 1405056067142
+
+2014-07-11T05:20:50Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=1405056067142&Currency=USD&Amount=100&CardNumber=4111111111111111&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:20:52Z
+ResponseParameter:  referenceId: 1405056067142
+
+2014-07-11T05:20:52Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1405056067142</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711142109</ResponseTime>
+<TransactionID>20140711000005800030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T05:22:36Z
+RequestParameter:  referenceId: 140505617366
+
+2014-07-11T05:22:36Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=140505617366&Currency=USD&Amount=100&CardNumber=4007000000027&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:22:37Z
+ResponseParameter:  referenceId: 140505617366
+
+2014-07-11T05:22:37Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>140505617366</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711142255</ResponseTime>
+<TransactionID>20140711000005900030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T05:23:17Z
+RequestParameter:  referenceId: 140505621418
+
+2014-07-11T05:23:17Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=140505621418&Currency=USD&Amount=100&CardNumber=4000200011112222&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:23:18Z
+ResponseParameter:  referenceId: 140505621418
+
+2014-07-11T05:23:18Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>140505621418</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711142335</ResponseTime>
+<TransactionID>20140711000005A00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T05:35:49Z
+RequestParameter:  referenceId: 1405056966135
+
+2014-07-11T05:35:49Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=1405056966135&Currency=USD&Amount=100&CardNumber=4000200011112222&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:35:50Z
+ResponseParameter:  referenceId: 1405056966135
+
+2014-07-11T05:35:50Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1405056966135</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711143608</ResponseTime>
+<TransactionID>20140711000005B00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T05:44:57Z
+RequestParameter:  referenceId: 1405057514162
+
+2014-07-11T05:44:57Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=1405057514162&Currency=USD&Amount=100&CardNumber=4000200011112222&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:44:58Z
+ResponseParameter:  referenceId: 1405057514162
+
+2014-07-11T05:44:58Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1405057514162</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711144516</ResponseTime>
+<TransactionID>20140711000005C00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T05:46:21Z
+RequestParameter:  referenceId: 1405057598181
+
+2014-07-11T05:46:21Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=1405057598181&Currency=USD&Amount=100&CardNumber=4000200011112222&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T05:46:22Z
+ResponseParameter:  referenceId: 1405057598181
+
+2014-07-11T05:46:22Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1405057598181</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711144640</ResponseTime>
+<TransactionID>20140711000005D00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T11:03:26Z
+RequestParameter:  referenceId: 1405076623116
+
+2014-07-11T11:03:26Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=1405076623116&Currency=USD&Amount=100&CardNumber=4000200011112222&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=Krishna%20Chourasia&ProductName=2
+
+2014-07-11T11:03:27Z
+ResponseParameter:  referenceId: 1405076623116
+
+2014-07-11T11:03:27Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>1405076623116</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711200345</ResponseTime>
+<TransactionID>20140711000006200030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T11:12:46Z
+RequestParameter:  referenceId: 2014071116130357
+
+2014-07-11T11:12:46Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=2014071116130357&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T11:12:47Z
+ResponseParameter:  referenceId: 2014071116130357
+
+2014-07-11T11:12:47Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>2014071116130357</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711201305</ResponseTime>
+<TransactionID>20140711000006300030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T11:55:57Z
+RequestParameter:  referenceId: 20140711165614665
+
+2014-07-11T11:55:57Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711165614665&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T11:55:59Z
+ResponseParameter:  referenceId: 20140711165614665
+
+2014-07-11T11:55:59Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711165614665</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711205617</ResponseTime>
+<TransactionID>20140711000006400030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T11:57:31Z
+RequestParameter:  referenceId: 20140711165748755
+
+2014-07-11T11:57:31Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711165748755&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T11:57:32Z
+ResponseParameter:  referenceId: 20140711165748755
+
+2014-07-11T11:57:32Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711165748755</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711205750</ResponseTime>
+<TransactionID>20140711000006500030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T11:58:46Z
+RequestParameter:  referenceId: 20140711165903566
+
+2014-07-11T11:58:46Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711165903566&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T11:58:46Z
+ResponseParameter:  referenceId: 20140711165903566
+
+2014-07-11T11:58:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711165903566</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711205905</ResponseTime>
+<TransactionID>20140711000006600030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T12:00:31Z
+RequestParameter:  referenceId: 20140711170048616
+
+2014-07-11T12:00:31Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711170048616&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T12:00:32Z
+ResponseParameter:  referenceId: 20140711170048616
+
+2014-07-11T12:00:32Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711170048616</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711210050</ResponseTime>
+<TransactionID>20140711000006700030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T12:03:45Z
+RequestParameter:  referenceId: 20140711170403680
+
+2014-07-11T12:03:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711170403680&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T12:03:46Z
+ResponseParameter:  referenceId: 20140711170403680
+
+2014-07-11T12:03:46Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711170403680</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711210404</ResponseTime>
+<TransactionID>20140711000006800030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T12:06:44Z
+RequestParameter:  referenceId: 20140711170701879
+
+2014-07-11T12:06:44Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711170701879&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T12:06:45Z
+ResponseParameter:  referenceId: 20140711170701879
+
+2014-07-11T12:06:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711170701879</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711210703</ResponseTime>
+<TransactionID>20140711000006900030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-11T12:42:11Z
+RequestParameter:  referenceId: 1405082548163
+
+2014-07-11T12:42:11Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711174228439&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=2017&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T12:42:14Z
+ResponseParameter:  referenceId: 1405082548163
+
+2014-07-11T12:42:14Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20140711174228439</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Format of expiry year is YY)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-07-11T12:44:12Z
+RequestParameter:  referenceId: 1405082669158
+
+2014-07-11T12:44:12Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=20140711174429506&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=17&Csc=259&CardHolder=Krishna%20Chourasia&ProductName=demo
+
+2014-07-11T12:44:13Z
+ResponseParameter:  referenceId: 1405082669158
+
+2014-07-11T12:44:13Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>20140711174429506</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140711214431</ResponseTime>
+<TransactionID>20140711000006A00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

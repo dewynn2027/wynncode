@@ -1,0 +1,57 @@
+2014-06-26T17:46:43Z
+RequestParameter:  referenceId: 1403804813
+
+2014-06-26T17:46:43Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=10785&md5Key=B58808817C170DA77B97A2092495317E&billNo=1403804813&dateTime=20140626104652&currency=USD&language=eng&cardHolderIp=99.14.135.129&md5Info=59D703DC1A1691558B139DACD9F53705&cardNum=5466320928620739&cvv2=123&month=10&year=14&birthDate=19510725&firstName=Vickii&lastName=Azzaro&email=vandpazz@juno.com&phone=8183393346&zipCode=91304&address=8801%20ETON%20AVE%20#82&city=Canoga%20park&state=CA&country=US&amount=99.99&products=1&remark=remark
+
+2014-06-26T17:46:55Z
+ResponseParameter:  referenceId: 1403804813
+
+2014-06-26T17:46:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>0</resultCode><merNo>10785</merNo><billNo>1403804813</billNo><currency>USD</currency><amount>99.99</amount><dateTime>20140627014655</dateTime><paymentOrderNo>1078511333081</paymentOrderNo><remark>Payment Success</remark><md5Info>D18B7A70D0826F8C043B67D2CF2FC6C7</md5Info><billingDescriptor>bill2order.com</billingDescriptor>
+
+</response>
+
+2014-06-26T17:51:55Z
+RequestParameter:  referenceId: 1403805125
+
+2014-06-26T17:51:55Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=1403805125&dateTime=20140626135216&currency=USD&language=eng&cardHolderIp=71.230.62.30&md5Info=A3458139C2FAAA8D5F40CA6D1C29136C&cardNum=4255898255054034&cvv2=201&month=01&year=17&birthDate=19540527&firstName=Deborah&lastName=Vito&email=lorenzo3991@yahoo.com&phone=2158240329&zipCode=19114&address=3991%20Carteret%20Drive&city=Philadelphia&state=PA&country=US&amount=199.99&products=1&remark=remark
+
+2014-06-26T17:52:04Z
+ResponseParameter:  referenceId: 1403805125
+
+2014-06-26T17:52:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>10784</merNo><paymentOrderNo>1078411333148</paymentOrderNo><billNo>1403805125</billNo><currency>USD</currency><amount>199.99</amount><dateTime>20140627015214</dateTime><remark>Declined by card issuer. Please, call to your bank to know exact reason.</remark><md5Info>E3A33F6FBB7726CEC55D276377C4207F</md5Info><billingDescriptor>NFSHOP +44-80-8189-1</billingDescriptor>
+
+</response>
+
+2014-06-26T23:55:54Z
+RequestParameter:  referenceId: 6JVHp1403826954
+
+2014-06-26T23:55:54Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=10784&md5Key=1DA1FFCBDB5C2F113D1CA1F0BD853B3B&billNo=6JVHp1403826954&dateTime=20140627075554&currency=USD&language=eng&cardHolderIp=202.141.247.243&md5Info=794B23B5F807AC055A7EBB96C655F827&cardNum=4110791300448621&cvv2=813&month=01&year=17&birthDate=19620707&firstName=Murad&lastName=Ali&email=murad@pakcct.com&phone=9726700531&zipCode=75007&address=3604%20Flagstone%20Dr&city=Carrollton&state=TX&country=US&amount=10.00&products=2&remark=LI
+
+2014-06-26T23:56:00Z
+ResponseParameter:  referenceId: 6JVHp1403826954
+
+2014-06-26T23:56:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>88</resultCode><merNo>10784</merNo><paymentOrderNo>1078411336964</paymentOrderNo><billNo>6JVHp1403826954</billNo><currency>USD</currency><amount>10.00</amount><dateTime>20140627075611</dateTime><remark>Successfull transaction</remark><md5Info>D4A8DA18FF49DC7EB0DD97D265F52214</md5Info><billingDescriptor>NFSHOP +44-80-8189-1</billingDescriptor>
+
+</response>
+

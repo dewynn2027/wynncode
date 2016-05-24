@@ -1,0 +1,54 @@
+2015-04-29T05:36:44Z
+RequestParameter:  billNo: acbbhgjejk
+
+2015-04-29T05:36:44Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 48
+    [API_username] => 100-01-MER-ANGINV1
+    [API_password] => oKuzKsnIq9ypur
+    [transactionId] => 150429130443
+    [billNo] => acbbhgjejk
+    [amount] => 12
+    [refundAmount] => 12
+    [remark] => Refund success
+    [type] => 1
+)
+
+
+2015-04-29T05:36:44Z
+ResponseParameter:  billNo: acbbhgjejk
+
+2015-04-29T05:36:44Z
+resultCode=0&orderStatus=Accepted&ref=acbbhgjejk&payRef=010444&amt=12&cur=608&errMsg=Void Successfully.
+
+2015-04-29T05:41:26Z
+RequestParameter:  billNo: ajhiekgcaj
+
+2015-04-29T05:41:26Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 48
+    [API_username] => 100-01-MER-ANGINV1
+    [API_password] => oKuzKsnIq9ypur
+    [transactionId] => 150429130425
+    [billNo] => ajhiekgcaj
+    [amount] => 12
+    [refundAmount] => 12
+    [remark] => Refund success
+    [type] => 2
+)
+
+
+2015-04-29T05:41:26Z
+ResponseParameter:  billNo: ajhiekgcaj
+
+2015-04-29T05:41:26Z
+resultCode=0&orderStatus=Accepted&ref=ajhiekgcaj&payRef=010426&amt=12&cur=608&errMsg=Void Successfully.
+

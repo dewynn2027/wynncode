@@ -1,0 +1,50 @@
+2015-04-28T13:28:13Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-28T13:28:13Z
+RequestParameter:  billNo: hbkkgjkjef | startTime:2015-04-28 13:28:13
+
+2015-04-28T13:28:13Z
+Array
+(
+    [reason[3HZG0CMM9X3C]] => R1
+    [note[3HZG0CMM9X3C]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-04-28T13:28:13Z
+REFUND
+
+2015-04-28T13:28:15Z
+ResponseParameter:  billNo: hbkkgjkjef | endTime:2015-04-28 13:28:15
+
+2015-04-28T13:28:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HZG0CMM9X3C</scope></error></errors><result/></response>
+
+
+2015-04-28T13:39:42Z
+https://api.test.kount.net/rpc/v1/orders/status.xml
+
+2015-04-28T13:39:42Z
+RequestParameter:  billNo: iabeggjjka | startTime:2015-04-28 13:39:42
+
+2015-04-28T13:39:42Z
+Array
+(
+    [reason[3HZG0R7XTQPC]] => R1
+    [note[3HZG0R7XTQPC]] => *remarks: [] *psi method [refundapi] *trigger: [transaction refund]
+)
+
+
+2015-04-28T13:39:42Z
+REFUND
+
+2015-04-28T13:39:44Z
+ResponseParameter:  billNo: iabeggjjka | endTime:2015-04-28 13:39:44
+
+2015-04-28T13:39:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>3HZG0R7XTQPC</scope></error></errors><result/></response>
+
+

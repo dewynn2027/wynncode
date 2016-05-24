@@ -1,0 +1,50 @@
+2015-03-13T10:06:07Z
+RequestParameter:  billNo: bill635618451725870959 | startTime:2015-03-13 10:06:07
+
+2015-03-13T10:06:07Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 109.86.219.121
+    [SESS] => sess635618451725870959
+    [ORDR] => bill635618451725870959
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4918912GXE0BUP1QG8K5
+    [IPAD] => 109.86.219.121
+    [MACK] => Y
+    [PROD_DESC[0]] => Deposit Privilegetrading
+    [PROD_TYPE[0]] => Deposit
+    [PROD_ITEM[0]] => Deposit
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBIOSTRADV
+    [NAME] => pavel lastName
+    [B2A1] => address
+    [B2CC] => IN
+    [B2CI] => city
+    [B2PC] => 31000
+    [B2PN] => 456347877
+    [B2ST] => MH
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => M
+    [EMAL] => juandc@example.com
+)
+
+

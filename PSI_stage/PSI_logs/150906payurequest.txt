@@ -1,0 +1,34 @@
+Request Param: key=eCwWELxi&txnid=wynn23453167&amount=10&productinfo=Shopping&firstname=Test&email=test%40test.com&phone=1234567&surl=https%3A%2F%2Fapi.allianzmetro.com&furl=http%3A%2F%2Fgoogle.com&pg=CC&bankcode=CC&ccnum=5123456789012346&ccname=test+name&ccvv=123&ccexpmon=05&ccexpyr=2017&salt=cb80ae012eb98dac0188d8472ff6cef168d818719b2f8e44f7fee9b11e5d9a2acd09ddaf93441f4a19b7c551b2e35e09e1df1983b8b5044e4d5629d30bf4c26f&type=merchant_txn
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 426
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Sun, 06 Sep 2015 03:02:48 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=32h6dkjf7o17rfs4nujfqrm406; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 2694
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+* Closing connection #0

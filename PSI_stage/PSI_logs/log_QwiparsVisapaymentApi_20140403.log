@@ -1,0 +1,38 @@
+2014-04-03T03:29:32Z
+RequestParameter:  referenceId: BILL00000452
+
+2014-04-03T03:29:32Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=BILL00000452&dateTime=201211051511373&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=A4058A8EB7DFF542BD2F30752F244F95&cardNum=40000000000000006&cvv2=123&month=12&year=0&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-04-03T03:29:33Z
+ResponseParameter:  referenceId: BILL00000452
+
+2014-04-03T03:29:33Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>BILL00000452</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>541B7F4B455E1965B8F0D360FD1DBA70</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-04-03T03:32:37Z
+RequestParameter:  referenceId: BILL00000453
+
+2014-04-03T03:32:37Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=BILL00000453&dateTime=201211051511373&currency=USD&language=eng&cardHolderIp=192.168.170.168&md5Info=E16C561ECD13BF00A338FFFF1F5B4E8B&cardNum=40000000000000006&cvv2=123&month=12&year=0&birthDate=09201984&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=US&amount=12.00&products=2&remark=remark
+
+2014-04-03T03:32:39Z
+ResponseParameter:  referenceId: BILL00000453
+
+2014-04-03T03:32:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>BILL00000453</billNo><currency>USD</currency><amount>12.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Account is locked. Please contact merchant services operations@qwipi.com</remark><md5Info>02BB7C62A71207A0B1E44FCDA4FBDDDA</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+

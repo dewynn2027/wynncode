@@ -1,0 +1,52 @@
+2016-03-21T03:56:40Z
+RequestParameter:  billNo: qY34C1457921514411
+
+2016-03-21T03:56:40Z
+Array
+(
+    [Version] => 1.0
+    [Referer] => Vente-PriveeTest
+    [ReceiptCode] => D162103044022064
+    [ReceiptCodeEncrypted] => 043f3d0358233d25e22bdac2c3a90e9b83766e006e869fb5
+    [Action] => Refund
+    [Amount] => 10.00
+)
+
+
+2016-03-21T03:56:40Z
+RequestParameter:  billNo: qY34C1457921514411
+
+2016-03-21T03:56:40Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162103044022064,AcceptReject=F,Action=Refund,Desc=Expected status Y found N,ReasonCode=-55
+)
+
+
+2016-03-21T04:00:53Z
+RequestParameter:  billNo: qY34C1457921514411
+
+2016-03-21T04:00:53Z
+Array
+(
+    [Version] => 1.0
+    [Referer] => Vente-PriveeTest
+    [ReceiptCode] => D162103044022064
+    [ReceiptCodeEncrypted] => 043f3d0358233d25e22bdac2c3a90e9b83766e006e869fb5
+    [Action] => Cancel
+    [Amount] => 10.00
+)
+
+
+2016-03-21T04:00:55Z
+RequestParameter:  billNo: qY34C1457921514411
+
+2016-03-21T04:00:55Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162103044022064,AcceptReject=T,Action=Cancel,Desc=Marked for Cancel,ReasonCode=0
+)
+
+

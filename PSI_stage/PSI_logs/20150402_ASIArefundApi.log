@@ -1,0 +1,32 @@
+2015-04-02T07:22:19Z
+RequestParameter:  billNo: ajbfgjfiaa
+
+2015-04-02T07:22:19Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077675&amount=10
+
+2015-04-02T07:22:20Z
+ResponseParameter:  billNo: ajbfgjfiaa
+
+2015-04-02T07:22:20Z
+resultCode=0&orderStatus=Accepted&ref=ajbfgjfiaa&payRef=1210077675&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-04-02T07:30:48Z
+RequestParameter:  billNo: kdfbbcadgk
+
+2015-04-02T07:30:48Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210077677&amount=10
+
+2015-04-02T07:30:48Z
+ResponseParameter:  billNo: kdfbbcadgk
+
+2015-04-02T07:30:48Z
+resultCode=0&orderStatus=Accepted&ref=kdfbbcadgk&payRef=1210077677&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+

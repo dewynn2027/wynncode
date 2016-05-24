@@ -1,0 +1,630 @@
+2016-01-22T08:04:17Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 2016012201
+
+2016-01-22T08:04:17Z
+Init RequestParameter:  billNo: 2016012201
+
+2016-01-22T08:04:17Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 2016012201
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T08:04:21Z
+Init ResponseParameter:  billNo: 2016012201
+
+2016-01-22T08:04:21Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c2f8158fc0489947054a4c38122308dba91986ff
+)
+
+
+2016-01-22T08:04:21Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 2016012201
+
+2016-01-22T08:04:21Z
+Capture RequestParameter:  billNo: 2016012201
+
+2016-01-22T08:04:21Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => c2f8158fc0489947054a4c38122308dba91986ff
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T08:04:25Z
+Capture ResponseParameter:  billNo: 2016012201
+
+2016-01-22T08:04:25Z
+Array
+(
+    [rc] => 0
+    [result] => ID:c2f8158fc0489947054a4c38122308dba91986ff~Status:Failed~MerchantID:2016012201~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T11:31:30Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122204
+
+2016-01-22T11:31:30Z
+Init RequestParameter:  billNo: 20160122204
+
+2016-01-22T11:31:30Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122204
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T11:31:34Z
+Init ResponseParameter:  billNo: 20160122204
+
+2016-01-22T11:31:34Z
+Array
+(
+    [rc] => 0
+    [result] => OK:04183a458e52fbc6f9905b7a25b2df9f7cd50ff5
+)
+
+
+2016-01-22T11:31:34Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122204
+
+2016-01-22T11:31:34Z
+Capture RequestParameter:  billNo: 20160122204
+
+2016-01-22T11:31:34Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 04183a458e52fbc6f9905b7a25b2df9f7cd50ff5
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T11:31:37Z
+Capture ResponseParameter:  billNo: 20160122204
+
+2016-01-22T11:31:37Z
+Array
+(
+    [rc] => 0
+    [result] => ID:04183a458e52fbc6f9905b7a25b2df9f7cd50ff5~Status:Failed~MerchantID:20160122204~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T11:32:48Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122205
+
+2016-01-22T11:32:48Z
+Init RequestParameter:  billNo: 20160122205
+
+2016-01-22T11:32:48Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122205
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T11:32:51Z
+Init ResponseParameter:  billNo: 20160122205
+
+2016-01-22T11:32:51Z
+Array
+(
+    [rc] => 0
+    [result] => OK:48066907516c8e61eda06397ee211754a845d822
+)
+
+
+2016-01-22T11:32:51Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122205
+
+2016-01-22T11:32:51Z
+Capture RequestParameter:  billNo: 20160122205
+
+2016-01-22T11:32:51Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 48066907516c8e61eda06397ee211754a845d822
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T11:32:53Z
+Capture ResponseParameter:  billNo: 20160122205
+
+2016-01-22T11:32:53Z
+Array
+(
+    [rc] => 0
+    [result] => ID:48066907516c8e61eda06397ee211754a845d822~Status:Failed~MerchantID:20160122205~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T11:34:19Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122206
+
+2016-01-22T11:34:19Z
+Init RequestParameter:  billNo: 20160122206
+
+2016-01-22T11:34:19Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122206
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T11:34:23Z
+Init ResponseParameter:  billNo: 20160122206
+
+2016-01-22T11:34:23Z
+Array
+(
+    [rc] => 0
+    [result] => OK:6a7702b54a71b7ebdeeba2510f7338411b3effb1
+)
+
+
+2016-01-22T11:34:23Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122206
+
+2016-01-22T11:34:23Z
+Capture RequestParameter:  billNo: 20160122206
+
+2016-01-22T11:34:23Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 6a7702b54a71b7ebdeeba2510f7338411b3effb1
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T11:34:26Z
+Capture ResponseParameter:  billNo: 20160122206
+
+2016-01-22T11:34:26Z
+Array
+(
+    [rc] => 0
+    [result] => ID:6a7702b54a71b7ebdeeba2510f7338411b3effb1~Status:Failed~MerchantID:20160122206~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T11:34:46Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122207
+
+2016-01-22T11:34:46Z
+Init RequestParameter:  billNo: 20160122207
+
+2016-01-22T11:34:46Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122207
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T11:34:48Z
+Init ResponseParameter:  billNo: 20160122207
+
+2016-01-22T11:34:48Z
+Array
+(
+    [rc] => 0
+    [result] => OK:011e7e62161b95f2efad937dd479ea7d8a71c3fb
+)
+
+
+2016-01-22T11:34:48Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122207
+
+2016-01-22T11:34:48Z
+Capture RequestParameter:  billNo: 20160122207
+
+2016-01-22T11:34:48Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 011e7e62161b95f2efad937dd479ea7d8a71c3fb
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T11:34:51Z
+Capture ResponseParameter:  billNo: 20160122207
+
+2016-01-22T11:34:51Z
+Array
+(
+    [rc] => 0
+    [result] => ID:011e7e62161b95f2efad937dd479ea7d8a71c3fb~Status:Failed~MerchantID:20160122207~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T11:37:40Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122209
+
+2016-01-22T11:37:40Z
+Init RequestParameter:  billNo: 20160122209
+
+2016-01-22T11:37:40Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122209
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T11:37:43Z
+Init ResponseParameter:  billNo: 20160122209
+
+2016-01-22T11:37:43Z
+Array
+(
+    [rc] => 0
+    [result] => OK:099701ffcf400536ad67429dc8f346428300415f
+)
+
+
+2016-01-22T11:37:43Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122209
+
+2016-01-22T11:37:43Z
+Capture RequestParameter:  billNo: 20160122209
+
+2016-01-22T11:37:43Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 099701ffcf400536ad67429dc8f346428300415f
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T11:37:46Z
+Capture ResponseParameter:  billNo: 20160122209
+
+2016-01-22T11:37:46Z
+Array
+(
+    [rc] => 0
+    [result] => ID:099701ffcf400536ad67429dc8f346428300415f~Status:Failed~MerchantID:20160122209~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T14:52:25Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122210
+
+2016-01-22T14:52:25Z
+Init RequestParameter:  billNo: 20160122210
+
+2016-01-22T14:52:25Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122210
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T14:52:30Z
+Init ResponseParameter:  billNo: 20160122210
+
+2016-01-22T14:52:30Z
+Array
+(
+    [rc] => 0
+    [result] => OK:2995c7ddced5929e0619190e4ee2d87f0cb92d17
+)
+
+
+2016-01-22T14:52:30Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122210
+
+2016-01-22T14:52:30Z
+Capture RequestParameter:  billNo: 20160122210
+
+2016-01-22T14:52:30Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 2995c7ddced5929e0619190e4ee2d87f0cb92d17
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T14:52:33Z
+Capture ResponseParameter:  billNo: 20160122210
+
+2016-01-22T14:52:33Z
+Array
+(
+    [rc] => 0
+    [result] => ID:2995c7ddced5929e0619190e4ee2d87f0cb92d17~Status:Failed~MerchantID:20160122210~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T14:55:38Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122211
+
+2016-01-22T14:55:38Z
+Init RequestParameter:  billNo: 20160122211
+
+2016-01-22T14:55:38Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122211
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T14:55:41Z
+Init ResponseParameter:  billNo: 20160122211
+
+2016-01-22T14:55:41Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c758bf111fdba341ed470fed3eb7a81b929ec72a
+)
+
+
+2016-01-22T14:55:41Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122211
+
+2016-01-22T14:55:41Z
+Capture RequestParameter:  billNo: 20160122211
+
+2016-01-22T14:55:41Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => c758bf111fdba341ed470fed3eb7a81b929ec72a
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T14:55:44Z
+Capture ResponseParameter:  billNo: 20160122211
+
+2016-01-22T14:55:44Z
+Array
+(
+    [rc] => 0
+    [result] => ID:c758bf111fdba341ed470fed3eb7a81b929ec72a~Status:Failed~MerchantID:20160122211~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+
+2016-01-22T14:58:47Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=init billNo: 20160122212
+
+2016-01-22T14:58:47Z
+Init RequestParameter:  billNo: 20160122212
+
+2016-01-22T14:58:47Z
+Array
+(
+    [guid] => RRSG-5628-0LB6-5EA3
+    [pwd] => 9f77f9720dbc680d306f920dd6c0e14da0995b0e
+    [rs] => IM02
+    [merchant_transaction_id] => 20160122212
+    [user_ip] => 27.32.198.143
+    [description] => E-Commerce Purchase
+    [amount] => 2100
+    [currency] => USD
+    [name_on_card] => JUAN TAMAN
+    [street] => Address
+    [zip] => 1234
+    [city] => City
+    [country] => US
+    [state] => State
+    [email] => email@domain.com
+    [phone] => 5551234567
+    [card_bin] => 401200
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://dev.3dsecure.ecommsecure.com/acs/dev1/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-22T14:58:50Z
+Init ResponseParameter:  billNo: 20160122212
+
+2016-01-22T14:58:50Z
+Array
+(
+    [rc] => 0
+    [result] => OK:bb682f44e85e619d3e65576fad4555b089616124
+)
+
+
+2016-01-22T14:58:50Z
+End Point: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=charge billNo: 20160122212
+
+2016-01-22T14:58:50Z
+Capture RequestParameter:  billNo: 20160122212
+
+2016-01-22T14:58:50Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => bb682f44e85e619d3e65576fad4555b089616124
+    [cc] => 4************112
+    [cvv] => ***
+    [expire] => 10/17
+)
+
+
+2016-01-22T14:58:54Z
+Capture ResponseParameter:  billNo: 20160122212
+
+2016-01-22T14:58:54Z
+Array
+(
+    [rc] => 0
+    [result] => ID:bb682f44e85e619d3e65576fad4555b089616124~Status:Failed~MerchantID:20160122212~Terminal:Rietumu - non3D~ResultCode:907~ApprovalCode:-3~NameOnCard:JUAN TAMAN~CardMasked:4012********1112
+)
+
+

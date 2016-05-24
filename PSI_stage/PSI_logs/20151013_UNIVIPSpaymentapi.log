@@ -1,0 +1,144 @@
+2015-10-13T06:00:53Z
+RequestParameter:  billNo: 2015101202 | startTime:2015-10-13 06:00:53
+
+2015-10-13T06:00:53Z
+https://sip.uniques.net/direct/payment
+
+2015-10-13T06:00:53Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015101202
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 01e2b430b85eb958ca758cec94555766
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-13T06:00:54Z
+ResponseParameter:  billNo: 2015101202 | endTime:2015-10-13 06:00:54
+
+2015-10-13T06:00:54Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-68","cid":"88906","payNo":"2015101202","billAmount":"10.00","createdAt":"20151013140059","billCurrency":"USD","tid":"","comment":"Invalid MD5Info","signInfo":"4D92F4D2571E3DFA8CA8B0AD30ED7AD3","billingDescriptor":""}
+
+)
+
+
+2015-10-13T06:06:25Z
+RequestParameter:  billNo: 2015101203 | startTime:2015-10-13 06:06:25
+
+2015-10-13T06:06:25Z
+https://sip.uniques.net/direct/payment
+
+2015-10-13T06:06:25Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015101203
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 044f9e9026e36bc095b50e026e0f3fc6
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-13T06:06:27Z
+ResponseParameter:  billNo: 2015101203 | endTime:2015-10-13 06:06:27
+
+2015-10-13T06:06:27Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-68","cid":"88906","payNo":"2015101203","billAmount":"10.00","createdAt":"20151013140631","billCurrency":"USD","tid":"","comment":"Invalid MD5Info","signInfo":"B522864CB2CD3D3818368DB69B721A46","billingDescriptor":""}
+
+)
+
+
+2015-10-13T06:08:52Z
+RequestParameter:  billNo: 2015101204 | startTime:2015-10-13 06:08:52
+
+2015-10-13T06:08:52Z
+https://sip.uniques.net/direct/payment
+
+2015-10-13T06:08:52Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015101204
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => d4508349d3c2a74c59dbb3154925e00e
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [lName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-13T06:08:53Z
+ResponseParameter:  billNo: 2015101204 | endTime:2015-10-13 06:08:53
+
+2015-10-13T06:08:53Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-68","cid":"88906","payNo":"2015101204","billAmount":"10.00","createdAt":"20151013140857","billCurrency":"USD","tid":"","comment":"Invalid MD5Info","signInfo":"3BD0236F6A9E1992C0EA028111909A9C","billingDescriptor":""}
+
+)
+
+

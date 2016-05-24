@@ -1,0 +1,280 @@
+2016-01-11T01:35:36Z
+End Point:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Init RequestParameter:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => aAZET145033565960
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-11T01:35:36Z
+Init ResponseParameter:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Array
+(
+    [rc] => 0
+    [result] => OK:c06cc0de3039e4723766001d6e2a3e7e20e23c1c
+)
+
+
+2016-01-11T01:35:36Z
+End Point:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Capture RequestParameter:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => c06cc0de3039e4723766001d6e2a3e7e20e23c1c
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-01-11T01:35:36Z
+Capture ResponseParameter:  billNo: aAZET145033565960
+
+2016-01-11T01:35:36Z
+Array
+(
+    [rc] => 999
+    [result] => ID:c06cc0de3039e4723766001d6e2a3e7e20e23c1c~Status:Failed~MerchantID:aAZET145033565960~Terminal:Rietumu - non3D~ResultCode:101~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-11T01:39:11Z
+End Point:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Init RequestParameter:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => aAZET145033565961
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-11T01:39:11Z
+Init ResponseParameter:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Array
+(
+    [rc] => 0
+    [result] => OK:8ea958e22f3cf097272d853768d2e60ebe9cf6a6
+)
+
+
+2016-01-11T01:39:11Z
+End Point:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Capture RequestParameter:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 8ea958e22f3cf097272d853768d2e60ebe9cf6a6
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-01-11T01:39:11Z
+Capture ResponseParameter:  billNo: aAZET145033565961
+
+2016-01-11T01:39:11Z
+Array
+(
+    [rc] => 999
+    [result] => ID:8ea958e22f3cf097272d853768d2e60ebe9cf6a6~Status:Failed~MerchantID:aAZET145033565961~Terminal:Rietumu - non3D~ResultCode:101~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-11T01:39:55Z
+End Point:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Init RequestParameter:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => aAZET145033565963
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-11T01:39:55Z
+Init ResponseParameter:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Array
+(
+    [rc] => 0
+    [result] => OK:b45247df1c50d68df4fb9b4ffbd455c472cadc9e
+)
+
+
+2016-01-11T01:39:55Z
+End Point:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Capture RequestParameter:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => b45247df1c50d68df4fb9b4ffbd455c472cadc9e
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 01/18
+)
+
+
+2016-01-11T01:39:55Z
+Capture ResponseParameter:  billNo: aAZET145033565963
+
+2016-01-11T01:39:55Z
+Array
+(
+    [rc] => 999
+    [result] => ID:b45247df1c50d68df4fb9b4ffbd455c472cadc9e~Status:Failed~MerchantID:aAZET145033565963~Terminal:Rietumu - non3D~ResultCode:101~ApprovalCode:598684~NameOnCard:JUAN DELA CRUZ~CardMasked:5413********0019
+)
+
+
+2016-01-11T01:40:52Z
+End Point:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Init RequestParameter:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Array
+(
+    [guid] => 
+    [pwd] => 
+    [rs] => 
+    [merchant_transaction_id] => aAZET145033565964
+    [user_ip] => 112.211.18.77
+    [description] => E-Commerce Purchase
+    [amount] => 1000
+    [currency] => USD
+    [name_on_card] => JUAN DELA CRUZ
+    [street] => 12345678 qwertyu
+    [zip] => 1204
+    [city] => MAKATI
+    [country] => PH
+    [state] => NA
+    [email] => juan@mail.com
+    [phone] => 123456
+    [card_bin] => 541333
+    [merchant_site_url] => http://www.retailpremier.com/
+    [custom_return_url] => https://3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ
+)
+
+
+2016-01-11T01:40:52Z
+Init ResponseParameter:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Array
+(
+    [rc] => 0
+    [result] => OK:37688d9439698918624b5d1c229bf54a6afd5ca2
+)
+
+
+2016-01-11T01:40:52Z
+End Point:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Capture RequestParameter:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Array
+(
+    [f_extended] => 5
+    [init_transaction_id] => 37688d9439698918624b5d1c229bf54a6afd5ca2
+    [cc] => 5************019
+    [cvv] => ***
+    [expire] => 07/17
+)
+
+
+2016-01-11T01:40:52Z
+Capture ResponseParameter:  billNo: aAZET145033565964
+
+2016-01-11T01:40:52Z
+Array
+(
+    [rc] => 0
+    [result] => Redirect: https://gw2sandbox.tpro.lv:8443/gw2test/gwprocessor2.php?a=fromissuer1&init_transaction_id=37688d9439698918624b5d1c229bf54a6afd5ca2
+)
+
+

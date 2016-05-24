@@ -1,0 +1,1146 @@
+2015-09-18T08:35:54Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:35:54
+
+2015-09-18T08:35:54Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:37:11Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:37:11
+
+2015-09-18T08:37:11Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:38:29Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:38:29
+
+2015-09-18T08:38:29Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:38:59Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:38:59
+
+2015-09-18T08:38:59Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:39:45Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:39:45
+
+2015-09-18T08:39:45Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:40:56Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:40:56
+
+2015-09-18T08:40:56Z
+Array
+(
+    [rc] => 999
+    [message] => 
+)
+
+
+2015-09-18T08:43:43Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:43:43
+
+2015-09-18T08:43:43Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:49:03Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:49:03
+
+2015-09-18T08:49:03Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:50:09Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:50:09
+
+2015-09-18T08:50:09Z
+https://apistage.paymentsystemsintegration.com/test/iframe
+
+2015-09-18T08:50:09Z
+Array
+(
+)
+
+
+2015-09-18T08:50:09Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:50:09
+
+2015-09-18T08:50:09Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:51:00Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:51:00
+
+2015-09-18T08:51:00Z
+https://apistage.paymentsystemsintegration.com/test/iframe
+
+2015-09-18T08:51:00Z
+Array
+(
+)
+
+
+2015-09-18T08:51:00Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:51:00
+
+2015-09-18T08:51:00Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:53:24Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:53:24
+
+2015-09-18T08:53:24Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T08:53:24Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T08:53:24Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:53:24
+
+2015-09-18T08:53:24Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:55:00Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:55:00
+
+2015-09-18T08:55:00Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T08:55:00Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T08:55:01Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:55:01
+
+2015-09-18T08:55:01Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:56:19Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:56:19
+
+2015-09-18T08:56:19Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T08:56:19Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+)
+
+
+2015-09-18T08:56:20Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:56:20
+
+2015-09-18T08:56:20Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T08:57:06Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 08:57:06
+
+2015-09-18T08:57:06Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T08:57:06Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T08:57:07Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 08:57:07
+
+2015-09-18T08:57:07Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:00:04Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:00:04
+
+2015-09-18T09:00:04Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:00:04Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+)
+
+
+2015-09-18T09:00:05Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:00:05
+
+2015-09-18T09:00:05Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:46:08Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:46:08
+
+2015-09-18T09:46:08Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:46:08Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+)
+
+
+2015-09-18T09:46:09Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:46:09
+
+2015-09-18T09:46:09Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:48:49Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:48:49
+
+2015-09-18T09:48:49Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:48:49Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+)
+
+
+2015-09-18T09:48:49Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:48:49
+
+2015-09-18T09:48:49Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:49:58Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:49:58
+
+2015-09-18T09:49:58Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:49:58Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+)
+
+
+2015-09-18T09:49:59Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:49:59
+
+2015-09-18T09:49:59Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:52:55Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:52:55
+
+2015-09-18T09:52:55Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:52:55Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T09:52:55Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:52:55
+
+2015-09-18T09:52:55Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:55:54Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:55:54
+
+2015-09-18T09:55:54Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:55:54Z
+Array
+(
+)
+
+
+2015-09-18T09:55:55Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:55:55
+
+2015-09-18T09:55:55Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T09:56:40Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 09:56:40
+
+2015-09-18T09:56:40Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T09:56:40Z
+Array
+(
+    [transactionId] => SimpleXMLElement Object
+        (
+            [0] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+        )
+
+    [pgId] => SimpleXMLElement Object
+        (
+            [0] => 8
+        )
+
+    [eci] => SimpleXMLElement Object
+        (
+            [0] => 7
+        )
+
+    [nonEnrolled] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [nonDomestic] => SimpleXMLElement Object
+        (
+            [0] => 0
+        )
+
+    [bank] => SimpleXMLElement Object
+        (
+            [0] => CC
+        )
+
+    [cccat] => SimpleXMLElement Object
+        (
+            [0] => creditcard
+        )
+
+    [ccnum] => SimpleXMLElement Object
+        (
+            [0] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+        )
+
+    [ccname] => SimpleXMLElement Object
+        (
+            [0] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+        )
+
+    [ccvv] => SimpleXMLElement Object
+        (
+            [0] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+        )
+
+    [ccexpmon] => SimpleXMLElement Object
+        (
+            [0] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+        )
+
+    [ccexpyr] => SimpleXMLElement Object
+        (
+            [0] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+        )
+
+    [is_seamless] => SimpleXMLElement Object
+        (
+            [0] => 1
+        )
+
+    [acsUrl] => SimpleXMLElement Object
+        (
+            [0] => https://test.payu.in/hdfc_not_enrolled
+        )
+
+    [postUrl] => SimpleXMLElement Object
+        (
+            [0] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T09:56:41Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 09:56:41
+
+2015-09-18T09:56:41Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:03:38Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:03:38
+
+2015-09-18T10:03:38Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:03:38Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T10:03:39Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:03:39
+
+2015-09-18T10:03:39Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:04:37Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:04:37
+
+2015-09-18T10:04:37Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:04:37Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T10:04:38Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:04:38
+
+2015-09-18T10:04:38Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:08:32Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:08:32
+
+2015-09-18T10:08:32Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:08:32Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+
+2015-09-18T10:08:33Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:08:33
+
+2015-09-18T10:08:33Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:14:05Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:14:05
+
+2015-09-18T10:14:05Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:14:05Z
+Array
+(
+    [tdSecData] => SimpleXMLElement Object
+        (
+            [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+            [pgId] => 8
+            [eci] => 7
+            [nonEnrolled] => 1
+            [nonDomestic] => 0
+            [bank] => CC
+            [cccat] => creditcard
+            [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+            [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+            [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+            [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+            [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+            [is_seamless] => 1
+            [acsUrl] => https://test.payu.in/hdfc_not_enrolled
+            [postUrl] => https://apistage.paymentsystemsintegration.com/test/iframe
+        )
+
+)
+
+
+2015-09-18T10:14:06Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:14:06
+
+2015-09-18T10:14:06Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:28:22Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:28:22
+
+2015-09-18T10:28:22Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:28:22Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-18T10:28:23Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:28:23
+
+2015-09-18T10:28:23Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [data] => 
+)
+
+
+2015-09-18T10:34:09Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:34:09
+
+2015-09-18T10:34:09Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:34:09Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-18T10:34:10Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:34:10
+
+2015-09-18T10:34:10Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=success&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526196433368&field2=999999&field3=9493257041652611&field4=-1&field5=&field6=&field7=&field8=&field9=SUCCESS&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=10&unmappedstatus=captured&hash=8b80054db7bb3d65b32adcdd191db0549122edbe9b021807b5a42d4a496634a80704a6410d425ccf90a0697c940c5852ffb1eb7d6b9e2de5afe511cbb921b96d&bank_ref_no=9493257041652611&bank_ref_num=9493257041652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-18T10:38:23Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-18 10:38:23
+
+2015-09-18T10:38:23Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-18T10:38:23Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-18T10:38:24Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-18 10:38:24
+
+2015-09-18T10:38:24Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=success&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=&field6=&field7=&field8=&field9=SUCCESS&PG_TYPE=HDFCPG&error=E000&error_Message=No+Error&net_amount_debit=10&unmappedstatus=captured&hash=8b80054db7bb3d65b32adcdd191db0549122edbe9b021807b5a42d4a496634a80704a6410d425ccf90a0697c940c5852ffb1eb7d6b9e2de5afe511cbb921b96d&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+

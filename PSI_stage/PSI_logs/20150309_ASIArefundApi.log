@@ -1,0 +1,32 @@
+2015-03-09T05:17:36Z
+RequestParameter:  billNo: 1b3gz1425877706
+
+2015-03-09T05:17:36Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210074711&amount=10
+
+2015-03-09T05:17:36Z
+ResponseParameter:  billNo: 1b3gz1425877706
+
+2015-03-09T05:17:36Z
+resultCode=0&orderStatus=Accepted&ref=1b3gz1425877706&payRef=1210074711&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-03-09T05:18:25Z
+RequestParameter:  billNo: BEPt01425878161
+
+2015-03-09T05:18:25Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210074712&amount=10
+
+2015-03-09T05:18:25Z
+ResponseParameter:  billNo: BEPt01425878161
+
+2015-03-09T05:18:25Z
+resultCode=0&orderStatus=Accepted&ref=BEPt01425878161&payRef=1210074712&amt=10.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+

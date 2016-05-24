@@ -1,0 +1,20 @@
+2016-03-16T02:18:57Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIVerifyEnrollmentXML
+
+2016-03-16T02:18:57Z
+Verify RequestParameter:  billNo: qY34C145792151441
+
+2016-03-16T02:18:57Z
+<EPG><MESSAGE id='qY34C145792151441' version='1.02'><MPI><mid>allianzmetro</mid><name>Juan Dela Cruz</name><pan>5422882800700007</pan><expiry>1807</expiry><currency>840</currency><amount>1000</amount><desc>E-Commerce Purchase</desc><httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</httpUserAgent><httpAcceptLanguage>en-US,en;q=0.5</httpAcceptLanguage><trackid>qY34C145792151441</trackid></MPI></MESSAGE></EPG>
+
+2016-03-16T02:18:58Z
+Verify ResponseParameter:  billNo: qY34C145792151441
+
+2016-03-16T02:18:58Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="qY34C145792151441" version="1.0"><Response><result>Enrolled</result><avr>Y</avr><message></message><pareq>eJxdUttu4jAQfUfqP1jRvhbbAZIIGVdsQy/SlnYXuqvyFiUjSJsLtZ0V3a/fcSCpaZ5mzhznzJwZcXUoC/IXlM7raubxIfMIVGmd5dV25j2vby4j70peDMR6pwDiFaSNAjkgRDyA1skWSJ7NvMUyXvz2+STgnAV+6FkCUp7mv+D9GGN2EpGoMfQF7dKu/AAq3SWV6QCEkvT9+/1S8vYT9JR+1ktQ97EMwzApijyp/pVgVC3oEe5pRFRJCXJO1qAN6WQEbVGHldZNZdSHDFgkaJc49UYVcmfMXk8pHWW6dWIIaV2WpxhD7FELapndWPTrXOKpsYA+0z7kmXx53bxu4mWxuX0xyz8/x48rxh7jt9GP9XYmqGU4D7LEgPQZD9iIB4SNpjyaTtCjFnd4SWkHkc+rb4SzIWPo4hFxOHvb0PwIc2Y5LuI61CiFx/EhozGS+sxhwGFfV4CvcMF97LYNOpWLy2s0DW0B0nmBjdvKJ7O376tb4vrubL40Nbjsydj3o8iPGAtxABbaY2kL573luFEe2fIp6WW6v6Jgd7R2de2Jy4GgZ+d/MfgPudTfsQ==</pareq><url>https://www.3dsecurempi.com/TDS/AUT?Action=Authenticate</url><trackid>qY34C145792151441</trackid></Response></MESSAGE></EPG>
+)
+
+

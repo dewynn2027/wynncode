@@ -1,0 +1,540 @@
+2015-06-04T01:41:45Z
+RequestParameter:  CardNumber:  | startTime:2015-06-04 01:41:45
+
+2015-06-04T01:41:45Z
+Array
+(
+    [ptok[]] => D
+)
+
+
+2015-06-04T01:41:47Z
+ResponseParameter:  CardNumber:  | endTime:2015-06-04 01:41:47
+
+2015-06-04T01:41:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [0]</message><scope>0</scope></error><error><code>1508</code><message>Invalid card number [0]</message><scope>card=0</scope></error></errors><result/></response>
+
+
+2015-06-04T01:48:15Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 01:48:15
+
+2015-06-04T01:48:15Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T01:48:16Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 01:48:16
+
+2015-06-04T01:48:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:02:07Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:02:07
+
+2015-06-04T02:02:07Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:02:09Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:02:09
+
+2015-06-04T02:02:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:08:15Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:08:15
+
+2015-06-04T02:08:15Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:08:17Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:08:17
+
+2015-06-04T02:08:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:12:27Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:12:27
+
+2015-06-04T02:12:27Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:12:29Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:12:29
+
+2015-06-04T02:12:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:27:53Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:27:53
+
+2015-06-04T02:27:53Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:27:55Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:27:55
+
+2015-06-04T02:27:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:45:05Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:45:05
+
+2015-06-04T02:45:05Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:45:07Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:45:07
+
+2015-06-04T02:45:07Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:51:30Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:51:30
+
+2015-06-04T02:51:30Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:51:32Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:51:32
+
+2015-06-04T02:51:32Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T02:57:40Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 02:57:40
+
+2015-06-04T02:57:40Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T02:57:42Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 02:57:42
+
+2015-06-04T02:57:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T03:00:56Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 03:00:56
+
+2015-06-04T03:00:56Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T03:00:58Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 03:00:58
+
+2015-06-04T03:00:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T03:18:09Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 03:18:09
+
+2015-06-04T03:18:09Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T03:18:11Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 03:18:11
+
+2015-06-04T03:18:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T03:20:50Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 03:20:50
+
+2015-06-04T03:20:50Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T03:20:52Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 03:20:52
+
+2015-06-04T03:20:52Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:47:22Z
+RequestParameter:  CardNumber:  | startTime:2015-06-04 06:47:22
+
+2015-06-04T06:47:22Z
+Array
+(
+    [ptok[]] => D
+)
+
+
+2015-06-04T06:47:24Z
+ResponseParameter:  CardNumber:  | endTime:2015-06-04 06:47:24
+
+2015-06-04T06:47:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [0]</message><scope>0</scope></error><error><code>1508</code><message>Invalid card number [0]</message><scope>card=0</scope></error></errors><result/></response>
+
+
+2015-06-04T06:49:21Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:49:21
+
+2015-06-04T06:49:21Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:49:23Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:49:23
+
+2015-06-04T06:49:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:50:23Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:50:23
+
+2015-06-04T06:50:23Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:50:25Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:50:25
+
+2015-06-04T06:50:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:55:52Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:55:52
+
+2015-06-04T06:55:52Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:55:54Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:55:54
+
+2015-06-04T06:55:54Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:56:22Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:56:22
+
+2015-06-04T06:56:22Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:56:24Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:56:24
+
+2015-06-04T06:56:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:58:13Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:58:13
+
+2015-06-04T06:58:13Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:58:15Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:58:15
+
+2015-06-04T06:58:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T06:59:04Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 06:59:04
+
+2015-06-04T06:59:04Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T06:59:06Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 06:59:06
+
+2015-06-04T06:59:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:00:13Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:00:13
+
+2015-06-04T07:00:13Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:00:15Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:00:15
+
+2015-06-04T07:00:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:11:07Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:11:07
+
+2015-06-04T07:11:07Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:11:09Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:11:09
+
+2015-06-04T07:11:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:34:37Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:34:37
+
+2015-06-04T07:34:37Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:34:39Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:34:39
+
+2015-06-04T07:34:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:36:51Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:36:51
+
+2015-06-04T07:36:51Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:36:53Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:36:53
+
+2015-06-04T07:36:53Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:41:27Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:41:27
+
+2015-06-04T07:41:27Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:41:29Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:41:29
+
+2015-06-04T07:41:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:44:34Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:44:34
+
+2015-06-04T07:44:34Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:44:36Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:44:36
+
+2015-06-04T07:44:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T07:46:33Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 07:46:33
+
+2015-06-04T07:46:33Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T07:46:34Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 07:46:34
+
+2015-06-04T07:46:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T08:01:10Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 08:01:10
+
+2015-06-04T08:01:10Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T08:01:13Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 08:01:13
+
+2015-06-04T08:01:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>0</result></response>
+
+
+2015-06-04T08:14:16Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 08:14:16
+
+2015-06-04T08:14:16Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T08:14:18Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 08:14:18
+
+2015-06-04T08:14:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T08:18:01Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 08:18:01
+
+2015-06-04T08:18:01Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T08:18:03Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 08:18:03
+
+2015-06-04T08:18:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+
+2015-06-04T08:21:16Z
+RequestParameter:  CardNumber: 4918914107195005 | startTime:2015-06-04 08:21:16
+
+2015-06-04T08:21:16Z
+Array
+(
+    [ptok[4918914107195005]] => D
+)
+
+
+2015-06-04T08:21:18Z
+ResponseParameter:  CardNumber: 4918914107195005 | endTime:2015-06-04 08:21:18
+
+2015-06-04T08:21:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+

@@ -1,0 +1,34 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Parameters">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="API_username"/>
+        <xs:element type="xs:string" name="API_password"/>
+        <xs:element type="xs:string" name="API_key"/>
+        <xs:element name="DepositToCard">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Cardholderid"/>
+              <xs:element type="xs:string" name="Amount"/>
+              <xs:element type="xs:string" name="TransactionType"/>
+              <xs:element type="xs:string" name="CurrencyCode"/>
+              <xs:element type="xs:string" name="SettlementAmount"/>
+              <xs:element type="xs:string" name="SettlementCurrencyCode"/>
+              <xs:element type="xs:string" name="TransactionDescription"/>
+              <xs:element type="xs:string" name="TerminalOwner"/>
+              <xs:element type="xs:string" name="TerminalLocation"/>
+              <xs:element type="xs:string" name="TerminalCity"/>
+              <xs:element type="xs:string" name="TerminalState"/>
+              <xs:element type="xs:string" name="TerminalID"/>
+              <xs:element type="xs:string" name="Country"/>
+              <xs:element type="xs:string" name="TransactionFlatFee"/>
+              <xs:element type="xs:string" name="FeeDescription"/>
+              <xs:element type="xs:string" name="DirectFee"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+

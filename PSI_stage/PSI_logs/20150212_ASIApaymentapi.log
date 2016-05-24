@@ -1,0 +1,31 @@
+2015-02-12T06:55:44Z
+RequestParameter:  billNo: LqmpG1423724141 | startTime:2015-02-12 06:55:44
+
+2015-02-12T06:55:44Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=Master&lang=E&cardHolder=test%20ayin%20yeahyewytgesfdessdfds&cardNo=5436521452154875&securityCode=123&epMonth=03&epYear=2015&amount=111&currCode=840&orderRef=LqmpG1423724141&remark=test
+
+2015-02-12T06:55:45Z
+ResponseParameter:  billNo: LqmpG1423724141 | endTime:2015-02-12 06:55:45
+
+2015-02-12T06:55:45Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-02-12T07:55:21Z
+RequestParameter:  billNo: P2kY5Sc13 | startTime:2015-02-12 07:55:21
+
+2015-02-12T07:55:21Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=P2kY5Sc13&remark=
+
+2015-02-12T07:55:23Z
+ResponseParameter:  billNo: P2kY5Sc13 | endTime:2015-02-12 07:55:23
+
+2015-02-12T07:55:23Z
+successcode=0&Ref=P2kY5Sc13&PayRef=1210072137&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Juan Dela Cruz&AuthId=072137&TxTime=2015-02-12 15:55:55.0&errMsg=Transaction completed
+
+
+
+
+
+
+

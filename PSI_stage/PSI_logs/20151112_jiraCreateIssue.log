@@ -1,0 +1,51 @@
+2015-11-12T03:05:40Z
+RequestParameter: startTime:2015-11-12 03:05:40
+
+2015-11-12T03:05:40Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"AUTO: Gateway Account Lockout","description":"Gateway Account Lockout has occurred for TEST-ONLY due to TEST-COND..","customfield_10801":"TEST-ONLY","issuetype":{"name":"Accounts & Access"},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-11-12T03:05:42Z
+ResponeParameter:  endTime:2015-11-12 03:05:42
+
+2015-11-12T03:05:42Z
+Array
+(
+    [rc] => 0
+    [result] => {"errorMessages":[],"errors":{"issuetype":"issue type is required"}}
+)
+
+
+2015-11-12T04:30:56Z
+RequestParameter: startTime:2015-11-12 04:30:56
+
+2015-11-12T04:30:56Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"AUTO: Gateway Account Lockout","description":"Gateway Account Lockout has occurred for 100-01-ADM-DRIVERA due to transaction success rate.","customfield_10801":"100-01-ADM-DRIVERA","issuetype":{"name":"Access"},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-11-12T04:30:58Z
+ResponeParameter:  endTime:2015-11-12 04:30:58
+
+2015-11-12T04:30:58Z
+Array
+(
+    [rc] => 0
+    [result] => {"id":"13913","key":"TGLPCSP-297","self":"https://transcommglobal.atlassian.net/rest/api/2/issue/13913"}
+)
+
+
+2015-11-12T04:46:09Z
+RequestParameter: startTime:2015-11-12 04:46:09
+
+2015-11-12T04:46:09Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"AUTO: Gateway Account Lockout","description":"Gateway Account Lockout has occurred for 100-01-ADM-DRIVERA due to threshold violation: transaction success rate.","customfield_10801":"100-01-ADM-DRIVERA","issuetype":{"name":"Access"},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-11-12T04:46:11Z
+ResponeParameter:  endTime:2015-11-12 04:46:11
+
+2015-11-12T04:46:11Z
+Array
+(
+    [rc] => 0
+    [result] => {"id":"13914","key":"TGLPCSP-298","self":"https://transcommglobal.atlassian.net/rest/api/2/issue/13914"}
+)
+
+

@@ -1,0 +1,13 @@
+2015-06-03T05:13:01Z
+RequestParameter:  billNo: j4XMG1433308379 | startTime:2015-06-03 05:13:01
+
+2015-06-03T05:13:01Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=JUAN%20%20DELA%20CRUZ&cardNo=4************005&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=840&orderRef=j4XMG1433308379&remark=Test%20Transaction..
+
+2015-06-03T05:13:02Z
+ResponseParameter:  billNo: j4XMG1433308379 | endTime:2015-06-03 05:13:02
+
+2015-06-03T05:13:02Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+

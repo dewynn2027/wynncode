@@ -1,0 +1,38 @@
+2014-06-19T11:30:03Z
+RequestParameter:  referenceId: CAD-d41c42b04e84
+
+2014-06-19T11:30:03Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=CAD-d41c42b04e84&dateTime=20140619165955&currency=USD&language=eng&cardHolderIp=192.168.0.195&md5Info=D36678057A59AABA29FEA91E45965367&cardNum=4100000000000006&cvv2=123&month=12&year=2014&birthDate=19651108&firstName=Gerald&lastName=West&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=city&state=state&country=US&amount=12.00&products=&remark=remark
+
+2014-06-19T11:30:05Z
+ResponseParameter:  referenceId: CAD-d41c42b04e84
+
+2014-06-19T11:30:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>CAD-d41c42b04e84</billNo><amount>12.00</amount><currency>USD</currency><dateTime>20140619165955</dateTime><remark>Unexpected Error. Try again later.</remark><md5Info>-</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-19T11:38:26Z
+RequestParameter:  referenceId: CAD-7a11e883056a
+
+2014-06-19T11:38:26Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=CAD-7a11e883056a&dateTime=20140619170822&currency=USD&language=eng&cardHolderIp=192.168.0.195&md5Info=886856A391D911D4744CB2BE8E4BB7E9&cardNum=4100000000000006&cvv2=123&month=12&year=2014&birthDate=19651108&firstName=Gerald&lastName=West&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=city&state=state&country=US&amount=12.00&products=&remark=remark
+
+2014-06-19T11:38:29Z
+ResponseParameter:  referenceId: CAD-7a11e883056a
+
+2014-06-19T11:38:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>CAD-7a11e883056a</billNo><amount>12.00</amount><currency>USD</currency><dateTime>20140619170822</dateTime><remark>Unexpected Error. Try again later.</remark><md5Info>-</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

@@ -1,0 +1,75 @@
+2014-08-01T02:33:00Z
+RequestParameter:  referenceId: IN00000000000000078
+
+2014-08-01T02:33:00Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=IN00000000000000078&Currency=USD&Amount=23.5&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=fgh%20gfhfdh&ProductName=2
+
+2014-08-01T02:33:02Z
+ResponseParameter:  referenceId: IN00000000000000078
+
+2014-08-01T02:33:02Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>IN00000000000000078</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140801113330</ResponseTime>
+<TransactionID>20140801000012D00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-01T02:36:58Z
+RequestParameter:  referenceId: IN00000000000000079
+
+2014-08-01T02:36:58Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=IN00000000000000079&Currency=USD&Amount=45&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=14&Csc=467&CardHolder=aaa%20aa&ProductName=2
+
+2014-08-01T02:36:59Z
+ResponseParameter:  referenceId: IN00000000000000079
+
+2014-08-01T02:36:59Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>IN00000000000000079</Reference>
+<ResponseCode>924</ResponseCode>
+<ResponseMessage>Incorrect expiry date</ResponseMessage>
+<ResponseTime>20140801113727</ResponseTime>
+<TransactionID>20140801000012F00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-08-01T03:06:42Z
+RequestParameter:  referenceId: IN00000000000000080
+
+2014-08-01T03:06:42Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=IN00000000000000080&Currency=USD&Amount=998&CardNumber=4032122101485916&ExpiryMM=07&ExpiryYY=17&Csc=473&CardHolder=Joan%20E%20Reinart&ProductName=2
+
+2014-08-01T03:06:43Z
+ResponseParameter:  referenceId: IN00000000000000080
+
+2014-08-01T03:06:43Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>IN00000000000000080</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140801120712</ResponseTime>
+<TransactionID>20140801000014500030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

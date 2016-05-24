@@ -1,0 +1,165 @@
+2015-04-10T03:48:36Z
+RequestParameter:  billNo: zdAoY1428637715 | startTime:2015-04-10 03:48:36
+
+2015-04-10T03:48:36Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=zdAoY1428637715&remark=TEST%20PAYMENT
+
+2015-04-10T03:48:38Z
+ResponseParameter:  billNo: zdAoY1428637715 | endTime:2015-04-10 03:48:38
+
+2015-04-10T03:48:38Z
+successcode=0&Ref=zdAoY1428637715&PayRef=1210078298&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078298&TxTime=2015-04-10 11:48:22.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-04-10T03:50:52Z
+RequestParameter:  billNo: ETWzw1428637848 | startTime:2015-04-10 03:50:52
+
+2015-04-10T03:50:52Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=608&orderRef=ETWzw1428637848&remark=TEST%20PAYMENT
+
+2015-04-10T03:50:52Z
+ResponseParameter:  billNo: ETWzw1428637848 | endTime:2015-04-10 03:50:52
+
+2015-04-10T03:50:52Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Invalid Card Verification Number
+
+
+2015-04-10T03:51:25Z
+RequestParameter:  billNo: T61w21428637883 | startTime:2015-04-10 03:51:25
+
+2015-04-10T03:51:25Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************006&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=608&orderRef=T61w21428637883&remark=TEST%20PAYMENT
+
+2015-04-10T03:51:25Z
+ResponseParameter:  billNo: T61w21428637883 | endTime:2015-04-10 03:51:25
+
+2015-04-10T03:51:25Z
+successcode=1&Ref=T61w21428637883&PayRef=1210078300&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078300&TxTime=2015-04-10 11:51:09.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-04-10T05:22:40Z
+RequestParameter:  billNo: 6peuD1428643357 | startTime:2015-04-10 05:22:40
+
+2015-04-10T05:22:40Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=978&orderRef=6peuD1428643357&remark=Test
+
+2015-04-10T05:22:41Z
+ResponseParameter:  billNo: 6peuD1428643357 | endTime:2015-04-10 05:22:41
+
+2015-04-10T05:22:41Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-04-10T05:23:01Z
+RequestParameter:  billNo: Ahskp1428643380 | startTime:2015-04-10 05:23:01
+
+2015-04-10T05:23:01Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=608&orderRef=Ahskp1428643380&remark=Test
+
+2015-04-10T05:23:03Z
+ResponseParameter:  billNo: Ahskp1428643380 | endTime:2015-04-10 05:23:03
+
+2015-04-10T05:23:03Z
+successcode=1&Ref=Ahskp1428643380&PayRef=1210078301&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078301&TxTime=2015-04-10 13:22:47.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-04-10T05:23:23Z
+RequestParameter:  billNo: 7LbKl1428643401 | startTime:2015-04-10 05:23:23
+
+2015-04-10T05:23:23Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************005&securityCode=***&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=7LbKl1428643401&remark=Test
+
+2015-04-10T05:23:24Z
+ResponseParameter:  billNo: 7LbKl1428643401 | endTime:2015-04-10 05:23:24
+
+2015-04-10T05:23:24Z
+successcode=0&Ref=7LbKl1428643401&PayRef=1210078302&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078302&TxTime=2015-04-10 13:23:07.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-04-10T05:26:28Z
+RequestParameter:  billNo: QEpIg1428643586 | startTime:2015-04-10 05:26:28
+
+2015-04-10T05:26:28Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************845&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=978&orderRef=QEpIg1428643586&remark=Test
+
+2015-04-10T05:26:28Z
+ResponseParameter:  billNo: QEpIg1428643586 | endTime:2015-04-10 05:26:28
+
+2015-04-10T05:26:28Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-04-10T05:27:00Z
+RequestParameter:  billNo: 5vxT71428643618 | startTime:2015-04-10 05:27:00
+
+2015-04-10T05:27:00Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************845&securityCode=***&epMonth=07&epYear=2017&amount=10&currCode=608&orderRef=5vxT71428643618&remark=Test
+
+2015-04-10T05:27:01Z
+ResponseParameter:  billNo: 5vxT71428643618 | endTime:2015-04-10 05:27:01
+
+2015-04-10T05:27:01Z
+successcode=1&Ref=5vxT71428643618&PayRef=1210078303&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078303&TxTime=2015-04-10 13:26:44.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-04-10T05:28:12Z
+RequestParameter:  billNo: Ye6aK1428643689 | startTime:2015-04-10 05:28:12
+
+2015-04-10T05:28:12Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************845&securityCode=***&epMonth=02&epYear=2017&amount=10&currCode=608&orderRef=Ye6aK1428643689&remark=Test
+
+2015-04-10T05:28:12Z
+ResponseParameter:  billNo: Ye6aK1428643689 | endTime:2015-04-10 05:28:12
+
+2015-04-10T05:28:12Z
+successcode=1&Ref=Ye6aK1428643689&PayRef=1210078304&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078304&TxTime=2015-04-10 13:27:56.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-04-10T05:43:06Z
+RequestParameter:  billNo: P2kY5Sc450 | startTime:2015-04-10 05:43:06
+
+2015-04-10T05:43:06Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=4************111&securityCode=***&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=P2kY5Sc450&remark=
+
+2015-04-10T05:43:07Z
+ResponseParameter:  billNo: P2kY5Sc450 | endTime:2015-04-10 05:43:07
+
+2015-04-10T05:43:07Z
+successcode=1&Ref=P2kY5Sc450&PayRef=1210078307&Amt=10.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Juan Dela Cruz&AuthId=078307&TxTime=2015-04-10 13:42:51.0&errMsg=Transaction failed
+
+
+
+
+
+
+

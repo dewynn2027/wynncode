@@ -1,0 +1,480 @@
+2015-10-05T02:47:05Z
+RequestParameter:  billNo: 29876545324119 | startTime:2015-10-05 02:47:05
+
+2015-10-05T02:47:05Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T02:47:05Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 29876545324119
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 9f122038811e9f96b13842a37e6f5dba
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T02:47:06Z
+ResponseParameter:  billNo: 29876545324119 | endTime:2015-10-05 02:47:06
+
+2015-10-05T02:47:06Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"29876545324119","billAmount":"10.00","createdAt":"20151005104706","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"3A0CC9F19BB3C622CCA530DCB1D88A1A","billingDescriptor":""}
+
+)
+
+
+2015-10-05T03:03:36Z
+RequestParameter:  billNo: D298765454324113 | startTime:2015-10-05 03:03:36
+
+2015-10-05T03:03:36Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T03:03:36Z
+Array
+(
+    [cid] => 88906
+    [payNo] => D298765454324113
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 43a98e9602e55d5e2dc56b9cd448a012
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T03:03:37Z
+ResponseParameter:  billNo: D298765454324113 | endTime:2015-10-05 03:03:37
+
+2015-10-05T03:03:37Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"D298765454324113","billAmount":"10.00","createdAt":"20151005110337","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"D8985AD1F3253BF0A8504429E54E425F","billingDescriptor":""}
+
+)
+
+
+2015-10-05T04:26:47Z
+RequestParameter:  billNo: 2015100501 | startTime:2015-10-05 04:26:47
+
+2015-10-05T04:26:47Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T04:26:47Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100501
+    [createdAt] => 20150919123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 4bacf19d8d46cc904665a7032f9b81d4
+    [ccNo] => 5************357
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [surName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Test only
+)
+
+
+2015-10-05T04:26:53Z
+ResponseParameter:  billNo: 2015100501 | endTime:2015-10-05 04:26:53
+
+2015-10-05T04:26:53Z
+Array
+(
+    [rc] => 0
+    [message] => Success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"88906","payNo":"2015100501","billAmount":"10.00","createdAt":"20151005122653","billCurrency":"USD","tid":"8890622122495","comment":"Success","signInfo":"67F3188127238C3147A2CDBF57A9E74F","billingDescriptor":"QINGYIXUAN"}
+
+)
+
+
+2015-10-05T05:33:17Z
+RequestParameter:  billNo: 2015100502 | startTime:2015-10-05 05:33:17
+
+2015-10-05T05:33:17Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:33:17Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100502
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => fd6479978c4db6c8d0217e310677ed27
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:33:18Z
+ResponseParameter:  billNo: 2015100502 | endTime:2015-10-05 05:33:18
+
+2015-10-05T05:33:18Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"2015100502","billAmount":"10.00","createdAt":"20151005133318","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"913CFC17FAA183985AC86903833D00BC","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:36:35Z
+RequestParameter:  billNo: 2015100504 | startTime:2015-10-05 05:36:35
+
+2015-10-05T05:36:35Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:36:35Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100504
+    [createdAt] => 20150919123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 02e073802993fc12fdc159f76f8056b0
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 10
+    [expYear] => 2017
+    [fName] => Cameron
+    [surName] => Senese
+    [emailAddress] => cs@allianzmetro.com
+    [phoneNo] => 7117112
+    [birth] => 19800909
+    [zip] => 2234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 50
+    [comment] => Test only
+)
+
+
+2015-10-05T05:36:36Z
+ResponseParameter:  billNo: 2015100504 | endTime:2015-10-05 05:36:36
+
+2015-10-05T05:36:36Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"2015100504","billAmount":"50.00","createdAt":"20151005133636","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"F55B870FB6ACC2AAA7418821A04E78E3","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:41:07Z
+RequestParameter:  billNo: 2015100506 | startTime:2015-10-05 05:41:07
+
+2015-10-05T05:41:07Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:41:07Z
+Array
+(
+    [cid] => 88907
+    [payNo] => 2015100506
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 64bfbd42e9a0c59b78333301afbf76ca
+    [ccNo] => 5************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:41:08Z
+ResponseParameter:  billNo: 2015100506 | endTime:2015-10-05 05:41:08
+
+2015-10-05T05:41:08Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"1001320","cid":"88907","payNo":"2015100506","billAmount":"10.00","createdAt":"20151005134108","billCurrency":"USD","tid":"","comment":"The MID (merNo) is not exists","signInfo":"2B6E4FAA3B3CFEEADA8D70E1529C65DE","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:46:15Z
+RequestParameter:  billNo: 2015100509 | startTime:2015-10-05 05:46:15
+
+2015-10-05T05:46:15Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:46:15Z
+Array
+(
+    [cid] => 88907
+    [payNo] => 2015100509
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => d0291c34b0c2f25b05be13aaebb92296
+    [ccNo] => 5************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:46:16Z
+ResponseParameter:  billNo: 2015100509 | endTime:2015-10-05 05:46:16
+
+2015-10-05T05:46:16Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"1001320","cid":"88907","payNo":"2015100509","billAmount":"10.00","createdAt":"20151005134616","billCurrency":"USD","tid":"","comment":"The MID (merNo) is not exists","signInfo":"E9103D95476028CAFFEC58D39AD963EA","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:47:33Z
+RequestParameter:  billNo: 2015100510 | startTime:2015-10-05 05:47:33
+
+2015-10-05T05:47:33Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:47:33Z
+Array
+(
+    [cid] => 88907
+    [payNo] => 2015100510
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 4c2eb4e672a2880592662851832c9a18
+    [ccNo] => 5************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:47:34Z
+ResponseParameter:  billNo: 2015100510 | endTime:2015-10-05 05:47:34
+
+2015-10-05T05:47:34Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"1001320","cid":"88907","payNo":"2015100510","billAmount":"10.00","createdAt":"20151005134734","billCurrency":"USD","tid":"","comment":"The MID (merNo) is not exists","signInfo":"41538500E299A55A196E12D911618321","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:53:39Z
+RequestParameter:  billNo: 2015100511 | startTime:2015-10-05 05:53:39
+
+2015-10-05T05:53:39Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:53:39Z
+Array
+(
+    [cid] => 88907
+    [payNo] => 2015100511
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => f471f0e99b2a3960d35567bb362f93ad
+    [ccNo] => 5************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:53:40Z
+ResponseParameter:  billNo: 2015100511 | endTime:2015-10-05 05:53:40
+
+2015-10-05T05:53:40Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"1001320","cid":"88907","payNo":"2015100511","billAmount":"10.00","createdAt":"20151005135340","billCurrency":"USD","tid":"","comment":"The MID (merNo) is not exists","signInfo":"46BF4BFAB2EFAC2A457DF1AD6D3148E6","billingDescriptor":""}
+
+)
+
+
+2015-10-05T05:56:21Z
+RequestParameter:  billNo: 2015100512 | startTime:2015-10-05 05:56:21
+
+2015-10-05T05:56:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-05T05:56:21Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 2015100512
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => bb2af7ef5725195289210fbea94a4dd2
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-05T05:56:22Z
+ResponseParameter:  billNo: 2015100512 | endTime:2015-10-05 05:56:22
+
+2015-10-05T05:56:22Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"2015100512","billAmount":"10.00","createdAt":"20151005135622","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"D96C66C8FF5E8B7F16BE6011A5333C49","billingDescriptor":""}
+
+)
+
+

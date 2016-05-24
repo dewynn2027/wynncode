@@ -1,0 +1,805 @@
+2015-03-23T09:55:39Z
+RequestParameter:  billNo: qCS781427104499 | startTime:2015-03-23 09:55:39
+
+2015-03-23T09:55:39Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qCS781427104499
+    [TRAN] => 3YS1047TBX7Y
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T09:55:41Z
+ResponseParameter:  billNo: qCS781427104499 | endTime:2015-03-23 09:55:41
+
+2015-03-23T09:55:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YS1047TBX7Y</TRAN>
+  <MERC>680000</MERC>
+  <SESS>qCS781427104499</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T10:58:32Z
+RequestParameter:  billNo: 550ff1d24ea380.85620416 | startTime:2015-03-23 10:58:32
+
+2015-03-23T10:58:32Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 100-01-MER-TRDTECH
+    [TRAN] => 3YS305MD8VPS
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T10:58:34Z
+ResponseParameter:  billNo: 550ff1d24ea380.85620416 | endTime:2015-03-23 10:58:34
+
+2015-03-23T10:58:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YS305MD8VPS</TRAN>
+  <MERC>680000</MERC>
+  <SESS>100-01-MER-TRDTECH</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T10:59:01Z
+RequestParameter:  billNo: 550ff1f0d18149.95773616 | startTime:2015-03-23 10:59:01
+
+2015-03-23T10:59:01Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 100-01-MER-TRDTECH
+    [TRAN] => 3YS3084PHBK3
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T10:59:03Z
+ResponseParameter:  billNo: 550ff1f0d18149.95773616 | endTime:2015-03-23 10:59:03
+
+2015-03-23T10:59:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YS3084PHBK3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>100-01-MER-TRDTECH</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:06:28Z
+RequestParameter:  billNo: 550ff3a8b4ae02.18146187 | startTime:2015-03-23 11:06:28
+
+2015-03-23T11:06:28Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 100-01-MER-TRDTECH
+    [TRAN] => 3YSP0S1MGVGK
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T11:06:29Z
+ResponseParameter:  billNo: 550ff3a8b4ae02.18146187 | endTime:2015-03-23 11:06:29
+
+2015-03-23T11:06:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSP0S1MGVGK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>100-01-MER-TRDTECH</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:15:32Z
+RequestParameter:  billNo: 550ff5cf123692.45751428 | startTime:2015-03-23 11:15:32
+
+2015-03-23T11:15:32Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 100-01-MER-TRDTECH
+    [TRAN] => 3YSP0MDJZ3XH
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T11:15:34Z
+ResponseParameter:  billNo: 550ff5cf123692.45751428 | endTime:2015-03-23 11:15:34
+
+2015-03-23T11:15:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSP0MDJZ3XH</TRAN>
+  <MERC>680000</MERC>
+  <SESS>100-01-MER-TRDTECH</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:19:12Z
+RequestParameter:  billNo: df18825d281b4b8da4bac051ebc92c76 | startTime:2015-03-23 11:19:12
+
+2015-03-23T11:19:12Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 6af7ddf82bcc49e1ab600fbe2d6d0c93
+    [TRAN] => 3YSP0P2Q2QY3
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T11:19:13Z
+ResponseParameter:  billNo: df18825d281b4b8da4bac051ebc92c76 | endTime:2015-03-23 11:19:13
+
+2015-03-23T11:19:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSP0P2Q2QY3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>6af7ddf82bcc49e1ab600fbe2d6d0c93</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:21:44Z
+RequestParameter:  billNo: jjbhjjbaic | startTime:2015-03-23 11:21:44
+
+2015-03-23T11:21:44Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => uunt06vqe5cy35wvloyazu0edxfl5ipt
+    [TRAN] => 3YSP0WCKYWL7
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T11:21:45Z
+ResponseParameter:  billNo: jjbhjjbaic | endTime:2015-03-23 11:21:45
+
+2015-03-23T11:21:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSP0WCKYWL7</TRAN>
+  <MERC>680000</MERC>
+  <SESS>uunt06vqe5cy35wvloyazu0edxfl5ipt</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T11:41:03Z
+RequestParameter:  billNo: U3NRS1427110860 | startTime:2015-03-23 11:41:03
+
+2015-03-23T11:41:03Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => U3NRS1427110860
+    [TRAN] => 3YSP038DH255
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T11:41:05Z
+ResponseParameter:  billNo: U3NRS1427110860 | endTime:2015-03-23 11:41:05
+
+2015-03-23T11:41:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSP038DH255</TRAN>
+  <MERC>680000</MERC>
+  <SESS>U3NRS1427110860</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T13:50:14Z
+RequestParameter:  billNo: aakiegdhba | startTime:2015-03-23 13:50:14
+
+2015-03-23T13:50:14Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => jtrtxlwsjrwy1knyssvzbe2zdl6pbpql
+    [TRAN] => 3YSD03H23QJS
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T13:50:15Z
+ResponseParameter:  billNo: aakiegdhba | endTime:2015-03-23 13:50:15
+
+2015-03-23T13:50:15Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSD03H23QJS</TRAN>
+  <MERC>680000</MERC>
+  <SESS>jtrtxlwsjrwy1knyssvzbe2zdl6pbpql</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T13:55:56Z
+RequestParameter:  billNo: ahkdjdbcgh | startTime:2015-03-23 13:55:56
+
+2015-03-23T13:55:56Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => avo1jdn2nhqafavnwi6wh5fuqyhmcmjc
+    [TRAN] => 3YSD0L9MTQ50
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T13:55:57Z
+ResponseParameter:  billNo: ahkdjdbcgh | endTime:2015-03-23 13:55:57
+
+2015-03-23T13:55:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSD0L9MTQ50</TRAN>
+  <MERC>680000</MERC>
+  <SESS>avo1jdn2nhqafavnwi6wh5fuqyhmcmjc</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T13:56:38Z
+RequestParameter:  billNo: gcjibeddfj | startTime:2015-03-23 13:56:38
+
+2015-03-23T13:56:38Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => g42yf4qrgdsl42auwehncmlg1fhb4wle
+    [TRAN] => 3YSD0GBPQCJD
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T13:56:40Z
+ResponseParameter:  billNo: gcjibeddfj | endTime:2015-03-23 13:56:40
+
+2015-03-23T13:56:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSD0GBPQCJD</TRAN>
+  <MERC>680000</MERC>
+  <SESS>g42yf4qrgdsl42auwehncmlg1fhb4wle</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T13:59:58Z
+RequestParameter:  billNo: gahagbkaga | startTime:2015-03-23 13:59:58
+
+2015-03-23T13:59:58Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 40ahprp5pobydbaikzca0jcm6ae3szbp
+    [TRAN] => 3YSD0LKC22LK
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T13:59:59Z
+ResponseParameter:  billNo: gahagbkaga | endTime:2015-03-23 13:59:59
+
+2015-03-23T13:59:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YSD0LKC22LK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>40ahprp5pobydbaikzca0jcm6ae3szbp</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T14:01:34Z
+RequestParameter:  billNo: jkhcgdcgkc | startTime:2015-03-23 14:01:34
+
+2015-03-23T14:01:34Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => tx65lxw65taj4hmb6wwdoyb3vh6ydg5w
+    [TRAN] => 3YVK03W7321J
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T14:01:35Z
+ResponseParameter:  billNo: jkhcgdcgkc | endTime:2015-03-23 14:01:35
+
+2015-03-23T14:01:35Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVK03W7321J</TRAN>
+  <MERC>680000</MERC>
+  <SESS>tx65lxw65taj4hmb6wwdoyb3vh6ydg5w</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T14:03:24Z
+RequestParameter:  billNo: bhbefhaggb | startTime:2015-03-23 14:03:24
+
+2015-03-23T14:03:24Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => mzixj1svf1dx2oykucmd1ro05wmgclmo
+    [TRAN] => 3YVK0Q956PQZ
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T14:03:26Z
+ResponseParameter:  billNo: bhbefhaggb | endTime:2015-03-23 14:03:26
+
+2015-03-23T14:03:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVK0Q956PQZ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>mzixj1svf1dx2oykucmd1ro05wmgclmo</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T14:05:42Z
+RequestParameter:  billNo: eehaaicadf | startTime:2015-03-23 14:05:42
+
+2015-03-23T14:05:42Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => bppzuucfbsier3e4skwlgz1k5uby4545
+    [TRAN] => 3YVK0CCHDJDZ
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T14:05:43Z
+ResponseParameter:  billNo: eehaaicadf | endTime:2015-03-23 14:05:43
+
+2015-03-23T14:05:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVK0CCHDJDZ</TRAN>
+  <MERC>680000</MERC>
+  <SESS>bppzuucfbsier3e4skwlgz1k5uby4545</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T14:08:03Z
+RequestParameter:  billNo: cdciakbdca | startTime:2015-03-23 14:08:03
+
+2015-03-23T14:08:03Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => vknvqywljl5ttts1na6airsxi034554t
+    [TRAN] => 3YVK0LC3XK68
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T14:08:05Z
+ResponseParameter:  billNo: cdciakbdca | endTime:2015-03-23 14:08:05
+
+2015-03-23T14:08:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVK0LC3XK68</TRAN>
+  <MERC>680000</MERC>
+  <SESS>vknvqywljl5ttts1na6airsxi034554t</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:02:41Z
+RequestParameter:  billNo: hkjiiagfhg | startTime:2015-03-23 19:02:41
+
+2015-03-23T19:02:41Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => f53eazh0yvc1hi3z6ctjy65tvwulrzcw
+    [TRAN] => 3YVG0CW64V2R
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:02:42Z
+ResponseParameter:  billNo: hkjiiagfhg | endTime:2015-03-23 19:02:42
+
+2015-03-23T19:02:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG0CW64V2R</TRAN>
+  <MERC>680000</MERC>
+  <SESS>f53eazh0yvc1hi3z6ctjy65tvwulrzcw</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:03:17Z
+RequestParameter:  billNo: ggkbkgehig | startTime:2015-03-23 19:03:17
+
+2015-03-23T19:03:17Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => b1h6sjtiyhfkl0nfk664zmh0rgju4zm6
+    [TRAN] => 3YVG0B7ZBMKK
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:03:18Z
+ResponseParameter:  billNo: ggkbkgehig | endTime:2015-03-23 19:03:18
+
+2015-03-23T19:03:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG0B7ZBMKK</TRAN>
+  <MERC>680000</MERC>
+  <SESS>b1h6sjtiyhfkl0nfk664zmh0rgju4zm6</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:07:43Z
+RequestParameter:  billNo: ghcicjdbdg | startTime:2015-03-23 19:07:43
+
+2015-03-23T19:07:43Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => npf4fsus5rj11pg2vlf2a1j44ymq2epj
+    [TRAN] => 3YVG0LZM05RY
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:07:45Z
+ResponseParameter:  billNo: ghcicjdbdg | endTime:2015-03-23 19:07:45
+
+2015-03-23T19:07:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG0LZM05RY</TRAN>
+  <MERC>680000</MERC>
+  <SESS>npf4fsus5rj11pg2vlf2a1j44ymq2epj</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:08:04Z
+RequestParameter:  billNo: gcjgigdjgd | startTime:2015-03-23 19:08:04
+
+2015-03-23T19:08:04Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 52b65qxzeaastkbunquuhvcvfz2a3xg2
+    [TRAN] => 3YVG0N6JY8K6
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:08:05Z
+ResponseParameter:  billNo: gcjgigdjgd | endTime:2015-03-23 19:08:05
+
+2015-03-23T19:08:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG0N6JY8K6</TRAN>
+  <MERC>680000</MERC>
+  <SESS>52b65qxzeaastkbunquuhvcvfz2a3xg2</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:15:18Z
+RequestParameter:  billNo: ebcbibcfik | startTime:2015-03-23 19:15:18
+
+2015-03-23T19:15:18Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => qapwwt3cxu0fen2s4530exlgbct1bnxr
+    [TRAN] => 3YVG0HJJDH5N
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:15:19Z
+ResponseParameter:  billNo: ebcbibcfik | endTime:2015-03-23 19:15:19
+
+2015-03-23T19:15:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG0HJJDH5N</TRAN>
+  <MERC>680000</MERC>
+  <SESS>qapwwt3cxu0fen2s4530exlgbct1bnxr</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T19:18:19Z
+RequestParameter:  billNo: cfckjgjhkd | startTime:2015-03-23 19:18:19
+
+2015-03-23T19:18:19Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 3imbykl32np5hjb35zxg03yc6psqj6eg
+    [TRAN] => 3YVG07JDHGHG
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T19:18:20Z
+ResponseParameter:  billNo: cfckjgjhkd | endTime:2015-03-23 19:18:20
+
+2015-03-23T19:18:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YVG07JDHGHG</TRAN>
+  <MERC>680000</MERC>
+  <SESS>3imbykl32np5hjb35zxg03yc6psqj6eg</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+
+2015-03-23T22:32:22Z
+RequestParameter:  billNo: 0xwlH1427149938 | startTime:2015-03-23 22:32:22
+
+2015-03-23T22:32:22Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 0xwlH1427149938
+    [TRAN] => 3YV40YRS0HD3
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-03-23T22:32:23Z
+ResponseParameter:  billNo: 0xwlH1427149938 | endTime:2015-03-23 22:32:23
+
+2015-03-23T22:32:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0600</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YV40YRS0HD3</TRAN>
+  <MERC>680000</MERC>
+  <SESS>0xwlH1427149938</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

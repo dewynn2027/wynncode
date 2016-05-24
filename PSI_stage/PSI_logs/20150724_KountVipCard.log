@@ -1,0 +1,56 @@
+2015-07-24T04:35:57Z
+RequestParameter:  CardNumber: TBNC2MTR28JOUY | startTime:2015-07-24 04:35:57
+
+2015-07-24T04:35:57Z
+ptok[TBNC2MTR28JOUY] = D
+
+2015-07-24T04:35:59Z
+ResponseParameter:  CardNumber: TBNC2MTR28JOUY | endTime:2015-07-24 04:35:59
+
+2015-07-24T04:35:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [0]</message><scope>0</scope></error><error><code>1508</code><message>Invalid card number [0]</message><scope>card=0</scope></error></errors><result/></response>
+
+
+2015-07-24T04:36:32Z
+RequestParameter:  CardNumber: TBNC2MTR28JOUY | startTime:2015-07-24 04:36:32
+
+2015-07-24T04:36:32Z
+ptok[TBNC2MTR28JOUY] = D
+
+2015-07-24T04:36:34Z
+ResponseParameter:  CardNumber: TBNC2MTR28JOUY | endTime:2015-07-24 04:36:34
+
+2015-07-24T04:36:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [0]</message><scope>0</scope></error><error><code>1508</code><message>Invalid card number [0]</message><scope>card=0</scope></error></errors><result/></response>
+
+
+2015-07-24T04:42:52Z
+RequestParameter:  CardNumber: TBNC2MTR28JOUY | startTime:2015-07-24 04:42:52
+
+2015-07-24T04:42:52Z
+ptok[TBNC2MTR28JOUY] = D
+
+2015-07-24T04:42:54Z
+ResponseParameter:  CardNumber: TBNC2MTR28JOUY | endTime:2015-07-24 04:42:54
+
+2015-07-24T04:42:54Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1508</code><message>Invalid card number [0]</message><scope>0</scope></error><error><code>1508</code><message>Invalid card number [0]</message><scope>card=0</scope></error></errors><result/></response>
+
+
+2015-07-24T04:46:17Z
+RequestParameter:  CardNumber: 4918912GXE0BUP1QG8K5 | startTime:2015-07-24 04:46:17
+
+2015-07-24T04:46:17Z
+ptok[4918912GXE0BUP1QG8K5] = D
+
+2015-07-24T04:46:19Z
+ResponseParameter:  CardNumber: 4918912GXE0BUP1QG8K5 | endTime:2015-07-24 04:46:19
+
+2015-07-24T04:46:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>2</result></response>
+
+

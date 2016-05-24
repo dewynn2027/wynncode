@@ -1,0 +1,64 @@
+2015-01-28T12:46:22Z
+RequestParameter:  billNo: 000003F
+
+2015-01-28T12:46:22Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210071146&amount=987.65
+
+2015-01-28T12:46:23Z
+ResponseParameter:  billNo: 000003F
+
+2015-01-28T12:46:23Z
+resultCode=0&orderStatus=Accepted&ref=000003F&payRef=1210071146&amt=987.65&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-01-28T14:04:01Z
+RequestParameter:  billNo: 0001hGg
+
+2015-01-28T14:04:01Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210071150&amount=250
+
+2015-01-28T14:04:02Z
+ResponseParameter:  billNo: 0001hGg
+
+2015-01-28T14:04:02Z
+resultCode=0&orderStatus=Accepted&ref=0001hGg&payRef=1210071150&amt=250.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-01-28T14:50:20Z
+RequestParameter:  billNo: 0001hGi
+
+2015-01-28T14:50:20Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210071152&amount=1
+
+2015-01-28T14:50:21Z
+ResponseParameter:  billNo: 0001hGi
+
+2015-01-28T14:50:21Z
+resultCode=0&orderStatus=Accepted&ref=0001hGi&payRef=1210071152&amt=500.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+
+2015-01-28T15:05:30Z
+RequestParameter:  billNo: 0001hGl
+
+2015-01-28T15:05:30Z
+https://test.pesopay.com/b2cDemo/eng/merchant/api/orderApi.jsp?merchantId=18062075&loginId=apiuser&password=apipass&actionType=Void&payRef=1210071154&amount=1
+
+2015-01-28T15:05:30Z
+ResponseParameter:  billNo: 0001hGl
+
+2015-01-28T15:05:30Z
+resultCode=0&orderStatus=Accepted&ref=0001hGl&payRef=1210071154&amt=100.0&cur=608&errMsg=Void Successfully.
+
+
+
+
+

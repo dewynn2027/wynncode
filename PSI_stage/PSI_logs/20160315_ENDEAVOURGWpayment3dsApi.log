@@ -1,0 +1,267 @@
+2016-03-15T04:27:47Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-03-15T04:27:47Z
+Decode RequestParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:47Z
+<EPG><MESSAGE id='qY34C14579215144' version='1.018'><MPI><pares>eJydVttyqkgUfU9V/iHlPKZyuHtJEaaaiwSliSAi+IbQInJTQCF8/TR6kuOcmoeZ4cXdq3evXmvvboT/s83Spwsqq7jI3wbUD3LwhPKgCOM8ehus7OnLePCnwNv7EiF5iYJziQQeoqryI/QUh28DxZAVh56Q7JhjOI4ZCPwCWKi6m6MZZsyNxiSe+rmPgLf5QfPE1xATlsHez2uB94OTqBkCdX144ueQz1CpycJoNPLTNPbzLkN1WfDEDeaJX+sX5z6qsMg2DgXvYH56XXjYqGbtrY1ssyRJmFmJvlbeeKLP4EO/RgJNUkOSobgnknulmVcW73zF+WNPB7LijLkpkiR54h7hcTlKXK1PYcziqe8Rj9pjkSOcgU1+xzzxS9zRzwXy788Ic2OUt12Br+PsN1HcK4lFXXG+qv36XAkeT/yM+MC/XAQAgARii4Oi54BmBYCbNOD2YLPXFB4FsUD2ovDvdRVIo6KM630mULecXwBP9FKUtkZ536WnAMNx4Kdvg52fVmhwbTH6mo7DAdFb7Jsv8Ms4yrG0Ej3h45VXb4N9XR9fCaJpmh8N86MoI4LGnglyQuCEsIqjPwa3VSjU8l0h8JKfY1K8Xdz5NeaHqN4X4dO3vH+itK2elSIsRXrBtC8BxeYvPdKXsZf3LevfsP0usKz8l2rvUz2RhXao7zV6Wlna2wBrt0s/r3ZFmVV38X/bAOUXlBZHFL5UXzqvNb2nluMIVfX/kf8l/cbg+OkZCalWSpJy2kTsgtY3jOFLLMzYZrWPInxk7jN54tsyju8b9V3TW+LCJxBn13A3RFPXiYrUHcknz1GapRYuloegPbwfxwuvnsV5TNjVsJh1iaf5LAflOE+2tTOhRmd2fJwG6uTxAe5GO38C1dRzz2o+NT8KW1XlMts8r8ZAeV5yx/WOmk+4KmQoKiyGM/358DHrLsyETrNhSRcLiVzTmVfIRvL4QBvPo1Gjp15u7edxbF/W5tvNzJ0Bfo4+b85cjpzIfu3fIgmVdbzDJxK/F6CmSb4tSSCcR6DRRBBpykp1MvcADDFKTvskVicNKQJzNQWyyEGzaiTTkx3TVJVmZjiy8gFBowJqpTw+SCKc2utpFapKKx8AFCPDEUFgi4543LjWHlpmo0TX1XOlqbrN1Eg9xvncrChzaStrKJpXJqmFxuODSU8/N5Job9wZ7a+NNOiUAIrFNQO00A6ZkNEPRhLQziF0Z+nWFY96Zly2NkDThmzhAXDwEDUf8orBDZBnPkY7o+tR7Yr2GHxPWqkDs5tWzwYJtYIm28jgqlNTGsfw1i3p2fdOxRZOV2qa9k6nMljeVhe21BnJ6qce2xFn0PKa6Y1JVxpK9txZomHXQb45erTTQatpHh/UW01kpTWwp+AMaavbrA0qyJw6UJOzR09qqKk7CEhVWp7UpbZlZFPpuwIAqxpAlsTYnIuRKUmPD4fVxBNpvx0vVloEdiSbyqbdvauci5jN8wK2mwb6UcsQOnkKTGgswrPTalO9UObbdUk+H/cmRUHxbH8iBx+107vxXsWZUu3sKunU8Wmfu0HUDWfxZRknWf7p6+zM3hr7SWEuhs/vsejOvcN6Ii79kw7lkz1FSGSki1jkjw+6OtyJqd4lW+4C08nabzQZmED83Zl4cyaCqfKugMlGN9SPURzZKFRDJUvXuouoxwer+qSGJ4+waiXc7q26syiiZpaspqr1OdXNU11/6HJOm8PkgozDFihVOUZwng8P50Pi0gnri9J6P+XkIYvZiKQKq0p8D2xmo+2MTFePH90Ryh2xmNcoI8Xlbuh657zh4i5ju/E65ahqq0ujiNvp2geM6QlP/H7Dbsjt9hHfN/LXXb3+6V+/QvoX5P3XyV8uFt/s</pares><trackid>qY34C14579215144</trackid></MPI></MESSAGE></EPG>
+
+2016-03-15T04:27:49Z
+Decode ResponseParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:49Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="qY34C14579215144" version="1.018"><Response><signature>Valid</signature><cavv>AAACAiR5MBYVAwUAAXkwAAAAAAA=</cavv><purchAmount>1000</purchAmount><xid>YjQyYzdjZGQtYWNmZS00MmRkLWE=</xid><MessageID>ENDEV2904853553</MessageID><acqBIN>111111</acqBIN><date>20160315 05:23:41</date><PAResID>ENDEV223385780</PAResID><status>Y</status><merID>777allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>0000000000000007</pan><cavvAlgorithm>1</cavvAlgorithm><eci>02</eci><trackid>qY34C14579215144</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-03-15T04:27:49Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-03-15T04:27:49Z
+NoProgressBar RequestParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:49Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => Vente-PriveeTest
+    [Identifier] => qY34C14579215144
+    [Items] => E-Commerce Purchase
+    [Amount] => 10
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => M
+    [Card] => 5************007
+    [Name] => Juan Dela Cruz
+    [Email] => juan@mail.com
+    [Address] => Address
+    [City] => Makati City
+    [Country] => PH
+    [IPAddress] => 112.211.0.174
+    [pares] => eJydVttyqkgUfU9V/iHlPKZyuHtJEaaaiwSliSAi+IbQInJTQCF8/TR6kuOcmoeZ4cXdq3evXmvvboT/s83Spwsqq7jI3wbUD3LwhPKgCOM8ehus7OnLePCnwNv7EiF5iYJziQQeoqryI/QUh28DxZAVh56Q7JhjOI4ZCPwCWKi6m6MZZsyNxiSe+rmPgLf5QfPE1xATlsHez2uB94OTqBkCdX144ueQz1CpycJoNPLTNPbzLkN1WfDEDeaJX+sX5z6qsMg2DgXvYH56XXjYqGbtrY1ssyRJmFmJvlbeeKLP4EO/RgJNUkOSobgnknulmVcW73zF+WNPB7LijLkpkiR54h7hcTlKXK1PYcziqe8Rj9pjkSOcgU1+xzzxS9zRzwXy788Ic2OUt12Br+PsN1HcK4lFXXG+qv36XAkeT/yM+MC/XAQAgARii4Oi54BmBYCbNOD2YLPXFB4FsUD2ovDvdRVIo6KM630mULecXwBP9FKUtkZ536WnAMNx4Kdvg52fVmhwbTH6mo7DAdFb7Jsv8Ms4yrG0Ej3h45VXb4N9XR9fCaJpmh8N86MoI4LGnglyQuCEsIqjPwa3VSjU8l0h8JKfY1K8Xdz5NeaHqN4X4dO3vH+itK2elSIsRXrBtC8BxeYvPdKXsZf3LevfsP0usKz8l2rvUz2RhXao7zV6Wlna2wBrt0s/r3ZFmVV38X/bAOUXlBZHFL5UXzqvNb2nluMIVfX/kf8l/cbg+OkZCalWSpJy2kTsgtY3jOFLLMzYZrWPInxk7jN54tsyju8b9V3TW+LCJxBn13A3RFPXiYrUHcknz1GapRYuloegPbwfxwuvnsV5TNjVsJh1iaf5LAflOE+2tTOhRmd2fJwG6uTxAe5GO38C1dRzz2o+NT8KW1XlMts8r8ZAeV5yx/WOmk+4KmQoKiyGM/358DHrLsyETrNhSRcLiVzTmVfIRvL4QBvPo1Gjp15u7edxbF/W5tvNzJ0Bfo4+b85cjpzIfu3fIgmVdbzDJxK/F6CmSb4tSSCcR6DRRBBpykp1MvcADDFKTvskVicNKQJzNQWyyEGzaiTTkx3TVJVmZjiy8gFBowJqpTw+SCKc2utpFapKKx8AFCPDEUFgi4543LjWHlpmo0TX1XOlqbrN1Eg9xvncrChzaStrKJpXJqmFxuODSU8/N5Job9wZ7a+NNOiUAIrFNQO00A6ZkNEPRhLQziF0Z+nWFY96Zly2NkDThmzhAXDwEDUf8orBDZBnPkY7o+tR7Yr2GHxPWqkDs5tWzwYJtYIm28jgqlNTGsfw1i3p2fdOxRZOV2qa9k6nMljeVhe21BnJ6qce2xFn0PKa6Y1JVxpK9txZomHXQb45erTTQatpHh/UW01kpTWwp+AMaavbrA0qyJw6UJOzR09qqKk7CEhVWp7UpbZlZFPpuwIAqxpAlsTYnIuRKUmPD4fVxBNpvx0vVloEdiSbyqbdvauci5jN8wK2mwb6UcsQOnkKTGgswrPTalO9UObbdUk+H/cmRUHxbH8iBx+107vxXsWZUu3sKunU8Wmfu0HUDWfxZRknWf7p6+zM3hr7SWEuhs/vsejOvcN6Ii79kw7lkz1FSGSki1jkjw+6OtyJqd4lW+4C08nabzQZmED83Zl4cyaCqfKugMlGN9SPURzZKFRDJUvXuouoxwer+qSGJ4+waiXc7q26syiiZpaspqr1OdXNU11/6HJOm8PkgozDFihVOUZwng8P50Pi0gnri9J6P+XkIYvZiKQKq0p8D2xmo+2MTFePH90Ryh2xmNcoI8Xlbuh657zh4i5ju/E65ahqq0ujiNvp2geM6QlP/H7Dbsjt9hHfN/LXXb3+6V+/QvoX5P3XyV8uFt/s
+)
+
+
+2016-03-15T04:27:54Z
+NoProgressBar ResponseParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:54Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503052709971,Identifier=qY34C14579215144,AcceptReject=T,Auth=12345,ReasonCode=0,CardNoDigest=6CA5F54FA9315311CB458A8A6D200730
+)
+
+
+2016-03-15T04:27:54Z
+Endpoint: https://www.cardpaydirect.com/EPG/CaptureCancelRefundAdjust
+
+2016-03-15T04:27:54Z
+Capture RequestParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:54Z
+Array
+(
+    [Version] => 
+    [Referer] => Vente-PriveeTest
+    [ReceiptCode] => D161503052709971
+    [ReceiptCodeEncrypted] => 3e829dbf94af1f7fbcd0591c1d962b0683766e006e869fb5
+    [Action] => Capture
+    [Amount] => 10
+)
+
+
+2016-03-15T04:27:55Z
+Capture RequestParameter:  billNo: qY34C14579215144
+
+2016-03-15T04:27:55Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503052709971,AcceptReject=T,Action=Capture,Desc=Marked for Capture,ReasonCode=0
+)
+
+
+2016-03-15T05:08:15Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-03-15T05:08:15Z
+Decode RequestParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:15Z
+<EPG><MESSAGE id='qY34C14579215145' version='1.018'><MPI><pares>eJydVtuyojgUfbfKfzjlPHad5uK9i0NXAogoQUFE8Q0hAnJTQUG+foL2uUzPPMxMXkxWdlbW2juJcD+rJH654UseZulbh/lOd15w6mZemPpvnbU5eR11fvKcGVwwFlfYvV4wzyGc546PX0LvrSNpomT1R90RM+r1mXGH55bAwPnnXK8/YIfjMU33yNyvjXiyz3eWo96HhPHiBk5a8JzjnqGi8cyjcdSvIZfgiyLyw+HQiePQSesEF5eMo54wR32uX16bXk5UVqHH26xy145BuJCVAtVapAk0bddBom6kN45qIjjPKTDP0syA7jL9F3rwgx7+YMnOD5w7NXQgya6Em6FpmqO+IhzJx4Wk686PemTqY8Th6pSlmEQQkx99jvoUd3JSnv5rGxJugnLmlueKMPmbqF6Pox44lxdOcc15m6N+9TjXud14AIAAE70E0LZAaQNDBO+NmH2EcNgNeboRRX4fq0DsZ5ewCBKeecZ8AhzVSJGqAqdNlV5cAoeuE791Dk6c486jxvh9OvQ6VGOxqT7PrUI/JdIu+IWcrzR/6wRFcfpBUWVZfi+737OLT7HEM0WPKRLg5aH/R+e5CntKesh4TnBSQkq2C2unIPwIF0HmvXzI+ydK02hYGcqQhFdC++oyvfS1QZo0NvI+ZP0btt8FXnLnNQ8cpiEy8AE3tcYva0N56xDt5sVJ80N2SfIv/f+2AU5vOM5O2HvN33U+cvqVWgx9nBf/R/679CeD5cRXzCOBYbz7rVhK2pw+XQQjG+L1aSz26Ygcma+RHPVhmfS/Fuojp89AWVRlmU1H3ZhajrOBFpZHB99OWXWEogWqnF5vF5g5ETsBdagX7KhwsptcCLY1t6mTmhy/Fdcl2E23y3PebtXBKka7bDGnNfeghMeEGdpTcQJHBwydnnR3N6NDFPQtrdbxPYoC+mjcNFMPaWk/Wo8PK1w691Ha1Ydl32y3aNEYIocIj2rTLsbldNZ7e5r5YoCb4/vT2bZPj0WncJ49AV+K8EBOJHkXkKIIjikIwJv7oFQg8BVpLVvJ9gg06EfnIArlcUlDoK8nQIR9pOeloNuipeuyVM40S5QWCJQyYNZSuyVANDE3k9yTpUo8AgR9zYLANaEFT7utESBDLyX/sXoulXm9m2ix3bXuuzWjr0xpg6D+YBIqpLVbOju57wRo7rYz1tlosVtLLoLZIwJUyPS6Xlc9apHLWkdvO4v3W0jSrt32JsCTkq7QEfTR0S8X4rrbbiFx5hC01uoGVR5og6FpVAk1mD212iaImDXSe6UIHjoVqbQ0e1PRtvnVKazQZC3HceN0IoLVc3VmCuRtXv/SY1pwhgy7nDyZVKlkRHs7ixTi2k13J5u1amSUZbslP3MiSpVGPLlXxBr1bqMxbmIVrhxdbXZcIEU+IEDLwuosr5R9V9SlpioA9GQNiAIM9Tn0dUFot47rsQ1Zpxot14oPDnQvFnWznsr9Le7uvi1RtSuR41ddSqXPro60pXe1KmWiZtJ8v7nQ306BzjAIXs07ttot9jzVpnmYSPnBzKNaHp2DdOv69WAW3lZhlKR3R+3NzL0WjDN9Ofg2DeF2bh83Y7hyzioSz+YEY9gVbjBL2y1VHhxgrNbRvn9D8XjjlIoIdAB/dwafziCYSFMJjHeqJi+GoW9iT/akJN6oW8y0W0Z+ZwZnmzIKydsHRlEbDFV0Vz1FlotrrOrnolioYsrqg+iGteMeSPllhNE8HRyvx2jLRj0HCptg0hcHPcJGRbmX53Dqmt2dctASVT4t6hMSa2o5L3BCw9VhsLWvadkP66RXjzZxn8n3qjD0+wdVWaCQHXPU7zfsiTxvH/VxIz/v6uNP//EZ0jyQXz9P/gR1E+G/</pares><trackid>qY34C14579215145</trackid></MPI></MESSAGE></EPG>
+
+2016-03-15T05:08:16Z
+Decode ResponseParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:16Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="qY34C14579215145" version="1.018"><Response><signature>Valid</signature><cavv>AAACBmQwABYVAwYARDAAAAAAAAA=</cavv><purchAmount>1000</purchAmount><xid>Y2IyNjhiOGItMzNkNC00YzhmLWE=</xid><MessageID>ENDEV5838184519</MessageID><acqBIN>111111</acqBIN><date>20160315 06:07:21</date><PAResID>ENDEV4562799004</PAResID><status>Y</status><merID>777allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>0000000000000007</pan><cavvAlgorithm>1</cavvAlgorithm><eci>02</eci><trackid>qY34C14579215145</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-03-15T05:08:17Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-03-15T05:08:17Z
+NoProgressBar RequestParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:17Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => Vente-PriveeTest
+    [Identifier] => qY34C14579215145
+    [Items] => E-Commerce Purchase
+    [Amount] => 10
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => M
+    [Card] => 5************007
+    [Name] => Juan Dela Cruz
+    [Email] => juan@mail.com
+    [Address] => Address
+    [City] => Makati City
+    [Country] => PH
+    [IPAddress] => 112.211.0.174
+    [pares] => eJydVtuyojgUfbfKfzjlPHad5uK9i0NXAogoQUFE8Q0hAnJTQUG+foL2uUzPPMxMXkxWdlbW2juJcD+rJH654UseZulbh/lOd15w6mZemPpvnbU5eR11fvKcGVwwFlfYvV4wzyGc546PX0LvrSNpomT1R90RM+r1mXGH55bAwPnnXK8/YIfjMU33yNyvjXiyz3eWo96HhPHiBk5a8JzjnqGi8cyjcdSvIZfgiyLyw+HQiePQSesEF5eMo54wR32uX16bXk5UVqHH26xy145BuJCVAtVapAk0bddBom6kN45qIjjPKTDP0syA7jL9F3rwgx7+YMnOD5w7NXQgya6Em6FpmqO+IhzJx4Wk686PemTqY8Th6pSlmEQQkx99jvoUd3JSnv5rGxJugnLmlueKMPmbqF6Pox44lxdOcc15m6N+9TjXud14AIAAE70E0LZAaQNDBO+NmH2EcNgNeboRRX4fq0DsZ5ewCBKeecZ8AhzVSJGqAqdNlV5cAoeuE791Dk6c486jxvh9OvQ6VGOxqT7PrUI/JdIu+IWcrzR/6wRFcfpBUWVZfi+737OLT7HEM0WPKRLg5aH/R+e5CntKesh4TnBSQkq2C2unIPwIF0HmvXzI+ydK02hYGcqQhFdC++oyvfS1QZo0NvI+ZP0btt8FXnLnNQ8cpiEy8AE3tcYva0N56xDt5sVJ80N2SfIv/f+2AU5vOM5O2HvN33U+cvqVWgx9nBf/R/679CeD5cRXzCOBYbz7rVhK2pw+XQQjG+L1aSz26Ygcma+RHPVhmfS/Fuojp89AWVRlmU1H3ZhajrOBFpZHB99OWXWEogWqnF5vF5g5ETsBdagX7KhwsptcCLY1t6mTmhy/Fdcl2E23y3PebtXBKka7bDGnNfeghMeEGdpTcQJHBwydnnR3N6NDFPQtrdbxPYoC+mjcNFMPaWk/Wo8PK1w691Ha1Ydl32y3aNEYIocIj2rTLsbldNZ7e5r5YoCb4/vT2bZPj0WncJ49AV+K8EBOJHkXkKIIjikIwJv7oFQg8BVpLVvJ9gg06EfnIArlcUlDoK8nQIR9pOeloNuipeuyVM40S5QWCJQyYNZSuyVANDE3k9yTpUo8AgR9zYLANaEFT7utESBDLyX/sXoulXm9m2ix3bXuuzWjr0xpg6D+YBIqpLVbOju57wRo7rYz1tlosVtLLoLZIwJUyPS6Xlc9apHLWkdvO4v3W0jSrt32JsCTkq7QEfTR0S8X4rrbbiFx5hC01uoGVR5og6FpVAk1mD212iaImDXSe6UIHjoVqbQ0e1PRtvnVKazQZC3HceN0IoLVc3VmCuRtXv/SY1pwhgy7nDyZVKlkRHs7ixTi2k13J5u1amSUZbslP3MiSpVGPLlXxBr1bqMxbmIVrhxdbXZcIEU+IEDLwuosr5R9V9SlpioA9GQNiAIM9Tn0dUFot47rsQ1Zpxot14oPDnQvFnWznsr9Le7uvi1RtSuR41ddSqXPro60pXe1KmWiZtJ8v7nQ306BzjAIXs07ttot9jzVpnmYSPnBzKNaHp2DdOv69WAW3lZhlKR3R+3NzL0WjDN9Ofg2DeF2bh83Y7hyzioSz+YEY9gVbjBL2y1VHhxgrNbRvn9D8XjjlIoIdAB/dwafziCYSFMJjHeqJi+GoW9iT/akJN6oW8y0W0Z+ZwZnmzIKydsHRlEbDFV0Vz1FlotrrOrnolioYsrqg+iGteMeSPllhNE8HRyvx2jLRj0HCptg0hcHPcJGRbmX53Dqmt2dctASVT4t6hMSa2o5L3BCw9VhsLWvadkP66RXjzZxn8n3qjD0+wdVWaCQHXPU7zfsiTxvH/VxIz/v6uNP//EZ0jyQXz9P/gR1E+G/
+)
+
+
+2016-03-15T05:08:22Z
+NoProgressBar ResponseParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:22Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503060737346,Identifier=qY34C14579215145,AcceptReject=T,Auth=12345,ReasonCode=0,CardNoDigest=6CA5F54FA9315311CB458A8A6D200730
+)
+
+
+2016-03-15T05:08:22Z
+Endpoint: https://www.cardpaydirect.com/EPG/CaptureCancelRefundAdjust
+
+2016-03-15T05:08:22Z
+Capture RequestParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:22Z
+Array
+(
+    [Version] => 
+    [Referer] => Vente-PriveeTest
+    [ReceiptCode] => D161503060737346
+    [ReceiptCodeEncrypted] => 3e829dbf94af1f7f97ffe6f6a17cbeb383766e006e869fb5
+    [Action] => Capture
+    [Amount] => 10
+)
+
+
+2016-03-15T05:08:23Z
+Capture RequestParameter:  billNo: qY34C14579215145
+
+2016-03-15T05:08:23Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503060737346,AcceptReject=T,Action=Capture,Desc=Marked for Capture,ReasonCode=0
+)
+
+
+2016-03-15T05:12:48Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-03-15T05:12:48Z
+Decode RequestParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:48Z
+<EPG><MESSAGE id='qY34C14579215146' version='1.018'><MPI><pares>eJydVl2TqjoWfbfK/9DlPHb14cvPUzS3EkAaNSiIKL4hREC+FFCQXz9B+/TpOfc+zExe3FnZWVlrb4Lwf9VJ/HLDeRFm6XuP+UH3XnDqZl6Y+u+9jTl9G/f+EngzyDGW1ti95ljgES4Kx8cvoffekzVJtjiuz42YITfuCfwKGLj4vcSMGG7CcjQ3IGuf5wjkmB8sT/2aEsLcDZy0FHjHvUBVE5jH4KnPKZ/gXJWE0WjkxHHopE2CyzzjqSfMU7/3r65tVBCRdegJGqtF2nYWaoldagpikEjTdmMkCzN656k2g/ecEgsszQxpjhm80MOfDPuTHvLUA+fPLR1IsivhZmia5qnvCE/KkZNq3YVxnyx9zXhcn7MUkwxi8ivmqd/izk4q0P85RoSboLy5E/gyTP4miiUJD5wvSqe8FoLNU58R7zq3mwAAEAEbnXxoW6Cywey+BJ+DmH2k8NgNBboVRX4fu0DsZ3lYBonAPHN+AzzVSpHrEqdtl15cAoeuE7/3jk5c4N6jx/jXcuj1qNZi232BX4d+SqTl+IU8Xmnx3gvK8vyToqqq+lFxP7Lcp1jimaInFEnwitD/V++5C3tqeswEXnRSQkqOCxunJPwIl0HmvXzJ+ydK02hZGcqQxTdC++Yy/fStRdoytvK+ZP03bH8KzAvnrQgcpiUy8BG3vcYvG0N97xHtZu6kxTHLk+Jb/L8dgNMbjrMz9t6KXzofNf1OLYU+Lsr/R/4v6U8Gy4mvWBiS4i4HK8052LGjA2rwaol2Xy7ECpFH5nsmT31ZJvH3Rn3V9JnoZuzUqi7stKKiS7K1azXHQa182OZrQN+9PkOLVYlPr4fljbSpOO1VPXUGVDa5BqO94RjS/Bzno/5l4CRStxMdrbMHOds451rQN5Z7uPFGJ5Wud2A7UzJ7Oqf3eV6aHj3mZvTwvJozTnJcw7F3F8EqEF3lws12wxgcqF23kypaet0sFeoc3jKjHi+X9vvTzDcD/Bzfn852A3oiOaXzjEScl+GRPJHkvYBUVXRMUQTe3AeVCoGvyhvFSnYnoEE/ugRRqEwqGgJ9MwUSHCC9qETdlixdV+RqplmSvESgUgCzkbsdEaKpuZ0WniLX0gkg6GsWBK4JLXje74wAGXol+4/dc7kqmv1Ui23Ouu83jL425S2C+oNJrJHW7ejs9L4XobnfzVhnq8VuI7sIZo8MUCPT4zxucdIil7VO3m4WH3bwvEi028EEeFrRNTqBATr51VLacN0OkmYOQRutaVH1gbYY+ohqsQGzp1bbBBGzQXq/ksBDpypXlmZva9o2vzuFNZpulDhunU4lsH7uzkyx0aLNpx7TgjNk2NX0ybSQK0ayd7NIJa7ddH+2WatBRlV1O8qzJpJca8STe0Ws0ey3GuMmVukq0dVmJyVSlSMCtCKuL8paPXCSLrddAaCvaEASYajPoa+LYrdz2kxsyDr1eLVRfXCk+7Gkm82HMthhbv+6QvW+Qo5fc9SCvrg60lbe1arV6SKT54dtTr+eA51hELyad2x1O+zlQ/sowkQujmYRNcr4EqQ712+Gs/C2DqMkvTuL/sw8aMEk01fD148Q7ub2aTuBa+eyQNLFnGIMOfEGs7TbWSjDI4wXTXQY3FA82TqVKgEdwD+dwaczCKbyhwwm+4WmLEehb2JP8eQk3i52mOl2jOLODC82ZZSydwiMsjEYquTWfVVRymu80C9luVxIKasPoxvWTgcgF/kYo3k6PF1P0Y6N+g4Ut8F0IA37hI2KCq8o4Idrcnv1qCUL5bxszkhqqNW8xAkN18fhzr6m1SBskn4z3sYDpjgsxJE/OC7UJQrZCU/9ecOeyPP2UV838vddffzpP75C2hfk96+TfwM8WuAg</pares><trackid>qY34C14579215146</trackid></MPI></MESSAGE></EPG>
+
+2016-03-15T05:12:50Z
+Decode ResponseParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:50Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="qY34C14579215146" version="1.018"><Response><signature>Valid</signature><cavv>AAACA2kjgBYVAwYAJyOAAAAAAAA=</cavv><purchAmount>1000</purchAmount><xid>N2NkNWJiNmYtNGM1MC00YzRmLTk=</xid><MessageID>ENDEV334371638</MessageID><acqBIN>111111</acqBIN><date>20160315 06:12:06</date><PAResID>ENDEV1713923035</PAResID><status>Y</status><merID>777allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>0000000000000007</pan><cavvAlgorithm>1</cavvAlgorithm><eci>02</eci><trackid>qY34C14579215146</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-03-15T05:12:50Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-03-15T05:12:50Z
+NoProgressBar RequestParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:50Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => Vente-PriveeTest
+    [Identifier] => qY34C14579215146
+    [Items] => E-Commerce Purchase 111
+    [Amount] => 10
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => M
+    [Card] => 5************007
+    [Name] => Juan Dela Cruz
+    [Email] => juan@mail.com
+    [Address] => Address
+    [City] => Makati City
+    [Country] => PH
+    [IPAddress] => 112.211.0.174
+    [pares] => eJydVl2TqjoWfbfK/9DlPHb14cvPUzS3EkAaNSiIKL4hREC+FFCQXz9B+/TpOfc+zExe3FnZWVlrb4Lwf9VJ/HLDeRFm6XuP+UH3XnDqZl6Y+u+9jTl9G/f+EngzyDGW1ti95ljgES4Kx8cvoffekzVJtjiuz42YITfuCfwKGLj4vcSMGG7CcjQ3IGuf5wjkmB8sT/2aEsLcDZy0FHjHvUBVE5jH4KnPKZ/gXJWE0WjkxHHopE2CyzzjqSfMU7/3r65tVBCRdegJGqtF2nYWaoldagpikEjTdmMkCzN656k2g/ecEgsszQxpjhm80MOfDPuTHvLUA+fPLR1IsivhZmia5qnvCE/KkZNq3YVxnyx9zXhcn7MUkwxi8ivmqd/izk4q0P85RoSboLy5E/gyTP4miiUJD5wvSqe8FoLNU58R7zq3mwAAEAEbnXxoW6Cywey+BJ+DmH2k8NgNBboVRX4fu0DsZ3lYBonAPHN+AzzVSpHrEqdtl15cAoeuE7/3jk5c4N6jx/jXcuj1qNZi232BX4d+SqTl+IU8Xmnx3gvK8vyToqqq+lFxP7Lcp1jimaInFEnwitD/V++5C3tqeswEXnRSQkqOCxunJPwIl0HmvXzJ+ydK02hZGcqQxTdC++Yy/fStRdoytvK+ZP03bH8KzAvnrQgcpiUy8BG3vcYvG0N97xHtZu6kxTHLk+Jb/L8dgNMbjrMz9t6KXzofNf1OLYU+Lsr/R/4v6U8Gy4mvWBiS4i4HK8052LGjA2rwaol2Xy7ECpFH5nsmT31ZJvH3Rn3V9JnoZuzUqi7stKKiS7K1azXHQa182OZrQN+9PkOLVYlPr4fljbSpOO1VPXUGVDa5BqO94RjS/Bzno/5l4CRStxMdrbMHOds451rQN5Z7uPFGJ5Wud2A7UzJ7Oqf3eV6aHj3mZvTwvJozTnJcw7F3F8EqEF3lws12wxgcqF23kypaet0sFeoc3jKjHi+X9vvTzDcD/Bzfn852A3oiOaXzjEScl+GRPJHkvYBUVXRMUQTe3AeVCoGvyhvFSnYnoEE/ugRRqEwqGgJ9MwUSHCC9qETdlixdV+RqplmSvESgUgCzkbsdEaKpuZ0WniLX0gkg6GsWBK4JLXje74wAGXol+4/dc7kqmv1Ui23Ouu83jL425S2C+oNJrJHW7ejs9L4XobnfzVhnq8VuI7sIZo8MUCPT4zxucdIil7VO3m4WH3bwvEi028EEeFrRNTqBATr51VLacN0OkmYOQRutaVH1gbYY+ohqsQGzp1bbBBGzQXq/ksBDpypXlmZva9o2vzuFNZpulDhunU4lsH7uzkyx0aLNpx7TgjNk2NX0ybSQK0ayd7NIJa7ddH+2WatBRlV1O8qzJpJca8STe0Ws0ey3GuMmVukq0dVmJyVSlSMCtCKuL8paPXCSLrddAaCvaEASYajPoa+LYrdz2kxsyDr1eLVRfXCk+7Gkm82HMthhbv+6QvW+Qo5fc9SCvrg60lbe1arV6SKT54dtTr+eA51hELyad2x1O+zlQ/sowkQujmYRNcr4EqQ712+Gs/C2DqMkvTuL/sw8aMEk01fD148Q7ub2aTuBa+eyQNLFnGIMOfEGs7TbWSjDI4wXTXQY3FA82TqVKgEdwD+dwaczCKbyhwwm+4WmLEehb2JP8eQk3i52mOl2jOLODC82ZZSydwiMsjEYquTWfVVRymu80C9luVxIKasPoxvWTgcgF/kYo3k6PF1P0Y6N+g4Ut8F0IA37hI2KCq8o4Idrcnv1qCUL5bxszkhqqNW8xAkN18fhzr6m1SBskn4z3sYDpjgsxJE/OC7UJQrZCU/9ecOeyPP2UV838vddffzpP75C2hfk96+TfwM8WuAg
+)
+
+
+2016-03-15T05:12:55Z
+NoProgressBar ResponseParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:55Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503061210689,Identifier=qY34C14579215146,AcceptReject=T,Auth=12345,ReasonCode=0,CardNoDigest=6CA5F54FA9315311CB458A8A6D200730
+)
+
+
+2016-03-15T05:12:55Z
+Endpoint: https://www.cardpaydirect.com/EPG/CaptureCancelRefundAdjust
+
+2016-03-15T05:12:55Z
+Capture RequestParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:55Z
+Array
+(
+    [Version] => 
+    [Referer] => Vente-PriveeTest
+    [ReceiptCode] => D161503061210689
+    [ReceiptCodeEncrypted] => 3e829dbf94af1f7f19744fbb30c44a8783766e006e869fb5
+    [Action] => Capture
+    [Amount] => 10
+)
+
+
+2016-03-15T05:12:56Z
+Capture RequestParameter:  billNo: qY34C14579215146
+
+2016-03-15T05:12:56Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D161503061210689,AcceptReject=T,Action=Capture,Desc=Marked for Capture,ReasonCode=0
+)
+
+

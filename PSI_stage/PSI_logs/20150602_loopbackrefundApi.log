@@ -1,0 +1,290 @@
+2015-06-02T07:53:54Z
+RequestParameter:  billNo: iS8xK1432646664
+
+2015-06-02T07:53:54Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150526210525
+    [billNo] => iS8xK1432646664
+    [amount] => 10.00
+    [refundAmount] => 10.00
+    [refundType] => 1
+    [remark] => This is a test please ignore|adminRemarks|_|this is a test
+    [type] => 2
+)
+
+
+2015-06-02T07:53:54Z
+ResponseParameter:  billNo: iS8xK1432646664
+
+2015-06-02T07:53:54Z
+resultCode=0&orderStatus=Accepted&ref=iS8xK1432646664&payRef=030654&amt=10.00&cur=608&errMsg=OnlineRefund Successfully.
+
+2015-06-02T07:55:15Z
+RequestParameter:  billNo: 1m4pz1432647033
+
+2015-06-02T07:55:15Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150526210534
+    [billNo] => 1m4pz1432647033
+    [amount] => 10.00
+    [refundAmount] => 10.00
+    [refundType] => 2
+    [remark] => this is a test please ignore|adminRemarks|_|this is a test
+    [type] => 2
+)
+
+
+2015-06-02T07:55:15Z
+ResponseParameter:  billNo: 1m4pz1432647033
+
+2015-06-02T07:55:15Z
+resultCode=0&orderStatus=Accepted&ref=1m4pz1432647033&payRef=030615&amt=10.00&cur=608&errMsg=OnlineRefund Successfully.
+
+2015-06-02T08:21:54Z
+RequestParameter:  billNo: nBSfp1433233269
+
+2015-06-02T08:21:54Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602160611
+    [billNo] => nBSfp1433233269
+    [amount] => 10.00
+    [refundAmount] => 10.00
+    [refundType] => 2
+    [remark] => Client Refbank test|adminRemarks|_|
+    [type] => 2
+)
+
+
+2015-06-02T08:21:54Z
+ResponseParameter:  billNo: nBSfp1433233269
+
+2015-06-02T08:21:54Z
+resultCode=0&orderStatus=Accepted&ref=nBSfp1433233269&payRef=040654&amt=10.00&cur=608&errMsg=Void Successfully.
+
+2015-06-02T08:54:15Z
+RequestParameter:  billNo: N2zVn1433235192
+
+2015-06-02T08:54:15Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602160613
+    [billNo] => N2zVn1433235192
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test|adminRemarks|_|Test BankRef
+    [type] => 2
+)
+
+
+2015-06-02T08:54:15Z
+ResponseParameter:  billNo: N2zVn1433235192
+
+2015-06-02T08:54:15Z
+resultCode=0&orderStatus=Accepted&ref=N2zVn1433235192&payRef=040615&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T09:05:26Z
+RequestParameter:  billNo: KxODS1433235508
+
+2015-06-02T09:05:26Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602160629
+    [billNo] => KxODS1433235508
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => Test|adminRemarks|_|Test Refbank
+    [type] => 2
+)
+
+
+2015-06-02T09:05:26Z
+ResponseParameter:  billNo: KxODS1433235508
+
+2015-06-02T09:05:26Z
+resultCode=0&orderStatus=Accepted&ref=KxODS1433235508&payRef=050626&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T09:11:13Z
+RequestParameter:  billNo: Gf3wV1433236237
+
+2015-06-02T09:11:13Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602170639
+    [billNo] => Gf3wV1433236237
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 1
+    [remark] => Test|adminRemarks|_|Testing RefBank
+    [type] => 2
+)
+
+
+2015-06-02T09:11:13Z
+ResponseParameter:  billNo: Gf3wV1433236237
+
+2015-06-02T09:11:13Z
+resultCode=0&orderStatus=Accepted&ref=Gf3wV1433236237&payRef=050613&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T09:15:09Z
+RequestParameter:  billNo: uLciJ1433236449
+
+2015-06-02T09:15:09Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602170611
+    [billNo] => uLciJ1433236449
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 2
+    [remark] => test RefBank|adminRemarks|_|
+    [type] => 2
+)
+
+
+2015-06-02T09:15:09Z
+ResponseParameter:  billNo: uLciJ1433236449
+
+2015-06-02T09:15:09Z
+resultCode=0&orderStatus=Accepted&ref=uLciJ1433236449&payRef=050609&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T09:28:10Z
+RequestParameter:  billNo: HNMpz1433236714
+
+2015-06-02T09:28:10Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602170636
+    [billNo] => HNMpz1433236714
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 1
+    [remark] => Test|adminRemarks|_|
+    [type] => 2
+)
+
+
+2015-06-02T09:28:10Z
+ResponseParameter:  billNo: HNMpz1433236714
+
+2015-06-02T09:28:10Z
+resultCode=0&orderStatus=Accepted&ref=HNMpz1433236714&payRef=050610&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T09:57:25Z
+RequestParameter:  billNo: wTe6c1433237420
+
+2015-06-02T09:57:25Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602170621
+    [billNo] => wTe6c1433237420
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 1
+    [remark] => test|adminRemarks|_|
+    [type] => 2
+)
+
+
+2015-06-02T09:57:25Z
+ResponseParameter:  billNo: wTe6c1433237420
+
+2015-06-02T09:57:25Z
+resultCode=0&orderStatus=Accepted&ref=wTe6c1433237420&payRef=050625&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-06-02T10:06:19Z
+RequestParameter:  billNo: yKR2P1433239466
+
+2015-06-02T10:06:19Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150602180628
+    [billNo] => yKR2P1433239466
+    [amount] => 10.00
+    [refundAmount] => 10
+    [refundType] => 1
+    [remark] => Test|adminRemarks|_|
+    [type] => 2
+)
+
+
+2015-06-02T10:06:19Z
+ResponseParameter:  billNo: yKR2P1433239466
+
+2015-06-02T10:06:19Z
+resultCode=0&orderStatus=Accepted&ref=yKR2P1433239466&payRef=060619&amt=10&cur=608&errMsg=Void Successfully.
+

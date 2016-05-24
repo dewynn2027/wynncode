@@ -1,0 +1,84 @@
+2015-12-08T03:51:10Z
+RequestParameter:  billNo: 20151208110901 | startTime:2015-12-08 03:51:10
+
+2015-12-08T03:51:10Z
+https://test.payu.in/_payment
+
+2015-12-08T03:51:10Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110901
+    [amount] => 7,315.15
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-08T03:51:14Z
+ResponseParameter:  billNo: 20151208110901 | endTime:2015-12-08 03:51:14
+
+2015-12-08T03:51:14Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [payu_data] => 
+    [data] => 
+)
+
+
+2015-12-08T04:00:32Z
+RequestParameter:  billNo: 20151208110902 | startTime:2015-12-08 04:00:32
+
+2015-12-08T04:00:32Z
+https://test.payu.in/_payment
+
+2015-12-08T04:00:32Z
+Array
+(
+    [txn_s2s_flow] => 1
+    [key] => Gzv04m
+    [txnid] => 20151208110902
+    [amount] => 7,315.15
+    [productinfo] => Binary Trade
+    [firstname] => Juan
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 375336264692
+    [surl] => surl
+    [furl] => furl
+    [pg] => CC
+    [bankcode] => CC
+    [ccnum] => 4************112
+    [ccname] => Juan Dela Cruz
+    [ccvv] => ***
+    [ccexpmon] => 05
+    [ccexpyr] => 2017
+)
+
+
+2015-12-08T04:00:36Z
+ResponseParameter:  billNo: 20151208110902 | endTime:2015-12-08 04:00:36
+
+2015-12-08T04:00:36Z
+Array
+(
+    [rc] => 999
+    [message] => 
+    [payu_data] => 
+    [data] => 
+)
+
+

@@ -1,0 +1,18 @@
+2013-06-27T02:23:59Z
+RequestParameter:  referenceId: 20130627102341
+
+2013-06-27T02:23:59Z
+https://secure.qwipi.com/ars/payments.jspmerNo=10335&md5Key=9BD5CA2B0930A0D3F8C4985A05D34D9A&billNo=20130627102341&dateTime=20130627102341&currency=USD&language=ENG&cardHolderIp=192.168.170.168&md5Info=D40330CB4C3257C20A73F2E1CBEAACB3&cardNum=4000000000000002&cvv2=123&month=12&year=12&birthDate=19840920&firstName=firstName&lastName=lastName&email=email@mail.com&phone=123456789&zipCode=123456&address=address&city=address&state=state&country=PH&amount=12.00&products=2&remark=remark
+
+2013-06-27T02:24:03Z
+ResponseParameter:  referenceId: 20130627102341
+
+2013-06-27T02:24:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>10335</merNo><billNo>20130627102341</billNo><currency>USD</currency><amount>12.00</amount><dateTime>20130627102756</dateTime><paymentOrderNo>103355822725</paymentOrderNo><remark>Expired card please contact your Bank in regards to your card.</remark><md5Info>7B80F28E2368934F450B9B9773242EC5</md5Info><billingDescriptor>Purchstream trade A/G</billingDescriptor>
+
+</response>
+

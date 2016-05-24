@@ -1,0 +1,51 @@
+2015-10-28T01:49:16Z
+RequestParameter: startTime:2015-10-28 01:49:16
+
+2015-10-28T01:49:16Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"","description":"","issuetype":{"name":""},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-10-28T01:49:17Z
+ResponeParameter:  endTime:2015-10-28 01:49:17
+
+2015-10-28T01:49:17Z
+Array
+(
+    [rc] => 0
+    [result] => {"errorMessages":[],"errors":{"issuetype":"issue type is required"}}
+)
+
+
+2015-10-28T01:54:05Z
+RequestParameter: startTime:2015-10-28 01:54:05
+
+2015-10-28T01:54:05Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"","description":"","issuetype":{"name":""},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-10-28T01:54:07Z
+ResponeParameter:  endTime:2015-10-28 01:54:07
+
+2015-10-28T01:54:07Z
+Array
+(
+    [rc] => 0
+    [result] => {"errorMessages":[],"errors":{"issuetype":"issue type is required"}}
+)
+
+
+2015-10-28T01:57:22Z
+RequestParameter: startTime:2015-10-28 01:57:22
+
+2015-10-28T01:57:22Z
+{"fields":{"project":{"key":"TGLPCSP"},"summary":"Gateway Account Lockout","description":"Gateway Account Lockout has occurred for 100-01-ADM-DRivera due to transaction success rate.","issuetype":{"name":"Access"},"assignee":{"name":"Dewynn Rivera","emailAddress":"dewynn@reanscommglobal.com","displayName":"Costumer Support","active":true}}}
+
+2015-10-28T01:57:25Z
+ResponeParameter:  endTime:2015-10-28 01:57:25
+
+2015-10-28T01:57:25Z
+Array
+(
+    [rc] => 0
+    [result] => {"id":"13608","key":"TGLPCSP-268","self":"https://transcommglobal.atlassian.net/rest/api/2/issue/13608"}
+)
+
+

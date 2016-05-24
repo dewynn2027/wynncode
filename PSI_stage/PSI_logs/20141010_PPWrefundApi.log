@@ -1,0 +1,492 @@
+2014-10-10T11:56:15Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T11:56:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=5&TransactionID=20141010000016F00030
+
+2014-10-10T11:56:16Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T11:56:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T11:56:45Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T11:56:45Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=10&TransactionID=20141010000016F00030
+
+2014-10-10T11:56:45Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T11:56:45Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20141010221551</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20141010205649</ResponseTime>
+<TransactionID>20141010000016F00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-10-10T11:57:15Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T11:57:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=10&TransactionID=20141010000016F00030
+
+2014-10-10T11:57:16Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T11:57:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20141010221551</Reference>
+<ResponseCode>941</ResponseCode>
+<ResponseMessage>Transaction has already been canceled.</ResponseMessage>
+<ResponseTime>20141010205719</ResponseTime>
+<TransactionID>20141010000016F00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-10-10T11:59:54Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T11:59:54Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T11:59:55Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T11:59:55Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:00:40Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:00:40Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:00:41Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:00:41Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:00:50Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:00:50Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:00:51Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:00:51Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:02:05Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:02:05Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:02:06Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:02:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:03:14Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:03:14Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:03:15Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:03:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:03:47Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:03:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:03:48Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:03:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:05:49Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:05:49Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=1&TransactionID=20141010000016F00030
+
+2014-10-10T12:05:49Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:05:49Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:05:59Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:05:59Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=10&TransactionID=20141010000016F00030
+
+2014-10-10T12:05:59Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:05:59Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20141010221551</Reference>
+<ResponseCode>941</ResponseCode>
+<ResponseMessage>Transaction has already been canceled.</ResponseMessage>
+<ResponseTime>20141010210603</ResponseTime>
+<TransactionID>20141010000016F00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-10-10T12:06:06Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:06:06Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=10&TransactionID=20141010000016F00030
+
+2014-10-10T12:06:06Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:06:06Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>2</TransactionType>
+<Reference>20141010221551</Reference>
+<ResponseCode>941</ResponseCode>
+<ResponseMessage>Transaction has already been canceled.</ResponseMessage>
+<ResponseTime>20141010210610</ResponseTime>
+<TransactionID>20141010000016F00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-10-10T12:28:27Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:28:27Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:28:28Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:28:28Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:29:18Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:18Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:29:19Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:19Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:29:47Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:29:48Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:29:52Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:52Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:29:53Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:29:53Z
+
+
+2014-10-10T12:30:03Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:30:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:30:03Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:30:03Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:30:38Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:30:38Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:30:39Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:30:39Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:31:39Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:31:39Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:31:39Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:31:39Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:33:14Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:33:14Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:33:15Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:33:15Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:34:08Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:34:08Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:34:09Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:34:09Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:34:33Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:34:33Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:34:34Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:34:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:44:05Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:44:05Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:44:05Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:44:05Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+
+2014-10-10T12:55:15Z
+RequestParameter:  billNo: 20141010221551
+
+2014-10-10T12:55:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=20141010221551&TransactionType=2&Currency=USD&Amount=9&TransactionID=20141010000016F00030
+
+2014-10-10T12:55:16Z
+ResponseParameter:  billNo: 20141010221551
+
+2014-10-10T12:55:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>20141010221551</Reference>
+<ResponseCode>722</ResponseCode>
+<ResponseMessage>Original transaction' amount information is not matched</ResponseMessage>
+</ErrorResponse>
+
+

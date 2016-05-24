@@ -1,0 +1,295 @@
+2016-01-27T08:47:23Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-01-27T08:47:23Z
+Decode RequestParameter:  billNo: 20160122603
+
+2016-01-27T08:47:23Z
+<EPG><MESSAGE id='20160122603' version='1.018'><MPI><pares>eJydVctyqkoUnacq/2BxhpbpBsVoCjmFoAkSPIr4IDOE5pFAg4Aofv1t1CDJyeDe2xO7V6+99oO9W+73MQwaOUpSP8IDin6AVANhK7J97A6opT5u9ajfPKd7CULSAln7BPH3d40Gp6I0NV3U8O0BRZ0hAs4EDaVfIAJexXmi/cBw4PN4ua9YKkosz8RZZUcw09oN5SlPnxcHrscaIUSJLPEsy5pB4Jv4FKIsiThwgStp8IP2F9+zfXmforr00bd5Y22w03AO3yQh+7NWT0YBocFo3qvuDjhQMmoGtpkhnoF0F9LMYwP2nzrwie5y4IzXeHHpTAijPYmHoSHkQB2pEUmtE/IpCr7XIaTqVGOgYxxhVOpwoNrf0v4rreoqNjG/qS0WQpbEYeK/qfqm7jHzw29Jsk8s8X7Ga7w0M7N9yhscuO7qeZl5zguCMBSHhisAEOr2hxALqitcFintmVJP1PL5MsLy95uSELhR4mdeyNMXuxtwq0QtiQocHTOEy05sWITuW2YwoBwzSBF1bmD0ee3btV4GldVPvURKXg7A+eo8JOA6JQThFr6LSSkS1CATh9MB5WVZ/ATA4XB4OLQfosQFDIQQwD4gBDv13V8Uf7ZCtoydiOdEE5NwSKD+ycxICCrKvMhuVAn/JKlrpSoNtJHYIrIti+7gVonANs3+WhMzMQpD0jcpBfhbjP9G+nu0SWq2Us+kSyENOahsV9RYanL5GnB6YuLUiZIwre3/mwOEcxREMbJb6WecpS9Ql5Z8F6XZ/wn/M/SLwsoM9oifLTVFUV0Lb5PXvPANcTyOh/lpNg4i0qV1JgeqlMm+/tWqml6IcxROYTGSlb6hyKvm+yRYQOV90tmZH7oiPjtv1nZdiOHRGa5OfeSOJD/ROgI9nrp42o7xS/GSKzOjv9VHTHB/t1HCwE+nC21Be+ueLDu9qZa8tzuSj/uALZR49zJug/nHBjRfIY6LxTYbM9PgULzvvWjfjUSt+5qooNkP5/n9nb11R73x0LMZJVhvHv21W75z3xLgFFRcMiObK6QthNtBjex9QEbejejZWrDD1JFoURZe+n8mczjqHY/7VTtjnPeTurak50i1QdFX8EiS9PY2sBbDRXcohvSuP9sZy6mtC9uPHr6/C+ydd9Ie5dh7fYGPE/WYK9Eb3ZbVpm8kMIoncS/0m+KSORmOOZKauddxV0Uo0/l8Ge78k9D9OG6wax+Sg3l/NymOe3x4W/TY5+b2NHFWYUoy/YycvA3Xx1SYC8Ny6K9H8pXrmYKv20tVbvUqW7P+v/kPn4w9eg==</pares><trackid>20160122603</trackid></MPI></MESSAGE></EPG>
+
+2016-01-27T08:47:25Z
+Decode ResponseParameter:  billNo: 20160122603
+
+2016-01-27T08:47:25Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122603" version="1.018"><Response><signature>Valid</signature><cavv>AAABCBYgA//mTdkApAMgAAAAAAA=</cavv><purchAmount>2100</purchAmount><xid>YWY5NmQ0ZDAtOWMzYy00Y2RhLTg=</xid><MessageID></MessageID><acqBIN>111111</acqBIN><date>20160127 09:40:16</date><PAResID></PAResID><status>Y</status><merID>555allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>XXXXXXXXXXXX5005</pan><cavvAlgorithm>1</cavvAlgorithm><eci>05</eci><trackid>20160122603</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-27T08:47:25Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-01-27T08:47:25Z
+NoProgressBar RequestParameter:  billNo: 20160122603
+
+2016-01-27T08:47:25Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122603
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************005
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 27.32.198.143
+)
+
+
+2016-01-27T08:47:47Z
+NoProgressBar ResponseParameter:  billNo: 20160122603
+
+2016-01-27T08:47:47Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162701094723240,Identifier=20160122603,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=80A72652470B064CBAE768EA30B7456C
+)
+
+
+2016-01-27T08:51:31Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-01-27T08:51:31Z
+Decode RequestParameter:  billNo: 20160122604
+
+2016-01-27T08:51:31Z
+<EPG><MESSAGE id='20160122604' version='1.018'><MPI><pares></pares><trackid>20160122604</trackid></MPI></MESSAGE></EPG>
+
+2016-01-27T08:51:33Z
+Decode ResponseParameter:  billNo: 20160122604
+
+2016-01-27T08:51:33Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122604" version="1.018"><Response><result>Error</result><message>Parameter field 'pares' missing</message><trackid>20160122604</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-27T08:51:33Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-01-27T08:51:33Z
+NoProgressBar RequestParameter:  billNo: 20160122604
+
+2016-01-27T08:51:33Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122604
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************006
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 27.32.198.143
+)
+
+
+2016-01-27T08:51:34Z
+NoProgressBar ResponseParameter:  billNo: 20160122604
+
+2016-01-27T08:51:34Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162701095130271,Identifer=20160122604,AcceptReject=F,AUTH=Invalid Card Number,ReasonCode=-2,CardNoDigest=B7D4D5087B709A96F8EFA3C4CD79270F
+)
+
+
+2016-01-27T09:00:37Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-01-27T09:00:37Z
+Decode RequestParameter:  billNo: 20160122606
+
+2016-01-27T09:00:37Z
+<EPG><MESSAGE id='20160122606' version='1.018'><MPI><pares>eJydVV1zqjoUfe9M/4PDeXRsgkqLHeQMCK1osVTBj74hhI+WLwkK8utvUIv0nD7cexln3FlZWdlrsxO430UYtA4oxX4cDSn6DlItFFmx7UfukDL0pw5L/eY53UsRkhbI2qeIv71ptTgVYWy6qOXbQ4o6QQTUhDnC3yACXsR5on3X5cDX8Dxfs1SUWp4ZZfU6gpnWTlRmPH16OHAZNgghShWJZxjGDALfjMoQZWnMgTNcS4MftL/tre2reYya0oVv85tSyGfSLFS7RvYqqflsBOHs48l/0d0hBypGY4FtZojvQvoe0t2HFhw8Mv1HZsCBE97gJdVmQhjvST5dGkIONJEGkdQ6Ja/iyLN9QqpHDQYqkjhClQ4H6vhq+y9b9VRiRvy68TAQMiQPM/qbqq+bO2Z+2DBJw0dIfiwHTniDhzMz22N+w4FL1PRlHg68IAii8GlrtHl0Q+yScKkJ54eU9kRpGrV8vsqw+v9DSQjcOPUzL+Tp87orcK1Ew0QNykWGoqoTWxah+5YZDCnHDDCiTg2MvqZ9u9HLoF71Uy+RklcH4DR1OiTgckoIwi18NyKlSFGLnLgIDykvy5JHAPI8v8t7d3Hqgi6EEMABIAQb++4vij+tQrYSOTHPjcyIpEMS9UszIymoKPNiu1Ub/klSn1eqNJjLow6R7Vh0P+pUCOzRzK8VWTaKw5D0DaYAf83x30j/mW2KzQ72TLoSmiMHVe2KWsZcqW4DTk/NCDtxGuJG/N82QNEBBXGC7A7+yrPaCzSlJd9FOPs/6X+lflZYmsEe8XRbC4vF+0ew0gNrTMuhsV26+YPsBzHp0iaTA7VlEjffWl3TM9FZbyKH8WNVGytiUc6UJ3Uqsp4YyKuBk3u77SseaAfFOtw/jEcWKqzlIHm125+L3cTORm0z3QTTj8WLYYRQvL2J/PLVFeVQZwM8guNdUbJibutp29jNV3LXHTPKXO17To6mopx8epP3nlFoEwkkx0TL3dli3ZfU9cqVWD29vaHjLcSFnRrB8zKzj8JW3QzPZhoGuCk6np2R4ALNF8J1oMb2PiBH3o1pbSXYIXYkeqQI48Hr5A3KbFHsl72s63yU6sqSnmPVBsfBNJIlSe9tA2shLu7FUUjvBtpuY8xsXdh+stHtTWDvvHL+oCTeyxg+TNTiMI3f6Z6itv1NCuNkkrCh3x4Z3XLjmLLUPnh9d3kMFfrwZoQ7vxTuP4t15Np5mpu3N5NjsY/y9wXLPLe35cRZhpg4/cqc3A2Xy1R4E8Tq0F+G5C03nYLv4bkq13pVrdn8bv4D6SQ/uA==</pares><trackid>20160122606</trackid></MPI></MESSAGE></EPG>
+
+2016-01-27T09:00:39Z
+Decode ResponseParameter:  billNo: 20160122606
+
+2016-01-27T09:00:39Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122606" version="1.018"><Response><signature>Valid</signature><cavv>AAABAkdP1aygmsgAkdVPAAAAAAA=</cavv><purchAmount>2100</purchAmount><xid>YzAwNDNmM2UtODMwNC00NjFiLTg=</xid><MessageID></MessageID><acqBIN>111111</acqBIN><date>20160127 09:54:59</date><PAResID></PAResID><status>Y</status><merID>555allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>XXXXXXXXXXXX5005</pan><cavvAlgorithm>1</cavvAlgorithm><eci>05</eci><trackid>20160122606</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-27T09:00:39Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-01-27T09:00:39Z
+NoProgressBar RequestParameter:  billNo: 20160122606
+
+2016-01-27T09:00:39Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122606
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************005
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 27.32.198.143
+)
+
+
+2016-01-27T09:01:03Z
+NoProgressBar ResponseParameter:  billNo: 20160122606
+
+2016-01-27T09:01:03Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162701100036412,Identifier=20160122606,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=80A72652470B064CBAE768EA30B7456C
+)
+
+
+2016-01-27T09:21:14Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-01-27T09:21:14Z
+Decode RequestParameter:  billNo: 20160122606
+
+2016-01-27T09:21:14Z
+<EPG><MESSAGE id='20160122606' version='1.018'><MPI><pares>eJydVV1zqjoUfe9M/4PDeXRsgkqLHeQMCK1osVTBj74hhI+WLwkK8utvUIv0nD7cexln3FlZWdlrsxO430UYtA4oxX4cDSn6DlItFFmx7UfukDL0pw5L/eY53UsRkhbI2qeIv71ptTgVYWy6qOXbQ4o6QQTUhDnC3yACXsR5on3X5cDX8Dxfs1SUWp4ZZfU6gpnWTlRmPH16OHAZNgghShWJZxjGDALfjMoQZWnMgTNcS4MftL/tre2reYya0oVv85tSyGfSLFS7RvYqqflsBOHs48l/0d0hBypGY4FtZojvQvoe0t2HFhw8Mv1HZsCBE97gJdVmQhjvST5dGkIONJEGkdQ6Ja/iyLN9QqpHDQYqkjhClQ4H6vhq+y9b9VRiRvy68TAQMiQPM/qbqq+bO2Z+2DBJw0dIfiwHTniDhzMz22N+w4FL1PRlHg68IAii8GlrtHl0Q+yScKkJ54eU9kRpGrV8vsqw+v9DSQjcOPUzL+Tp87orcK1Ew0QNykWGoqoTWxah+5YZDCnHDDCiTg2MvqZ9u9HLoF71Uy+RklcH4DR1OiTgckoIwi18NyKlSFGLnLgIDykvy5JHAPI8v8t7d3Hqgi6EEMABIAQb++4vij+tQrYSOTHPjcyIpEMS9UszIymoKPNiu1Ub/klSn1eqNJjLow6R7Vh0P+pUCOzRzK8VWTaKw5D0DaYAf83x30j/mW2KzQ72TLoSmiMHVe2KWsZcqW4DTk/NCDtxGuJG/N82QNEBBXGC7A7+yrPaCzSlJd9FOPs/6X+lflZYmsEe8XRbC4vF+0ew0gNrTMuhsV26+YPsBzHp0iaTA7VlEjffWl3TM9FZbyKH8WNVGytiUc6UJ3Uqsp4YyKuBk3u77SseaAfFOtw/jEcWKqzlIHm125+L3cTORm0z3QTTj8WLYYRQvL2J/PLVFeVQZwM8guNdUbJibutp29jNV3LXHTPKXO17To6mopx8epP3nlFoEwkkx0TL3dli3ZfU9cqVWD29vaHjLcSFnRrB8zKzj8JW3QzPZhoGuCk6np2R4ALNF8J1oMb2PiBH3o1pbSXYIXYkeqQI48Hr5A3KbFHsl72s63yU6sqSnmPVBsfBNJIlSe9tA2shLu7FUUjvBtpuY8xsXdh+stHtTWDvvHL+oCTeyxg+TNTiMI3f6Z6itv1NCuNkkrCh3x4Z3XLjmLLUPnh9d3kMFfrwZoQ7vxTuP4t15Np5mpu3N5NjsY/y9wXLPLe35cRZhpg4/cqc3A2Xy1R4E8Tq0F+G5C03nYLv4bkq13pVrdn8bv4D6SQ/uA==</pares><trackid>20160122606</trackid></MPI></MESSAGE></EPG>
+
+2016-01-27T09:21:16Z
+Decode ResponseParameter:  billNo: 20160122606
+
+2016-01-27T09:21:16Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122606" version="1.018"><Response><signature>Valid</signature><cavv>AAABAkdP1aygmsgAkdVPAAAAAAA=</cavv><purchAmount>2100</purchAmount><xid>YzAwNDNmM2UtODMwNC00NjFiLTg=</xid><MessageID></MessageID><acqBIN>111111</acqBIN><date>20160127 09:54:59</date><PAResID></PAResID><status>Y</status><merID>555allianzmetro</merID><currency>840</currency><exponent>2</exponent><pan>XXXXXXXXXXXX5005</pan><cavvAlgorithm>1</cavvAlgorithm><eci>05</eci><trackid>20160122606</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-27T09:21:16Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-01-27T09:21:16Z
+NoProgressBar RequestParameter:  billNo: 20160122606
+
+2016-01-27T09:21:16Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122606
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************005
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 27.32.198.143
+)
+
+
+2016-01-27T09:21:40Z
+NoProgressBar ResponseParameter:  billNo: 20160122606
+
+2016-01-27T09:21:40Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162701102113990,Identifier=20160122606,AcceptReject=F,Auth=visa is not allowed by this terminal<br>,ReasonCode=-48,CardNoDigest=80A72652470B064CBAE768EA30B7456C
+)
+
+
+2016-01-27T15:33:49Z
+Endpoint: https://www.3dsecurempi.com/TDS/MPIDecodeParesXML
+
+2016-01-27T15:33:49Z
+Decode RequestParameter:  billNo: 20160122611
+
+2016-01-27T15:33:49Z
+<EPG><MESSAGE id='20160122611' version='1.018'><MPI><pares></pares><trackid>20160122611</trackid></MPI></MESSAGE></EPG>
+
+2016-01-27T15:33:51Z
+Decode ResponseParameter:  billNo: 20160122611
+
+2016-01-27T15:33:51Z
+Array
+(
+    [rc] => 0
+    [result] => <EPG><MESSAGE id="20160122611" version="1.018"><Response><result>Error</result><message>Parameter field 'pares' missing</message><trackid>20160122611</trackid></Response></MESSAGE></EPG>
+)
+
+
+2016-01-27T15:33:51Z
+Endpoint: https://www.cardpaydirect.com/EPG/EpayNoProgressBar
+
+2016-01-27T15:33:51Z
+NoProgressBar RequestParameter:  billNo: 20160122611
+
+2016-01-27T15:33:51Z
+Array
+(
+    [Version] => 2.0
+    [Referer] => CommerceDataServices
+    [Identifier] => 20160122611
+    [Items] => SKU-SS3210,SKU-LG-SD8001
+    [Amount] => 21
+    [DateMM] => 07
+    [DateYY] => 18
+    [CVV] => ***
+    [CardType] => V
+    [Card] => 4************006
+    [Name] => Thomas Jefferson
+    [Email] => email@domain.com
+    [Address] => Address
+    [City] => City
+    [Country] => US
+    [IPAddress] => 27.32.198.143
+)
+
+
+2016-01-27T15:33:53Z
+NoProgressBar ResponseParameter:  billNo: 20160122611
+
+2016-01-27T15:33:53Z
+Array
+(
+    [rc] => 0
+    [result] => ReceiptCode=D162701163348318,Identifer=20160122611,AcceptReject=F,AUTH=Invalid Card Number,ReasonCode=-2,CardNoDigest=B7D4D5087B709A96F8EFA3C4CD79270F
+)
+
+

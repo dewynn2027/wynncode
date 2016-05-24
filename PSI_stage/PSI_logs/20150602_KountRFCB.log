@@ -1,0 +1,180 @@
+2015-06-02T07:53:55Z
+RequestParameter:  billNo: iS8xK1432646664 | startTime:2015-06-02 07:53:55
+
+2015-06-02T07:53:55Z
+Array
+(
+    [rfcb[30ZK02MSL8YC]] => R
+)
+
+
+2015-06-02T07:53:57Z
+ResponseParameter:  billNo: iS8xK1432646664 | endTime:2015-06-02 07:53:57
+
+2015-06-02T07:53:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T07:55:17Z
+RequestParameter:  billNo: 1m4pz1432647033 | startTime:2015-06-02 07:55:17
+
+2015-06-02T07:55:17Z
+Array
+(
+    [rfcb[30ZK07K6P209]] => C
+)
+
+
+2015-06-02T07:55:19Z
+ResponseParameter:  billNo: 1m4pz1432647033 | endTime:2015-06-02 07:55:19
+
+2015-06-02T07:55:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T08:21:55Z
+RequestParameter:  billNo: nBSfp1433233269 | startTime:2015-06-02 08:21:55
+
+2015-06-02T08:21:55Z
+Array
+(
+    [rfcb[30740GJZKYR1]] => C
+)
+
+
+2015-06-02T08:21:57Z
+ResponseParameter:  billNo: nBSfp1433233269 | endTime:2015-06-02 08:21:57
+
+2015-06-02T08:21:57Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>1758</code><message>Incomplete transaction - waiting for update, try again later</message><scope>30740GJZKYR1</scope></error></errors><result/></response>
+
+
+2015-06-02T08:54:16Z
+RequestParameter:  billNo: N2zVn1433235192 | startTime:2015-06-02 08:54:16
+
+2015-06-02T08:54:16Z
+Array
+(
+    [rfcb[30740HS2XH7C]] => C
+)
+
+
+2015-06-02T08:54:18Z
+ResponseParameter:  billNo: N2zVn1433235192 | endTime:2015-06-02 08:54:18
+
+2015-06-02T08:54:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T09:05:28Z
+RequestParameter:  billNo: KxODS1433235508 | startTime:2015-06-02 09:05:28
+
+2015-06-02T09:05:28Z
+Array
+(
+    [rfcb[307402XRM2SX]] => C
+)
+
+
+2015-06-02T09:05:30Z
+ResponseParameter:  billNo: KxODS1433235508 | endTime:2015-06-02 09:05:30
+
+2015-06-02T09:05:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T09:11:14Z
+RequestParameter:  billNo: Gf3wV1433236237 | startTime:2015-06-02 09:11:14
+
+2015-06-02T09:11:14Z
+Array
+(
+    [rfcb[30750G81LQ8Z]] => R
+)
+
+
+2015-06-02T09:11:16Z
+ResponseParameter:  billNo: Gf3wV1433236237 | endTime:2015-06-02 09:11:16
+
+2015-06-02T09:11:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T09:15:11Z
+RequestParameter:  billNo: uLciJ1433236449 | startTime:2015-06-02 09:15:11
+
+2015-06-02T09:15:11Z
+Array
+(
+    [rfcb[30750P1LBP6B]] => C
+)
+
+
+2015-06-02T09:15:12Z
+ResponseParameter:  billNo: uLciJ1433236449 | endTime:2015-06-02 09:15:12
+
+2015-06-02T09:15:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T09:28:11Z
+RequestParameter:  billNo: HNMpz1433236714 | startTime:2015-06-02 09:28:11
+
+2015-06-02T09:28:11Z
+Array
+(
+    [rfcb[30750K296L30]] => R
+)
+
+
+2015-06-02T09:28:13Z
+ResponseParameter:  billNo: HNMpz1433236714 | endTime:2015-06-02 09:28:13
+
+2015-06-02T09:28:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T09:57:26Z
+RequestParameter:  billNo: wTe6c1433237420 | startTime:2015-06-02 09:57:26
+
+2015-06-02T09:57:26Z
+Array
+(
+    [rfcb[30750709H762]] => R
+)
+
+
+2015-06-02T09:57:28Z
+ResponseParameter:  billNo: wTe6c1433237420 | endTime:2015-06-02 09:57:28
+
+2015-06-02T09:57:28Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+
+2015-06-02T10:06:20Z
+RequestParameter:  billNo: yKR2P1433239466 | startTime:2015-06-02 10:06:20
+
+2015-06-02T10:06:20Z
+Array
+(
+    [rfcb[307S0SVKN75M]] => R
+)
+
+
+2015-06-02T10:06:22Z
+ResponseParameter:  billNo: yKR2P1433239466 | endTime:2015-06-02 10:06:22
+
+2015-06-02T10:06:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result>ok</result></response>
+
+

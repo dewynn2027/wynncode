@@ -1,0 +1,2079 @@
+2014-12-29T11:44:17Z
+RequestParameter:  billNo: 8546-4679_8522 | startTime:2014-12-29 11:44:17
+
+2014-12-29T11:44:17Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 8546-4679_8522
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T11:44:19Z
+ResponseParameter:  billNo: 8546-4679_8522 | endTime:2014-12-29 11:44:19
+
+2014-12-29T11:44:19Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T11:49:45Z
+RequestParameter:  billNo: 5841-1313_4758 | startTime:2014-12-29 11:49:45
+
+2014-12-29T11:49:45Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 5841-1313_4758
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T11:49:47Z
+ResponseParameter:  billNo: 5841-1313_4758 | endTime:2014-12-29 11:49:47
+
+2014-12-29T11:49:47Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:17:07Z
+RequestParameter:  billNo: 3513-3825_1244 | startTime:2014-12-29 12:17:07
+
+2014-12-29T12:17:07Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 3513-3825_1244
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:17:09Z
+ResponseParameter:  billNo: 3513-3825_1244 | endTime:2014-12-29 12:17:09
+
+2014-12-29T12:17:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:44:16Z
+RequestParameter:  billNo: 5984-7151_4327 | startTime:2014-12-29 12:44:16
+
+2014-12-29T12:44:16Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 5984-7151_4327
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:44:18Z
+ResponseParameter:  billNo: 5984-7151_4327 | endTime:2014-12-29 12:44:18
+
+2014-12-29T12:44:18Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:44:31Z
+RequestParameter:  billNo: 6365-9132_727 | startTime:2014-12-29 12:44:31
+
+2014-12-29T12:44:31Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 6365-9132_727
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:44:33Z
+ResponseParameter:  billNo: 6365-9132_727 | endTime:2014-12-29 12:44:33
+
+2014-12-29T12:44:33Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:45:06Z
+RequestParameter:  billNo: 1630-7853_2129 | startTime:2014-12-29 12:45:06
+
+2014-12-29T12:45:06Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 1630-7853_2129
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:45:08Z
+ResponseParameter:  billNo: 1630-7853_2129 | endTime:2014-12-29 12:45:08
+
+2014-12-29T12:45:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:45:59Z
+RequestParameter:  billNo: 171-4085_6690 | startTime:2014-12-29 12:45:59
+
+2014-12-29T12:45:59Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 171-4085_6690
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:46:01Z
+ResponseParameter:  billNo: 171-4085_6690 | endTime:2014-12-29 12:46:01
+
+2014-12-29T12:46:01Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:47:11Z
+RequestParameter:  billNo: 1527-1413_6346 | startTime:2014-12-29 12:47:11
+
+2014-12-29T12:47:11Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 1527-1413_6346
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:47:13Z
+ResponseParameter:  billNo: 1527-1413_6346 | endTime:2014-12-29 12:47:13
+
+2014-12-29T12:47:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:48:43Z
+RequestParameter:  billNo: 930-7678_3000 | startTime:2014-12-29 12:48:43
+
+2014-12-29T12:48:43Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 930-7678_3000
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:48:45Z
+ResponseParameter:  billNo: 930-7678_3000 | endTime:2014-12-29 12:48:45
+
+2014-12-29T12:48:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:48:49Z
+RequestParameter:  billNo: 4247-9131_9731 | startTime:2014-12-29 12:48:49
+
+2014-12-29T12:48:49Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 4247-9131_9731
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:48:50Z
+ResponseParameter:  billNo: 4247-9131_9731 | endTime:2014-12-29 12:48:50
+
+2014-12-29T12:48:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:49:10Z
+RequestParameter:  billNo: 8980-4055_5523 | startTime:2014-12-29 12:49:10
+
+2014-12-29T12:49:10Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 8980-4055_5523
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:49:11Z
+ResponseParameter:  billNo: 8980-4055_5523 | endTime:2014-12-29 12:49:11
+
+2014-12-29T12:49:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:49:49Z
+RequestParameter:  billNo: 4674-7557_8592 | startTime:2014-12-29 12:49:49
+
+2014-12-29T12:49:49Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 4674-7557_8592
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:49:50Z
+ResponseParameter:  billNo: 4674-7557_8592 | endTime:2014-12-29 12:49:50
+
+2014-12-29T12:49:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:50:08Z
+RequestParameter:  billNo: 1286-1079_8260 | startTime:2014-12-29 12:50:08
+
+2014-12-29T12:50:08Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 1286-1079_8260
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 411111WMS5YA6FUZA1KC
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 25000
+    [TOTL] => 25000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Test Integration
+    [B2A1] => Address
+    [B2CC] => FR
+    [B2CI] => City
+    [B2PC] => 12345
+    [B2PN] => 11237654321
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 250
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => paytest@mail.com
+)
+
+
+2014-12-29T12:50:09Z
+ResponseParameter:  billNo: 1286-1079_8260 | endTime:2014-12-29 12:50:09
+
+2014-12-29T12:50:09Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:53:18Z
+RequestParameter:  billNo: 8553-8024_7291 | startTime:2014-12-29 12:53:18
+
+2014-12-29T12:53:18Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 8553-8024_7291
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 497049O9K49H7E9CDRTP
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T12:53:20Z
+ResponseParameter:  billNo: 8553-8024_7291 | endTime:2014-12-29 12:53:20
+
+2014-12-29T12:53:20Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T12:55:48Z
+RequestParameter:  billNo: 7173-7209_4605 | startTime:2014-12-29 12:55:48
+
+2014-12-29T12:55:48Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 7173-7209_4605
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 530446WR6DECEX82N7VV
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T12:55:49Z
+ResponseParameter:  billNo: 7173-7209_4605 | endTime:2014-12-29 12:55:49
+
+2014-12-29T12:55:49Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:03:24Z
+RequestParameter:  billNo: 7929-7750_1018 | startTime:2014-12-29 13:03:24
+
+2014-12-29T13:03:24Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 7929-7750_1018
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 530446WR6DECEX82N7VV
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:03:25Z
+ResponseParameter:  billNo: 7929-7750_1018 | endTime:2014-12-29 13:03:25
+
+2014-12-29T13:03:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:06:23Z
+RequestParameter:  billNo: 1395-5322_8815 | startTime:2014-12-29 13:06:23
+
+2014-12-29T13:06:23Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 1395-5322_8815
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:06:25Z
+ResponseParameter:  billNo: 1395-5322_8815 | endTime:2014-12-29 13:06:25
+
+2014-12-29T13:06:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:08:10Z
+RequestParameter:  billNo: 6533-6425_8655 | startTime:2014-12-29 13:08:10
+
+2014-12-29T13:08:10Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 6533-6425_8655
+    [CURR] => ILS
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:08:11Z
+ResponseParameter:  billNo: 6533-6425_8655 | endTime:2014-12-29 13:08:11
+
+2014-12-29T13:08:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:14:30Z
+RequestParameter:  billNo: 8795-6327_9816 | startTime:2014-12-29 13:14:30
+
+2014-12-29T13:14:30Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 8795-6327_9816
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:14:31Z
+ResponseParameter:  billNo: 8795-6327_9816 | endTime:2014-12-29 13:14:31
+
+2014-12-29T13:14:31Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:15:24Z
+RequestParameter:  billNo: 2833-8981_3521 | startTime:2014-12-29 13:15:24
+
+2014-12-29T13:15:24Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 2833-8981_3521
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:15:25Z
+ResponseParameter:  billNo: 2833-8981_3521 | endTime:2014-12-29 13:15:25
+
+2014-12-29T13:15:25Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:24:16Z
+RequestParameter:  billNo: 196-6801_5755 | startTime:2014-12-29 13:24:16
+
+2014-12-29T13:24:16Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 196-6801_5755
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:24:17Z
+ResponseParameter:  billNo: 196-6801_5755 | endTime:2014-12-29 13:24:17
+
+2014-12-29T13:24:17Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T13:47:04Z
+RequestParameter:  billNo: 5457-4996_9501 | startTime:2014-12-29 13:47:04
+
+2014-12-29T13:47:04Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 5457-4996_9501
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 4580248YZ1SH0Z4E1YQ3
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Olivier CELERMAJER
+    [B2A1] => 33 rue Gambetta
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06140
+    [B2PN] => 00336123456
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => celermajer.olivier@laposte.net
+)
+
+
+2014-12-29T13:47:05Z
+ResponseParameter:  billNo: 5457-4996_9501 | endTime:2014-12-29 13:47:05
+
+2014-12-29T13:47:05Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T15:39:05Z
+RequestParameter:  billNo: 3968-1192_1802 | startTime:2014-12-29 15:39:05
+
+2014-12-29T15:39:05Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 3968-1192_1802
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 122200
+    [TOTL] => 122200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 69 rue D'Amiens
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 1222
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T15:39:06Z
+ResponseParameter:  billNo: 3968-1192_1802 | endTime:2014-12-29 15:39:06
+
+2014-12-29T15:39:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T15:44:36Z
+RequestParameter:  billNo: 7971-6025_9096 | startTime:2014-12-29 15:44:36
+
+2014-12-29T15:44:36Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 7971-6025_9096
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 12200
+    [TOTL] => 12200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 69 rue D'Amiens
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 122
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T15:44:37Z
+ResponseParameter:  billNo: 7971-6025_9096 | endTime:2014-12-29 15:44:37
+
+2014-12-29T15:44:37Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T15:50:02Z
+RequestParameter:  billNo: 3355-1650_8151 | startTime:2014-12-29 15:50:02
+
+2014-12-29T15:50:02Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 3355-1650_8151
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 22200
+    [TOTL] => 22200
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 69 rue D'Amiens
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 222
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T15:50:04Z
+ResponseParameter:  billNo: 3355-1650_8151 | endTime:2014-12-29 15:50:04
+
+2014-12-29T15:50:04Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T15:52:11Z
+RequestParameter:  billNo: 5123-2622_9721 | startTime:2014-12-29 15:52:11
+
+2014-12-29T15:52:11Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 5123-2622_9721
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 11100
+    [TOTL] => 11100
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 69 rue D'Amiens
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 111
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T15:52:12Z
+ResponseParameter:  billNo: 5123-2622_9721 | endTime:2014-12-29 15:52:12
+
+2014-12-29T15:52:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T15:56:42Z
+RequestParameter:  billNo: 4925-3188_5953 | startTime:2014-12-29 15:56:42
+
+2014-12-29T15:56:42Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 4925-3188_5953
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 11100
+    [TOTL] => 11100
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 111
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T15:56:43Z
+ResponseParameter:  billNo: 4925-3188_5953 | endTime:2014-12-29 15:56:43
+
+2014-12-29T15:56:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T16:03:41Z
+RequestParameter:  billNo: 951-2154_8720 | startTime:2014-12-29 16:03:41
+
+2014-12-29T16:03:41Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 951-2154_8720
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 11100
+    [TOTL] => 11100
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 06140
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 111
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T16:03:42Z
+ResponseParameter:  billNo: 951-2154_8720 | endTime:2014-12-29 16:03:42
+
+2014-12-29T16:03:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T16:35:21Z
+RequestParameter:  billNo: 7312-2491_2015 | startTime:2014-12-29 16:35:21
+
+2014-12-29T16:35:21Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 7312-2491_2015
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1100
+    [TOTL] => 1100
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 11
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T16:35:22Z
+ResponseParameter:  billNo: 7312-2491_2015 | endTime:2014-12-29 16:35:22
+
+2014-12-29T16:35:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T17:30:40Z
+RequestParameter:  billNo: 2809-2485_7587 | startTime:2014-12-29 17:30:40
+
+2014-12-29T17:30:40Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 2809-2485_7587
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T17:30:42Z
+ResponseParameter:  billNo: 2809-2485_7587 | endTime:2014-12-29 17:30:42
+
+2014-12-29T17:30:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T17:37:49Z
+RequestParameter:  billNo: 7416-8338_8113 | startTime:2014-12-29 17:37:49
+
+2014-12-29T17:37:49Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 7416-8338_8113
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Loeuilly
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T17:37:50Z
+ResponseParameter:  billNo: 7416-8338_8113 | endTime:2014-12-29 17:37:50
+
+2014-12-29T17:37:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T17:40:57Z
+RequestParameter:  billNo: 649-8071_3367 | startTime:2014-12-29 17:40:57
+
+2014-12-29T17:40:57Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 649-8071_3367
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 80160
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T17:40:58Z
+ResponseParameter:  billNo: 649-8071_3367 | endTime:2014-12-29 17:40:58
+
+2014-12-29T17:40:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+
+2014-12-29T17:43:49Z
+RequestParameter:  billNo: 8782-9327_8454 | startTime:2014-12-29 17:43:49
+
+2014-12-29T17:43:49Z
+Array
+(
+    [MODE] => Q
+    [FRMT] => XML
+    [VERS] => 0600
+    [MERC] => 680000
+    [SESS] => 
+    [ORDR] => 8782-9327_8454
+    [CURR] => EUR
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 400000VNGQTN4LZWZPUE
+    [IPAD] => 178.32.50.43
+    [MACK] => Y
+    [PROD_DESC[0]] => Binary Trade
+    [PROD_TYPE[0]] => Binary Trade
+    [PROD_ITEM[0]] => SKU-BCL-BinaryTrade
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT001
+    [UDF[MERCHANT_ID]] => 10001MERBBCAPITAL
+    [NAME] => Illiam GIOMIS
+    [B2A1] => 33 rue Gambetta prolongÃ©e
+    [B2CC] => FR
+    [B2CI] => Vence
+    [B2PC] => 06000
+    [B2PN] => 123333
+    [B2ST] => NA
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => --
+    [GENDER] => 
+    [EMAL] => igiomis@yahoo.com
+)
+
+
+2014-12-29T17:43:50Z
+ResponseParameter:  billNo: 8782-9327_8454 | endTime:2014-12-29 17:43:50
+
+2014-12-29T17:43:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <MODE>E</MODE>
+  <ERRO>204</ERRO>
+  <ERROR_0>204 MISSING_SESS Cause: [Non-empty value was required in this case], Field: [SESS], Value: []</ERROR_0>
+  <ERROR_COUNT>1</ERROR_COUNT>
+  <WARNING_0>399 BAD_OPTN Cause: [value [--] did not match regex /^((19|20)\d\d-(0[1-9]|1[012])-(0[1-9]|[12][0-9]|3[01]))?$/], Field: [DOB], Value: [--]</WARNING_0>
+  <WARNING_COUNT>1</WARNING_COUNT>
+</RESPONSE>
+

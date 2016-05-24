@@ -1,0 +1,69 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Translogs extends CI_Controller {
+
+	public function __construct()
+	{
+		parent::__construct();
+		
+		$this->load->model('psi_model');	
+
+		$config['functions']['debug'] 			= array('function' => 'Translogs.debug');
+		$config['functions']['transList'] 		= array('function' => 'Translogs.transList');
+		
+		
+		$this->xmlrpcs->initialize($config);
+		$this->xmlrpcs->serve();
+
+	}
+		
+	function authenticate($username,$password,$key,$IP_addr,$API_name)
+	{
+		$check = $this->psi_model->checkmyaccess($username,$password,$key,$IP_addr,$API_name);
+		if($check=="allow"){
+			return "allow";
+		}else{
+			return "<RSP rc='999' msg='Authentication Error for ".$username." ".$check."'></RSP>";
+		}	
+	}
+	
+	function debug($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'debug');
+		if($check=="allow"){
+			$rsp = "<RSP><yourdata>$xml->API_username</yourdata><yourdata>$xml->API_password</yourdata><yourdata>$xml->API_key</yourdata></RSP>";
+		}else{
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		$this->psi_model->insert_reqrsp_param("WHIP debug",$reqparam,$rsp);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function transList($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],(string)'Translogs transList');
+		
+		if($check=="allow")
+		{
+		
+			$rsp = $this->psi_model->transLogList((string)$xml->keyword);
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+}

@@ -1,0 +1,35 @@
+2015-04-06T07:22:07Z
+RequestParameter:  billNo: 768009319 | startTime:2015-04-06 07:22:07
+
+2015-04-06T07:22:07Z
+Array
+(
+    [MODE] => U
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [SESS] => 1hqnb7rsl6sujkcflbk36g91l5
+    [TRAN] => 3YPC0J675894
+    [AUTH] => D
+    [MACK] => Y
+)
+
+
+2015-04-06T07:22:08Z
+ResponseParameter:  billNo: 768009319 | endTime:2015-04-06 07:22:08
+
+2015-04-06T07:22:08Z
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+  <VERS>0630</VERS>
+  <MODE>U</MODE>
+  <TRAN>3YPC0J675894</TRAN>
+  <MERC>680000</MERC>
+  <SESS>1hqnb7rsl6sujkcflbk36g91l5</SESS>
+  <RULES_TRIGGERED>0</RULES_TRIGGERED>
+  <COUNTERS_TRIGGERED>0</COUNTERS_TRIGGERED>
+  <REASON_CODE></REASON_CODE>
+  <MASTERCARD></MASTERCARD>
+  <WARNING_COUNT>0</WARNING_COUNT>
+</RESPONSE>
+

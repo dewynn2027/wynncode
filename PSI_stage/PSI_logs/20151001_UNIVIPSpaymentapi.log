@@ -1,0 +1,504 @@
+2015-10-01T04:22:43Z
+RequestParameter:  billNo: 987654s32412 | startTime:2015-10-01 04:22:43
+
+2015-10-01T04:22:43Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T04:22:43Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32412
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 89277449d2dcddfb5e273b174fbb6feb
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T04:22:44Z
+ResponseParameter:  billNo: 987654s32412 | endTime:2015-10-01 04:22:44
+
+2015-10-01T04:22:44Z
+Array
+(
+    [rc] => 999
+    [message] => Peer certificate cannot be authenticated with known CA certificates
+)
+
+
+2015-10-01T04:30:26Z
+RequestParameter:  billNo: 987654s32413 | startTime:2015-10-01 04:30:26
+
+2015-10-01T04:30:26Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T04:30:26Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32413
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 8eadcd1545f06a062a891c00270546cd
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T04:30:28Z
+ResponseParameter:  billNo: 987654s32413 | endTime:2015-10-01 04:30:28
+
+2015-10-01T04:30:28Z
+Array
+(
+)
+
+
+2015-10-01T05:42:14Z
+RequestParameter:  billNo: 987654s32415 | startTime:2015-10-01 05:42:14
+
+2015-10-01T05:42:14Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T05:42:14Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32415
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => fbc2726f30e31859181de58098d42d28
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T05:42:15Z
+ResponseParameter:  billNo: 987654s32415 | endTime:2015-10-01 05:42:15
+
+2015-10-01T05:42:15Z
+Array
+(
+)
+
+
+2015-10-01T05:52:30Z
+RequestParameter:  billNo: 987654s32416 | startTime:2015-10-01 05:52:30
+
+2015-10-01T05:52:30Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T05:52:30Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32416
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => fc3f31cd697213271d68c5382ba8873f
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T05:52:31Z
+ResponseParameter:  billNo: 987654s32416 | endTime:2015-10-01 05:52:31
+
+2015-10-01T05:52:31Z
+Array
+(
+    [rc] => 999
+    [message] => Peer certificate cannot be authenticated with known CA certificates
+)
+
+
+2015-10-01T05:58:45Z
+RequestParameter:  billNo: 987654s32419 | startTime:2015-10-01 05:58:45
+
+2015-10-01T05:58:45Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T05:58:45Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32419
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 24dbf2f9c73f43d6a2217c9c1f1d2bfe
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T05:58:46Z
+ResponseParameter:  billNo: 987654s32419 | endTime:2015-10-01 05:58:46
+
+2015-10-01T05:58:46Z
+Array
+(
+)
+
+
+2015-10-01T06:00:15Z
+RequestParameter:  billNo: 987654s324112 | startTime:2015-10-01 06:00:15
+
+2015-10-01T06:00:15Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:00:15Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s324112
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => abb03f8f64fe9c8b2ab20af4edcb4a8d
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:00:16Z
+ResponseParameter:  billNo: 987654s324112 | endTime:2015-10-01 06:00:16
+
+2015-10-01T06:00:16Z
+Array
+(
+)
+
+
+2015-10-01T06:04:21Z
+RequestParameter:  billNo: 987654ss32412 | startTime:2015-10-01 06:04:21
+
+2015-10-01T06:04:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:04:21Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654ss32412
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => b5cf16c8afbc6715088676254917e5d6
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:04:23Z
+ResponseParameter:  billNo: 987654ss32412 | endTime:2015-10-01 06:04:23
+
+2015-10-01T06:04:23Z
+Array
+(
+)
+
+
+2015-10-01T06:22:23Z
+RequestParameter:  billNo: 987654s324121 | startTime:2015-10-01 06:22:23
+
+2015-10-01T06:22:23Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:22:23Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s324121
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 54e91bbec1cad4078577e4e0672c4c60
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:22:24Z
+ResponseParameter:  billNo: 987654s324121 | endTime:2015-10-01 06:22:24
+
+2015-10-01T06:22:24Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"987654s324121","billAmount":"10.00","createdAt":"20151001142224","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"ED9645DF590DC3E81C2DAE0575648766","billingDescriptor":""}
+
+)
+
+
+2015-10-01T06:24:21Z
+RequestParameter:  billNo: 9827654s32412 | startTime:2015-10-01 06:24:21
+
+2015-10-01T06:24:21Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:24:21Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 9827654s32412
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => d0531a71ebec53a8535a9b06145a6ec0
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:24:23Z
+ResponseParameter:  billNo: 9827654s32412 | endTime:2015-10-01 06:24:23
+
+2015-10-01T06:24:23Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"9827654s32412","billAmount":"10.00","createdAt":"20151001142423","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"E8A0A6E6A4F90A6A676B4B312951B7E6","billingDescriptor":""}
+
+)
+
+
+2015-10-01T06:57:10Z
+RequestParameter:  billNo: 987634s32412 | startTime:2015-10-01 06:57:10
+
+2015-10-01T06:57:10Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:57:10Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987634s32412
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 02ca01bd8038817ed11df5f297521c20
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:57:11Z
+ResponseParameter:  billNo: 987634s32412 | endTime:2015-10-01 06:57:11
+
+2015-10-01T06:57:11Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"987634s32412","billAmount":"10.00","createdAt":"20151001145711","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"78A6200F2253C4E0887767937C5D18BA","billingDescriptor":""}
+
+)
+
+
+2015-10-01T06:58:06Z
+RequestParameter:  billNo: 987654s32412d | startTime:2015-10-01 06:58:06
+
+2015-10-01T06:58:06Z
+https://sip.uniques.net/direct/payment
+
+2015-10-01T06:58:06Z
+Array
+(
+    [cid] => 88906
+    [payNo] => 987654s32412d
+    [createdAt] => 20151001123132
+    [billCurrency] => USD
+    [lang] => ENG
+    [billIp] => 27.32.198.143
+    [signInfo] => 6a841a1b05d4e6e0260830ea3309970e
+    [ccNo] => 4************002
+    [cvc] => ***
+    [expMonth] => 12
+    [expYear] => 2017
+    [fName] => Juan
+    [surName] => Tamad
+    [emailAddress] => JUANDCAPPROVE@EXAMPLE.COM
+    [phoneNo] => 12345678
+    [birth] => 20000901
+    [zip] => 1234
+    [billAddress] => Address
+    [billCity] => City
+    [billState] => State
+    [billCountry] => AU
+    [billAmount] => 10
+    [comment] => Product
+)
+
+
+2015-10-01T06:58:07Z
+ResponseParameter:  billNo: 987654s32412d | endTime:2015-10-01 06:58:07
+
+2015-10-01T06:58:07Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-50","cid":"88906","payNo":"987654s32412d","billAmount":"10.00","createdAt":"20151001145807","billCurrency":"USD","tid":"","comment":"The card is temporarily blocked. Please contact support.","signInfo":"26D8A66BB59740F81205831BE7EEB41E","billingDescriptor":""}
+
+)
+
+

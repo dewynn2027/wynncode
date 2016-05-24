@@ -1,0 +1,120 @@
+2014-09-23T09:50:15Z
+RequestParameter:  referenceId: BILL0000047
+
+2014-09-23T09:50:15Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL0000047&Currency=USD&Amount=12&CardNumber=50000000000000006&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-23T09:50:16Z
+ResponseParameter:  referenceId: BILL0000047
+
+2014-09-23T09:50:16Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>BILL0000047</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Please input the length of Credit Card Number under 16 byte)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-23T09:51:39Z
+RequestParameter:  referenceId: BILL0000048
+
+2014-09-23T09:51:39Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL0000048&Currency=USD&Amount=12&CardNumber=4111111111111111&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-23T09:51:40Z
+ResponseParameter:  referenceId: BILL0000048
+
+2014-09-23T09:51:40Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL0000048</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140923115234</ResponseTime>
+<TransactionID>20140923000019D00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-23T09:54:17Z
+RequestParameter:  referenceId: BILL0000049
+
+2014-09-23T09:54:17Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL0000049&Currency=USD&Amount=12&CardNumber=4111111111111111&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-23T09:54:18Z
+ResponseParameter:  referenceId: BILL0000049
+
+2014-09-23T09:54:18Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL0000049</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140923165512</ResponseTime>
+<TransactionID>20140923000019E00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-23T09:56:50Z
+RequestParameter:  referenceId: BILL0000050
+
+2014-09-23T09:56:50Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL0000050&Currency=USD&Amount=12&CardNumber=4111111111111111&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-23T09:56:51Z
+ResponseParameter:  referenceId: BILL0000050
+
+2014-09-23T09:56:51Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL0000050</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140923115745</ResponseTime>
+<TransactionID>20140923000019F00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-23T10:40:07Z
+RequestParameter:  referenceId: BILL0000051
+
+2014-09-23T10:40:07Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL0000051&Currency=USD&Amount=12&CardNumber=5555555555554444&ExpiryMM=12&ExpiryYY=14&Csc=123&CardHolder=firstName%20lastName&ProductName=2
+
+2014-09-23T10:40:08Z
+ResponseParameter:  referenceId: BILL0000051
+
+2014-09-23T10:40:08Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL0000051</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140923174102</ResponseTime>
+<TransactionID>2014092300001A700030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

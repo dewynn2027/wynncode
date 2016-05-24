@@ -1,0 +1,774 @@
+2015-07-14T08:45:56Z
+RequestParameter:  billNo: 238545_20150714_084605 | startTime:2015-07-14 08:45:56
+
+2015-07-14T08:45:56Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_084605
+    [sessId] => 238545_20150714_084605
+    [billNo] => 238545_20150714_084605
+    [type] => 1
+    [dateTime] => 20150714084605
+    [language] => eng
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19931109
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [gender] => M
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T08:45:56Z
+ResponseParameter:  billNo: 238545_20150714_084605 | endTime:2015-07-14 08:45:56
+
+2015-07-14T08:45:56Z
+successcode=0&Ref=238545_20150714_084605&PayRef=150714160756&Amt=100&Cur=840&prc=0&src=0&Ord=150714160756&Holder=&AuthId=0756&TxTime=15-07-14 16:07:56&errMsg=Transaction Completed
+
+2015-07-14T08:56:09Z
+RequestParameter:  billNo: 238545_20150714_085619 | startTime:2015-07-14 08:56:09
+
+2015-07-14T08:56:09Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_085619
+    [sessId] => 238545_20150714_085619
+    [billNo] => 238545_20150714_085619
+    [type] => 1
+    [dateTime] => 20150714085619
+    [language] => eng
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19760113
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [gender] => M
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T08:56:09Z
+ResponseParameter:  billNo: 238545_20150714_085619 | endTime:2015-07-14 08:56:09
+
+2015-07-14T08:56:09Z
+successcode=0&Ref=238545_20150714_085619&PayRef=150714160709&Amt=100&Cur=840&prc=0&src=0&Ord=150714160709&Holder=&AuthId=0709&TxTime=15-07-14 16:07:09&errMsg=Transaction Completed
+
+2015-07-14T08:58:29Z
+RequestParameter:  billNo: 238545_20150714_085839 | startTime:2015-07-14 08:58:29
+
+2015-07-14T08:58:29Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_085839
+    [sessId] => 238545_20150714_085839
+    [billNo] => 238545_20150714_085839
+    [type] => 1
+    [dateTime] => 20150714085839
+    [language] => eng
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19921212
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [gender] => M
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T08:58:29Z
+ResponseParameter:  billNo: 238545_20150714_085839 | endTime:2015-07-14 08:58:29
+
+2015-07-14T08:58:29Z
+successcode=0&Ref=238545_20150714_085839&PayRef=150714160729&Amt=100&Cur=840&prc=0&src=0&Ord=150714160729&Holder=&AuthId=0729&TxTime=15-07-14 16:07:29&errMsg=Transaction Completed
+
+2015-07-14T08:58:48Z
+RequestParameter:  billNo: 238545_20150714_085858 | startTime:2015-07-14 08:58:48
+
+2015-07-14T08:58:48Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_085858
+    [sessId] => 238545_20150714_085858
+    [billNo] => 238545_20150714_085858
+    [type] => 1
+    [dateTime] => 20150714085858
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19890621
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T08:58:48Z
+ResponseParameter:  billNo: 238545_20150714_085858 | endTime:2015-07-14 08:58:48
+
+2015-07-14T08:58:48Z
+successcode=0&Ref=238545_20150714_085858&PayRef=150714160748&Amt=100&Cur=840&prc=0&src=0&Ord=150714160748&Holder=&AuthId=0748&TxTime=15-07-14 16:07:48&errMsg=Transaction Completed
+
+2015-07-14T09:00:03Z
+RequestParameter:  billNo: 238545_20150714_090013 | startTime:2015-07-14 09:00:03
+
+2015-07-14T09:00:03Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090013
+    [sessId] => 238545_20150714_090013
+    [billNo] => 238545_20150714_090013
+    [type] => 1
+    [dateTime] => 20150714090013
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19740715
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:00:03Z
+ResponseParameter:  billNo: 238545_20150714_090013 | endTime:2015-07-14 09:00:03
+
+2015-07-14T09:00:03Z
+successcode=0&Ref=238545_20150714_090013&PayRef=150714170703&Amt=100&Cur=840&prc=0&src=0&Ord=150714170703&Holder=&AuthId=0703&TxTime=15-07-14 17:07:03&errMsg=Transaction Completed
+
+2015-07-14T09:02:00Z
+RequestParameter:  billNo: 238545_20150714_090209 | startTime:2015-07-14 09:02:00
+
+2015-07-14T09:02:00Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090209
+    [sessId] => 238545_20150714_090209
+    [billNo] => 238545_20150714_090209
+    [type] => 1
+    [dateTime] => 20150714090209
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19810725
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:02:00Z
+ResponseParameter:  billNo: 238545_20150714_090209 | endTime:2015-07-14 09:02:00
+
+2015-07-14T09:02:00Z
+successcode=0&Ref=238545_20150714_090209&PayRef=150714170700&Amt=100&Cur=840&prc=0&src=0&Ord=150714170700&Holder=&AuthId=0700&TxTime=15-07-14 17:07:00&errMsg=Transaction Completed
+
+2015-07-14T09:02:34Z
+RequestParameter:  billNo: 238545_20150714_090244 | startTime:2015-07-14 09:02:34
+
+2015-07-14T09:02:34Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090244
+    [sessId] => 238545_20150714_090244
+    [billNo] => 238545_20150714_090244
+    [type] => 1
+    [dateTime] => 20150714090244
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19721029
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:02:34Z
+ResponseParameter:  billNo: 238545_20150714_090244 | endTime:2015-07-14 09:02:34
+
+2015-07-14T09:02:34Z
+successcode=0&Ref=238545_20150714_090244&PayRef=150714170734&Amt=100&Cur=840&prc=0&src=0&Ord=150714170734&Holder=&AuthId=0734&TxTime=15-07-14 17:07:34&errMsg=Transaction Completed
+
+2015-07-14T09:03:03Z
+RequestParameter:  billNo: 238545_20150714_090312 | startTime:2015-07-14 09:03:03
+
+2015-07-14T09:03:03Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090312
+    [sessId] => 238545_20150714_090312
+    [billNo] => 238545_20150714_090312
+    [type] => 1
+    [dateTime] => 20150714090312
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19720715
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:03:03Z
+ResponseParameter:  billNo: 238545_20150714_090312 | endTime:2015-07-14 09:03:03
+
+2015-07-14T09:03:03Z
+successcode=0&Ref=238545_20150714_090312&PayRef=150714170703&Amt=100&Cur=840&prc=0&src=0&Ord=150714170703&Holder=&AuthId=0703&TxTime=15-07-14 17:07:03&errMsg=Transaction Completed
+
+2015-07-14T09:03:19Z
+RequestParameter:  billNo: 238545_20150714_090329 | startTime:2015-07-14 09:03:19
+
+2015-07-14T09:03:19Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090329
+    [sessId] => 238545_20150714_090329
+    [billNo] => 238545_20150714_090329
+    [type] => 1
+    [dateTime] => 20150714090329
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19720705
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:03:19Z
+ResponseParameter:  billNo: 238545_20150714_090329 | endTime:2015-07-14 09:03:19
+
+2015-07-14T09:03:19Z
+successcode=0&Ref=238545_20150714_090329&PayRef=150714170719&Amt=100&Cur=840&prc=0&src=0&Ord=150714170719&Holder=&AuthId=0719&TxTime=15-07-14 17:07:19&errMsg=Transaction Completed
+
+2015-07-14T09:05:45Z
+RequestParameter:  billNo: 238545_20150714_090554 | startTime:2015-07-14 09:05:45
+
+2015-07-14T09:05:45Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090554
+    [sessId] => 238545_20150714_090554
+    [billNo] => 238545_20150714_090554
+    [type] => 1
+    [dateTime] => 20150714090554
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19720912
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:05:45Z
+ResponseParameter:  billNo: 238545_20150714_090554 | endTime:2015-07-14 09:05:45
+
+2015-07-14T09:05:45Z
+successcode=0&Ref=238545_20150714_090554&PayRef=150714170745&Amt=100&Cur=840&prc=0&src=0&Ord=150714170745&Holder=&AuthId=0745&TxTime=15-07-14 17:07:45&errMsg=Transaction Completed
+
+2015-07-14T09:08:18Z
+RequestParameter:  billNo: 238545_20150714_090828 | startTime:2015-07-14 09:08:18
+
+2015-07-14T09:08:18Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090828
+    [sessId] => 238545_20150714_090828
+    [billNo] => 238545_20150714_090828
+    [type] => 1
+    [dateTime] => 20150714090828
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19901023
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:08:18Z
+ResponseParameter:  billNo: 238545_20150714_090828 | endTime:2015-07-14 09:08:18
+
+2015-07-14T09:08:18Z
+successcode=0&Ref=238545_20150714_090828&PayRef=150714170718&Amt=100&Cur=840&prc=0&src=0&Ord=150714170718&Holder=&AuthId=0718&TxTime=15-07-14 17:07:18&errMsg=Transaction Completed
+
+2015-07-14T09:08:36Z
+RequestParameter:  billNo: 238545_20150714_090846 | startTime:2015-07-14 09:08:36
+
+2015-07-14T09:08:36Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_090846
+    [sessId] => 238545_20150714_090846
+    [billNo] => 238545_20150714_090846
+    [type] => 1
+    [dateTime] => 20150714090846
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19690926
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:08:36Z
+ResponseParameter:  billNo: 238545_20150714_090846 | endTime:2015-07-14 09:08:36
+
+2015-07-14T09:08:36Z
+successcode=0&Ref=238545_20150714_090846&PayRef=150714170736&Amt=100&Cur=840&prc=0&src=0&Ord=150714170736&Holder=&AuthId=0736&TxTime=15-07-14 17:07:36&errMsg=Transaction Completed
+
+2015-07-14T09:09:57Z
+RequestParameter:  billNo: 238545_20150714_091006 | startTime:2015-07-14 09:09:57
+
+2015-07-14T09:09:57Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_091006
+    [sessId] => 238545_20150714_091006
+    [billNo] => 238545_20150714_091006
+    [type] => 1
+    [dateTime] => 20150714091006
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19760709
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:09:57Z
+ResponseParameter:  billNo: 238545_20150714_091006 | endTime:2015-07-14 09:09:57
+
+2015-07-14T09:09:57Z
+successcode=0&Ref=238545_20150714_091006&PayRef=150714170757&Amt=100&Cur=840&prc=0&src=0&Ord=150714170757&Holder=&AuthId=0757&TxTime=15-07-14 17:07:57&errMsg=Transaction Completed
+
+2015-07-14T09:19:19Z
+RequestParameter:  billNo: 238545_20150714_091927 | startTime:2015-07-14 09:19:19
+
+2015-07-14T09:19:19Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_091927
+    [sessId] => 238545_20150714_091927
+    [billNo] => 238545_20150714_091927
+    [type] => 1
+    [dateTime] => 20150714091927
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 100
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19910831
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 100
+)
+
+
+2015-07-14T09:19:19Z
+ResponseParameter:  billNo: 238545_20150714_091927 | endTime:2015-07-14 09:19:19
+
+2015-07-14T09:19:19Z
+successcode=0&Ref=238545_20150714_091927&PayRef=150714170719&Amt=100&Cur=840&prc=0&src=0&Ord=150714170719&Holder=&AuthId=0719&TxTime=15-07-14 17:07:19&errMsg=Transaction Completed
+
+2015-07-14T09:22:21Z
+RequestParameter:  billNo: 238545_20150714_092230 | startTime:2015-07-14 09:22:21
+
+2015-07-14T09:22:21Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_092230
+    [sessId] => 238545_20150714_092230
+    [billNo] => 238545_20150714_092230
+    [type] => 1
+    [dateTime] => 20150714092230
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 102
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19970117
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 102
+)
+
+
+2015-07-14T09:22:21Z
+ResponseParameter:  billNo: 238545_20150714_092230 | endTime:2015-07-14 09:22:21
+
+2015-07-14T09:22:21Z
+successcode=0&Ref=238545_20150714_092230&PayRef=150714170721&Amt=102&Cur=840&prc=0&src=0&Ord=150714170721&Holder=&AuthId=0721&TxTime=15-07-14 17:07:21&errMsg=Transaction Completed
+
+2015-07-14T09:29:13Z
+RequestParameter:  billNo: 238545_20150714_092922 | startTime:2015-07-14 09:29:13
+
+2015-07-14T09:29:13Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 82
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-TITTRD
+    [API_password] => ysrH2MIFDsr6pK
+    [referenceId] => 238545_20150714_092922
+    [sessId] => 238545_20150714_092922
+    [billNo] => 238545_20150714_092922
+    [type] => 1
+    [dateTime] => 20150714092922
+    [cardHolderIp] => 5.175.150.217
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [currency] => USD
+    [amount] => 104.00
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [birthDate] => 19900726
+    [email] => JUANDCAPPROVE@EXAMPLE.COM
+    [phone] => 9713412381723
+    [zipCode] => 111
+    [address] => momo 1
+    [city] => cityty
+    [state] => NA
+    [country] => AE
+    [productType] => Binary Trade
+    [productItem] => SKU-TIT-BinaryTrade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [loginName] => 100-01-MER-TITTRD
+    [productPrice] => 104
+)
+
+
+2015-07-14T09:29:13Z
+ResponseParameter:  billNo: 238545_20150714_092922 | endTime:2015-07-14 09:29:13
+
+2015-07-14T09:29:13Z
+successcode=0&Ref=238545_20150714_092922&PayRef=150714170713&Amt=104.00&Cur=840&prc=0&src=0&Ord=150714170713&Holder=&AuthId=0713&TxTime=15-07-14 17:07:13&errMsg=Transaction Completed
+

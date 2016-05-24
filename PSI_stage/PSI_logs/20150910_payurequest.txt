@@ -1,0 +1,36 @@
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20150910020945&amount=99&productinfo=Product&firstname=Juan&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&surl=http%3A%2F%2Fwww.dyn-web.com&furl=http%3A%2F%2Fphp.net&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=05&ccexpyr=2017&hash=6eba2da0841358d167ae268ec606cfa4ffc2d754635b097583cef34cb553fbb35d47d8f11cd520263a509301f66bf6295d2908b3667d68df16a3d49412e3f84b
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 435
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Thu, 10 Sep 2015 06:08:50 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=mqkmt37j6v7182l9mn6asck010; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 874
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"success","response":{"post_uri":"https:\/\/dropit.3dsecure.net:9443\/PIT\/ACS","form_post_vars":{"PaReq":"eJxVUl1zqjAQ\/SsMr50SPkTFWdLRfjJTW2\/VuTN9oxCRIgGTgLS\/vhuKt715yZ7N5uyenMBVVx6MlgmZVzw0Hcs2DcaTKs15Fprbzd3l1LyisNkLxm7WLGkEo7BkUsYZM\/I0NHfCfWtG0+iii6aSj5\/94vreT5zDo4v3KazmL+xIYWhAkd9ygZwhMolkH3NFIU6Oi+iJjjzPnYyADBBKJqIbupPS+LUuAxtXMLGBfJ8Dj0tGo0W0eDZO7M1Ytcp4VCmQPg9J1XAlPqjnj4GcATTiQPdK1XJGiOyV1ZliUlnYjTNlJZWVc1Jnp\/iDZLFieo\/TtB\/Zepc1EM0A5EfDqtGRxI5dntJ2\/uqt\/\/wtyvHn53rbnY5+cYFTv\/LlPASiKyBFWurajm8Hjm04zsybznxU3+chLvWo9EUGgWWj1gFDrdvMv0EQ6JPfGUAlAi08yz0jYF1dcYYVaMC\/GMjP0NcP2oZE4YM+5Heb2+a2uH\/fZrLYta0\/6aJTGGpj+gLNluMrOhPb7+k0AKIpyOA5Gb4JRv99ny+J387X","MD":"5943024381152530","TermUrl":"https:\/\/test.payu.in\/_hdfc_response.php?txtid=92541a8b9aef0615b51304ca0fc3ee0f8f510c05377b010366c8437160c02c35&action=hdfc2_3dsresponse"},"enrolled":"1"}}
+
+* Closing connection #0

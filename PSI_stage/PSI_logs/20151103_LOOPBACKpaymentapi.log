@@ -1,0 +1,264 @@
+2015-11-03T06:32:56Z
+RequestParameter:  billNo: 2015101501812 | startTime:2015-11-03 06:32:56
+
+2015-11-03T06:32:56Z
+
+
+2015-11-03T06:32:56Z
+Array
+(
+)
+
+
+2015-11-03T06:32:56Z
+ResponseParameter:  billNo: 2015101501812 | endTime:2015-11-03 06:32:56
+
+2015-11-03T06:32:56Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501812","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T06:47:24Z
+RequestParameter:  billNo: 2015101501822 | startTime:2015-11-03 06:47:24
+
+2015-11-03T06:47:24Z
+
+
+2015-11-03T06:47:24Z
+Array
+(
+)
+
+
+2015-11-03T06:47:24Z
+ResponseParameter:  billNo: 2015101501822 | endTime:2015-11-03 06:47:24
+
+2015-11-03T06:47:24Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501822","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T06:50:43Z
+RequestParameter:  billNo: 2015101501833 | startTime:2015-11-03 06:50:43
+
+2015-11-03T06:50:43Z
+
+
+2015-11-03T06:50:43Z
+Array
+(
+)
+
+
+2015-11-03T06:50:43Z
+ResponseParameter:  billNo: 2015101501833 | endTime:2015-11-03 06:50:43
+
+2015-11-03T06:50:43Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501833","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T07:04:52Z
+RequestParameter:  billNo: 2015101501844 | startTime:2015-11-03 07:04:52
+
+2015-11-03T07:04:52Z
+
+
+2015-11-03T07:04:52Z
+Array
+(
+)
+
+
+2015-11-03T07:04:52Z
+ResponseParameter:  billNo: 2015101501844 | endTime:2015-11-03 07:04:52
+
+2015-11-03T07:04:52Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501844","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T07:09:22Z
+RequestParameter:  billNo: 2015101501845 | startTime:2015-11-03 07:09:22
+
+2015-11-03T07:09:22Z
+
+
+2015-11-03T07:09:22Z
+Array
+(
+)
+
+
+2015-11-03T07:09:22Z
+ResponseParameter:  billNo: 2015101501845 | endTime:2015-11-03 07:09:22
+
+2015-11-03T07:09:22Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501845","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T07:11:05Z
+RequestParameter:  billNo: 2015101501846 | startTime:2015-11-03 07:11:05
+
+2015-11-03T07:11:05Z
+
+
+2015-11-03T07:11:05Z
+Array
+(
+)
+
+
+2015-11-03T07:11:05Z
+ResponseParameter:  billNo: 2015101501846 | endTime:2015-11-03 07:11:05
+
+2015-11-03T07:11:05Z
+Array
+(
+    [rc] => 0
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"9954","errorCode":"9954","cid":"11631","payNo":"2015101501846","billAmount":"10","createdAt":"20151015100101","billCurrency":"USD","tid":"","comment":"Payment Declined, Pickup Card","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T23:14:55Z
+RequestParameter:  billNo: 5eNOk1446592487 | startTime:2015-11-03 23:14:55
+
+2015-11-03T23:14:55Z
+
+
+2015-11-03T23:14:55Z
+Array
+(
+)
+
+
+2015-11-03T23:14:55Z
+ResponseParameter:  billNo: 5eNOk1446592487 | endTime:2015-11-03 23:14:55
+
+2015-11-03T23:14:55Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"5eNOk1446592487","billAmount":"10","createdAt":"20151104071447","billCurrency":"USD","tid":"","comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T23:31:04Z
+RequestParameter:  billNo: xn0Ue1446593462 | startTime:2015-11-03 23:31:04
+
+2015-11-03T23:31:04Z
+
+
+2015-11-03T23:31:04Z
+Array
+(
+)
+
+
+2015-11-03T23:31:04Z
+ResponseParameter:  billNo: xn0Ue1446593462 | endTime:2015-11-03 23:31:04
+
+2015-11-03T23:31:04Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"xn0Ue1446593462","billAmount":"10","createdAt":"20151104073102","billCurrency":"USD","tid":"","comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T23:37:31Z
+RequestParameter:  billNo: gGrAC1446593848 | startTime:2015-11-03 23:37:31
+
+2015-11-03T23:37:31Z
+
+
+2015-11-03T23:37:31Z
+Array
+(
+)
+
+
+2015-11-03T23:37:32Z
+ResponseParameter:  billNo: gGrAC1446593848 | endTime:2015-11-03 23:37:32
+
+2015-11-03T23:37:32Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"gGrAC1446593848","billAmount":"10","createdAt":"20151104073728","billCurrency":"USD","tid":"","comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T23:55:22Z
+RequestParameter:  billNo: 2lDTA1446594920 | startTime:2015-11-03 23:55:22
+
+2015-11-03T23:55:22Z
+
+
+2015-11-03T23:55:22Z
+Array
+(
+)
+
+
+2015-11-03T23:55:22Z
+ResponseParameter:  billNo: 2lDTA1446594920 | endTime:2015-11-03 23:55:22
+
+2015-11-03T23:55:22Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"2lDTA1446594920","billAmount":"10","createdAt":"20151104075520","billCurrency":"USD","tid":"","comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2015-11-03T23:58:18Z
+RequestParameter:  billNo: Z0DcL1446595096 | startTime:2015-11-03 23:58:18
+
+2015-11-03T23:58:18Z
+
+
+2015-11-03T23:58:18Z
+Array
+(
+)
+
+
+2015-11-03T23:58:18Z
+ResponseParameter:  billNo: Z0DcL1446595096 | endTime:2015-11-03 23:58:18
+
+2015-11-03T23:58:18Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"Z0DcL1446595096","billAmount":"10","createdAt":"20151104075816","billCurrency":"USD","tid":"","comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

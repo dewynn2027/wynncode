@@ -1,0 +1,295 @@
+2015-09-21T03:34:32Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 03:34:32
+
+2015-09-21T03:34:32Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T03:34:32Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T03:34:43Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 03:34:43
+
+2015-09-21T03:34:43Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T03:52:52Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 03:52:52
+
+2015-09-21T03:52:52Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T03:52:52Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T03:53:03Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 03:53:03
+
+2015-09-21T03:53:03Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T03:55:47Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 03:55:47
+
+2015-09-21T03:55:47Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T03:55:47Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T03:56:18Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 03:56:18
+
+2015-09-21T03:56:18Z
+Array
+(
+    [rc] => 999
+    [result] => Operation timed out after 30000 milliseconds with 0 bytes received
+)
+
+
+2015-09-21T03:58:02Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 03:58:02
+
+2015-09-21T03:58:02Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T03:58:02Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T03:58:14Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 03:58:14
+
+2015-09-21T03:58:14Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T04:00:19Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 04:00:19
+
+2015-09-21T04:00:19Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T04:00:19Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T04:00:38Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 04:00:38
+
+2015-09-21T04:00:38Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T04:03:46Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 04:03:46
+
+2015-09-21T04:03:46Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T04:03:46Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T04:04:04Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 04:04:04
+
+2015-09-21T04:04:04Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T04:38:10Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 04:38:10
+
+2015-09-21T04:38:10Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T04:38:10Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T04:38:22Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 04:38:22
+
+2015-09-21T04:38:22Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+
+2015-09-21T04:41:06Z
+RequestParameter:  billNo: 668d26b8d4628 | startTime:2015-09-21 04:41:06
+
+2015-09-21T04:41:06Z
+https://test.payu.in/hdfc_not_enrolled
+
+2015-09-21T04:41:06Z
+Array
+(
+    [transactionId] => 01598865dc2dbe2a7012ebe5ee8d326c93c498684861199551a9fca45af4aaea
+    [pgId] => 8
+    [eci] => 7
+    [nonEnrolled] => 1
+    [nonDomestic] => 0
+    [bank] => CC
+    [cccat] => creditcard
+    [ccnum] => 4b5c9002295c6cd8e5289e2f9c312dc737810a747b84e71665cf077c78fe245a
+    [ccname] => 1364572292ad786a0fd30b1c677c78eda5090acd2d77cb6b2435fac15b1de757
+    [ccvv] => f31c6a1d6582f44ee1be4a3e1126b9cb08d1e7006f7afe083d7270b00dcb933f
+    [ccexpmon] => 5ddf3702e74f473ec89762f6efece025737c2ab999e695cf10496e6fa3946079
+    [ccexpyr] => 5da83563fcaa945063dc4c2094c48e800badf7c8246c9d13b43757fe99d63e6d
+    [is_seamless] => 1
+)
+
+
+2015-09-21T04:41:16Z
+ResponseParameter:  billNo: 668d26b8d4628 | endTime:2015-09-21 04:41:16
+
+2015-09-21T04:41:16Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [result] => mihpayid=403993715513450462&mode=CC&status=failure&key=Gzv04m&txnid=668d26b8d4628&amount=10.00&addedon=2015-09-18+12%3A58%3A51&productinfo=Product&firstname=Juan&lastname=&address1=&address2=&city=&state=&country=&zipcode=&email=JUANDCAPPROVE%40EXAMPLE.COM&phone=375336264692&udf1=&udf2=&udf3=&udf4=&udf5=&udf6=&udf7=&udf8=&udf9=&udf10=&card_token=&card_no=512345XXXXXX2346&field0=&field1=526143649486&field2=999999&field3=4591554081652611&field4=-1&field5=Unknown+SSL+protocol+error+in+connection+to+securepgtest.fssnet.co.in%3A443+&field6=&field7=&field8=not+enrolled+then+CURL+failed&field9=Some+error+occured+on+Server%2C+Please+try+again.&PG_TYPE=HDFCPG&error=E204&error_Message=&net_amount_debit=0&unmappedstatus=failed&hash=40a68b250c555c05aea597f884d68a8d294d8f8244a696738d0a12b260a8fbe111f3d220c9cd76c34ef12efaadb159cf30a972ac4c6f8b828df29067cda87437&bank_ref_no=4591554081652611&bank_ref_num=4591554081652611&bankcode=CC&surl=surl&curl=furl&furl=furl&card_hash=515a2cb0f0e6711f6a3d2c4704cc691d212d4dc0e065c7c8d3441a6b5fc23e97
+)
+
+

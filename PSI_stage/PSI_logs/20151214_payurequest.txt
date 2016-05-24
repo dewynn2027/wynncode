@@ -1,0 +1,215 @@
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20151211101248111&amount=21&productinfo=Samsung+32+Inch+LCD+TV+Model+3210%2CLG+8gb+SD+Model+8001&firstname=Juan&email=Juan%40domain.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=10&ccexpyr=2017&hash=6e6cbdef3ec4a47401f8bc29ebe9f992cc55a9de481c9248c92f82272bda9469d7dd2aeb2d1b6d1be96570eec252a9f49d460f51fcdc41aa48f06095aba8c2ad
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 435
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 03:33:20 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=o2a76976d0197k7lr558sv8pd6; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Content-Length: 50
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"failed","error":"Failed in enrollment"}
+
+* Closing connection #0
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=2015121110124812&amount=21&productinfo=Samsung+32+Inch+LCD+TV+Model+3210%2CLG+8gb+SD+Model+8001&firstname=Juan&email=Juan%40domain.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=10&ccexpyr=2017&hash=117089a4dfe7ffb888f833755bae90e829c796a743ee17ee6d431b1cfb421c26ba2869c8d0a3c29d4e859981ff4350712114b50953dcbe9c0643929de4b4c133
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 434
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 03:36:06 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=1ua2p8u3ju3jhi69bpjfkp1l94; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Content-Length: 50
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"failed","error":"Failed in enrollment"}
+
+* Closing connection #0
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20151211101248112&amount=21&productinfo=Samsung+32+Inch+LCD+TV+Model+3210%2CLG+8gb+SD+Model+8001&firstname=Juan&email=Juan%40domain.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=10&ccexpyr=2017&hash=f902d3e332bafb7debfdc424b4d3f18d1de36de0da7b2a3db835d8e1cdb11651e015b5ce222fc9bc09a2b681303a3d77a82c074ec42c908f386ee98408f887d1
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 435
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 03:37:15 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=996rjve5pnkbnaphm7npgvghn3; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Content-Length: 50
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"failed","error":"Failed in enrollment"}
+
+* Closing connection #0
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20151211101248122&amount=21&productinfo=Samsung+32+Inch+LCD+TV+Model+3210%2CLG+8gb+SD+Model+8001&firstname=Juan&email=Juan%40domain.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=10&ccexpyr=2017&hash=26d05b5b432a163dd906222edc7b39ea9f5b4ea8dcd7acebe4881eab7028f2996894c39bd4ceb352a242bd03115e186790f84c11b9ba86d15afca2735fea95bf
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 435
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 03:38:09 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=9q9i86as99ma2n09q6641k2rd7; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Content-Length: 50
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"failed","error":"Failed in enrollment"}
+
+* Closing connection #0
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20151211101248123&amount=21&productinfo=Samsung+32+Inch+LCD+TV+Model+3210%2CLG+8gb+SD+Model+8001&firstname=Juan&email=Juan%40domain.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4012001037141112&ccname=Juan+Dela+Cruz&ccvv=123&ccexpmon=10&ccexpyr=2017&hash=1698ecee5d810ec64664ff3cc220d51694cfcf51046300944c0d16db1d481d761926b42542b3b8d20b33ce517ec6a89c5ea22675fd6949b8fc8c4368d6c0f404
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 435
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 06:38:48 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=kcv6q212cgsej7souienfuu9d3; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Content-Length: 875
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"success","response":{"post_uri":"https:\/\/dropit.3dsecure.net:9443\/PIT\/ACS","form_post_vars":{"PaReq":"eJxVUl1XozAQ\/SscXvfIEFrsxxnisWJr163bo8jqI0IEFBJKgm3\/\/SZIV3deMncmuTN3JnhxqCvrg7WyFDywiePaFuOpyEqeB\/ZjtDyb2hcUo6JlLHxgadcyihsmZZIzq8wCO4ZVdH6sqtS\/qvZ\/bjfbbhM+vU\/cqHgObIrby3u2ozgUoJrf8RBOUDO1aZFwRTFJd4v1HR2PRt5kjDBArFm7DumrlNY3O5u52mYTF+EzjzypGV0v1ovf1p69WNsPZf1SGUIfx1R0XLVHOvLPEU4Au7aihVKNnAPIXlmTKyaVo6txppxUOCWHJt8nR8gTxcyZZFnfsvMmGwTDgPClYdsZT+qKhzKjYncrlkW+mE13Ii7C1ab4GT80067+IQIEcwMzTUs9l\/jEI2OLeHN3OvcJQh\/HpDat0nvp6bFprQPGxpS5\/AQeMZnvEdRKWr3Ck9wTQnZoBGfmDcI\/H+Gr6asbs4ZU6YHelMvourt+X73F3iOL\/fBw5672QWAW018wbKWeIpkQt6czAMFQwLBzGL6J9v77Pn8BnenOvA==","MD":"4897456081253480","TermUrl":"https:\/\/test.payu.in\/_hdfc_response.php?txtid=7f493226ac7aa1134e42a415cb8c945756d6df0794f24bf57e598d64fc44ef52&action=hdfc2_3dsresponse"},"enrolled":"1"}}
+
+* Closing connection #0
+Request Param: txn_s2s_flow=1&key=Gzv04m&txnid=20151211101248611&amount=10&productinfo=LG+8gb+SD+Model+8001&firstname=Cameron&email=Cameron%40transcommglobal.com&phone=5551234567&surl=surl&furl=furl&pg=CC&bankcode=CC&ccnum=4918914107196006&ccname=Cameron+Cenese&ccvv=152&ccexpmon=10&ccexpyr=2017&hash=6f3c43284bd653e6085b8adf52db124def61a9a430b361467061009a05e5eabbe0eb5b3dea1cf0e1f37c8074692a00357e3155d59280aec9b504ed7d03b512c5
+
+* About to connect() to test.payu.in port 443 (#0)
+*   Trying 180.179.174.15... * connected
+* Connected to test.payu.in (180.179.174.15) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* SSL connection using TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=www.payu.in,OU=IT,O=PayU Payments Pvt. Ltd.,L=Gurgaon,ST=Haryana,C=IN,serialNumber=218612,businessCategory=Private Organization,incorporationCountry=IN
+* 	start date: Feb 03 00:00:00 2015 GMT
+* 	expire date: Jun 29 23:59:59 2016 GMT
+* 	common name: www.payu.in
+* 	issuer: CN=GeoTrust EV SSL CA - G4,O=GeoTrust Inc.,C=US
+> POST /_payment HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: test.payu.in
+Accept: */*
+Content-Length: 414
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Date: Mon, 14 Dec 2015 09:59:28 GMT
+< Server: Apache
+< P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: PHPSESSID=qicv3tafl1pb9jds03qcvbfdc7; path=/; HttpOnly
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Content-Length: 50
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host test.payu.in left intact
+Response Param: {"status":"failed","error":"Some Problem Occured"}
+
+* Closing connection #0

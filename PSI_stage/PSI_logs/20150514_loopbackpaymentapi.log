@@ -1,0 +1,146 @@
+2015-05-14T09:27:12Z
+RequestParameter:  billNo: bill635671995839306394 | startTime:2015-05-14 09:27:12
+
+2015-05-14T09:27:12Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 62
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL1
+    [API_password] => s4HIM9zuy6IypJ
+    [billNo] => bill635671995839306394
+    [referenceId] => ref635671995839306394
+    [sessId] => sess635671995839306394
+    [dateTime] => 20150514112715
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 5586480000014048
+    [cvv2] => 242
+    [month] => 10
+    [year] => 16
+    [firstName] => test test
+    [lastName] => test test
+    [gender] => M
+    [email] => general@globaltradingsolutions.com
+    [birthdate] => 19380509
+    [phone] => 33 68548611748
+    [zipCode] => 60075
+    [address] => rue du parc
+    [city] => paris
+    [state] => MH
+    [country] => FR
+    [amount] => 50
+    [language] => eng
+    [currency] => EUR
+    [productItem] => SKU-BML-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 50
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 1
+)
+
+
+2015-05-14T09:27:12Z
+ResponseParameter:  billNo: bill635671995839306394 | endTime:2015-05-14 09:27:12
+
+2015-05-14T09:27:12Z
+successcode=-1&Ref=bill635671995839306394&PayRef=150514170512&Amt=50&Cur=978&prc=1&src=14&Ord=150514170512&Holder=&AuthId=0512&TxTime=15-05-14 17:05:12&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+
+2015-05-14T18:46:07Z
+RequestParameter:  billNo: Ftxso1431629163 | startTime:2015-05-14 18:46:07
+
+2015-05-14T18:46:07Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 61
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-GTSHOL
+    [API_password] => Fq7KyJJJrDsIFt
+    [agt] => 0
+    [billNo] => Ftxso1431629163
+    [referenceId] => Ftxso1431629163
+    [dateTime] => 20150515024603
+    [cardHolderIp] => 5.135.77.44
+    [cardNum] => 4868951261508938
+    [cvv2] => 117
+    [month] => 10
+    [year] => 18
+    [firstName] => Andrew
+    [lastName] => hartley-Snazelle
+    [gender] => M
+    [email] => hartley-Snazelle@andrew.net
+    [birthDate] => 19640504
+    [phone] => 141551722250
+    [zipCode] => 414115
+    [address] => 2200 sacramento street
+    [city] => san francisco
+    [state] => california
+    [country] => US
+    [amount] => 250
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => carte
+    [currency] => USD
+    [productItem] => carte
+    [productType] => carte 1
+    [productDesc] => carte
+    [productQty] => 5
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-MER-GTSHOL
+    [type] => 2
+)
+
+
+2015-05-14T18:46:07Z
+ResponseParameter:  billNo: Ftxso1431629163 | endTime:2015-05-14 18:46:07
+
+2015-05-14T18:46:07Z
+successcode=-1&Ref=Ftxso1431629163&PayRef=150515020507&Amt=250&Cur=840&prc=1&src=14&Ord=150515020507&Holder=&AuthId=0507&TxTime=15-05-15 02:05:07&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, invalid firstName, invalid lastName
+

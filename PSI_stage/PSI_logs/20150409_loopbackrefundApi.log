@@ -1,0 +1,28 @@
+2015-04-09T03:32:03Z
+RequestParameter:  billNo: yvzeW1428550224
+
+2015-04-09T03:32:03Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150409110426
+    [billNo] => yvzeW1428550224
+    [amount] => 10.00
+    [refundAmount] => 10
+    [remark] => this is a test pls ignore
+    [type] => 2
+)
+
+
+2015-04-09T03:32:03Z
+ResponseParameter:  billNo: yvzeW1428550224
+
+2015-04-09T03:32:03Z
+resultCode=0&orderStatus=Accepted&ref=yvzeW1428550224&payRef=110403&amt=10&cur=608&errMsg=Void Successfully.
+

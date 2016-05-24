@@ -1,0 +1,38 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Parameters">
+    <xs:complexType>
+      <xs:all>
+        <xs:element type="xs:string" name="API_username"/>
+        <xs:element type="xs:string" name="API_password"/>
+        <xs:element type="xs:string" name="API_key"/>
+        <xs:element type="xs:string" name="billNo"/>
+        <xs:element type="xs:string" name="dateTime"/>
+        <xs:element type="xs:string" name="currency"/>
+        <xs:element type="xs:string" name="cardHolderIp"/>
+        <xs:element type="xs:string" name="cardNum"/>
+        <xs:element type="xs:string" name="referenceId"/>
+        <xs:element type="xs:string" name="Paymentmethod"/>
+        <xs:element type="xs:string" name="cvv2"/>
+        <xs:element type="xs:string" name="month"/>
+        <xs:element type="xs:string" name="year"/>
+        <xs:element type="xs:string" name="firstName"/>
+        <xs:element type="xs:string" name="lastName"/>
+        <xs:element type="xs:string" name="email"/>
+        <xs:element type="xs:string" name="phone"/>
+        <xs:element type="xs:string" name="Type"/>
+        <xs:element type="xs:string" name="language"/>
+        <xs:element type="xs:string" name="zipCode"/>
+        <xs:element type="xs:string" name="address"/>
+        <xs:element type="xs:string" name="city"/>
+        <xs:element type="xs:string" name="state"/>
+        <xs:element type="xs:string" name="country"/>
+        <xs:element type="xs:float" name="amount"/>
+        <xs:element type="xs:string" name="products"/>
+        <xs:element type="xs:string" name="remark"/>
+        <xs:element type="xs:string" name="birthDate"/>
+        <xs:element type="xs:string" name="loginName"/>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+

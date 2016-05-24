@@ -1,0 +1,2173 @@
+2015-04-08T04:04:38Z
+RequestParameter:  billNo: oXIvt1428465877 | startTime:2015-04-08 04:04:38
+
+2015-04-08T04:04:38Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => oXIvt1428465877
+    [referenceId] => oXIvt1428465877
+    [dateTime] => 20150408120437
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:04:38Z
+ResponseParameter:  billNo: oXIvt1428465877 | endTime:2015-04-08 04:04:38
+
+2015-04-08T04:04:38Z
+successcode=-1&Ref=oXIvt1428465877&PayRef=150408120438&Amt=10&Cur=840&prc=&src=&Ord=150408120438&Holder=&AuthId=0438&TxTime=15-04-08 12:04:38&errMsg=Error: Parameter currency incorrect
+
+2015-04-08T04:17:48Z
+RequestParameter:  billNo: EDkPG1428466666 | startTime:2015-04-08 04:17:48
+
+2015-04-08T04:17:48Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => EDkPG1428466666
+    [referenceId] => EDkPG1428466666
+    [dateTime] => 20150408121746
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:17:48Z
+ResponseParameter:  billNo: EDkPG1428466666 | endTime:2015-04-08 04:17:48
+
+2015-04-08T04:17:48Z
+successcode=-1&Ref=EDkPG1428466666&PayRef=150408120448&Amt=10&Cur=840&prc=&src=&Ord=150408120448&Holder=&AuthId=0448&TxTime=15-04-08 12:04:48&errMsg=Error: Parameter currency incorrect
+
+2015-04-08T04:21:55Z
+RequestParameter:  billNo: 659Kl1428466914 | startTime:2015-04-08 04:21:55
+
+2015-04-08T04:21:55Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl1428466914
+    [referenceId] => 659Kl1428466914
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:21:55Z
+ResponseParameter:  billNo: 659Kl1428466914 | endTime:2015-04-08 04:21:55
+
+2015-04-08T04:21:55Z
+successcode=-1&Ref=659Kl1428466914&PayRef=150408120455&Amt=10&Cur=840&prc=&src=&Ord=150408120455&Holder=&AuthId=0455&TxTime=15-04-08 12:04:55&errMsg=Error: Parameter currency incorrect
+
+2015-04-08T04:25:53Z
+RequestParameter:  billNo: 659Kl14284669141 | startTime:2015-04-08 04:25:53
+
+2015-04-08T04:25:53Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669141
+    [referenceId] => 659Kl14284669141
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:25:53Z
+ResponseParameter:  billNo: 659Kl14284669141 | endTime:2015-04-08 04:25:53
+
+2015-04-08T04:25:53Z
+successcode=-1&Ref=659Kl14284669141&PayRef=150408120453&Amt=10&Cur=840&prc=&src=&Ord=150408120453&Holder=&AuthId=0453&TxTime=15-04-08 12:04:53&errMsg=Error: Parameter currency incorrect
+
+2015-04-08T04:26:32Z
+RequestParameter:  billNo: 659Kl14284669142 | startTime:2015-04-08 04:26:32
+
+2015-04-08T04:26:32Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669142
+    [referenceId] => 659Kl14284669142
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:26:32Z
+ResponseParameter:  billNo: 659Kl14284669142 | endTime:2015-04-08 04:26:32
+
+2015-04-08T04:26:32Z
+successcode=0&Ref=659Kl14284669142&PayRef=150408120432&Amt=10&Cur=978&prc=0&src=0&Ord=150408120432&Holder=&AuthId=0432&TxTime=15-04-08 12:04:32&errMsg=Transaction Completed.
+
+2015-04-08T04:27:25Z
+RequestParameter:  billNo: RLzVQ1428467244 | startTime:2015-04-08 04:27:25
+
+2015-04-08T04:27:25Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => RLzVQ1428467244
+    [referenceId] => RLzVQ1428467244
+    [dateTime] => 20150408122724
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:27:25Z
+ResponseParameter:  billNo: RLzVQ1428467244 | endTime:2015-04-08 04:27:25
+
+2015-04-08T04:27:25Z
+successcode=-1&Ref=RLzVQ1428467244&PayRef=150408120425&Amt=10&Cur=840&prc=&src=&Ord=150408120425&Holder=&AuthId=0425&TxTime=15-04-08 12:04:25&errMsg=Error: Parameter currency incorrect
+
+2015-04-08T04:28:27Z
+RequestParameter:  billNo: 659Kl14284669143 | startTime:2015-04-08 04:28:27
+
+2015-04-08T04:28:27Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669143
+    [referenceId] => 659Kl14284669143
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:28:27Z
+ResponseParameter:  billNo: 659Kl14284669143 | endTime:2015-04-08 04:28:27
+
+2015-04-08T04:28:27Z
+successcode=-1&Ref=659Kl14284669143&PayRef=150408120427&Amt=10&Cur=840&prc=&src=&Ord=150408120427&Holder=&AuthId=0427&TxTime=15-04-08 12:04:27&errMsg=Error: Parameter currency incorrect, 8
+
+2015-04-08T04:29:57Z
+RequestParameter:  billNo: 659Kl14284669144 | startTime:2015-04-08 04:29:57
+
+2015-04-08T04:29:57Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669144
+    [referenceId] => 659Kl14284669144
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:29:57Z
+ResponseParameter:  billNo: 659Kl14284669144 | endTime:2015-04-08 04:29:57
+
+2015-04-08T04:29:57Z
+successcode=-1&Ref=659Kl14284669144&PayRef=150408120457&Amt=10&Cur=840&prc=&src=&Ord=150408120457&Holder=&AuthId=0457&TxTime=15-04-08 12:04:57&errMsg=Error: Parameter currency incorrect, USD8
+
+2015-04-08T04:31:45Z
+RequestParameter:  billNo: 659Kl14284669145 | startTime:2015-04-08 04:31:45
+
+2015-04-08T04:31:45Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669145
+    [referenceId] => 659Kl14284669145
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:31:45Z
+ResponseParameter:  billNo: 659Kl14284669145 | endTime:2015-04-08 04:31:45
+
+2015-04-08T04:31:45Z
+successcode=0&Ref=659Kl14284669145&PayRef=150408120445&Amt=10&Cur=840&prc=0&src=0&Ord=150408120445&Holder=&AuthId=0445&TxTime=15-04-08 12:04:45&errMsg=Transaction Completed.
+
+2015-04-08T04:32:02Z
+RequestParameter:  billNo: Yxr3T1428467521 | startTime:2015-04-08 04:32:02
+
+2015-04-08T04:32:02Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => Yxr3T1428467521
+    [referenceId] => Yxr3T1428467521
+    [dateTime] => 20150408123201
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:32:02Z
+ResponseParameter:  billNo: Yxr3T1428467521 | endTime:2015-04-08 04:32:02
+
+2015-04-08T04:32:02Z
+successcode=0&Ref=Yxr3T1428467521&PayRef=150408120402&Amt=10&Cur=840&prc=0&src=0&Ord=150408120402&Holder=&AuthId=0402&TxTime=15-04-08 12:04:02&errMsg=Transaction Completed.
+
+2015-04-08T04:34:58Z
+RequestParameter:  billNo: 0eaB51428467697 | startTime:2015-04-08 04:34:58
+
+2015-04-08T04:34:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 0eaB51428467697
+    [referenceId] => 0eaB51428467697
+    [dateTime] => 20150408123457
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T04:34:58Z
+ResponseParameter:  billNo: 0eaB51428467697 | endTime:2015-04-08 04:34:58
+
+2015-04-08T04:34:58Z
+successcode=0&Ref=0eaB51428467697&PayRef=150408120458&Amt=10&Cur=978&prc=0&src=0&Ord=150408120458&Holder=&AuthId=0458&TxTime=15-04-08 12:04:58&errMsg=Transaction Completed.
+
+2015-04-08T05:35:14Z
+RequestParameter:  billNo: 659Kl14284669146 | startTime:2015-04-08 05:35:14
+
+2015-04-08T05:35:14Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669146
+    [referenceId] => 659Kl14284669146
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:35:14Z
+ResponseParameter:  billNo: 659Kl14284669146 | endTime:2015-04-08 05:35:14
+
+2015-04-08T05:35:14Z
+successcode=-1&Ref=659Kl14284669146&PayRef=150408130414&Amt=10&Cur=840&prc=&src=&Ord=150408130414&Holder=&AuthId=0414&TxTime=15-04-08 13:04:14&errMsg=Error: Parameter currency incorrect, USD8
+
+2015-04-08T05:37:47Z
+RequestParameter:  billNo: 659Kl14284669147 | startTime:2015-04-08 05:37:47
+
+2015-04-08T05:37:47Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669147
+    [referenceId] => 659Kl14284669147
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:37:47Z
+ResponseParameter:  billNo: 659Kl14284669147 | endTime:2015-04-08 05:37:47
+
+2015-04-08T05:37:47Z
+successcode=0&Ref=659Kl14284669147&PayRef=150408130447&Amt=10&Cur=978&prc=0&src=0&Ord=150408130447&Holder=&AuthId=0447&TxTime=15-04-08 13:04:47&errMsg=Transaction Completed.
+
+2015-04-08T05:39:23Z
+RequestParameter:  billNo: DbOue1428471562 | startTime:2015-04-08 05:39:23
+
+2015-04-08T05:39:23Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => DbOue1428471562
+    [referenceId] => DbOue1428471562
+    [dateTime] => 20150408133922
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:39:23Z
+ResponseParameter:  billNo: DbOue1428471562 | endTime:2015-04-08 05:39:23
+
+2015-04-08T05:39:23Z
+successcode=0&Ref=DbOue1428471562&PayRef=150408130423&Amt=10&Cur=978&prc=0&src=0&Ord=150408130423&Holder=&AuthId=0423&TxTime=15-04-08 13:04:23&errMsg=Transaction Completed.
+
+2015-04-08T05:39:57Z
+RequestParameter:  billNo: 659Kl14284669148 | startTime:2015-04-08 05:39:57
+
+2015-04-08T05:39:57Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 659Kl14284669148
+    [referenceId] => 659Kl14284669148
+    [dateTime] => 20150408122154
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => USD
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:39:57Z
+ResponseParameter:  billNo: 659Kl14284669148 | endTime:2015-04-08 05:39:57
+
+2015-04-08T05:39:57Z
+successcode=0&Ref=659Kl14284669148&PayRef=150408130457&Amt=10&Cur=840&prc=0&src=0&Ord=150408130457&Holder=&AuthId=0457&TxTime=15-04-08 13:04:57&errMsg=Transaction Completed.
+
+2015-04-08T05:40:02Z
+RequestParameter:  billNo: 2CtGS1428471600 | startTime:2015-04-08 05:40:02
+
+2015-04-08T05:40:02Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 2CtGS1428471600
+    [referenceId] => 2CtGS1428471600
+    [dateTime] => 20150408134000
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:40:02Z
+ResponseParameter:  billNo: 2CtGS1428471600 | endTime:2015-04-08 05:40:02
+
+2015-04-08T05:40:02Z
+successcode=0&Ref=2CtGS1428471600&PayRef=150408130402&Amt=10&Cur=978&prc=0&src=0&Ord=150408130402&Holder=&AuthId=0402&TxTime=15-04-08 13:04:02&errMsg=Transaction Completed.
+
+2015-04-08T05:40:34Z
+RequestParameter:  billNo: 8H63D1428471632 | startTime:2015-04-08 05:40:34
+
+2015-04-08T05:40:34Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 8H63D1428471632
+    [referenceId] => 8H63D1428471632
+    [dateTime] => 20150408134032
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:40:34Z
+ResponseParameter:  billNo: 8H63D1428471632 | endTime:2015-04-08 05:40:34
+
+2015-04-08T05:40:34Z
+successcode=0&Ref=8H63D1428471632&PayRef=150408130434&Amt=10&Cur=978&prc=0&src=0&Ord=150408130434&Holder=&AuthId=0434&TxTime=15-04-08 13:04:34&errMsg=Transaction Completed.
+
+2015-04-08T05:41:05Z
+RequestParameter:  billNo: Lje7k1428471664 | startTime:2015-04-08 05:41:05
+
+2015-04-08T05:41:05Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => Lje7k1428471664
+    [referenceId] => Lje7k1428471664
+    [dateTime] => 20150408134104
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:41:05Z
+ResponseParameter:  billNo: Lje7k1428471664 | endTime:2015-04-08 05:41:05
+
+2015-04-08T05:41:05Z
+successcode=0&Ref=Lje7k1428471664&PayRef=150408130405&Amt=10&Cur=978&prc=0&src=0&Ord=150408130405&Holder=&AuthId=0405&TxTime=15-04-08 13:04:05&errMsg=Transaction Completed.
+
+2015-04-08T05:41:29Z
+RequestParameter:  billNo: l4bXz1428471688 | startTime:2015-04-08 05:41:29
+
+2015-04-08T05:41:29Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 3
+    [url] => loopback
+    [categ0ry] => NA
+    [API_username] => 100-01-ADM-CSenese
+    [API_password] => password
+    [agt] => 0
+    [billNo] => l4bXz1428471688
+    [referenceId] => l4bXz1428471688
+    [dateTime] => 20150408134128
+    [cardHolderIp] => 27.32.198.143
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19981101
+    [phone] => 611234123123
+    [zipCode] => 1234
+    [address] => Address
+    [city] => City
+    [state] => State
+    [country] => AF
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => Remarks
+    [currency] => EUR
+    [productItem] => Item1
+    [productType] => Type1
+    [productDesc] => Item1_Description
+    [productQty] => 1
+    [productPrice] => 10
+    [shipFirstName] => sFirstname
+    [shipLastName] => sLastname
+    [shipPhoneNumber] => 12345
+    [shipZipCode] => 1234
+    [shipAddress] => sAddress
+    [shipCity] => sCity
+    [shipState] => sState
+    [shipCountry] => AL
+    [shipmentType] => SD
+    [shipEmail] => s-email@example.com
+    [loginName] => 100-01-ADM-CSenese
+    [type] => 2
+)
+
+
+2015-04-08T05:41:29Z
+ResponseParameter:  billNo: l4bXz1428471688 | endTime:2015-04-08 05:41:29
+
+2015-04-08T05:41:29Z
+successcode=0&Ref=l4bXz1428471688&PayRef=150408130429&Amt=10&Cur=978&prc=0&src=0&Ord=150408130429&Holder=&AuthId=0429&TxTime=15-04-08 13:04:29&errMsg=Transaction Completed.
+
+2015-04-08T09:09:41Z
+RequestParameter:  billNo: ioaqU1428484179 | startTime:2015-04-08 09:09:41
+
+2015-04-08T09:09:41Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => ioaqU1428484179
+    [referenceId] => ioaqU1428484179
+    [dateTime] => 20150408170939
+    [cardHolderIp] => 114.108.239.103
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19840401
+    [phone] => 23456789
+    [zipCode] => 1234
+    [address] => eqw wq
+    [city] => makati
+    [state] => na
+    [country] => PH
+    [amount] => 10
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => tesd
+    [currency] => EUR
+    [productItem] => xxx
+    [productType] => xxx
+    [productDesc] => xxxx xxx
+    [productQty] => 1
+    [productPrice] => 10.00
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:09:41Z
+ResponseParameter:  billNo: ioaqU1428484179 | endTime:2015-04-08 09:09:41
+
+2015-04-08T09:09:41Z
+successcode=0&Ref=ioaqU1428484179&PayRef=150408170441&Amt=10&Cur=978&prc=0&src=0&Ord=150408170441&Holder=&AuthId=0441&TxTime=15-04-08 17:04:41&errMsg=Transaction Completed.
+
+2015-04-08T09:40:15Z
+RequestParameter:  billNo: V6R5y1428486013 | startTime:2015-04-08 09:40:15
+
+2015-04-08T09:40:15Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => V6R5y1428486013
+    [referenceId] => V6R5y1428486013
+    [dateTime] => 20150408174013
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => Juan
+    [lastName] => Dela Cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881117
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => home
+    [city] => home
+    [state] => home
+    [country] => PH
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => teat
+    [currency] => USD
+    [productItem] => test prod
+    [productType] => test prod
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:40:15Z
+ResponseParameter:  billNo: V6R5y1428486013 | endTime:2015-04-08 09:40:15
+
+2015-04-08T09:40:15Z
+successcode=0&Ref=V6R5y1428486013&PayRef=150408170415&Amt=50&Cur=840&prc=0&src=0&Ord=150408170415&Holder=&AuthId=0415&TxTime=15-04-08 17:04:15&errMsg=Transaction Completed.
+
+2015-04-08T09:43:39Z
+RequestParameter:  billNo: Ggsfd1428486217 | startTime:2015-04-08 09:43:39
+
+2015-04-08T09:43:39Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => Ggsfd1428486217
+    [referenceId] => Ggsfd1428486217
+    [dateTime] => 20150408174337
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 17
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => home 
+    [city] => home
+    [state] => state
+    [country] => AE
+    [amount] => 100
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test prod
+    [productType] => test prod
+    [productDesc] => test prod
+    [productQty] => 2
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:43:39Z
+ResponseParameter:  billNo: Ggsfd1428486217 | endTime:2015-04-08 09:43:39
+
+2015-04-08T09:43:39Z
+successcode=0&Ref=Ggsfd1428486217&PayRef=150408170439&Amt=100&Cur=840&prc=0&src=0&Ord=150408170439&Holder=&AuthId=0439&TxTime=15-04-08 17:04:39&errMsg=Transaction Completed.
+
+2015-04-08T09:49:06Z
+RequestParameter:  billNo: 8oNnC1428486545 | startTime:2015-04-08 09:49:06
+
+2015-04-08T09:49:06Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => 8oNnC1428486545
+    [referenceId] => 8oNnC1428486545
+    [dateTime] => 20150408174905
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:49:06Z
+ResponseParameter:  billNo: 8oNnC1428486545 | endTime:2015-04-08 09:49:06
+
+2015-04-08T09:49:06Z
+successcode=-1&Ref=8oNnC1428486545&PayRef=150408170406&Amt=50&Cur=840&prc=&src=&Ord=150408170406&Holder=&AuthId=0406&TxTime=15-04-08 17:04:06&errMsg=Error: invalid expiry year
+
+2015-04-08T09:53:22Z
+RequestParameter:  billNo: sIzZr1428486800 | startTime:2015-04-08 09:53:22
+
+2015-04-08T09:53:22Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => sIzZr1428486800
+    [referenceId] => sIzZr1428486800
+    [dateTime] => 20150408175320
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:53:22Z
+ResponseParameter:  billNo: sIzZr1428486800 | endTime:2015-04-08 09:53:22
+
+2015-04-08T09:53:22Z
+successcode=-1&Ref=sIzZr1428486800&PayRef=150408170422&Amt=50&Cur=840&prc=&src=&Ord=150408170422&Holder=&AuthId=0422&TxTime=15-04-08 17:04:22&errMsg=Error: invalid expiry year
+
+2015-04-08T09:53:41Z
+RequestParameter:  billNo: gNkBI1428486820 | startTime:2015-04-08 09:53:41
+
+2015-04-08T09:53:41Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => gNkBI1428486820
+    [referenceId] => gNkBI1428486820
+    [dateTime] => 20150408175340
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:53:41Z
+ResponseParameter:  billNo: gNkBI1428486820 | endTime:2015-04-08 09:53:41
+
+2015-04-08T09:53:41Z
+successcode=-1&Ref=gNkBI1428486820&PayRef=150408170441&Amt=50&Cur=840&prc=&src=&Ord=150408170441&Holder=&AuthId=0441&TxTime=15-04-08 17:04:41&errMsg=Error: invalid expiry year
+
+2015-04-08T09:54:55Z
+RequestParameter:  billNo: mvtAf1428486893 | startTime:2015-04-08 09:54:55
+
+2015-04-08T09:54:55Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => mvtAf1428486893
+    [referenceId] => mvtAf1428486893
+    [dateTime] => 20150408175453
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:54:55Z
+ResponseParameter:  billNo: mvtAf1428486893 | endTime:2015-04-08 09:54:55
+
+2015-04-08T09:54:55Z
+successcode=-1&Ref=mvtAf1428486893&PayRef=150408170455&Amt=50&Cur=840&prc=&src=&Ord=150408170455&Holder=&AuthId=0455&TxTime=15-04-08 17:04:55&errMsg=Error: invalid expiry year
+
+2015-04-08T09:55:57Z
+RequestParameter:  billNo: frbB71428486956 | startTime:2015-04-08 09:55:57
+
+2015-04-08T09:55:57Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => frbB71428486956
+    [referenceId] => frbB71428486956
+    [dateTime] => 20150408175556
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:55:57Z
+ResponseParameter:  billNo: frbB71428486956 | endTime:2015-04-08 09:55:57
+
+2015-04-08T09:55:57Z
+successcode=-1&Ref=frbB71428486956&PayRef=150408170457&Amt=50&Cur=840&prc=&src=&Ord=150408170457&Holder=&AuthId=0457&TxTime=15-04-08 17:04:57&errMsg=Error: invalid expiry year
+
+2015-04-08T09:58:27Z
+RequestParameter:  billNo: iS5J61428487106 | startTime:2015-04-08 09:58:27
+
+2015-04-08T09:58:27Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 2
+    [url] => loopback
+    [categ0ry] => SimpleXMLElement Object
+        (
+        )
+
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [agt] => 0
+    [billNo] => iS5J61428487106
+    [referenceId] => iS5J61428487106
+    [dateTime] => 20150408175826
+    [cardHolderIp] => 65.49.14.166
+    [cardNum] => 4918914107195005
+    [cvv2] => 123
+    [month] => 07
+    [year] => 15
+    [firstName] => juan
+    [lastName] => dela cruz
+    [gender] => M
+    [email] => JUANDC@EXAMPLE.COM
+    [birthDate] => 19881107
+    [phone] => 2452155
+    [zipCode] => 2121
+    [address] => dsadsa
+    [city] => dsadsad
+    [state] => dsadsa
+    [country] => AE
+    [amount] => 50
+    [language] => Array
+        (
+            [0] => eng
+            [1] => eng
+        )
+
+    [remark] => test prod
+    [currency] => USD
+    [productItem] => test
+    [productType] => test
+    [productDesc] => test
+    [productQty] => 1
+    [productPrice] => 50
+    [shipFirstName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipLastName] => SimpleXMLElement Object
+        (
+        )
+
+    [shipPhoneNumber] => SimpleXMLElement Object
+        (
+        )
+
+    [shipZipCode] => SimpleXMLElement Object
+        (
+        )
+
+    [shipAddress] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCity] => SimpleXMLElement Object
+        (
+        )
+
+    [shipState] => SimpleXMLElement Object
+        (
+        )
+
+    [shipCountry] => SimpleXMLElement Object
+        (
+        )
+
+    [shipmentType] => SimpleXMLElement Object
+        (
+        )
+
+    [shipEmail] => SimpleXMLElement Object
+        (
+        )
+
+    [loginName] => 100-01-ADM-DRivera
+    [type] => 2
+)
+
+
+2015-04-08T09:58:27Z
+ResponseParameter:  billNo: iS5J61428487106 | endTime:2015-04-08 09:58:27
+
+2015-04-08T09:58:27Z
+successcode=-1&Ref=iS5J61428487106&PayRef=150408170427&Amt=50&Cur=840&prc=&src=&Ord=150408170427&Holder=&AuthId=0427&TxTime=15-04-08 17:04:27&errMsg=Error: invalid expiry year
+

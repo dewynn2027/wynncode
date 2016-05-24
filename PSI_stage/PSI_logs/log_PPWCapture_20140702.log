@@ -1,0 +1,50 @@
+2014-07-02T09:18:10Z
+RequestParameter:  billNo: luP581404291345
+
+2014-07-02T09:18:10Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=luP581404291345&TransactionType=4&Currency=USD&Amount=123&TransactionID=20140702000005500030
+
+2014-07-02T09:18:11Z
+ResponseParameter:  billNo: luP581404291345
+
+2014-07-02T09:18:11Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>4</TransactionType>
+<Reference>luP581404291345</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140702181825</ResponseTime>
+<TransactionID>20140702000005500030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-07-02T09:19:56Z
+RequestParameter:  billNo: vsoud1404292761
+
+2014-07-02T09:19:56Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&Reference=vsoud1404292761&TransactionType=4&Currency=USD&Amount=563&TransactionID=20140702000005600030
+
+2014-07-02T09:19:56Z
+ResponseParameter:  billNo: vsoud1404292761
+
+2014-07-02T09:19:56Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>4</TransactionType>
+<Reference>vsoud1404292761</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140702182010</ResponseTime>
+<TransactionID>20140702000005600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+

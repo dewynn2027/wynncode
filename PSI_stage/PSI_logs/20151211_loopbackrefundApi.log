@@ -1,0 +1,102 @@
+2015-12-11T03:52:04Z
+RequestParameter:  billNo: 20151211111209
+
+2015-12-11T03:52:04Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNum] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [credentials] => SimpleXMLElement Object
+        (
+            [merchant] => SimpleXMLElement Object
+                (
+                    [apiUsername] => 100-01-ADM-drivera
+                    [apiPassword] => password
+                )
+
+        )
+
+    [operation] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [action] => 1
+            [billNo] => 20151211111209
+            [transactionId] => 717695001449805629
+            [remark] => TEST REFUND
+            [dateTime] => 20141122122055
+        )
+
+    [payment] => SimpleXMLElement Object
+        (
+            [refund] => SimpleXMLElement Object
+                (
+                    [amount] => 21.00
+                    [refundAmount] => 21.00
+                )
+
+        )
+
+)
+
+
+2015-12-11T03:52:04Z
+ResponseParameter:  billNo: 20151211111209
+
+2015-12-11T03:52:04Z
+resultCode=0&orderStatus=Accepted&ref=20151211111209&payRef=111204&amt=21.00&cur=608&errMsg=Void Successfully.
+
+2015-12-11T06:43:18Z
+RequestParameter:  billNo: 201512111012484
+
+2015-12-11T06:43:18Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [tdSecVal] => NO
+    [cardNum] => 4918914107195005
+    [currency] => USD
+    [apiUserId] => 2
+    [r_apiUserId] => 2
+    [credentials] => SimpleXMLElement Object
+        (
+            [merchant] => SimpleXMLElement Object
+                (
+                    [apiUsername] => 100-01-ADM-drivera
+                    [apiPassword] => password
+                )
+
+        )
+
+    [operation] => SimpleXMLElement Object
+        (
+            [referenceId] => 201512111012484
+            [type] => 1
+            [action] => 1
+            [billNo] => 201512111012484
+            [transactionId] => 502561001449815393
+            [remark] => TEST REFUND
+            [dateTime] => 20141122122055
+        )
+
+    [payment] => SimpleXMLElement Object
+        (
+            [refund] => SimpleXMLElement Object
+                (
+                    [amount] => 21.00
+                    [refundAmount] => 21.00
+                )
+
+        )
+
+)
+
+
+2015-12-11T06:43:18Z
+ResponseParameter:  billNo: 201512111012484
+
+2015-12-11T06:43:18Z
+resultCode=0&orderStatus=Accepted&ref=201512111012484&payRef=021218&amt=21.00&cur=608&errMsg=Void Successfully.
+

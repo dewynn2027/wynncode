@@ -1,0 +1,68 @@
+2015-04-07T04:38:36Z
+RequestParameter:  billNo: P2kY5Sc408
+
+2015-04-07T04:38:36Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-Drivera
+    [API_password] => password
+    [agt] => SimpleXMLElement Object
+        (
+        )
+
+    [subMerchant] => SimpleXMLElement Object
+        (
+            [0] => 
+    
+    
+    
+
+        )
+
+    [transactionId] => 150407120435
+    [billNo] => P2kY5Sc408
+    [amount] => 10
+    [refundAmount] => 10
+    [remark] => Refund success
+    [type] => 1
+)
+
+
+2015-04-07T04:38:36Z
+ResponseParameter:  billNo: P2kY5Sc408
+
+2015-04-07T04:38:36Z
+resultCode=0&orderStatus=Accepted&ref=P2kY5Sc408&payRef=120436&amt=10&cur=608&errMsg=Void Successfully.
+
+2015-04-07T04:43:38Z
+RequestParameter:  billNo: ZmkOY1428381758
+
+2015-04-07T04:43:38Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150407120440
+    [billNo] => ZmkOY1428381758
+    [amount] => 10.00
+    [refundAmount] => 10
+    [remark] => Test
+    [type] => 2
+)
+
+
+2015-04-07T04:43:38Z
+ResponseParameter:  billNo: ZmkOY1428381758
+
+2015-04-07T04:43:38Z
+resultCode=0&orderStatus=Accepted&ref=ZmkOY1428381758&payRef=120438&amt=10&cur=608&errMsg=Void Successfully.
+

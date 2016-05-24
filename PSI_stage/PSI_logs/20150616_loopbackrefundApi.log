@@ -1,0 +1,30 @@
+2015-06-16T02:26:58Z
+RequestParameter:  billNo: 9688-4510_1396
+
+2015-06-16T02:26:58Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [cardNumber] => 4918914107195005
+    [currency] => EUR
+    [apiUserId] => 69
+    [r_apiUserId] => 2
+    [API_username] => 100-01-ADM-DRivera
+    [API_password] => password
+    [refundOperation] => 02
+    [transactionId] => 150603210608
+    [billNo] => 9688-4510_1396
+    [amount] => 122.00
+    [refundAmount] => 122.00
+    [refundType] => 1
+    [remark] => REFUND|adminRemarks|_|TEST REFUND BY ADMIN
+    [type] => 2
+)
+
+
+2015-06-16T02:26:58Z
+ResponseParameter:  billNo: 9688-4510_1396
+
+2015-06-16T02:26:58Z
+resultCode=0&orderStatus=Accepted&ref=9688-4510_1396&payRef=100658&amt=122.00&cur=608&errMsg=OnlineRefund Successfully.
+

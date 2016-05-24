@@ -1,0 +1,155 @@
+2015-04-07T05:11:39Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:11:39
+
+2015-04-07T05:11:39Z
+Array
+(
+    [status[3Y1V0CJRRXD3]] => A
+    [reason[3Y1V0CJRRXD3]] => D
+)
+
+
+2015-04-07T05:11:41Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:11:41
+
+2015-04-07T05:11:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>failure</status><count><success>0</success><failure>1</failure></count><errors><error><code>401</code><message>Authentication Failure</message><scope></scope></error><error><code>404</code><message>Missing or invalid input</message><scope></scope></error></errors><result/></response>
+
+
+2015-04-07T05:12:06Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:12:06
+
+2015-04-07T05:12:06Z
+Array
+(
+    [status[3Y1V0CJRRXD3]] => A
+    [reason[3Y1V0CJRRXD3]] => D
+)
+
+
+2015-04-07T05:12:08Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:12:08
+
+2015-04-07T05:12:08Z
+System Error! We are sorry. An error has occurred and we are currently looking into it. The error that caused this message has been logged. Please try again in a moment.
+
+2015-04-07T05:12:54Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:12:54
+
+2015-04-07T05:12:54Z
+Array
+(
+    [status[3Y1V0CJRRXD3]] => A
+    [reason[3Y1V0CJRRXD3]] => D
+)
+
+
+2015-04-07T05:12:56Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:12:56
+
+2015-04-07T05:12:56Z
+System Error! We are sorry. An error has occurred and we are currently looking into it. The error that caused this message has been logged. Please try again in a moment.
+
+2015-04-07T05:13:51Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:13:51
+
+2015-04-07T05:13:51Z
+Array
+(
+    [status[3Y1V0CJRRXD3]] => A
+    [reason[3Y1V0CJRRXD3]] => D
+)
+
+
+2015-04-07T05:13:53Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:13:53
+
+2015-04-07T05:13:53Z
+System Error! We are sorry. An error has occurred and we are currently looking into it. The error that caused this message has been logged. Please try again in a moment.
+
+2015-04-07T05:15:04Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:15:04
+
+2015-04-07T05:15:04Z
+Array
+(
+    [reason[3YPC0J675894]] => D
+)
+
+
+2015-04-07T05:15:06Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:15:06
+
+2015-04-07T05:15:06Z
+System Error! We are sorry. An error has occurred and we are currently looking into it. The error that caused this message has been logged. Please try again in a moment.
+
+2015-04-07T05:17:27Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:17:27
+
+2015-04-07T05:17:27Z
+Array
+(
+    [reason[3YPC0J675894]] => D
+)
+
+
+2015-04-07T05:17:41Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:17:41
+
+2015-04-07T05:17:41Z
+Array
+(
+    [reason[3YPC0J675894]] => D
+)
+
+
+2015-04-07T05:18:30Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:18:30
+
+2015-04-07T05:18:30Z
+
+
+2015-04-07T05:18:44Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:18:44
+
+2015-04-07T05:18:44Z
+
+
+2015-04-07T05:20:42Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:20:42
+
+2015-04-07T05:20:42Z
+Array
+(
+    [reason[3YPC0J675894]] => D
+)
+
+
+2015-04-07T05:20:45Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:20:45
+
+2015-04-07T05:20:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+
+2015-04-07T05:33:49Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:33:49
+
+2015-04-07T05:33:49Z
+Array
+(
+    [reason[351Z0G9KQ0X0]] => D
+    [note[351Z0G9KQ0X0]] => Auto updated by PSI to 'D' due to bank decline
+)
+
+
+2015-04-07T05:33:52Z
+RequestParameter:  billNo: 3Y1V0CJRRXD3 | startTime:2015-04-07 05:33:52
+
+2015-04-07T05:33:52Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response><status>ok</status><count><success>1</success><failure>0</failure></count><errors/><result/></response>
+
+

@@ -1,0 +1,460 @@
+2014-09-26T03:42:35Z
+RequestParameter:  referenceId: BILL000568
+
+2014-09-26T03:42:35Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL000568&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Test%20Name&ProductName=2
+
+2014-09-26T03:42:36Z
+ResponseParameter:  referenceId: BILL000568
+
+2014-09-26T03:42:36Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL000568</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926104332</ResponseTime>
+<TransactionID>20140926000018200030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T03:53:46Z
+RequestParameter:  referenceId: BILL000569
+
+2014-09-26T03:53:46Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=BILL000569&Currency=USD&Amount=12&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Test%20Name&ProductName=2
+
+2014-09-26T03:53:48Z
+ResponseParameter:  referenceId: BILL000569
+
+2014-09-26T03:53:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>BILL000569</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926105443</ResponseTime>
+<TransactionID>20140926000018700030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:48:13Z
+RequestParameter:  referenceId: ipaydnatest140926024909
+
+2014-09-26T06:48:13Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=ipaydnatest140926024909&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=JOHN%20DOE&ProductName=
+
+2014-09-26T06:48:14Z
+ResponseParameter:  referenceId: ipaydnatest140926024909
+
+2014-09-26T06:48:14Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>ipaydnatest140926024909</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926134909</ResponseTime>
+<TransactionID>2014092600001B500030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:50:22Z
+RequestParameter:  referenceId: ipaydnatest140926025118
+
+2014-09-26T06:50:22Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=ipaydnatest140926025118&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=JOHN%20DOE&ProductName=
+
+2014-09-26T06:50:23Z
+ResponseParameter:  referenceId: ipaydnatest140926025118
+
+2014-09-26T06:50:23Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>ipaydnatest140926025118</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926085118</ResponseTime>
+<TransactionID>2014092600001B600030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T06:51:36Z
+RequestParameter:  referenceId: ipaydnatest140926025231
+
+2014-09-26T06:51:36Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=ipaydnatest140926025231&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=JOHN%20DOE&ProductName=
+
+2014-09-26T06:51:37Z
+ResponseParameter:  referenceId: ipaydnatest140926025231
+
+2014-09-26T06:51:37Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>ipaydnatest140926025231</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926085232</ResponseTime>
+<TransactionID>2014092600001B800030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T07:32:28Z
+RequestParameter:  referenceId: ipaydnatest140926033323
+
+2014-09-26T07:32:28Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=ipaydnatest140926033323&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=JOHN%20DOE&ProductName=
+
+2014-09-26T07:32:30Z
+ResponseParameter:  referenceId: ipaydnatest140926033323
+
+2014-09-26T07:32:30Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>ipaydnatest140926033323</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926093326</ResponseTime>
+<TransactionID>2014092600001BD00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T15:08:51Z
+RequestParameter:  referenceId: 594
+
+2014-09-26T15:08:51Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=594&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:08:53Z
+ResponseParameter:  referenceId: 594
+
+2014-09-26T15:08:53Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>594</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926170948</ResponseTime>
+<TransactionID>20140927000000500030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T15:11:32Z
+RequestParameter:  referenceId: 5941
+
+2014-09-26T15:11:32Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=5941&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:11:33Z
+ResponseParameter:  referenceId: 5941
+
+2014-09-26T15:11:33Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>5941</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926171228</ResponseTime>
+<TransactionID>20140927000000700030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T15:13:43Z
+RequestParameter:  referenceId: 595
+
+2014-09-26T15:13:43Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=595&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=1&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:13:44Z
+ResponseParameter:  referenceId: 595
+
+2014-09-26T15:13:44Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>595</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Format of expiry month is MM)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-26T15:13:47Z
+RequestParameter:  referenceId: 596
+
+2014-09-26T15:13:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=596&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=1&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:13:48Z
+ResponseParameter:  referenceId: 596
+
+2014-09-26T15:13:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>596</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Format of expiry month is MM)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-26T15:14:03Z
+RequestParameter:  referenceId: 597
+
+2014-09-26T15:14:03Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=597&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:14:03Z
+ResponseParameter:  referenceId: 597
+
+2014-09-26T15:14:03Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>597</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926171459</ResponseTime>
+<TransactionID>20140927000000A00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T15:15:47Z
+RequestParameter:  referenceId: 599
+
+2014-09-26T15:15:47Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=599&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T15:15:48Z
+ResponseParameter:  referenceId: 599
+
+2014-09-26T15:15:48Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>599</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926171643</ResponseTime>
+<TransactionID>20140927000000B00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T16:01:21Z
+RequestParameter:  referenceId: d1d4d708-ea17-40dc-a3e1-bf2fc565b868
+
+2014-09-26T16:01:21Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=601&Currency=USD&Amount=10.14&CardNumber=4111111111111111&ExpiryMM=05&ExpiryYY=2018&Csc=123&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T16:01:22Z
+ResponseParameter:  referenceId: d1d4d708-ea17-40dc-a3e1-bf2fc565b868
+
+2014-09-26T16:01:22Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<ErrorResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<Reference>601</Reference>
+<ResponseCode>101</ResponseCode>
+<ResponseMessage>Parameters missing or invalid(Format of expiry year is YY)</ResponseMessage>
+</ErrorResponse>
+
+
+2014-09-26T16:01:59Z
+RequestParameter:  referenceId: 6cdc5eb3-2187-4c85-bbb4-d8f42ba86d40
+
+2014-09-26T16:01:59Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=602&Currency=USD&Amount=10.14&CardNumber=4111111111111111&ExpiryMM=05&ExpiryYY=18&Csc=123&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T16:02:00Z
+ResponseParameter:  referenceId: 6cdc5eb3-2187-4c85-bbb4-d8f42ba86d40
+
+2014-09-26T16:02:00Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>602</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140926230256</ResponseTime>
+<TransactionID>20140927000002D00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T16:02:33Z
+RequestParameter:  referenceId: cb771959-20f0-46c8-a875-e300fdc4962a
+
+2014-09-26T16:02:33Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=603&Currency=USD&Amount=19.03&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=Martin%20Peters&ProductName=
+
+2014-09-26T16:02:34Z
+ResponseParameter:  referenceId: cb771959-20f0-46c8-a875-e300fdc4962a
+
+2014-09-26T16:02:34Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>603</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926180330</ResponseTime>
+<TransactionID>20140927000002E00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T16:34:10Z
+RequestParameter:  referenceId: AQ2GT0942700172903
+
+2014-09-26T16:34:10Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=AQ2GT0942700172903&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=01&ExpiryYY=15&Csc=467&CardHolder=john%20doe&ProductName=
+
+2014-09-26T16:34:11Z
+ResponseParameter:  referenceId: AQ2GT0942700172903
+
+2014-09-26T16:34:11Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>AQ2GT0942700172903</Reference>
+<ResponseCode>000</ResponseCode>
+<ResponseMessage>Success</ResponseMessage>
+<ResponseTime>20140926233507</ResponseTime>
+<TransactionID>20140927000003E00030</TransactionID>
+<AuthCode>00000000</AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T16:36:16Z
+RequestParameter:  referenceId: AQ2GT0942700172904
+
+2014-09-26T16:36:16Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=AQ2GT0942700172904&Currency=USD&Amount=10&CardNumber=4111111111111111&ExpiryMM=03&ExpiryYY=15&Csc=123&CardHolder=john%20doe&ProductName=
+
+2014-09-26T16:36:17Z
+ResponseParameter:  referenceId: AQ2GT0942700172904
+
+2014-09-26T16:36:17Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>AQ2GT0942700172904</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140926233713</ResponseTime>
+<TransactionID>20140927000004100030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T16:44:51Z
+RequestParameter:  referenceId: AQ2GT0942700172906
+
+2014-09-26T16:44:51Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=AQ2GT0942700172906&Currency=USD&Amount=10&CardNumber=5309700000000001&ExpiryMM=07&ExpiryYY=15&Csc=467&CardHolder=john%20doe&ProductName=
+
+2014-09-26T16:44:52Z
+ResponseParameter:  referenceId: AQ2GT0942700172906
+
+2014-09-26T16:44:52Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>AQ2GT0942700172906</Reference>
+<ResponseCode>924</ResponseCode>
+<ResponseMessage>Incorrect expiry date</ResponseMessage>
+<ResponseTime>20140926184548</ResponseTime>
+<TransactionID>20140927000004A00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+
+2014-09-26T17:28:34Z
+RequestParameter:  referenceId: AQ2GT40900172911
+
+2014-09-26T17:28:34Z
+https://pay.ppwpartners.com/gateway/payment_request.jsp?Ver=100&RequestType=TRAN&MerchantID=PPWPAYTTEST011&Password=testadmin03&TransactionType=1&Reference=AQ2GT40900172911&Currency=USD&Amount=10&CardNumber=4000000000000002&ExpiryMM=01&ExpiryYY=16&Csc=123&CardHolder=John%20Carter&ProductName=
+
+2014-09-26T17:28:35Z
+ResponseParameter:  referenceId: AQ2GT40900172911
+
+2014-09-26T17:28:35Z
+<?xml version="1.0" encoding="UTF-8" ?>
+<TransactionResponse>
+<RequestType>TRAN</RequestType>
+<MerchantID>PPWPAYTTEST011</MerchantID> 
+<TransactionType>1</TransactionType>
+<Reference>AQ2GT40900172911</Reference>
+<ResponseCode>923</ResponseCode>
+<ResponseMessage>Incorrect card number</ResponseMessage>
+<ResponseTime>20140926192931</ResponseTime>
+<TransactionID>20140927000005D00030</TransactionID>
+<AuthCode></AuthCode>
+</TransactionResponse>
+
+
+

@@ -1,0 +1,51 @@
+2015-04-16T07:41:41Z
+RequestParameter:  billNo: 81ce0c82f1a64f9c99d9c0698e9e2167 | startTime:2015-04-16 07:41:41
+
+2015-04-16T07:41:41Z
+SimpleXMLElement Object
+(
+    [securityCode] => 2003052020272027
+    [apiUserId] => 35
+    [url] => LOOPBACK
+    [API_username] => 100-01-MER-ANTY
+    [API_password] => sFUvUE48BXgenz
+    [loginName] => 100-01-MER-ANTY
+    [type] => 1
+    [dateTime] => 20150416104128
+    [sessId] => 9c162e9120d2421a92d197247bde5dc6
+    [referenceId] => 81ce0c82f1a64f9c99d9c0698e9e2167
+    [billNo] => 81ce0c82f1a64f9c99d9c0698e9e2167
+    [language] => eng
+    [cardNum] => 4111111111111111
+    [cvv2] => 234
+    [month] => 05
+    [year] => 16
+    [cardType] => VISA
+    [currency] => PHP
+    [productItem] => SKU-ANT-BinaryTrade
+    [productType] => Binary Trade
+    [productDesc] => Binary Trade
+    [productQty] => 1
+    [productPrice] => 250.00
+    [amount] => 250.00
+    [firstName] => test
+    [lastName] => test
+    [birthDate] => 00010101
+    [email] => test@test.com
+    [gender] => M
+    [phone] => +1123456
+    [zipCode] => 12345
+    [address] => test
+    [city] => test
+    [state] => AM
+    [country] => AM
+    [cardHolderIp] => 127.0.0.1
+)
+
+
+2015-04-16T07:41:41Z
+ResponseParameter:  billNo: 81ce0c82f1a64f9c99d9c0698e9e2167 | endTime:2015-04-16 07:41:41
+
+2015-04-16T07:41:41Z
+successcode=-1&Ref=81ce0c82f1a64f9c99d9c0698e9e2167&PayRef=150416150441&Amt=250.00&Cur=608&prc=1&src=41&Ord=150416150441&Holder=&AuthId=0441&TxTime=15-04-16 15:04:41&errMsg=Error: invalid cardNumber, invalid Security Code, invalid expiry month, invalid expiry year, Parameter currency incorrect, invalid firstName, invalid lastName
+

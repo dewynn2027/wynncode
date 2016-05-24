@@ -1,0 +1,120 @@
+2016-04-14T05:18:43Z
+RequestParameter:  billNo: 20160414120438 | startTime:2016-04-14 05:18:43
+
+2016-04-14T05:18:43Z
+
+
+2016-04-14T05:18:43Z
+Array
+(
+)
+
+
+2016-04-14T05:18:43Z
+ResponseParameter:  billNo: 20160414120438 | endTime:2016-04-14 05:18:43
+
+2016-04-14T05:18:43Z
+Array
+(
+    [rc] => 999
+    [message] => Failed
+    [data] => {"operation":"01","resultCode":"1","errorCode":"-93","cid":"11631","payNo":"20160414120438","billAmount":"10.00","createdAt":"20141122122055","billCurrency":"USD","tid":891864001460611123,"comment":"Month field is too long","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-04-14T05:20:23Z
+RequestParameter:  billNo: 20160414120437 | startTime:2016-04-14 05:20:23
+
+2016-04-14T05:20:23Z
+
+
+2016-04-14T05:20:23Z
+Array
+(
+)
+
+
+2016-04-14T05:20:23Z
+ResponseParameter:  billNo: 20160414120437 | endTime:2016-04-14 05:20:23
+
+2016-04-14T05:20:23Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"20160414120437","billAmount":"10.00","createdAt":"20160414120437","billCurrency":"USD","tid":341081001460611223,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-04-14T07:08:52Z
+RequestParameter:  billNo: 201604141204374 | startTime:2016-04-14 07:08:52
+
+2016-04-14T07:08:52Z
+
+
+2016-04-14T07:08:52Z
+Array
+(
+)
+
+
+2016-04-14T07:08:53Z
+ResponseParameter:  billNo: 201604141204374 | endTime:2016-04-14 07:08:53
+
+2016-04-14T07:08:53Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"201604141204374","billAmount":"10.00","createdAt":"20160414120437","billCurrency":"USD","tid":008109001460617733,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-04-14T07:19:35Z
+RequestParameter:  billNo: 201604141204375 | startTime:2016-04-14 07:19:35
+
+2016-04-14T07:19:35Z
+
+
+2016-04-14T07:19:35Z
+Array
+(
+)
+
+
+2016-04-14T07:19:35Z
+ResponseParameter:  billNo: 201604141204375 | endTime:2016-04-14 07:19:35
+
+2016-04-14T07:19:35Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"201604141204375","billAmount":"10.00","createdAt":"20160414120437","billCurrency":"USD","tid":923435001460618375,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+
+2016-04-14T07:56:34Z
+RequestParameter:  billNo: 201604141204376 | startTime:2016-04-14 07:56:34
+
+2016-04-14T07:56:34Z
+
+
+2016-04-14T07:56:34Z
+Array
+(
+)
+
+
+2016-04-14T07:56:34Z
+ResponseParameter:  billNo: 201604141204376 | endTime:2016-04-14 07:56:34
+
+2016-04-14T07:56:34Z
+Array
+(
+    [rc] => 0
+    [message] => success
+    [data] => {"operation":"01","resultCode":"0","errorCode":"0","cid":"11631","payNo":"201604141204376","billAmount":"10.00","createdAt":"20160414120437","billCurrency":"USD","tid":236765001460620594,"comment":"Success","signInfo":"C402EDCCD1DDF822FB9AB2A36B0B00C1","billingDescriptor":"NA"}
+)
+
+

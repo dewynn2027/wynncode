@@ -1,0 +1,87 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name='stringtype'>
+ <xs:restriction base='xs:string'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='inttype'>
+ <xs:restriction base='xs:positiveInteger'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='decimaltype'>
+ <xs:restriction base='xs:decimal'>
+</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name='patterntype'>
+ <xs:restriction base='xs:string'>
+ <xs:pattern value='[0-9]{6}'/>
+</xs:restriction>
+</xs:simpleType>
+
+
+
+  <xs:element name="Parameters">
+    <xs:complexType>
+      <xs:all>
+        <xs:element type="xs:string" name="agt"/>
+        <xs:element type="xs:string" name="API_username"/>
+        <xs:element type="xs:string" name="API_password"/>
+        <xs:element type="xs:string" name="API_key"/>
+        <xs:element type="xs:string" name="type"/>
+        <xs:element type="xs:string" name="deferred"/>
+        <xs:element name="subMerchant">
+          <xs:complexType>
+            <xs:all>
+              <xs:element type="xs:string" name="API_username"/>
+              <xs:element type="xs:string" name="API_password"/>
+              <xs:element type="xs:string" name="API_key"/>
+            </xs:all>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="sessId"/>
+        <xs:element type="xs:string" name="billNo"/>
+        <xs:element type="xs:string" name="dateTime"/>
+        <xs:element type="xs:string" name="currency"/>
+        <xs:element type="xs:string" name="cardHolderIp"/>
+        <xs:element type="xs:string" name="cardNum"/>
+        <xs:element type="xs:string" name="referenceId"/>
+        <xs:element type="xs:string" name="cvv2"/>
+        <xs:element type="xs:string" name="month"/>
+        <xs:element type="xs:string" name="year"/>
+        <xs:element type="xs:string" name="firstName"/>
+        <xs:element type="xs:string" name="lastName"/>
+        <xs:element type="xs:string" name="gender"/>
+        <xs:element type="xs:string" name="email"/>
+        <xs:element type="xs:string" name="phone"/>
+        <xs:element type="xs:string" name="language"/>
+        <xs:element type="xs:string" name="zipCode"/>
+        <xs:element type="xs:string" name="address"/>
+        <xs:element type="xs:string" name="city"/>
+        <xs:element type="xs:string" name="state"/>
+        <xs:element type="xs:string" name="country"/>
+        <xs:element type="xs:string" name="shipFirstName"/>
+        <xs:element type="xs:string" name="shipLastName"/>
+        <xs:element type="xs:string" name="shipEmail"/>
+        <xs:element type="xs:string" name="shipPhoneNumber"/>
+        <xs:element type="xs:string" name="shipZipCode"/>
+        <xs:element type="xs:string" name="shipAddress"/>
+        <xs:element type="xs:string" name="shipCity"/>
+        <xs:element type="xs:string" name="shipState"/>
+        <xs:element type="xs:string" name="shipCountry"/>
+        <xs:element type="xs:string" name="shipmentType"/>
+        <xs:element type="xs:string" name="productDesc"/>
+        <xs:element type="xs:string" name="productType"/>
+        <xs:element type="xs:string" name="productItem"/>
+        <xs:element type="xs:string" name="productQty"/>
+        <xs:element type="xs:string" name="productPrice"/>
+        <xs:element type="xs:string" name="amount"/>
+        <xs:element type="xs:string" name="remark"/>
+        <xs:element type="xs:string" name="birthDate"/>
+        <xs:element type="xs:string" name="loginName"/>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,874 @@
+2014-06-23T11:24:24Z
+RequestParameter:  referenceId: 86ohS1403522664
+
+2014-06-23T11:24:24Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=86ohS1403522664&dateTime=20140623192424&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=FC3A95256789F2C5B02C97B90B3DF8F1&cardNum=5149822485366510&cvv2=123&month=01&year=16&birthDate=19880604&firstName=aljen&lastName=patingo&email=aljen.patingo@gmail.com&phone=1321321&zipCode=123&address=fdsdaf&city=manila&state=sdf&country=PH&amount=123.00&products=2&remark=test%201
+
+2014-06-23T11:24:26Z
+ResponseParameter:  referenceId: 86ohS1403522664
+
+2014-06-23T11:24:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>86ohS1403522664</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>5E7EEFCD71ABDAFC5D55E2126D2ED1A0</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:29:35Z
+RequestParameter:  referenceId: iAta51403522975
+
+2014-06-23T11:29:35Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=iAta51403522975&dateTime=20140623192935&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=615A24EF6F2C06121E70AB36C2385F86&cardNum=4024007101715720&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=AE&amount=110.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:29:36Z
+ResponseParameter:  referenceId: iAta51403522975
+
+2014-06-23T11:29:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>iAta51403522975</billNo><currency>USD</currency><amount>110.00</amount><dateTime>20140623192946</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>D3BBDAE9E589C1981A368BE5F8AAF9ED</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:29:38Z
+RequestParameter:  referenceId: 0bQZu1403522978
+
+2014-06-23T11:29:38Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=0bQZu1403522978&dateTime=20140623192938&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B9150A68ED4005F7A9F71FE97056EA0A&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:29:40Z
+ResponseParameter:  referenceId: 0bQZu1403522978
+
+2014-06-23T11:29:40Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>0bQZu1403522978</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>EBFBC3B7695B1E571067BF0277C58A61</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:29:49Z
+RequestParameter:  referenceId: 5kQh61403522989
+
+2014-06-23T11:29:49Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=5kQh61403522989&dateTime=20140623192949&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=FD1A9C7645F52DD8D6ED9E86BB5D8145&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:29:50Z
+ResponseParameter:  referenceId: 5kQh61403522989
+
+2014-06-23T11:29:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>5kQh61403522989</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>59719BC9D5C8F9CC654DD115ADF7F04B</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:29:55Z
+RequestParameter:  referenceId: L28cd1403522995
+
+2014-06-23T11:29:55Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=L28cd1403522995&dateTime=20140623192955&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=0B4106326EDAC20652B820BF5AC7A3C0&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:29:56Z
+ResponseParameter:  referenceId: L28cd1403522995
+
+2014-06-23T11:29:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>L28cd1403522995</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>93D65D0A25AC7723996318D66890DB67</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:06Z
+RequestParameter:  referenceId: BPw1d1403523006
+
+2014-06-23T11:30:06Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=BPw1d1403523006&dateTime=20140623193006&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=6BC276C79DFEA75B06A9AA232AF33043&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:07Z
+ResponseParameter:  referenceId: BPw1d1403523006
+
+2014-06-23T11:30:07Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>BPw1d1403523006</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>E5D26B28C89DC037350DF7058E6990DA</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:21Z
+RequestParameter:  referenceId: 3mF211403523020
+
+2014-06-23T11:30:21Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=3mF211403523020&dateTime=20140623193020&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=543EE8CB093E78CEEE412AFDB7A29099&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:22Z
+ResponseParameter:  referenceId: 3mF211403523020
+
+2014-06-23T11:30:22Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>3mF211403523020</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>36095442B4B4E0355FE6F3A7EEFC9FE3</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:28Z
+RequestParameter:  referenceId: 4u1bn1403523028
+
+2014-06-23T11:30:28Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=4u1bn1403523028&dateTime=20140623193028&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=DAC16EC881D9DAED3563044D327C28AB&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:29Z
+ResponseParameter:  referenceId: 4u1bn1403523028
+
+2014-06-23T11:30:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>4u1bn1403523028</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>D31427D6DC926AA52603525F94EC0CB8</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:35Z
+RequestParameter:  referenceId: cTHFE1403523035
+
+2014-06-23T11:30:35Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=cTHFE1403523035&dateTime=20140623193035&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=6E0E5072EF1F04FD91E7D3653BAD5482&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:36Z
+ResponseParameter:  referenceId: cTHFE1403523035
+
+2014-06-23T11:30:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>cTHFE1403523035</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>9D2B724C08EC282E3671C4D4D96E9811</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:42Z
+RequestParameter:  referenceId: BjkFi1403523042
+
+2014-06-23T11:30:42Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=BjkFi1403523042&dateTime=20140623193042&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=E9D004AA30C5C852C90C8064D1A4A1EA&cardNum=4024007101715720&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=AE&amount=110.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:30:43Z
+ResponseParameter:  referenceId: BjkFi1403523042
+
+2014-06-23T11:30:43Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>BjkFi1403523042</billNo><currency>USD</currency><amount>110.00</amount><dateTime>20140623193053</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>98B92A372E61F7BD78E5EDCD5B0CDE48</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:49Z
+RequestParameter:  referenceId: ZtVN11403523049
+
+2014-06-23T11:30:49Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=ZtVN11403523049&dateTime=20140623193049&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=3A96EECD6711DE7733E0A522AC03EB6E&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:50Z
+ResponseParameter:  referenceId: ZtVN11403523049
+
+2014-06-23T11:30:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>ZtVN11403523049</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>AD80DD95019AB9029711BDAA5C354837</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:30:53Z
+RequestParameter:  referenceId: WZ65G1403523053
+
+2014-06-23T11:30:53Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=WZ65G1403523053&dateTime=20140623193053&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=997D62F380618A0155A6312DEAEC5367&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:30:55Z
+ResponseParameter:  referenceId: WZ65G1403523053
+
+2014-06-23T11:30:55Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>WZ65G1403523053</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>F30FAF2E95B41C87F8E9ACC4ACF8E9CC</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:02Z
+RequestParameter:  referenceId: BeMxq1403523062
+
+2014-06-23T11:31:02Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=BeMxq1403523062&dateTime=20140623193102&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=2303D12899E8AC55335056AC2A1A86D5&cardNum=4916343966186510&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=AE&amount=110.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:31:03Z
+ResponseParameter:  referenceId: BeMxq1403523062
+
+2014-06-23T11:31:03Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>BeMxq1403523062</billNo><currency>USD</currency><amount>110.00</amount><dateTime>20140623193112</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>B9F989325B80A92C99BA3C771FADC79D</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:05Z
+RequestParameter:  referenceId: JDs7M1403523065
+
+2014-06-23T11:31:05Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=JDs7M1403523065&dateTime=20140623193105&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=BAB340BB0D52101BBF022954A96287E0&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:31:06Z
+ResponseParameter:  referenceId: JDs7M1403523065
+
+2014-06-23T11:31:06Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>JDs7M1403523065</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>44FAEBE7CE335ADA79E9DDC1D4C3A628</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:11Z
+RequestParameter:  referenceId: rRqSM1403523071
+
+2014-06-23T11:31:11Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=rRqSM1403523071&dateTime=20140623193111&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=865F9344D977D440A0805D7D1C3D87E6&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:31:12Z
+ResponseParameter:  referenceId: rRqSM1403523071
+
+2014-06-23T11:31:12Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>rRqSM1403523071</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>C866DA0F157288BED7EC48DCBEF20FCE</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:28Z
+RequestParameter:  referenceId: Egjht1403523088
+
+2014-06-23T11:31:28Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=Egjht1403523088&dateTime=20140623193128&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=668FD2C968DFB622CA8D2DA22B7F28AD&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:31:29Z
+ResponseParameter:  referenceId: Egjht1403523088
+
+2014-06-23T11:31:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>Egjht1403523088</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>265B3D389032FA958DF6B3E31F8841A4</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:33Z
+RequestParameter:  referenceId: yt8Tq1403523093
+
+2014-06-23T11:31:33Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=yt8Tq1403523093&dateTime=20140623193133&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=BA7E97D6892F45FFE2148D43AE0647F2&cardNum=4485173221037710&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:31:34Z
+ResponseParameter:  referenceId: yt8Tq1403523093
+
+2014-06-23T11:31:34Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>yt8Tq1403523093</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193143</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>B0EEB9581BFE40F59F5166B35210D383</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:35Z
+RequestParameter:  referenceId: 5bFfI1403523095
+
+2014-06-23T11:31:35Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=5bFfI1403523095&dateTime=20140623193135&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=1350E0F32DBA4B479800FD290DE1B854&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:31:36Z
+ResponseParameter:  referenceId: 5bFfI1403523095
+
+2014-06-23T11:31:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>5bFfI1403523095</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>7843482881618F7468D193BF8432E56D</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:45Z
+RequestParameter:  referenceId: 2fAW71403523105
+
+2014-06-23T11:31:45Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=2fAW71403523105&dateTime=20140623193145&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=CBAFB982D881B15D39A83448EB74A95E&cardNum=4929771637550150&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:31:46Z
+ResponseParameter:  referenceId: 2fAW71403523105
+
+2014-06-23T11:31:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>2fAW71403523105</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193155</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>DF76658279C20C266D456BA1D13C6873</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:31:59Z
+RequestParameter:  referenceId: 9sc7H1403523118
+
+2014-06-23T11:31:59Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=9sc7H1403523118&dateTime=20140623193158&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B2576B414852373418966515A976151B&cardNum=4556537890428140&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:32:00Z
+ResponseParameter:  referenceId: 9sc7H1403523118
+
+2014-06-23T11:32:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>9sc7H1403523118</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193209</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>C580D75D789984CE002B5D694793FA96</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:32:12Z
+RequestParameter:  referenceId: Znv851403523132
+
+2014-06-23T11:32:12Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=Znv851403523132&dateTime=20140623193212&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=FCBF3056495E07A40E26D4716FD909F1&cardNum=4024007107473360&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:32:13Z
+ResponseParameter:  referenceId: Znv851403523132
+
+2014-06-23T11:32:13Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>Znv851403523132</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193222</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>4FF4260B47A961766D8A1CF2E090D023</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:32:25Z
+RequestParameter:  referenceId: 9X1eY1403523145
+
+2014-06-23T11:32:25Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=9X1eY1403523145&dateTime=20140623193225&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=8E2096FE8BE7073D2EAE07DD1179CDFD&cardNum=4532456559670470&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:32:26Z
+ResponseParameter:  referenceId: 9X1eY1403523145
+
+2014-06-23T11:32:26Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>9X1eY1403523145</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193235</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>0CDB15DF108C1A822066536C5107AC98</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:32:40Z
+RequestParameter:  referenceId: Ozv8Z1403523159
+
+2014-06-23T11:32:40Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=Ozv8Z1403523159&dateTime=20140623193239&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=C766128EC6C53D2126804613D35AB93D&cardNum=4485278755830310&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:32:41Z
+ResponseParameter:  referenceId: Ozv8Z1403523159
+
+2014-06-23T11:32:41Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>Ozv8Z1403523159</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193250</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>62A92E1F3C7EBDA82680FE3DCF97BF38</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:32:52Z
+RequestParameter:  referenceId: 9nj4P1403523172
+
+2014-06-23T11:32:52Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=9nj4P1403523172&dateTime=20140623193252&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=30628A59CC47407E8D9AC31AA7FE89D6&cardNum=4485489068677210&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:32:53Z
+ResponseParameter:  referenceId: 9nj4P1403523172
+
+2014-06-23T11:32:53Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>9nj4P1403523172</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193303</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>B0E9F7DE4C5988F8F2331E5654548873</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:33:29Z
+RequestParameter:  referenceId: 38Jcn1403523209
+
+2014-06-23T11:33:29Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=38Jcn1403523209&dateTime=20140623193329&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=5FEEC0CFB69DA4C34C0B009285AE5DE5&cardNum=4716076049490870&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing&lastName=testing&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:33:30Z
+ResponseParameter:  referenceId: 38Jcn1403523209
+
+2014-06-23T11:33:30Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>38Jcn1403523209</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193339</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>BCDFBD26F15EFE218EC4CFFC441AC758</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:34:45Z
+RequestParameter:  referenceId: CWTth1403523284
+
+2014-06-23T11:34:45Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=CWTth1403523284&dateTime=20140623193444&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=6CA00B76B5D44C62C1E08640F2F0B56B&cardNum=4929980623635280&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing1&lastName=testing1&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:34:46Z
+ResponseParameter:  referenceId: CWTth1403523284
+
+2014-06-23T11:34:46Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>CWTth1403523284</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193455</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>0F800A795ED54959B14068A31A0CC03C</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:28Z
+RequestParameter:  referenceId: tOmIF1403523328
+
+2014-06-23T11:35:28Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=tOmIF1403523328&dateTime=20140623193528&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=AC050D0B32F66B58EAEB7CBDF27B4219&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=1tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:35:29Z
+ResponseParameter:  referenceId: tOmIF1403523328
+
+2014-06-23T11:35:29Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>tOmIF1403523328</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>DD35155070C6123B46B698EF9D39E59C</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:30Z
+RequestParameter:  referenceId: KatdQ1403523330
+
+2014-06-23T11:35:30Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=KatdQ1403523330&dateTime=20140623193530&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=E89165753377C6F4AFDE13323AA909E8&cardNum=4532462094969920&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing22&lastName=testing22&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:35:31Z
+ResponseParameter:  referenceId: KatdQ1403523330
+
+2014-06-23T11:35:31Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>KatdQ1403523330</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193540</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>74992CB30875E4AA99AE081504B47F95</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:35Z
+RequestParameter:  referenceId: OjMFx1403523335
+
+2014-06-23T11:35:35Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=OjMFx1403523335&dateTime=20140623193535&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=10077E05C158F7F2E5A3D0329D5B33AE&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=2tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:35:36Z
+ResponseParameter:  referenceId: OjMFx1403523335
+
+2014-06-23T11:35:36Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>OjMFx1403523335</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>AE62E4F8FF06796076E72AA814F52C10</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:43Z
+RequestParameter:  referenceId: NSw8g1403523343
+
+2014-06-23T11:35:43Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=NSw8g1403523343&dateTime=20140623193543&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=38984F3ED6498FE915AA3710127024F9&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=3tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:35:44Z
+ResponseParameter:  referenceId: NSw8g1403523343
+
+2014-06-23T11:35:44Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>NSw8g1403523343</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>685B4C9ED22F66C16C2A16F6E4C603CE</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:44Z
+RequestParameter:  referenceId: Lx7G91403523344
+
+2014-06-23T11:35:44Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=Lx7G91403523344&dateTime=20140623193544&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B63775A0149C7014DCC1E02E0AE03B65&cardNum=4556959122638700&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing223&lastName=testing223&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:35:45Z
+ResponseParameter:  referenceId: Lx7G91403523344
+
+2014-06-23T11:35:45Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>Lx7G91403523344</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193554</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>D8E695E83C130708B66685A1E099656D</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:49Z
+RequestParameter:  referenceId: PiU3F1403523349
+
+2014-06-23T11:35:49Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=PiU3F1403523349&dateTime=20140623193549&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B6BFEB35828B9818162CAD304D13CFEA&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=4tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:35:50Z
+ResponseParameter:  referenceId: PiU3F1403523349
+
+2014-06-23T11:35:50Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>PiU3F1403523349</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>BB1EA716293E4AAA007B6D740288442B</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:58Z
+RequestParameter:  referenceId: UyX3A1403523358
+
+2014-06-23T11:35:58Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=UyX3A1403523358&dateTime=20140623193558&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B1849CE0473C305562C26A1D5AB4F544&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=5tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:35:59Z
+ResponseParameter:  referenceId: UyX3A1403523358
+
+2014-06-23T11:35:59Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>UyX3A1403523358</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>5901991031D163C4884BBFD306085BAA</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:35:59Z
+RequestParameter:  referenceId: JkBRQ1403523359
+
+2014-06-23T11:35:59Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=JkBRQ1403523359&dateTime=20140623193559&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=987FB9A084805B10BE3FBE6FBAAFBFEC&cardNum=4716369710356050&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing225&lastName=testing225&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:36:00Z
+ResponseParameter:  referenceId: JkBRQ1403523359
+
+2014-06-23T11:36:00Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>JkBRQ1403523359</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193609</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>630BC922652F376D7438736A0662DA80</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:14Z
+RequestParameter:  referenceId: 8Ho0n1403523374
+
+2014-06-23T11:36:14Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=8Ho0n1403523374&dateTime=20140623193614&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=A905E5825ECA0D0856CC4857ACA65F5C&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=6tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:36:15Z
+RequestParameter:  referenceId: 5qVIi1403523375
+
+2014-06-23T11:36:15Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=5qVIi1403523375&dateTime=20140623193615&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=729585A18E9E5A1F0F8931993B93AEAE&cardNum=4929752217362910&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing226&lastName=testing226&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:36:16Z
+ResponseParameter:  referenceId: 8Ho0n1403523374
+
+2014-06-23T11:36:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>8Ho0n1403523374</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>74363B4D1148F42C31C720A89F0CD6F3</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:16Z
+ResponseParameter:  referenceId: 5qVIi1403523375
+
+2014-06-23T11:36:16Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>5qVIi1403523375</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193625</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>4175185211911DCBCC7F767E935F5E52</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:22Z
+RequestParameter:  referenceId: UMuSG1403523382
+
+2014-06-23T11:36:22Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=UMuSG1403523382&dateTime=20140623193622&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=E9A0729F8A52BAD5D81A6C185CF89A92&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=7tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:36:23Z
+ResponseParameter:  referenceId: UMuSG1403523382
+
+2014-06-23T11:36:23Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>UMuSG1403523382</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>0DA7C0CD2C0A34B47A724D1DEBD8B053</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:30Z
+RequestParameter:  referenceId: 9HJVU1403523390
+
+2014-06-23T11:36:30Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=9HJVU1403523390&dateTime=20140623193630&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=3003906CD3B88C7907934D0374006DF8&cardNum=4485351170896270&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing227&lastName=testing227&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:36:31Z
+ResponseParameter:  referenceId: 9HJVU1403523390
+
+2014-06-23T11:36:31Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>9HJVU1403523390</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193641</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>C3E4FB4EBB00F38C4606A9E171B560D6</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:41Z
+RequestParameter:  referenceId: wx9WZ1403523401
+
+2014-06-23T11:36:41Z
+https://secure.qwipi.com/ars/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=wx9WZ1403523401&dateTime=20140623193641&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=F5E102DB0E579EF87E895042A68F2306&cardNum=5231058534149430&cvv2=369&month=02&year=16&birthDate=19860619&firstName=8tesre&lastName=rdfsa&email=asdasdsa@gmail.com&phone=4324324324&zipCode=23123&address=fsdafsdfsd&city=afasdfsda&state=fsdf&country=AZ&amount=123.00&products=2&remark=test%202
+
+2014-06-23T11:36:42Z
+ResponseParameter:  referenceId: wx9WZ1403523401
+
+2014-06-23T11:36:42Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<operation>01</operation><resultCode>1</resultCode><merNo>88894</merNo><billNo>wx9WZ1403523401</billNo><currency>USD</currency><amount>123.00</amount><dateTime></dateTime><paymentOrderNo></paymentOrderNo><remark>Sorry, your current card type is not accepted at this moment!</remark><md5Info>61537F1B61C3B865541704A1F867162B</md5Info><billingDescriptor></billingDescriptor>
+
+</response>
+
+2014-06-23T11:36:55Z
+RequestParameter:  referenceId: r1j6Q1403523415
+
+2014-06-23T11:36:55Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=r1j6Q1403523415&dateTime=20140623193655&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=B45EBA6EEABA3E007D45D8902CD34150&cardNum=4024007158468640&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing277&lastName=testing277&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:36:56Z
+ResponseParameter:  referenceId: r1j6Q1403523415
+
+2014-06-23T11:36:56Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>r1j6Q1403523415</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193705</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>2AB2256FE75ED18E9837FA1DCF5D4020</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:37:10Z
+RequestParameter:  referenceId: FBdIm1403523430
+
+2014-06-23T11:37:10Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=FBdIm1403523430&dateTime=20140623193710&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=5578F647CBCBF2F7D0F45CADE29A1F07&cardNum=4539461202882750&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing278&lastName=testing278&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:37:11Z
+ResponseParameter:  referenceId: FBdIm1403523430
+
+2014-06-23T11:37:11Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>FBdIm1403523430</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193720</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>8D607D1F929B2A2294333587B59FFA6C</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:37:38Z
+RequestParameter:  referenceId: bZwzK1403523458
+
+2014-06-23T11:37:38Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=bZwzK1403523458&dateTime=20140623193738&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=DE8F48239D44200A3BD85A1A40D5A068&cardNum=4716491036049430&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing288&lastName=testing288&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:37:39Z
+ResponseParameter:  referenceId: bZwzK1403523458
+
+2014-06-23T11:37:39Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>bZwzK1403523458</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193748</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>DEF3AF3BD66DE307786DC6679318C7C9</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:37:57Z
+RequestParameter:  referenceId: qILcl1403523477
+
+2014-06-23T11:37:57Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=qILcl1403523477&dateTime=20140623193757&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=7649B1CA284634927EB4A619F511D9E6&cardNum=4916323964419350&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing289&lastName=testing289&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:37:58Z
+ResponseParameter:  referenceId: qILcl1403523477
+
+2014-06-23T11:37:58Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>qILcl1403523477</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193808</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>0C3C38C4C55C5A9FFCEE48B97348DE15</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:38:23Z
+RequestParameter:  referenceId: 2BoZU1403523503
+
+2014-06-23T11:38:23Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=2BoZU1403523503&dateTime=20140623193823&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=5F458B9B187830616EF5E9D452035878&cardNum=4716076049490870&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing299&lastName=testing299&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:38:24Z
+ResponseParameter:  referenceId: 2BoZU1403523503
+
+2014-06-23T11:38:24Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>2BoZU1403523503</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193833</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>8201C59CDEFB9B027267C5C6D297DEEA</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:39:37Z
+RequestParameter:  referenceId: bivP31403523577
+
+2014-06-23T11:39:37Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=bivP31403523577&dateTime=20140623193937&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=3455F447D7E960357B1F3A583DEACAF8&cardNum=4485489068677210&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing300&lastName=testing300&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:39:38Z
+ResponseParameter:  referenceId: bivP31403523577
+
+2014-06-23T11:39:38Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>bivP31403523577</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623193948</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>00E1A3BD9C4B0EC31D3072D039FD6E13</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+
+2014-06-23T11:39:53Z
+RequestParameter:  referenceId: mDZtF1403523593
+
+2014-06-23T11:39:53Z
+https://secure.qwipi.com/ksn/payments.jsp?merNo=88894&md5Key=31F4EA0542E6F887F0BB8DF52A1EC899&billNo=mDZtF1403523593&dateTime=20140623193953&currency=USD&language=eng&cardHolderIp=114.108.239.103&md5Info=95C2171E592CF2CD2BE72CC655242447&cardNum=4485278755830310&cvv2=222&month=02&year=15&birthDate=19890622&firstName=testing301&lastName=testing301&email=testing@yahoo.com&phone=12022555&zipCode=1102&address=Manila%20Makati&city=makati&state=UAE&country=US&amount=112.00&products=2&remark=this%20is%20a%20test%20please%20ignore
+
+2014-06-23T11:39:54Z
+ResponseParameter:  referenceId: mDZtF1403523593
+
+2014-06-23T11:39:54Z
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+
+
+<resultCode>0</resultCode><merNo>88894</merNo><paymentOrderNo>-1</paymentOrderNo><billNo>mDZtF1403523593</billNo><currency>USD</currency><amount>112.00</amount><dateTime>20140623194003</dateTime><remark>The merchant account limit is reached. Please use different option to make transaction. Sorry for inconvenience caused.</remark><md5Info>8AAB623D702FB8A1AAF26B0DB9C2A26F</md5Info><billingDescriptor>-</billingDescriptor>
+
+</response>
+

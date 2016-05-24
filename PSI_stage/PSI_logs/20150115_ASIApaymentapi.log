@@ -1,0 +1,175 @@
+2015-01-15T04:59:15Z
+RequestParameter:  billNo: 51u9Y1421297953 | startTime:2015-01-15 04:59:15
+
+2015-01-15T04:59:15Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=aljen%20test%20pogi&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=10&currCode=608&orderRef=51u9Y1421297953&remark=test
+
+2015-01-15T04:59:16Z
+ResponseParameter:  billNo: 51u9Y1421297953 | endTime:2015-01-15 04:59:16
+
+2015-01-15T04:59:16Z
+successcode=0&Ref=51u9Y1421297953&PayRef=1210070312&Amt=10.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=aljen test pogi&AuthId=070312&TxTime=2015-01-15 12:59:32.0&errMsg=Transaction completed
+
+
+
+
+
+
+
+2015-01-15T07:42:29Z
+RequestParameter:  billNo: 1421307677-39572 | startTime:2015-01-15 07:42:29
+
+2015-01-15T07:42:29Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=Master&lang=E&cardHolder=Juan%20Dela%20Cruz&cardNo=5006111122225005&securityCode=555&epMonth=02&epYear=2016&amount=101&currCode=978&orderRef=1421307677-39572&remark=
+
+2015-01-15T07:42:30Z
+ResponseParameter:  billNo: 1421307677-39572 | endTime:2015-01-15 07:42:30
+
+2015-01-15T07:42:30Z
+successcode=-1&Ref=&PayRef=&Amt=&Cur=&prc=&src=&Ord=&Holder=&AuthId=&TxTime=&errMsg=Parameter currCode incorrect
+
+
+2015-01-15T08:04:52Z
+RequestParameter:  billNo: 1421309076-35221 | startTime:2015-01-15 08:04:52
+
+2015-01-15T08:04:52Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=555&epMonth=01&epYear=2015&amount=109&currCode=608&orderRef=1421309076-35221&remark=
+
+2015-01-15T08:04:53Z
+ResponseParameter:  billNo: 1421309076-35221 | endTime:2015-01-15 08:04:53
+
+2015-01-15T08:04:53Z
+successcode=1&Ref=1421309076-35221&PayRef=1210070318&Amt=109.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:05:09.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:05:00Z
+RequestParameter:  billNo: 1421309000-35221 | startTime:2015-01-15 08:05:00
+
+2015-01-15T08:05:00Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=222&epMonth=02&epYear=2015&amount=108&currCode=608&orderRef=1421309000-35221&remark=
+
+2015-01-15T08:05:00Z
+ResponseParameter:  billNo: 1421309000-35221 | endTime:2015-01-15 08:05:00
+
+2015-01-15T08:05:00Z
+successcode=1&Ref=1421309000-35221&PayRef=1210070319&Amt=108.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:05:17.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:05:06Z
+RequestParameter:  billNo: 1421308846-35221 | startTime:2015-01-15 08:05:06
+
+2015-01-15T08:05:06Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=222&epMonth=02&epYear=2015&amount=108&currCode=608&orderRef=1421308846-35221&remark=
+
+2015-01-15T08:05:07Z
+ResponseParameter:  billNo: 1421308846-35221 | endTime:2015-01-15 08:05:07
+
+2015-01-15T08:05:07Z
+successcode=1&Ref=1421308846-35221&PayRef=1210070320&Amt=108.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:05:24.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:05:13Z
+RequestParameter:  billNo: 1421308172-35221 | startTime:2015-01-15 08:05:13
+
+2015-01-15T08:05:13Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=222&epMonth=02&epYear=2015&amount=108&currCode=608&orderRef=1421308172-35221&remark=
+
+2015-01-15T08:05:14Z
+ResponseParameter:  billNo: 1421308172-35221 | endTime:2015-01-15 08:05:14
+
+2015-01-15T08:05:14Z
+successcode=1&Ref=1421308172-35221&PayRef=1210070321&Amt=108.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:05:30.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:13:15Z
+RequestParameter:  billNo: 1421309361-35221 | startTime:2015-01-15 08:13:15
+
+2015-01-15T08:13:15Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=666&epMonth=06&epYear=2015&amount=109&currCode=608&orderRef=1421309361-35221&remark=
+
+2015-01-15T08:13:16Z
+ResponseParameter:  billNo: 1421309361-35221 | endTime:2015-01-15 08:13:16
+
+2015-01-15T08:13:16Z
+successcode=1&Ref=1421309361-35221&PayRef=1210070322&Amt=109.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:13:32.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:13:22Z
+RequestParameter:  billNo: 1421309259-35221 | startTime:2015-01-15 08:13:22
+
+2015-01-15T08:13:22Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=555&epMonth=08&epYear=2015&amount=109&currCode=608&orderRef=1421309259-35221&remark=
+
+2015-01-15T08:13:23Z
+ResponseParameter:  billNo: 1421309259-35221 | endTime:2015-01-15 08:13:23
+
+2015-01-15T08:13:23Z
+successcode=1&Ref=1421309259-35221&PayRef=1210070323&Amt=109.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:13:40.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:13:26Z
+RequestParameter:  billNo: 1421309184-35221 | startTime:2015-01-15 08:13:26
+
+2015-01-15T08:13:26Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=555&epMonth=01&epYear=2015&amount=108&currCode=608&orderRef=1421309184-35221&remark=
+
+2015-01-15T08:13:27Z
+ResponseParameter:  billNo: 1421309184-35221 | endTime:2015-01-15 08:13:27
+
+2015-01-15T08:13:27Z
+successcode=1&Ref=1421309184-35221&PayRef=1210070324&Amt=108.0&Cur=608&prc=-8&src=2001&Ord=12345678&Holder=Mushood Rizwan&AuthId=&TxTime=2015-01-15 16:13:43.0&errMsg=Transaction failed
+
+
+
+
+
+
+
+2015-01-15T08:15:01Z
+RequestParameter:  billNo: 1421309659-35221 | startTime:2015-01-15 08:15:01
+
+2015-01-15T08:15:01Z
+https://test.pesopay.com/b2cDemo/eng/directPay/payComp.jsp?payType=N&merchantId=18062075&pMethod=VISA&lang=E&cardHolder=Mushood%20Rizwan&cardNo=4918914107195005&securityCode=123&epMonth=07&epYear=2015&amount=103&currCode=608&orderRef=1421309659-35221&remark=
+
+2015-01-15T08:15:01Z
+ResponseParameter:  billNo: 1421309659-35221 | endTime:2015-01-15 08:15:01
+
+2015-01-15T08:15:01Z
+successcode=0&Ref=1421309659-35221&PayRef=1210070325&Amt=103.0&Cur=608&prc=0&src=0&Ord=12345678&Holder=Mushood Rizwan&AuthId=070325&TxTime=2015-01-15 16:15:18.0&errMsg=Transaction completed
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+2013-06-06T15:10:01Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=1&name=firstName lastName&order_id=&merchantid=MIDMLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T15:10:03Z
+Response:
+	Currently you cannot process this type of credit card.
+
+2013-06-06T15:12:45Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=12&name=firstName lastName&order_id=&merchantid=MIDMLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T15:12:47Z
+Response:
+	Currently you cannot process this type of credit card.
+
+2013-06-06T15:39:14Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=1&name=firstName lastName&order_id=&merchantid=MIDVLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T15:39:22Z
+Response:
+	Merchant id and siteid don't match!
+
+2013-06-06T15:39:41Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=5000000000000002&month=12&year=12&cvv=123&Amount=1&name=firstName lastName&order_id=&merchantid=MIDMLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T15:39:45Z
+Response:
+	paymenterror||AP40043680|20130606234040|Credit Card Format Error|
+
+2013-06-06T15:45:03Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=3000000000000002&month=12&year=12&cvv=123&Amount=15&name=firstName lastName&order_id=&merchantid=&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T15:45:10Z
+Response:
+	Merchant id cannot be null
+
+2013-06-06T16:16:19Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=14&name=firstName lastName&order_id=&merchantid=MIDVLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T16:16:22Z
+Response:
+	Merchant id and siteid don't match!
+
+2013-06-06T16:32:45Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=12&name=firstName lastName&order_id=&merchantid=MIDVLB&siteid=2500004&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T16:32:50Z
+Response:
+	paymenterror||AP40043703|20130607003344|[03]Merchant is not registered|
+
+2013-06-06T16:33:55Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=5000000000000002&month=12&year=12&cvv=123&Amount=14&name=firstName lastName&order_id=&merchantid=MIDMLB&siteid=2500003&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T16:33:57Z
+Response:
+	paymenterror||AP40043705|20130607003453|Credit Card Format Error|
+
+2013-06-06T16:37:35Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=12&cvv=123&Amount=15&name=firstName lastName&order_id=&merchantid=MIDVLB&siteid=2500004&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T16:37:40Z
+Response:
+	paymenterror||AP40043706|20130607003834|[03]Merchant is not registered|
+
+2013-06-06T19:29:08Z
+Request:
+	https://www.austpay.biz/eng/ccgate/billing/acquirer/securepay.php?cardid=4000000000000002&month=12&year=2012&cvv=123&Amount=13&name=firstName lastName&order_id=&merchantid=MIDVLB&siteid=2500004&currency_code=&currency_code=USD&firstname=firstName&lastname=lastName&address=address&city=address&state=state&country=PH&postcode=123456&phone=123456789&email=email@mail.com&product=Payment&customer_ip=192.168.170.216&currency_code=USD
+
+2013-06-06T19:29:15Z
+Response:
+	This card has failed twice today. Please try it after 24 hours.
+

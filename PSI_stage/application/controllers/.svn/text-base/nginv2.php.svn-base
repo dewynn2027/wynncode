@@ -1,0 +1,311 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Nginv2 extends CI_Controller {
+
+	public function __construct()
+	{
+		parent::__construct();
+		
+		$this->load->model('nginv2_model');	
+		$this->load->model('whip_model');	
+
+		$config['functions']['paymentapi'] 			= array('function' => 'Nginv2.paymentApi');
+		$config['functions']['refundapi'] 			= array('function' => 'Nginv2.refundApi');
+		
+		$this->xmlrpcs->initialize($config);
+		$this->xmlrpcs->serve();
+
+	}
+	
+	function authenticate($username,$password,$key,$IP_addr)
+	{
+		$check = $this->nginv2_model->checkApiCredentials($username,$password,$key,$IP_addr);
+		if($check[0]==1)
+		{
+			return "<response rc='999' msg='".$check[1]."'></response>";
+		}else{
+			$checkdb = new SimpleXMLElement($check);
+			if($checkdb['rc']==0)
+			{
+				return array("allow",$check);
+				
+			}else{
+			
+				return array("not allow",$check);
+			
+			}
+		}
+	}
+	
+
+	function paymentApi($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$checkCredentials = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"]);
+		$xmlcredentials = new SimpleXMLElement($checkCredentials[1]);
+		if($checkCredentials[0]=='allow')
+		{
+			$xmluserInfo = new SimpleXMLElement($checkCredentials[1]);
+			$cardType = $xml->cardNum;
+			$checkTransactionPerDay = $this->nginv2_model->checkTransPerDay((int)$xmluserInfo->apiUserId,$cardType,(float)$xml->amount,(string)$optionParam="");
+			$rsp = $checkTransactionPerDay;
+			$xmlrsp = new SimpleXMLElement($checkTransactionPerDay);
+			if($xmlrsp['rc']==0)
+			{
+				$reqparam  = "<Parameters>";
+				$reqparam .= "<securityCode>20030520202720</securityCode>";
+				$reqparam .= "<apiUserId>".$xmluserInfo->apiUserId."</apiUserId>";
+				foreach($xml as $key => $value)
+				{
+					//~ if($key!="API_username" && $key!="API_password" && $key!="API_key")
+					if($key!="API_key")
+					{
+						$reqparam .= "<".$key.">".$value."</".$key.">";
+					}
+				}
+				$reqparam .= "</Parameters>";
+				$serverurl = base_url(strtolower($xmlrsp->controller));
+				$rsp = $this->sendRequest($serverurl,$reqparam,"paymentapi");
+		
+			}else{
+			
+				$rsp = $checkTransactionPerDay;
+			}
+			
+		}else{
+		
+			$rsp = $checkCredentials[1];
+		
+		}
+		$reqparam = $request;
+		$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Nginv2 paymentApi",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function sendRequest($serverurl,$param,$method)
+	{
+		
+		$this->xmlrpc->server($serverurl, 80);
+		$this->xmlrpc->method($method);
+		$request = array(
+			array(
+				$param		
+			),'struct'
+		);
+		$this->xmlrpc->request($request);
+
+		if ( ! $this->xmlrpc->send_request())
+		{
+			$rsp =  $this->xmlrpc->display_error();
+		}
+		else
+		{
+			//~ echo '<pre>';
+			$rsp = $this->xmlrpc->display_response();
+			//~ echo '</pre>';
+		}
+ 		return $rsp;
+	}
+	
+	
+	function moduleNode($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 moduleNode");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->moduleNode($xml->groupMemberId);
+		
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+	function moduleAddEdit($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 moduleAddEdit");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->moduleAddEdit($xml->moduleId,$xml->moduleName,$xml->moduleDesc);
+		
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		$reqparam = $request;
+		$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Nginv2 moduleAddEdit",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+	function nodeAddEdit($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 nodeAddEdit");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->nodeAddEdit($xml->nodeId,$xml->moduleId,$xml->nodeName,$xml->nodeDesc,$xml->nodeLink);
+		
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		$reqparam = $request;
+		$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Nginv2 nodeAddEdit",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+		
+	}
+	
+	function groupAccessAddEdit($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 groupAccessAddEdit");
+		$count = count($xml->moduleNode);
+		if($check=="allow")
+		{
+			if(isset($xml->memberId))
+			{
+				$moduleNode='';
+				$nodeId='';
+				foreach($xml->moduleNode as $row){	
+					$moduleNode .= $row->moduleNodeId.','.$row->nodeId.'|';
+					$nodeId .= $row->nodeId.',';
+				}
+				$nodeId = ($nodeId == "") ? '0 ': $nodeId;
+				$moduleNode = ($moduleNode == "") ? '0 ': $moduleNode;
+				$rsp = $this->nginv2_model->groupAccessAddEdit($xml->memberId,substr($moduleNode,0,strlen($moduleNode)-1),substr($nodeId,0,strlen($nodeId)-1),$count);
+			}
+		}else{
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Nginv2 groupAccessAddEdit",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function groupAccess($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 groupAccess");
+		$count = count($xml->moduleNode);
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->groupAccess((int)$xml->groupMemberId);
+			
+		}else{
+		
+			$rsp = $check;
+		}
+		$reqparam = $request;
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function moduleList($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 moduleList");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->moduleList();
+			
+		}else{
+			$rsp = $check;
+		}
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function nodeList($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 nodeList");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->nodeList();
+			
+		}else{
+			$rsp = $check;
+		}
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function groupMemberAddEdit($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 accountAddEdit");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->groupMemberAddEdit($xml->groupMemberId,$xml->groupMemberName,$xml->groupMemberDesc,$xml->groupSource,$xml->createdBy,$xml->groupMemberStatus);
+		
+		}else{
+		
+			$rsp = $check;
+		}
+		
+		$reqparam = $request;
+		$this->nginv2_model->reqrspLogs("Nginv2 groupMemberAddEdit",$reqparam,$rsp);
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function groupList($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		$check = $this->authenticate((string)$xml->API_username,(string)$xml->API_password,(string)$xml->API_key,(string)$_SERVER["REMOTE_ADDR"],"Nginv2 groupList");
+		if($check=="allow")
+		{
+			$rsp = $this->nginv2_model->groupList($xml->keyword,$xml->pageNum,$xml->perPage);
+			
+		}else{
+		
+			$rsp = $check;
+			
+		}
+		
+		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function logme($data,$type)
+        {
+                $now = gmDate("Ymd");
+                $logfile = $_SERVER['DOCUMENT_ROOT']."/PSI/PSI_logs/log_".$type."_".$now.".log";
+                if(file_exists($logfile))
+                {
+                        $fp = fopen($logfile, 'a+');
+                }else{
+                        $fp = fopen($logfile, 'w');
+                }
+                $pr_rsp = gmDate("Y-m-d\TH:i:s\Z")."\n";
+                $pr_rsp .= print_r($data,true);
+                fwrite($fp, "$pr_rsp\n\n");
+                fclose($fp);
+        }
+
+}

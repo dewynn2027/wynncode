@@ -1,0 +1,53 @@
+2016-03-21T03:05:07Z
+RequestParameter:  billNo: qY34C1457921514411 | startTime:2016-03-21 03:05:07
+
+2016-03-21T03:05:07Z
+Array
+(
+    [MODE] => P
+    [FRMT] => XML
+    [VERS] => 0630
+    [MERC] => 680000
+    [UDF[CUSTOMER_IPAD]] => 
+    [SESS] => qY34C1457921514411
+    [ORDR] => qY34C1457921514411
+    [CURR] => USD
+    [PENC] => KHASH
+    [PTYP] => CARD
+    [PTOK] => 542288WDHF3F4NJXUSOK
+    [IPAD] => 10.0.0.1
+    [MACK] => Y
+    [AUTH] => A
+    [PROD_DESC[0]] => E-Commerce Purchase
+    [PROD_TYPE[0]] => E-Commerce Purchase
+    [PROD_ITEM[0]] => E-Commerce Purchase
+    [PROD_QUANT[0]] => 1
+    [PROD_PRICE[0]] => 1000
+    [TOTL] => 1000
+    [SITE] => VERT999
+    [UDF[MERCHANT_ID]] => 10001MERTEST001
+    [UDF[MERCHANT_PRVDR]] => LBK-008-FP-USD-VIS,MAS
+    [NAME] => Juan Dela Cruz
+    [B2A1] => Address
+    [B2CC] => PH
+    [B2CI] => Makati City
+    [B2PC] => 12334
+    [B2PN] => 123567
+    [B2ST] => Metro Manila Makati
+    [S2A1] => 
+    [S2CC] => 
+    [S2CI] => 
+    [S2EM] => 
+    [S2NM] =>  
+    [S2PC] => 
+    [S2PN] => 
+    [S2ST] => 
+    [SHTP] => 
+    [CASH] => 10
+    [DOB] => 1970-03-01
+    [GENDER] => M
+    [EMAL] => juan@mail.com
+    [ANID] => 123567
+)
+
+

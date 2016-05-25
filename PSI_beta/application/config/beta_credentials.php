@@ -1202,6 +1202,7 @@ $config["razorpay_payment_end_point"] 	= "https://api.razorpay.com/v1/payments";
 $config["razorpay_key"] 				= "rzp_test_m063HCwZFXbXJJ";
 $config["razorpay_secret"] 				= "nxvBnATS0gNMbe6EzvlT";
 
+
 ##############################################Razorpay End#####################################################################
 
 ##############################################Jira Start####################################################################

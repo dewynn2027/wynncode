@@ -50,7 +50,7 @@ class Whip_model extends CI_Model {
 		return $response =  xmlrpc_decode($response);
 	}
 	
-	function curlRazorpay($server_url, $data_array, $username)
+	function curlRazorpay($server_url, $data_array, $username, $timeout)
 	{
 		foreach ($data_array as $key => $value)
 		{
@@ -59,18 +59,18 @@ class Whip_model extends CI_Model {
 		$curl = curl_init();
 		
 		curl_setopt_array($curl, array(
-		  CURLOPT_URL => (string)$server_url,
-		  CURLOPT_COOKIESESSION => true,
-		  CURLOPT_HEADER => 1,
-		  CURLOPT_FOLLOWLOCATION => false,
-		  CURLOPT_RETURNTRANSFER => 1,
-		  CURLOPT_ENCODING => "",
-		  CURLOPT_MAXREDIRS => 10,
-		  CURLOPT_TIMEOUT => 30,
-		  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-		  CURLOPT_CUSTOMREQUEST => "POST",
-		  CURLOPT_POSTFIELDS => implode('&', $payload),
-		  CURLOPT_HTTPHEADER => array(
+		  CURLOPT_URL 				=> (string)$server_url,
+		  CURLOPT_COOKIESESSION 	=> true,
+		  CURLOPT_HEADER 			=> 1,
+		  CURLOPT_FOLLOWLOCATION 	=> false,
+		  CURLOPT_RETURNTRANSFER 	=> 1,
+		  CURLOPT_ENCODING 			=> "",
+		  CURLOPT_MAXREDIRS 		=> 10,
+		  CURLOPT_TIMEOUT 			=> (int)$timeout,
+		  CURLOPT_HTTP_VERSION 		=> CURL_HTTP_VERSION_1_1,
+		  CURLOPT_CUSTOMREQUEST 	=> "POST",
+		  CURLOPT_POSTFIELDS 		=> implode('&', $payload),
+		  CURLOPT_HTTPHEADER 		=> array(
 			"authorization: Basic ".base64_encode($username.":"),
 			"content-type: application/x-www-form-urlencoded"
 		  ),
@@ -95,7 +95,7 @@ class Whip_model extends CI_Model {
 				$xml .= "</myform>";
 			}
 			$this->whip_model->logme((string)"buildxmlresponse","razorpay");
-			$this->whip_model->logme((string)$xml,"razorpay");
+			$this->whip_model->logme((string)$response,"razorpay");
 			
 			$err = curl_error($curl);
 
@@ -112,6 +112,42 @@ class Whip_model extends CI_Model {
 		}catch(Exception $e)
 		{
 			return  array("rc" => 999, "message" => "Something went wrong in the response", "result" => $e);
+		}
+	}
+	
+	function curlCaptureRazorpay($server_url, $data_array, $username, $password, $timeout)
+	{
+		foreach ($data_array as $key => $value)
+		{
+			$payload[] = urlencode($key) . '=' . urlencode($value);
+		}
+		$curl = curl_init();
+
+		curl_setopt_array($curl, array(
+			CURLOPT_URL 			=> $server_url,
+			CURLOPT_RETURNTRANSFER 	=> true,
+			CURLOPT_ENCODING 		=> "",
+			CURLOPT_MAXREDIRS 		=> 10,
+			CURLOPT_TIMEOUT 		=> (int)$timeout,
+			CURLOPT_HTTP_VERSION 	=> CURL_HTTP_VERSION_1_1,
+			CURLOPT_CUSTOMREQUEST 	=> "POST",
+			CURLOPT_POSTFIELDS 		=> implode('&', $payload),
+			CURLOPT_HTTPHEADER 		=> array(
+				"authorization: Basic ".base64_encode($username.":".$password)
+			)
+		));
+
+		$response = curl_exec($curl);
+		$err = curl_error($curl);
+
+		curl_close($curl);
+
+		if ($err) 
+		{
+			return array("rc" => 999, "message" => "Failed", "result" => $err);
+		} else 
+		{
+			return array("" => 0, "message" => "success", "result" => $response);
 		}
 	}
 	

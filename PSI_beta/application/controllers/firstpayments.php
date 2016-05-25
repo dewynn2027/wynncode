@@ -66,6 +66,7 @@ class Firstpayments extends CI_Controller
 					}
 					##
 					$mid = $this->nginv2_model->getmidnew((int)$xml->apiUserId,"Firstpayments",(string)$cardTypeUse,(string)$xml->payment->cart->currency);
+					$descSrc = ($mid["descSrc"] == "productDesc") ? $xml->payment->cart->productDesc : $mid["descSrc"];
 					if($mid != false)
 					{
 						##

@@ -1728,5 +1728,13 @@ class Nginv2_model extends CI_Model {
 		$this->db->update($table, $field_data); 
 		$this->db->close();
 	}
+	
+	function updateTdByBillNoPaymentOrderNo($field_data, $billNo, $paymentOrderNo, $table)
+	{
+		$this->db->where('billNo', $billNo);
+		$this->db->where('paymentOrderNo', $paymentOrderNo);
+		$this->db->update($table, $field_data); 
+		$this->db->close();
+	}
 }
 ?>

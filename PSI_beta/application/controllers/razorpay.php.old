@@ -1,0 +1,57 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+class Razorpay extends CI_Controller 
+{
+	public function __construct()
+	{
+		parent::__construct();
+		
+		$this->load->model('nginv2_model');	
+		$this->load->model('whip_model');	
+		$this->load->library('khash','','mykhash');
+
+		$config['functions']['paymentapi'] 			= array('function' => 'Razorpay.paymentApi');
+		$config['functions']['refundapi'] 			= array('function' => 'Razorpay.refundApi');
+		$config['functions']['payment3dsapi'] 		= array('function' => 'Razorpay.payment3dsApi');
+
+		$this->xmlrpcs->initialize($config);
+		$this->xmlrpcs->serve();
+
+	}
+	
+	
+	
+	public function setDefinedField ($param, $label)
+	{
+		$index = $param."[{$label}]";
+		return $index;
+	}
+	
+	
+
+	function paymentApi($request="")
+	{
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		if(!isset($xml->securityCode))
+		{
+			$rsp = "<response rc='999' message='Failed to provide Security Code, this transaction is not allowed!'><trigger>999</trigger></response>";
+			
+		}else if((int)$xml->securityCode != 2003052020272027){
+		
+			$rsp = "<response rc='999' message='Mismatch Security Code, this transaction is not allowed!'><trigger>999</trigger></response>";
+			
+		}
+		else
+		{			
+			
+
+			$rsp = $request;
+		}
+		// $reqparam = $request;
+		#$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Firstpayments paymentapi",$reqparam,$rsp);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	
+}

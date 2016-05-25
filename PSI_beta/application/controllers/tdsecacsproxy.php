@@ -126,6 +126,7 @@ class Tdsecacsproxy extends CI_Controller
 		}
 		else
 		{
+			
 			$get3dDetails = $this->nginv2_model->getDetailsfor3d($billNo, "vw_whip_3d_fpay");
 			$data['tdCondition'] = (string)$this->uri->segment(3);
 			$data['tdFullDetails'] = $get3dDetails;
@@ -503,6 +504,12 @@ class Tdsecacsproxy extends CI_Controller
 		{
 			$this->whip_model->logme("ResponseParameter CallbacUrl: billNo: ".$billNo,"RAZORPAYpaymentApi");
 			$this->whip_model->logme((array)$_POST,"RAZORPAYpaymentApi");
+			if(isset($_POST['razorpay_payment_id']))
+			{
+				$field_data = array();
+				$field_data["paymentOrderNo"] = $_POST['razorpay_payment_id'];
+				$this->nginv2_model->updateTdByBillNoPaymentOrderNo($field_data, $billNo, str_ireplace(array("pay_"), array(""), $_POST['razorpay_payment_id']), "tbl_whip");
+			}
 			$get3dDetails = $this->nginv2_model->getDetailsfor3d($billNo, "tbl_whip_3d_rpay");
 			$data['tdCondition'] = (string)$this->uri->segment(3);
 			$data['tdFullDetails'] = $get3dDetails;

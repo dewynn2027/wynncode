@@ -1,114 +1,35 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-class Razorpay extends CI_Controller {
-
+class Razorpay extends CI_Controller 
+{
 	public function __construct()
 	{
 		parent::__construct();
+		
 		$this->load->model('nginv2_model');	
 		$this->load->model('whip_model');	
-		
+		$this->load->library('khash','','mykhash');
+		$this->load->helper('xml');
 
-		// $config['functions']['paymentapi'] 			= array('function' => 'Razorpay.paymentApi');
-		
-		// $this->xmlrpcs->initialize($config);
-		// $this->xmlrpcs->serve();
+		$config['functions']['paymentapi'] 			= array('function' => 'Razorpay.paymentApi');
+		$config['functions']['payment3dsapi'] 		= array('function' => 'Razorpay.payment3dsApi');
+
+		$this->xmlrpcs->initialize($config);
+		$this->xmlrpcs->serve();
 
 	}
 	
-	
-	
-	public function setDefinedField ($param, $label)
+	function setDefinedField ($param, $label)
 	{
 		$index = $param."[{$label}]";
 		return $index;
 	}
-	
-	function buildRequestParam()
-	{
-		return '<parameters>
-						<securityCode>2003052020272027d</securityCode>
-						<apiUserId>11</apiUserId>
-						<url>LOOPBACK</url>
-						<apLaunchUrl>https://stage.3dsecure.ecommsecure.com/acs/stage/001?apiKey=&amp;billNo=</apLaunchUrl>
-						<apReturnUrl>https://stage.3dsecure.ecommsecure.com/acs/stage/002?billNo=ZZZZZZZ</apReturnUrl>
-						<tdSecVal>YES+</tdSecVal>
-						<convert>0</convert>
-						<convertCur></convertCur>
-						<convertSrc></convertSrc>
-						<httpUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</httpUserAgent>
-						<httpAcceptLanguage>en-US,en;q=0.8</httpAcceptLanguage>
-						<credentials>
-							<merchant>
-								<apiUsername>100-01-MER-998-ZZ2</apiUsername>
-								<apiPassword>28EeGQvVdQXvkq</apiPassword>
-								<loginName>100-01-MER-998-ZZ2</loginName>
-							</merchant>
-						</credentials>
-						<operation>
-							<type>2</type>
-							<action>5</action>
-							<billNo>'.date("YmdHms").'</billNo>
-							<referenceId>'.date("YmdHms").'</referenceId>
-							<language>eng</language>
-							<remark></remark>
-							<dateTime>'.date("YmdHms").'</dateTime>
-						</operation>
-						<payment>
-							<account>
-								<cardNum>4012001037141112</cardNum>
-								<cvv2>123</cvv2>
-								<month>07</month>
-								<year>17</year>
-							</account>
-							<cart>
-								<amount>1</amount>
-								<currency>INR</currency>
-								<productItem>E-Commerce Purchase</productItem>
-								<productType>E-Commerce Purchase</productType>
-								<productDesc>E-Commerce Purchase</productDesc>
-								<productQty>1.0</productQty>
-								<productPrice>100</productPrice>
-							</cart>
-						</payment>
-						<identity>
-							<inet>
-								<customerIp>10.2.192.31</customerIp>
-							</inet>
-							<billing>
-								<firstName>Test</firstName>
-								<lastName>Cardholder</lastName>
-								<gender>M</gender>
-								<email>test@test.com</email>
-								<birthDate>19840920</birthDate>
-								<country>PH</country>
-								<city>Makati</city>
-								<state>NA</state><address>123 Ponte </address>
-								<zipCode>1204</zipCode>
-								<phone>9090909090</phone>
-							</billing>
-							<shipping>
-								<shipFirstName>Test</shipFirstName>
-								<shipLastName>Cardholder</shipLastName>
-								<shipPhoneNumber>19840920</shipPhoneNumber>
-								<shipZipCode>1204</shipZipCode>
-								<shipAddress>123 Ponte </shipAddress>
-								<shipCity>Makati</shipCity>
-								<shipState></shipState>
-								<shipCountry>PH</shipCountry>
-								<shipType></shipType>
-								<shipEmail>test@test.com</shipEmail>
-							</shipping>
-						</identity>
-					</parameters>';
-	}
 
 	function paymentApi($request="")
 	{
-		// log_message('error', 'Razorpay Controller paymentapi StartTrack: '.date('H:i:s'));
-		// $this->benchmark->mark('start');
-		// $reqparams = $request->output_parameters();
-		// $request = $reqparams[0];
-		$request = $this->buildRequestParam();
+		log_message('error', 'Razorpay Controller paymentapi StartTrack: '.date('H:i:s'));
+		$this->benchmark->mark('start');
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
 		$xml = new SimpleXMLElement($request);
 		if(!isset($xml->securityCode))
 		{
@@ -156,6 +77,7 @@ class Razorpay extends CI_Controller {
 					##
 					
 					$mid = $this->nginv2_model->getmidnew((int)$xml->apiUserId,"RAZORPAY",(string)$cardTypeUse,(string)$xml->payment->cart->currency);
+					$descSrc = ($mid["descSrc"] == "productDesc") ? $xml->payment->cart->productDesc : $mid["descSrc"];
 					if($mid != false)
 					{
 						##
@@ -249,9 +171,10 @@ class Razorpay extends CI_Controller {
 								$this->whip_model->logme("Endpoint: ".$url,"RAZORPAYpaymentApi");
 								$this->whip_model->logme("RequestParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpaymentApi");
 								$this->whip_model->logme((array)$params,"RAZORPAYpaymentApi");
-								$response = $this->whip_model->curlRazorpay($url, $params, $username);
+								$response = $this->whip_model->curlRazorpay($url, $params, $username, 60);
 								$this->whip_model->logme("ResponseParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpaymentApi");
 								$this->whip_model->logme((array)$response,"RAZORPAYpaymentApi");
+								
 								if($response['rc'] == 0)
 								{
 									$appuser = $this->nginv2_model->getAppuserDetailsById($xml->apiUserId);
@@ -342,13 +265,153 @@ class Razorpay extends CI_Controller {
 			}
 			
 		}
-		$reqparam = $request;
-		echo $rsp;
-		#$this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Razorpay paymentapi",$reqparam,$rsp);
-		// $totalTime = $this->benchmark->elapsed_time('start', 'end');
- 		// log_message('error', 'Razorpay Controller paymentapi EndTrack: '.date('H:i:s'));
- 		// log_message('error', 'Razorpay Controller paymentapi TotalTrackTime: '.$totalTime);
- 		// return $this->xmlrpc->send_response($rsp);
+		// $reqparam = $request;
+		// $this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Razorpay paymentapi",$reqparam,$rsp);
+		$totalTime = $this->benchmark->elapsed_time('start', 'end');
+ 		log_message('error', 'Razorpay Controller paymentapi EndTrack: '.date('H:i:s'));
+ 		log_message('error', 'Razorpay Controller paymentapi TotalTrackTime: '.$totalTime);
+ 		return $this->xmlrpc->send_response($rsp);
+	}
+	
+	function payment3dsApi($request="")
+	{
+		log_message('error', 'Razorpay Controller payment3dsapi StartTrack: '.date('H:i:s'));
+		$this->benchmark->mark('start');
+		$reqparams = $request->output_parameters();
+		$request = $reqparams[0];
+		$xml = new SimpleXMLElement($request);
+		if(!isset($xml->securityCode))
+		{
+			$rsp = "<response rc='999' message='Failed to provide Security Code, this transaction is not allowed!'></response>";
+			
+		}else if((int)$xml->securityCode != 2003052020272027){
+		
+			$rsp = "<response rc='999' message='Mismatch Security Code, this transaction is not allowed!'></response>";
+			
+		}else
+		{
+			if(($xml->tdSecVal == "YES" || $xml->tdSecVal == "YES+") && $xml->operation->action == 1)
+			{
+				##get transaction details
+				$getdetails 	= $this->nginv2_model->getTransactionId((string)$xml->operation->billNo, (string)$xml->operation->referenceId);
+				
+				if($getdetails != false && (int)$getdetails->cardStatusId === 13)
+				{
+					##get MID details
+					$mid 			=  $this->nginv2_model->getDetailsfor3d((string)$xml->operation->billNo, "vw_transactionMid");
+					$url 			= $this->config->item('razorpay_payment_end_point');
+					$username 		= (string)$mid->mid;
+					$password 		= (string)$mid->password;
+					
+					$params["amount"] 	= number_format($getdetails->amount * 100, 0, '', '');
+					
+					try
+					{
+						$this->whip_model->logme("EmdPoint:  ".$url."/".$getdetails->paymentOrderNo."/capture"." billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
+						$this->whip_model->logme("RequestParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
+						$this->whip_model->logme((array)$params,"RAZORPAYpayment3dsApi");
+						$response = $this->whip_model->curlCaptureRazorpay($url."/".$getdetails->paymentOrderNo."/capture", $params, $username, $password, 60);
+						$this->whip_model->logme("RequestParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
+						$this->whip_model->logme((array)$response,"RAZORPAYpayment3dsApi");
+						##just return response from curl
+						$dataDecoded = json_decode($response['result']);
+						
+						if((int)$response['rc'] === 0 && ((string)$dataDecoded->status === (string)"captured" || (string)$dataDecoded->status === (string)"Captured"))
+						{
+							$bankRemarks = (string)ucfirst($dataDecoded->entity." ".(string)$dataDecoded->status);
+							$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$dataDecoded->id, "", "|bankRemarks|_|".$bankRemarks."|bankResponse|_|resultCode=0|errorCode=000",2);
+							$rsp  = "<response rc='0' message='Success'>";	
+							$rsp .= "<operation>";
+								$rsp .= "<action>".$xml->operation->action."</action>";
+								$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+								$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+								$rsp .= "<transactionId>".$getdetails->paymentOrderNo."</transactionId>";
+								$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+								$rsp .= "<remark>".$bankRemarks."</remark>";
+							$rsp .= "</operation>";
+							$rsp .= "<payment>";
+								$rsp .= "<currency>".$getdetails->currency."</currency>";
+								$rsp .= "<amount>".$getdetails->amount."</amount>";
+							$rsp .= "</payment>";
+							$rsp .=	"</response>";		
+
+						}else
+						{
+							// $declineType = ($errorMessage[$dataArray['ResultCode']][2] == "HD") ? 2 : 1;
+							$declineType = 1;
+							$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$getdetails->paymentOrderNo, "", "|bankRemarks|_|".str_ireplace(array(" id "),array(" billNo/referenceId "),$dataDecoded->error->description)."|bankResponse|_|resultCode=9|errorCode=999",3);
+							$rsp  = "<response rc='999' message='Failed'>";	
+							$rsp .= "<operation>";
+								$rsp .= "<declineType>$declineType</declineType>";
+								$rsp .= "<action>".$xml->operation->action."</action>";
+								$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+								$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+								$rsp .= "<transactionId>".$getdetails->paymentOrderNo."</transactionId>";
+								$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+								$rsp .= "<remark>".str_ireplace(array(" id "),array(" billNo/referenceId "),$dataDecoded->error->description)."</remark>";
+							$rsp .= "</operation>";
+							$rsp .= "<payment>";
+								$rsp .= "<currency>".$getdetails->currency."</currency>";
+								$rsp .= "<amount>".$getdetails->amount."</amount>";
+							$rsp .= "</payment>";
+							$rsp .=	"</response>";	
+						}
+									
+					}catch (Exception $e)
+					{
+						$rsp  = "<response rc='999' message='Timeout at bank network'>";
+						$rsp .= "<operation>";
+							$rsp .= "<action>".$xml->operation->action."</action>";
+							$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+							$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+							$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+							$rsp .= "<remark>Timeout at bank network</remark>";
+						$rsp .= "</operation>";
+						$rsp .= "<payment>";
+							$rsp .= "<currency>".$getdetails->currency."</currency>";
+							$rsp .= "<amount>".$getdetails->amount."</amount>";
+						$rsp .= "</payment>";
+						$rsp .= "</response>";
+					}
+					
+				}
+				else if((int)$getdetails->cardStatusId === 3)
+				{
+					$declineType = 1;
+					$remarks = "Payment Failed";
+					$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$getdetails->paymentOrderNo, "", "|bankRemarks|_|".$remarks."|bankResponse|_|resultCode=9|errorCode=999",3);
+					$rsp  = "<response rc='999' message='Failed'>";	
+					$rsp .= "<operation>";
+						$rsp .= "<declineType>$declineType</declineType>";
+						$rsp .= "<action>".$xml->operation->action."</action>";
+						$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+						$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+						$rsp .= "<transactionId>".$getdetails->paymentOrderNo."</transactionId>";
+						$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+						$rsp .= "<remark>".$remarks."</remark>";
+					$rsp .= "</operation>";
+					$rsp .= "<payment>";
+						$rsp .= "<currency>".$getdetails->currency."</currency>";
+						$rsp .= "<amount>".$getdetails->amount."</amount>";
+					$rsp .= "</payment>";
+					$rsp .=	"</response>";	
+					
+				}
+				else
+				{
+					$rsp  = "<response rc='999' message='Transaction not found'></response>";
+				}
+			}else
+			{
+				$rsp = "<response rc='1' message='Method/Action Pair not available for this gateway account'></response>";
+			}
+		}
+		// $reqparam = $request;
+		// $this->nginv2_model->reqrspLogs((string)$_SERVER["REMOTE_ADDR"],"Razorpay payment3dsApi",$reqparam,$rsp);
+		$totalTime = $this->benchmark->elapsed_time('start', 'end');
+ 		log_message('error', 'Razorpay Controller payment3dsapi EndTrack: '.date('H:i:s'));
+ 		log_message('error', 'Razorpay Controller payment3dsapi TotalTrackTime: '.$totalTime);
+ 		return $this->xmlrpc->send_response($rsp);
 	}
 	
 }

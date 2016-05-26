@@ -976,7 +976,7 @@ class Nginv2_model extends CI_Model {
 	
 	function updateStatus($referenceId,$billNo,$preAuthId,$bank_ref_number,$bankRemarks,$statusId)
 	{
-		$inStatusId = array(1,13);
+		$inStatusId = array(1,13,3);
 		$checkStatus = $this->db->select('billNo')->where("billNo",$billNo)->where("referenceId",$referenceId)->where("referenceId",$referenceId)->where_in("cardStatusId",$inStatusId)->get("tbl_whip");
 		if($checkStatus->num_rows() > 0)
 		{
@@ -1732,7 +1732,7 @@ class Nginv2_model extends CI_Model {
 	function updateTdByBillNoPaymentOrderNo($field_data, $billNo, $paymentOrderNo, $table)
 	{
 		$this->db->where('billNo', $billNo);
-		$this->db->where('paymentOrderNo', $paymentOrderNo);
+		if($paymentOrderNo != "") $this->db->where('paymentOrderNo', $paymentOrderNo);
 		$this->db->update($table, $field_data); 
 		$this->db->close();
 	}

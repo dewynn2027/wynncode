@@ -510,6 +510,13 @@ class Tdsecacsproxy extends CI_Controller
 				$field_data["paymentOrderNo"] = $_POST['razorpay_payment_id'];
 				$this->nginv2_model->updateTdByBillNoPaymentOrderNo($field_data, $billNo, str_ireplace(array("pay_"), array(""), $_POST['razorpay_payment_id']), "tbl_whip");
 			}
+			
+			if(isset($_POST['error']['code']))
+			{
+				$field_data = array();
+				$field_data["cardStatusId"] = 3;
+				$this->nginv2_model->updateTdByBillNoPaymentOrderNo($field_data, $billNo, "", "tbl_whip");
+			}
 			$get3dDetails = $this->nginv2_model->getDetailsfor3d($billNo, "tbl_whip_3d_rpay");
 			$data['tdCondition'] = (string)$this->uri->segment(3);
 			$data['tdFullDetails'] = $get3dDetails;

@@ -179,38 +179,84 @@ class Razorpay extends CI_Controller
 								{
 									$appuser = $this->nginv2_model->getAppuserDetailsById($xml->apiUserId);
 									$rspdata = new SimpleXMLElement($response['result']);
-									$payment_id = explode("/", (string)$rspdata->callback_url);
-									$tddata['billNo'] 			= (string)$xml->operation->billNo;
-									$tddata['referenceId'] 		= (string)$xml->operation->referenceId;
-									$tddata['postUrl'] 			= (string)str_ireplace(array('&','apiKey='),array('&amp;','apiKey='.$appuser->key),$mid["apLaunchUrl"]).$xml->operation->billNo;
-									$tddata['rp_redirectUrl'] 	= (string)$rspdata['action'];
-									$tddata['rp_paymentId'] 	= (string)$rspdata->payment_id;
-									$tddata['rp_action'] 		= (string)$rspdata->action;
-									$tddata['rp_amount'] 		= (string)$xml->payment->cart->amount * 100;
-									$tddata['rp_method'] 		= (string)$rspdata->method;
-									$tddata['rp_callbackUrl'] 	= (string)$rspdata->callback_url;
-									$tddata['rp_cardNumber'] 	= (string)$xml->payment->account->cardNum;
-									$tddata['statusId'] 		= 0; 
-									$this->nginv2_model->insert3dReqRes($tddata, "`tbl_whip_3d_rpay`");
-									
-									$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$rspdata->payment_id,"","",13);
-									$rsp = "<response rc='0' message='Success'>";
-										$rsp .= "<operation>";
-											$rsp .= "<action>".$xml->operation->action."</action>";
-											$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
-											$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
-											$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
-										$rsp .= "</operation>";
-										$rsp .= "<payment>";
-											$rsp .= "<currency>".$xml->payment->cart->currency."</currency>";
-											$rsp .= "<amount>".$xml->payment->cart->amount."</amount>";
-										$rsp .= "</payment>";
-										$rsp .= "<tdSec>";
-											$rsp .= "<enStat>1</enStat>";
-											$rsp .= "<postUrl>".str_ireplace(array('&','apiKey='),array('&amp;','apiKey='.$appuser->key),$mid["apLaunchUrl"]).$xml->operation->billNo."</postUrl>";
-										$rsp .= "</tdSec>";
-									$rsp .= "</response>";
-									
+									if(isset($rspdata->payment_id) && isset($rspdata->action) && isset($rspdata->method) && isset($rspdata->callback_url))
+									{
+										$payment_id = explode("/", (string)$rspdata->callback_url);
+										$tddata['billNo'] 			= (string)$xml->operation->billNo;
+										$tddata['referenceId'] 		= (string)$xml->operation->referenceId;
+										$tddata['postUrl'] 			= (string)str_ireplace(array('&','apiKey='),array('&amp;','apiKey='.$appuser->key),$mid["apLaunchUrl"]).$xml->operation->billNo;
+										$tddata['rp_redirectUrl'] 	= (string)$rspdata['action'];
+										$tddata['rp_paymentId'] 	= (string)$rspdata->payment_id;
+										$tddata['rp_action'] 		= (string)$rspdata->action;
+										$tddata['rp_amount'] 		= (string)$xml->payment->cart->amount * 100;
+										$tddata['rp_method'] 		= (string)$rspdata->method;
+										$tddata['rp_callbackUrl'] 	= (string)$rspdata->callback_url;
+										$tddata['rp_cardNumber'] 	= (string)$xml->payment->account->cardNum;
+										$tddata['statusId'] 		= 0; 
+										$this->nginv2_model->insert3dReqRes($tddata, "`tbl_whip_3d_rpay`");
+										
+										$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$rspdata->payment_id,"","",13);
+										$rsp = "<response rc='0' message='Success'>";
+											$rsp .= "<operation>";
+												$rsp .= "<action>".$xml->operation->action."</action>";
+												$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+												$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+												$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+											$rsp .= "</operation>";
+											$rsp .= "<payment>";
+												$rsp .= "<currency>".$xml->payment->cart->currency."</currency>";
+												$rsp .= "<amount>".$xml->payment->cart->amount."</amount>";
+											$rsp .= "</payment>";
+											$rsp .= "<tdSec>";
+												$rsp .= "<enStat>1</enStat>";
+												$rsp .= "<postUrl>".str_ireplace(array('&','apiKey='),array('&amp;','apiKey='.$appuser->key),$mid["apLaunchUrl"]).$xml->operation->billNo."</postUrl>";
+											$rsp .= "</tdSec>";
+										$rsp .= "</response>";
+										
+									}else
+									{
+										$checkRpayStatus = $this->whip_model->curlRazorpayGET((string)$url."/".$rspdata->razorpay_payment_id, (string)$username, (string)$password, 60);
+										$this->whip_model->logme("Endpoint: ".$url,"RAZORPAYpaymentApi");
+										$this->whip_model->logme("ResponseParameter Check Status:  billNo: ".$xml->operation->billNo,"RAZORPAYpaymentApi");
+										$this->whip_model->logme((array)$checkRpayStatus,"RAZORPAYpaymentApi");
+										$dataDecoded = json_decode($checkRpayStatus['result']);
+										if((string)$dataDecoded->status === "authorized")
+										{
+											$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$rspdata->razorpay_payment_id,"","",13);
+											$rsp = "<response rc='0' message='Success'>";
+												$rsp .= "<operation>";
+													$rsp .= "<action>".$xml->operation->action."</action>";
+													$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+													$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+													$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+												$rsp .= "</operation>";
+												$rsp .= "<payment>";
+													$rsp .= "<currency>".$xml->payment->cart->currency."</currency>";
+													$rsp .= "<amount>".$xml->payment->cart->amount."</amount>";
+												$rsp .= "</payment>";
+												$rsp .= "<tdSec>";
+													$rsp .= "<enStat>0</enStat>";
+												$rsp .= "</tdSec>";
+											$rsp .= "</response>";
+										}else
+										{
+											$remark = ($dataDecoded->error->code!="") ? "Transaction Failed" : "Transaction ".ucfirst($dataDecoded->status);
+											$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$rspdata->razorpay_payment_id,"","|bankRemarks|_|".$remark."|bankResponse|_|resultCode=9|errorCode=999",3);
+											$rsp = "<response rc='999' message='Failed'>";
+												$rsp .= "<operation>";
+													$rsp .= "<action>".$xml->operation->action."</action>";
+													$rsp .= "<billNo>".$xml->operation->billNo."</billNo>";
+													$rsp .= "<referenceId>".$xml->operation->referenceId."</referenceId>";
+													$rsp .= "<dateTime>".$xml->operation->dateTime."</dateTime>";
+													$rsp .= "<remark>".$remark."</remark>";
+												$rsp .= "</operation>";
+												$rsp .= "<payment>";
+													$rsp .= "<currency>".$xml->payment->cart->currency."</currency>";
+													$rsp .= "<amount>".$xml->payment->cart->amount."</amount>";
+												$rsp .= "</payment>";
+											$rsp .= "</response>";
+										}
+									}
 								}else
 								{
 									$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo,(string)"","","|bankRemarks|_|".$response['message'],3);
@@ -310,13 +356,13 @@ class Razorpay extends CI_Controller
 						$this->whip_model->logme("EmdPoint:  ".$url."/".$getdetails->paymentOrderNo."/capture"." billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
 						$this->whip_model->logme("RequestParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
 						$this->whip_model->logme((array)$params,"RAZORPAYpayment3dsApi");
-						$response = $this->whip_model->curlCaptureRazorpay($url."/".$getdetails->paymentOrderNo."/capture", $params, $username, $password, 60);
+						$response = $this->whip_model->curlCaptureRefundRazorpay($url."/".$getdetails->paymentOrderNo."/capture", $params, $username, $password, 60);
 						$this->whip_model->logme("RequestParameter:  billNo: ".$xml->operation->billNo,"RAZORPAYpayment3dsApi");
 						$this->whip_model->logme((array)$response,"RAZORPAYpayment3dsApi");
 						##just return response from curl
 						$dataDecoded = json_decode($response['result']);
 						
-						if((int)$response['rc'] === 0 && ((string)$dataDecoded->status === (string)"captured" || (string)$dataDecoded->status === (string)"Captured"))
+						if((int)$response['rc'] === 0 && ((string)$dataDecoded->status === (string)"captured"))
 						{
 							$bankRemarks = (string)ucfirst($dataDecoded->entity." ".(string)$dataDecoded->status);
 							$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$dataDecoded->id, "", "|bankRemarks|_|".$bankRemarks."|bankResponse|_|resultCode=0|errorCode=000",2);
@@ -378,7 +424,7 @@ class Razorpay extends CI_Controller
 				else if((int)$getdetails->cardStatusId === 3)
 				{
 					$declineType = 1;
-					$remarks = "Payment Failed";
+					$remarks = "Transaction Failed";
 					$this->nginv2_model->updateStatus((string)$xml->operation->referenceId,(string)$xml->operation->billNo, (string)$getdetails->paymentOrderNo, "", "|bankRemarks|_|".$remarks."|bankResponse|_|resultCode=9|errorCode=999",3);
 					$rsp  = "<response rc='999' message='Failed'>";	
 					$rsp .= "<operation>";
